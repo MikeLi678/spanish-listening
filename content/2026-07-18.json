@@ -1,0 +1,779 @@
+{
+  "date": "2026-07-18",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-07-18-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Mi familia y el día de hoy",
+        "text": "Hoy hace sol y está muy bonito. Mi familia está en casa. Mi mamá prepara el desayuno. Ella hace huevos y pan. Mi papá bebe café. Él dice que el café está rico. Mi hermana pequeña come fruta. Ella come una manzana roja. Yo tengo hambre también. Nosotros comemos juntos y estamos muy felices.",
+        "words": [
+          {
+            "word": "sol",
+            "pos": "n.m.",
+            "zh": "太陽；陽光",
+            "example": "Hoy hace sol."
+          },
+          {
+            "word": "familia",
+            "pos": "n.f.",
+            "zh": "家庭；家人",
+            "example": "Mi familia está en casa."
+          },
+          {
+            "word": "desayuno",
+            "pos": "n.m.",
+            "zh": "早餐",
+            "example": "Mi mamá prepara el desayuno."
+          },
+          {
+            "word": "huevos",
+            "pos": "n.m.pl.",
+            "zh": "雞蛋",
+            "example": "Ella hace huevos y pan."
+          },
+          {
+            "word": "beber",
+            "pos": "v.",
+            "zh": "喝",
+            "example": "Mi papá bebe café."
+          },
+          {
+            "word": "rico",
+            "pos": "adj.",
+            "zh": "好吃的；美味的",
+            "example": "El café está rico."
+          },
+          {
+            "word": "fruta",
+            "pos": "n.f.",
+            "zh": "水果",
+            "example": "Mi hermana come fruta."
+          },
+          {
+            "word": "manzana",
+            "pos": "n.f.",
+            "zh": "蘋果",
+            "example": "Ella come una manzana roja."
+          },
+          {
+            "word": "hambre",
+            "pos": "n.f.",
+            "zh": "飢餓",
+            "example": "Yo tengo hambre."
+          },
+          {
+            "word": "juntos",
+            "pos": "adv.",
+            "zh": "一起",
+            "example": "Nosotros comemos juntos."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cómo está el tiempo hoy?",
+            "options": [
+              "Hace frío y llueve.",
+              "Hace sol y está bonito.",
+              "Hay nubes y viento.",
+              "Está nublado y oscuro."
+            ],
+            "answer": 1,
+            "explain": "文中第一句說「Hoy hace sol y está muy bonito」，今天天氣晴朗美好。"
+          },
+          {
+            "q": "¿Qué prepara la mamá?",
+            "options": [
+              "Café y fruta.",
+              "Sopa y arroz.",
+              "Huevos y pan.",
+              "Manzanas y leche."
+            ],
+            "answer": 2,
+            "explain": "文中提到「Ella hace huevos y pan」，媽媽準備了雞蛋和麵包。"
+          },
+          {
+            "q": "¿Qué bebe el papá?",
+            "options": [
+              "Agua.",
+              "Leche.",
+              "Jugo.",
+              "Café."
+            ],
+            "answer": 3,
+            "explain": "文中說「Mi papá bebe café」，爸爸喝的是咖啡。"
+          },
+          {
+            "q": "¿Qué come la hermana pequeña?",
+            "options": [
+              "Pan con mantequilla.",
+              "Una manzana roja.",
+              "Huevos fritos.",
+              "Arroz con leche."
+            ],
+            "answer": 1,
+            "explain": "文中說「Ella come una manzana roja」，小妹妹吃了一顆紅蘋果。"
+          },
+          {
+            "q": "¿Cómo se siente la familia al final?",
+            "options": [
+              "Están aburridos.",
+              "Están tristes.",
+              "Están muy felices.",
+              "Están cansados."
+            ],
+            "answer": 2,
+            "explain": "文章最後說「estamos muy felices」，全家人一起吃飯，感到非常幸福快樂。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-07-18-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Un viaje especial",
+        "text": "El verano pasado, fui de viaje a Barcelona con mi familia. Visitamos muchos lugares bonitos y comimos paella en un restaurante cerca del mar. También fuimos de compras al mercado de La Boqueria, donde compré recuerdos para mis amigos. Me gustó mucho porque hay frutas frescas y productos típicos de España. Aprendí algunas palabras en catalán y hablé con personas muy simpáticas. El viaje fue muy divertido y emocionante. El próximo mes, voy a viajar a Madrid porque quiero visitar el Museo del Prado y ver pinturas famosas. También voy a probar la comida típica madrileña.",
+        "words": [
+          {
+            "word": "viaje",
+            "pos": "n.m.",
+            "zh": "旅行；旅程",
+            "example": "El viaje a Barcelona fue increíble."
+          },
+          {
+            "word": "visitar",
+            "pos": "v.",
+            "zh": "參觀；拜訪",
+            "example": "Vamos a visitar el museo mañana."
+          },
+          {
+            "word": "mercado",
+            "pos": "n.m.",
+            "zh": "市場",
+            "example": "Compré frutas en el mercado."
+          },
+          {
+            "word": "recuerdo",
+            "pos": "n.m.",
+            "zh": "紀念品；回憶",
+            "example": "Compré un recuerdo para mi madre."
+          },
+          {
+            "word": "simpático/a",
+            "pos": "adj.",
+            "zh": "友善的；可親的",
+            "example": "La gente de España es muy simpática."
+          },
+          {
+            "word": "emocionante",
+            "pos": "adj.",
+            "zh": "令人興奮的；刺激的",
+            "example": "El partido de fútbol fue muy emocionante."
+          },
+          {
+            "word": "próximo/a",
+            "pos": "adj.",
+            "zh": "下一個的；即將到來的",
+            "example": "El próximo fin de semana voy a estudiar."
+          },
+          {
+            "word": "pintura",
+            "pos": "n.f.",
+            "zh": "畫作；繪畫",
+            "example": "Me gustan las pinturas de Picasso."
+          },
+          {
+            "word": "probar",
+            "pos": "v.",
+            "zh": "嘗試；品嚐",
+            "example": "Quiero probar la comida japonesa."
+          },
+          {
+            "word": "típico/a",
+            "pos": "adj.",
+            "zh": "典型的；傳統的",
+            "example": "La paella es un plato típico de España."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Adónde fue la persona el verano pasado?",
+            "options": [
+              "A Madrid",
+              "A Barcelona",
+              "A Valencia",
+              "A Sevilla"
+            ],
+            "answer": 1,
+            "explain": "文章第一句明確說明去年夏天去了巴塞隆納（Barcelona）旅行。"
+          },
+          {
+            "q": "¿Qué comió la persona en el restaurante?",
+            "options": [
+              "Tortilla española",
+              "Bocadillo",
+              "Paella",
+              "Cocido madrileño"
+            ],
+            "answer": 2,
+            "explain": "文中提到在靠近海邊的餐廳吃了海鮮燉飯（paella）。"
+          },
+          {
+            "q": "¿Por qué le gustó el mercado de La Boqueria?",
+            "options": [
+              "Porque es muy grande",
+              "Porque hay ropa barata",
+              "Porque hay frutas frescas y productos típicos",
+              "Porque está cerca del hotel"
+            ],
+            "answer": 2,
+            "explain": "文章說喜歡波蓋利亞市場，因為那裡有新鮮水果（frutas frescas）和西班牙典型產品（productos típicos）。"
+          },
+          {
+            "q": "¿Qué va a hacer la persona el próximo mes?",
+            "options": [
+              "Va a ir a Barcelona otra vez",
+              "Va a estudiar catalán",
+              "Va a viajar a Madrid",
+              "Va a comprar recuerdos"
+            ],
+            "answer": 2,
+            "explain": "文章後半使用 Futuro próximo（voy a + infinitivo）表示下個月要去馬德里（Madrid）旅行。"
+          },
+          {
+            "q": "¿Qué quiere ver la persona en el Museo del Prado?",
+            "options": [
+              "Esculturas modernas",
+              "Pinturas famosas",
+              "Fotografías antiguas",
+              "Mapas históricos"
+            ],
+            "answer": 1,
+            "explain": "文章說想去普拉多博物館（Museo del Prado）看著名的畫作（pinturas famosas）。"
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "2026-07-18-B1-1",
+        "source": "ai",
+        "level_label": "B1",
+        "title": "El trabajo en el mundo moderno",
+        "text": "Hoy en día, muchas personas se preguntan si el trabajo que tienen es realmente el que querían cuando eran jóvenes. Según una encuesta reciente, más del sesenta por ciento de los trabajadores admitió que había elegido su profesión por razones económicas, no por vocación.\n\nEn mi opinión, esta situación es bastante preocupante porque, si la gente no disfrutara de su trabajo, sería más difícil que se sintiera satisfecha con su vida en general. Además, cuando las personas trabajan en algo que no les apasiona, suelen ser menos productivas y más propensas al estrés.\n\nPor otro lado, es importante reconocer que no siempre es posible elegir libremente. Muchos jóvenes me dijeron que habrían estudiado algo diferente si hubieran tenido más apoyo económico de sus familias. Esta es una desigualdad social que el gobierno debería atender con políticas educativas más inclusivas.\n\nCreo que la sociedad necesita reflexionar sobre el valor del trabajo. No se trata solo de ganar dinero, sino de construir una vida con sentido. Si invirtiéramos más en orientación vocacional desde la escuela, quizás tendríamos ciudadanos más felices y comprometidos con su comunidad.",
+        "words": [
+          {
+            "word": "vocación",
+            "pos": "n.f.",
+            "zh": "職業志向；天職",
+            "example": "Ella estudió medicina porque sintió una vocación por ayudar a los demás."
+          },
+          {
+            "word": "preocupante",
+            "pos": "adj.",
+            "zh": "令人擔憂的",
+            "example": "La tasa de desempleo juvenil es muy preocupante en ese país."
+          },
+          {
+            "word": "propenso/a",
+            "pos": "adj.",
+            "zh": "易於……的；傾向於……的",
+            "example": "Las personas que no duermen bien son más propensas a cometer errores."
+          },
+          {
+            "word": "desigualdad",
+            "pos": "n.f.",
+            "zh": "不平等",
+            "example": "La desigualdad social sigue siendo un problema grave en muchos países."
+          },
+          {
+            "word": "inclusivo/a",
+            "pos": "adj.",
+            "zh": "包容的；包含所有人的",
+            "example": "El nuevo programa educativo busca ser más inclusivo para todos los estudiantes."
+          },
+          {
+            "word": "reflexionar",
+            "pos": "v.",
+            "zh": "反思；深思",
+            "example": "Necesitamos reflexionar sobre las consecuencias de nuestras decisiones."
+          },
+          {
+            "word": "sentido",
+            "pos": "n.m.",
+            "zh": "意義；方向",
+            "example": "Buscar trabajo con sentido es una prioridad para la generación joven."
+          },
+          {
+            "word": "invertir",
+            "pos": "v.",
+            "zh": "投資；投入",
+            "example": "El gobierno prometió invertir más dinero en educación pública."
+          },
+          {
+            "word": "orientación vocacional",
+            "pos": "n.f.",
+            "zh": "職業輔導",
+            "example": "La orientación vocacional ayuda a los estudiantes a descubrir sus intereses."
+          },
+          {
+            "word": "comprometido/a",
+            "pos": "adj.",
+            "zh": "有責任感的；積極投入的",
+            "example": "Los voluntarios estaban muy comprometidos con la causa social."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Según la encuesta mencionada en el texto, ¿por qué eligió su profesión la mayoría de los trabajadores?",
+            "options": [
+              "Por vocación y pasión personal.",
+              "Por razones económicas.",
+              "Por recomendación del gobierno.",
+              "Por influencia de sus amigos."
+            ],
+            "answer": 1,
+            "explain": "文中指出，超過六成的工作者承認是因為經濟原因選擇職業，而非基於志向（vocación）。"
+          },
+          {
+            "q": "Según el autor, ¿qué pasaría si la gente no disfrutara de su trabajo?",
+            "options": [
+              "Ganaría más dinero.",
+              "Tendría más tiempo libre.",
+              "Le sería más difícil sentirse satisfecha con su vida.",
+              "Aprendería nuevas habilidades."
+            ],
+            "answer": 2,
+            "explain": "作者使用條件句表示，若人們無法享受工作，就會更難對整體生活感到滿足。"
+          },
+          {
+            "q": "¿Qué dijeron muchos jóvenes sobre su elección de estudios?",
+            "options": [
+              "Que estaban muy contentos con su carrera.",
+              "Que habrían estudiado algo diferente si hubieran tenido más apoyo económico.",
+              "Que el gobierno les había ayudado mucho.",
+              "Que preferían trabajar antes que estudiar."
+            ],
+            "answer": 1,
+            "explain": "文中年輕人使用假設語氣表示，若有更多家庭經濟支持，他們會選擇不同的科系。"
+          },
+          {
+            "q": "¿Qué propone el autor para mejorar la situación?",
+            "options": [
+              "Aumentar el salario mínimo.",
+              "Reducir las horas de trabajo.",
+              "Invertir más en orientación vocacional desde la escuela.",
+              "Eliminar las universidades públicas."
+            ],
+            "answer": 2,
+            "explain": "作者在最後段落建議，從學校階段就投入更多資源在職業輔導（orientación vocacional）上。"
+          },
+          {
+            "q": "¿Cuál es la idea principal del texto?",
+            "options": [
+              "El trabajo manual es mejor que el trabajo intelectual.",
+              "La economía global está en crisis.",
+              "Muchas personas no trabajan en lo que les apasiona y esto tiene consecuencias sociales.",
+              "Los jóvenes de hoy no quieren trabajar."
+            ],
+            "answer": 2,
+            "explain": "全文核心論點是：許多人並未從事自己熱愛的工作，這種狀況對個人與社會都有負面影響，需要系統性改善。"
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "2026-07-18-real-1",
+        "source": "real",
+        "level_label": "約 B2–C1",
+        "origin_url": "https://www.bbc.com/mundo/articles/c5y08m32vpqo?at_medium=RSS&at_campaign=rss",
+        "origin_name": "BBC Mundo",
+        "title": "Entre escombros y esperanza: una joven busca a su familia tras los terremotos de La Guaira",
+        "text": "Lorena Laya lleva tres semanas sin alejarse de la excavadora oruga que remueve los escombros en La Guaira, Venezuela. Tras los dos terremotos del 24 de junio, su padre, su madrastra Nohelia Iriarte y sus dos hermanos menores quedaron atrapados bajo las ruinas del edificio donde vivían. Lorena permanece alerta desde que la máquina se enciende hasta que se apaga, consciente de que un momento de descuido podría significar que los restos de sus familiares sean removidos sin que nadie lo note. \"Si sobreviví fue para encontrarlos\", afirma con determinación.\n\nLa historia de esta familia está marcada por dos tragedias separadas por más de dos décadas. En 1999, el devastador deslave de Vargas —que cobró entre 10.000 y 30.000 vidas— destruyó la casa de los Iriarte en Carmen de Uria. Durante años vivieron en refugios, hasta que el gobierno de Hugo Chávez les asignó un apartamento en los edificios de la Gran Misión Vivienda Venezuela, un programa social destinado precisamente a reubicar a los damnificados de aquella catástrofe.\n\nNohelia vivía en el piso 3 del edificio OPP 27, en la parroquia Caraballeda, junto con su esposo Henry y sus hijos Diego y Giannys. Paradójicamente, el mismo techo que les fue otorgado como símbolo de recuperación se convirtió en una trampa mortal cuando los terremotos de junio provocaron el colapso de más de cien edificios del mismo complejo. Este hecho desencadenó fuertes críticas hacia el gobierno venezolano por la calidad de los materiales empleados en la construcción. Mientras tanto, Lorena sigue esperando bajo la sombra de un árbol, con la mirada fija en la máquina que escarba entre el concreto.",
+        "words": [
+          {
+            "word": "escombros",
+            "pos": "sustantivo masculino plural",
+            "zh": "瓦礫、廢墟碎石",
+            "example": "Los rescatistas trabajaron toda la noche para retirar los escombros del edificio derrumbado."
+          },
+          {
+            "word": "excavadora oruga",
+            "pos": "locución nominal femenina",
+            "zh": "履帶式挖土機",
+            "example": "La excavadora oruga removió toneladas de tierra en pocas horas para encontrar a los sobrevivientes."
+          },
+          {
+            "word": "deslave",
+            "pos": "sustantivo masculino",
+            "zh": "山崩、土石流",
+            "example": "El deslave arrasó con varios pueblos a lo largo de la ladera de la montaña."
+          },
+          {
+            "word": "damnificado/a",
+            "pos": "sustantivo / adjetivo",
+            "zh": "災民、受災者",
+            "example": "Cientos de damnificados recibieron ayuda humanitaria tras el terremoto."
+          },
+          {
+            "word": "reubicar",
+            "pos": "verbo transitivo",
+            "zh": "重新安置、遷置",
+            "example": "El gobierno prometió reubicar a las familias que perdieron sus hogares en la inundación."
+          },
+          {
+            "word": "desencadenar",
+            "pos": "verbo transitivo",
+            "zh": "引發、觸發",
+            "example": "La noticia desencadenó una ola de protestas en todo el país."
+          },
+          {
+            "word": "laderas",
+            "pos": "sustantivo femenino plural",
+            "zh": "山坡、斜坡",
+            "example": "Las intensas lluvias destabilizaron las laderas y provocaron deslizamientos de tierra."
+          },
+          {
+            "word": "no despegarse de",
+            "pos": "locución verbal pronominal",
+            "zh": "寸步不離、緊守在旁",
+            "example": "La madre no se despegó de la cama del hospital donde estaba internado su hijo."
+          },
+          {
+            "word": "quedar sepultado/a",
+            "pos": "locución verbal",
+            "zh": "被埋葬、被掩埋",
+            "example": "Varios vehículos quedaron sepultados bajo la nieve tras la tormenta."
+          },
+          {
+            "word": "cobrar vidas",
+            "pos": "locución verbal",
+            "zh": "奪走生命、造成死亡",
+            "example": "El accidente de tránsito cobró tres vidas en la madrugada del sábado."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Por qué Lorena Laya no se aparta de la excavadora mientras trabaja?",
+            "options": [
+              "Porque ella misma opera la máquina para buscar a sus familiares.",
+              "Porque teme que la máquina pueda llevarse los cuerpos sin que nadie lo advierta.",
+              "Porque el gobierno le exige estar presente durante las labores de rescate.",
+              "Porque la excavadora pertenece a su familia y deben protegerla."
+            ],
+            "answer": 1,
+            "explain": "Lorena explica que en dos ocasiones la excavadora estuvo a punto de remover cuerpos sin que nadie se diera cuenta, por lo que su vigilancia constante es fundamental para evitar que eso suceda."
+          },
+          {
+            "q": "¿Qué relación tiene la familia Iriarte con el deslave de Vargas de 1999?",
+            "options": [
+              "Su casa quedó intacta gracias a su ubicación en las laderas altas.",
+              "Perdieron su hogar en Carmen de Uria y vivieron en refugios durante años.",
+              "Fueron voluntarios en las labores de rescate de aquella tragedia.",
+              "Emigraron a Caracas antes de que ocurriera el deslave."
+            ],
+            "answer": 1,
+            "explain": "La casa de la familia de Nohelia Iriarte quedó sepultada bajo el barro en Carmen de Uria durante el deslave de 1999, y los sobrevivientes tuvieron que vivir en refugios hasta recibir un apartamento del gobierno."
+          },
+          {
+            "q": "¿Cuál es la ironía central de la situación que vive la familia de Lorena?",
+            "options": [
+              "La familia sobrevivió al deslave de 1999 pero murió en un accidente de tráfico.",
+              "El apartamento otorgado como ayuda tras el deslave fue el mismo que colapsó en los terremotos de 2024.",
+              "El gobierno les dio un apartamento en Caracas en lugar de en La Guaira.",
+              "Lorena no estaba en el edificio porque había viajado al extranjero."
+            ],
+            "answer": 1,
+            "explain": "La paradoja reside en que el apartamento de la Gran Misión Vivienda, asignado precisamente para reubicar a las víctimas del deslave de 1999, colapsó durante los terremotos de junio de 2024, convirtiéndose en una nueva tragedia para la misma familia."
+          },
+          {
+            "q": "Según el texto, ¿qué críticas surgieron a raíz del colapso de los edificios de la Misión Vivienda?",
+            "options": [
+              "Se cuestionó la gestión del gobierno en las labores de rescate y evacuación.",
+              "Se criticó la calidad de los materiales utilizados en la construcción de los edificios.",
+              "Se denunció que el gobierno cobró alquileres excesivos a los damnificados.",
+              "Se exigió la destitución del alcalde de La Guaira."
+            ],
+            "answer": 1,
+            "explain": "El artículo menciona que el colapso de más de cien edificios desencadenó cuestionamientos sobre la calidad de los materiales empleados en su construcción, lo que implica posibles fallas estructurales por parte del Estado."
+          },
+          {
+            "q": "¿Dónde duerme Lorena por las noches durante su búsqueda?",
+            "options": [
+              "En una carpa instalada junto a los escombros del edificio.",
+              "En la sede de los equipos de rescate del gobierno.",
+              "En casa de su abuelo paterno en La Guaira.",
+              "En su propio apartamento en Caraballeda."
+            ],
+            "answer": 2,
+            "explain": "El texto indica claramente que Lorena duerme en casa de su abuelo paterno por las noches, y solo regresa a su casa en Caracas cuando necesita ropa limpia."
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-07-18-real-2",
+        "source": "real",
+        "level_label": "約 B2–C1",
+        "origin_url": "https://www.bbc.com/mundo/articles/cly09e1eddwo?at_medium=RSS&at_campaign=rss",
+        "origin_name": "BBC Mundo",
+        "title": "El vuelo 901 de Alas Chiricanas: tres décadas de impunidad y una nueva esperanza de justicia",
+        "text": "El 19 de julio de 1994, el vuelo 901 de Alas Chiricanas despegó del aeropuerto France Field en Colón, Panamá, con destino a la capital. A bordo viajaban 21 personas, entre ellas jóvenes, empresarios y trabajadores que realizaban un trayecto cotidiano de apenas unos minutos. Sin embargo, a los diez minutos del despegue, la aeronave explotó en pleno vuelo y sus restos cayeron sobre el cerro Santa Rita. No hubo sobrevivientes.\n\nEntre las víctimas se encontraba José Antonio González, conocido cariñosamente como Tony, un joven de 19 años que acababa de terminar su formación como piloto en Estados Unidos y comenzaba su instrucción como observador. También viajaba Saúl Schwartz, empresario con negocios en la Zona Libre de Colón, la segunda zona franca más grande del mundo. Para él era un vuelo más; para su familia, sería el último.\n\nTras más de tres décadas sin respuestas claras, el caso ha cobrado nuevo impulso. La Fiscalía panameña investiga el siniestro como un acto de terrorismo, luego de que un imputado fuera extraditado desde Venezuela. Israel ha vinculado a este individuo con Hezbolá, el grupo político y militante chiita con sede en el Líbano y respaldado por Irán. La fiscal a cargo, Geomara Guerra, afirma que se han recogido nuevos elementos esenciales para esclarecer los hechos.\n\nEl cineasta panameño Abner Benaim, sobrino de Schwartz, llegó aquella noche al lugar del accidente. La frase de un agente policial —«están todos muertos»— marcó su vida para siempre y se convirtió en el germen de su documental «Paraíso tropical», estrenado en abril de 2024. La búsqueda de justicia continúa.",
+        "words": [
+          {
+            "word": "aeronave",
+            "pos": "sustantivo femenino",
+            "zh": "航空器；飛機",
+            "example": "La aeronave despegó puntualmente y llegó a su destino sin contratiempos."
+          },
+          {
+            "word": "sobreviviente",
+            "pos": "sustantivo / adjetivo",
+            "zh": "倖存者",
+            "example": "Los rescatistas buscaron durante horas, pero no encontraron ningún sobreviviente entre los escombros."
+          },
+          {
+            "word": "impunidad",
+            "pos": "sustantivo femenino",
+            "zh": "不受懲罰；有罪不罰",
+            "example": "La corrupción florece donde existe impunidad y falta de rendición de cuentas."
+          },
+          {
+            "word": "esclarecer",
+            "pos": "verbo transitivo",
+            "zh": "釐清；查明（真相）",
+            "example": "Las autoridades prometieron esclarecer las causas del accidente en el menor tiempo posible."
+          },
+          {
+            "word": "imputado",
+            "pos": "sustantivo / adjetivo",
+            "zh": "被告；被起訴者",
+            "example": "El imputado fue trasladado al juzgado para declarar ante el fiscal."
+          },
+          {
+            "word": "extraditar",
+            "pos": "verbo transitivo",
+            "zh": "引渡（嫌疑人或罪犯）",
+            "example": "El sospechoso fue extraditado desde Colombia para enfrentar cargos en España."
+          },
+          {
+            "word": "zona franca",
+            "pos": "locución nominal femenina",
+            "zh": "自由貿易區",
+            "example": "La zona franca de Colón es uno de los principales centros comerciales de América Latina."
+          },
+          {
+            "word": "cotidiano",
+            "pos": "adjetivo",
+            "zh": "日常的；平常的",
+            "example": "Para muchos trabajadores, cruzar la ciudad en autobús es una actividad cotidiana."
+          },
+          {
+            "word": "germen",
+            "pos": "sustantivo masculino",
+            "zh": "起源；萌芽；根源",
+            "example": "Aquella conversación fue el germen de una amistad que duraría toda la vida."
+          },
+          {
+            "word": "tenaz",
+            "pos": "adjetivo",
+            "zh": "堅持不懈的；頑強的",
+            "example": "Gracias a su tenaz esfuerzo, logró terminar el doctorado a pesar de todas las dificultades."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué estaba haciendo José Antonio González en el momento del vuelo en términos profesionales?",
+            "options": [
+              "Trabajaba como empresario en la Zona Libre de Colón.",
+              "Iniciaba su instrucción como observador tras terminar sus estudios de piloto.",
+              "Regresaba de una misión diplomática en Estados Unidos.",
+              "Era el piloto a cargo del vuelo 901."
+            ],
+            "answer": 1,
+            "explain": "根據文章，Tony剛在美國完成飛行員訓練，正開始以觀察員身份接受指導訓練。他是乘客，並非機長。"
+          },
+          {
+            "q": "¿Cuánto tiempo después del despegue explotó la aeronave?",
+            "options": [
+              "A los 5 minutos.",
+              "A los 19 minutos.",
+              "A los 10 minutos.",
+              "A los 30 minutos."
+            ],
+            "answer": 2,
+            "explain": "文章明確指出，飛機在起飛後10分鐘（«a 10 minutos de haber despegado»）在空中爆炸。"
+          },
+          {
+            "q": "¿Con qué organización vincula Israel al imputado extraditado desde Venezuela?",
+            "options": [
+              "Con Al-Qaeda.",
+              "Con el cartel de Medellín.",
+              "Con el Estado Islámico.",
+              "Con Hezbolá."
+            ],
+            "answer": 3,
+            "explain": "文章說以色列將這名從委內瑞拉引渡的被告與黎巴嫩真主黨（Hezbolá）聯繫起來，該組織受伊朗支持。"
+          },
+          {
+            "q": "¿Por qué razón el cineasta Abner Benaim realizó el documental «Paraíso tropical»?",
+            "options": [
+              "Porque fue encargado por la Fiscalía panameña para documentar el caso.",
+              "Porque era periodista y cubría el accidente para una cadena de televisión.",
+              "Porque su tío Saúl Schwartz falleció en el vuelo 901 y buscaba respuestas.",
+              "Porque sobrevivió al accidente y quería contar su experiencia."
+            ],
+            "answer": 2,
+            "explain": "Abner Benaim是Saúl Schwartz的外甥。他的叔父在這次空難中罹難，此後他投入多年製作這部紀錄片，追求真相。"
+          },
+          {
+            "q": "¿Cómo describe la Fiscalía panameña lo ocurrido con el vuelo 901?",
+            "options": [
+              "Como un accidente por fallo mecánico.",
+              "Como un acto con características convencionales de terrorismo.",
+              "Como un sabotaje interno cometido por pasajeros.",
+              "Como un error de navegación del piloto."
+            ],
+            "answer": 1,
+            "explain": "文章引用巴拿馬檢察官的話，將此事件定性為「具有傳統恐怖主義特徵的行為」（acto con características convencionales de terrorismo）。"
+          }
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "2026-07-18-real-3",
+        "source": "real",
+        "level_label": "约 B2–C1",
+        "origin_url": "https://www.bbc.com/mundo/articles/ckg429098vyo?at_medium=RSS&at_campaign=rss",
+        "origin_name": "BBC Mundo",
+        "title": "Alejandra Jáidar: la física mexicana cuyo legado nos toca a todos",
+        "text": "Alejandra Jáidar Matalobos fue una de las científicas más destacadas de México. Nacida en el Puerto de Veracruz, ciudad conocida por su alegría y espíritu caribeño, creció en una familia de inmigrantes libaneses de primera generación que se dedicaban a los negocios. Su padre, José Teodoro Jáidar Jacob, se estableció en México y formó una familia con Guadalupe Matalobos de la Flor, con quien tuvo cuatro hijos, siendo Alejandra la mayor.\n\nDesde joven, Alejandra demostró una personalidad independiente y decidida. A los 15 o 16 años ya conducía y se encargaba de pagar la nómina a los trabajadores en una mina de mercurio que su abuelo tenía en Guerrero. En aquella época existía la superstición de que la mina \"se ponía celosa\" si una mujer entraba en ella durante la producción, creyéndose que dejaría de rendir. Sin embargo, Alejandra desafió esa creencia con determinación.\n\nA lo largo de su carrera, dedicó su vida a la física, trabajando en el Instituto de Física de la UNAM. Su mayor satisfacción llegó a finales de julio de 1988, cuando recibió una llamada comunicándole que el acelerador de partículas había comenzado a funcionar. Aquella noticia la hizo llorar de alegría y su emoción se contagió a quienes la rodeaban, incluyendo a su sobrino Leonardo Patiño, quien presenció el momento.\n\nTragicamente, Alejandra padecía un cáncer y moriría en septiembre de ese mismo año, a los 51 años. Su hijo Arturo recuerda que, cuando visita México, no va al mausoleo sino al Instituto de Física, pues es allí donde siente la verdadera presencia de su madre.",
+        "words": [
+          {
+            "word": "conmovido/a",
+            "pos": "adj.",
+            "zh": "感動的、動容的",
+            "example": "El físico, conmovido, le contó que el acelerador había comenzado a funcionar."
+          },
+          {
+            "word": "propagarse como fuego",
+            "pos": "loc. verbal",
+            "zh": "像火一樣蔓延（指情緒或消息迅速傳播）",
+            "example": "La emoción se propagó como fuego entre todos los presentes en la sala."
+          },
+          {
+            "word": "atestiguar",
+            "pos": "v.",
+            "zh": "親眼目睹、作證",
+            "example": "Presenciar ese momento fue atestiguar un hito histórico para la ciencia mexicana."
+          },
+          {
+            "word": "padecer",
+            "pos": "v.",
+            "zh": "罹患（疾病）、受苦",
+            "example": "Alejandra padecía un cáncer cuando recibió la noticia del éxito de su proyecto."
+          },
+          {
+            "word": "la nómina",
+            "pos": "sust. f.",
+            "zh": "薪資名冊、工資",
+            "example": "A los 16 años, ella ya iba a pagarle la nómina a los trabajadores de la mina."
+          },
+          {
+            "word": "ponerse celoso/a",
+            "pos": "loc. verbal",
+            "zh": "（擬人化）變得嫉妒、吃醋",
+            "example": "Según la superstición, la mina se ponía celosa si una mujer entraba durante la producción."
+          },
+          {
+            "word": "lo impensable",
+            "pos": "sust. (adj. sustantivado)",
+            "zh": "難以想像的事、不可思議的事",
+            "example": "Alejandra hizo lo impensable para la época al entrar a la mina siendo mujer."
+          },
+          {
+            "word": "el legado",
+            "pos": "sust. m.",
+            "zh": "遺產、傳承、貢獻",
+            "example": "El legado científico de Alejandra Jáidar sigue presente en la física mexicana hasta hoy."
+          },
+          {
+            "word": "el acelerador de partículas",
+            "pos": "sust. m.",
+            "zh": "粒子加速器",
+            "example": "Años de trabajo culminaron cuando el acelerador de partículas comenzó a funcionar."
+          },
+          {
+            "word": "procedente de",
+            "pos": "loc. prep.",
+            "zh": "來自……、從……出發的",
+            "example": "Su familia había llegado a México procedente del Líbano a principios del siglo XX."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Por qué lloró Alejandra Jáidar cuando recibió la llamada telefónica?",
+            "options": [
+              "Porque le comunicaron que su enfermedad había empeorado.",
+              "Porque el acelerador de partículas había comenzado a funcionar.",
+              "Porque su sobrino Leonardo había ganado un premio académico.",
+              "Porque la UNAM le otorgó un reconocimiento especial."
+            ],
+            "answer": 1,
+            "explain": "根據文章，Eduardo Andrade 打電話告訴她粒子加速器已開始運作，這讓她喜極而泣。"
+          },
+          {
+            "q": "¿Qué papel desempeñaba Alejandra en la mina de mercurio siendo adolescente?",
+            "options": [
+              "Supervisaba la extracción de minerales junto a los ingenieros.",
+              "Enseñaba a leer y escribir a los trabajadores.",
+              "Llevaba el dinero para pagar el salario de los trabajadores.",
+              "Administraba la contabilidad general de la empresa familiar."
+            ],
+            "answer": 2,
+            "explain": "文章說明她在15、16歲時就被祖父派去帶工資（'la raya'）去礦場支付工人薪水。"
+          },
+          {
+            "q": "¿Qué significaba en aquella época que 'la mina se pusiera celosa'?",
+            "options": [
+              "Que la mina producía menos mineral cuando hacía calor.",
+              "Que los trabajadores rendían menos si no se les pagaba a tiempo.",
+              "Que si una mujer entraba a la mina en producción, esta dejaría de rendir.",
+              "Que los dueños de otras minas competían agresivamente por los recursos."
+            ],
+            "answer": 2,
+            "explain": "這是一種迷信：若有女性在生產期間進入礦場，礦場會因「嫉妒」而停止出產。"
+          },
+          {
+            "q": "¿Cómo describe Arturo de Alba, hijo de Alejandra, la relación con la memoria de su madre?",
+            "options": [
+              "Visita frecuentemente el mausoleo para rendirle homenaje.",
+              "Organiza cada año una conferencia en su honor en la UNAM.",
+              "Siente su presencia en el Instituto de Física, no en el mausoleo.",
+              "Conserva en casa todos sus experimentos y publicaciones científicas."
+            ],
+            "answer": 2,
+            "explain": "Arturo 說他很少去陵墓，但每次回墨西哥都會去物理研究所，因為那才是他感受到母親存在的地方。"
+          },
+          {
+            "q": "¿Cuál de los siguientes datos sobre los orígenes familiares de Alejandra es correcto según el texto?",
+            "options": [
+              "Su padre nació en Veracruz y su madre llegó del Líbano.",
+              "Su abuelo paterno emigró del Líbano y se dedicó a los negocios desde joven.",
+              "Sus padres se conocieron en la Ciudad de México durante sus estudios universitarios.",
+              "Era la menor de cuatro hermanos y por eso tuvo menos responsabilidades."
+            ],
+            "answer": 1,
+            "explain": "文章指出 Alejandra 的父親一家從黎巴嫩移民至墨西哥，祖父和兄弟們年輕時就從商；她的父母在韋拉克魯斯相識，而她是四兄弟中的長女。"
+          }
+        ]
+      }
+    ]
+  }
+}

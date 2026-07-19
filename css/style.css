@@ -1,0 +1,26 @@
+* { box-sizing: border-box; }
+body { font-family: -apple-system, "Noto Sans TC", sans-serif; max-width: 760px;
+  margin: 0 auto; padding: 16px; line-height: 1.7; color: #1a1a1a; }
+header { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center;
+  justify-content: space-between; border-bottom: 1px solid #eee; padding-bottom: 12px; }
+h1 { font-size: 1.3rem; margin: 0; }
+nav a, .card { text-decoration: none; color: inherit; }
+.tabs { display: flex; gap: 6px; flex-wrap: wrap; margin: 16px 0; }
+.tab { padding: 6px 14px; border: 1px solid #ccc; background: #fff; border-radius: 20px;
+  cursor: pointer; font-size: 0.95rem; }
+.tab.active { background: #c0392b; color: #fff; border-color: #c0392b; }
+.card { display: block; border: 1px solid #eee; border-radius: 10px; padding: 14px;
+  margin-bottom: 10px; }
+.card:hover { border-color: #c0392b; }
+.card-title { font-weight: 600; margin-bottom: 4px; }
+.card-meta { font-size: 0.82rem; color: #888; }
+.word { border-bottom: 2px solid #c0392b; cursor: pointer; }
+.popup { position: fixed; bottom: 0; left: 0; right: 0; background: #fff;
+  border-top: 1px solid #ddd; padding: 16px; box-shadow: 0 -2px 12px rgba(0,0,0,.1); }
+.controls { display: flex; gap: 10px; align-items: center; margin: 12px 0; }
+button.primary { background: #c0392b; color: #fff; border: none; border-radius: 8px;
+  padding: 8px 16px; cursor: pointer; }
+.quiz-opt { display: block; width: 100%; text-align: left; padding: 10px; margin: 6px 0;
+  border: 1px solid #ccc; border-radius: 8px; background: #fff; cursor: pointer; }
+.quiz-opt.correct { background: #d5f4e6; border-color: #27ae60; }
+.quiz-opt.wrong { background: #fdecea; border-color: #c0392b; }

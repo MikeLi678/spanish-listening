@@ -1,0 +1,39 @@
+name: Generate Content
+
+on:
+  schedule:
+    - cron: '0 22 * * *'   # 22:00 UTC = 06:00 台灣時間
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate content
+        run: python src/generate.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit new content
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/
+          if git diff --cached --quiet; then
+            echo "無新內容"
+          else
+            git commit -m "chore: 每日內容 $(date -u +%Y-%m-%d)"
+            git push
+          fi

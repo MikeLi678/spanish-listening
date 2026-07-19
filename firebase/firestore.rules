@@ -1,0 +1,11 @@
+rules_version = '2';
+
+// 每位使用者只能讀寫自己 users/{uid} 底下的 progress 與 vocabulary
+// 對應原本 Supabase RLS 的 auth.uid() = user_id
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /users/{uid}/{document=**} {
+      allow read, write: if request.auth != null && request.auth.uid == uid;
+    }
+  }
+}

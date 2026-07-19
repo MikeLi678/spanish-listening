@@ -1,0 +1,785 @@
+{
+  "date": "2026-07-20",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-07-20-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Mi familia y el desayuno",
+        "text": "Mi familia es pequeña. Somos cuatro personas: papá, mamá, mi hermana y yo. Hoy hace sol y el cielo es azul. Por la mañana, comemos juntos. Mamá prepara tostadas con mantequilla y fruta. Papá bebe café. Mi hermana y yo bebemos leche. La comida es rica. Estamos contentos.",
+        "translation": "我的家庭很小。我們是四個人：爸爸、媽媽、我的姐姐和我。今天天氣晴朗，天空是藍色的。早上，我們一起吃飯。媽媽準備塗了奶油的吐司和水果。爸爸喝咖啡。我的姐姐和我喝牛奶。食物很好吃。我們很開心。",
+        "words": [
+          {
+            "word": "pequeño/a",
+            "pos": "adj.",
+            "zh": "小的",
+            "example": "Mi casa es pequeña."
+          },
+          {
+            "word": "persona",
+            "pos": "n.",
+            "zh": "人",
+            "example": "Hay cuatro personas en mi familia."
+          },
+          {
+            "word": "hace sol",
+            "pos": "expr.",
+            "zh": "天氣晴朗",
+            "example": "Hoy hace sol y hace calor."
+          },
+          {
+            "word": "cielo",
+            "pos": "n.",
+            "zh": "天空",
+            "example": "El cielo es azul."
+          },
+          {
+            "word": "juntos/as",
+            "pos": "adv.",
+            "zh": "一起",
+            "example": "Comemos juntos por la mañana."
+          },
+          {
+            "word": "tostada",
+            "pos": "n.",
+            "zh": "吐司",
+            "example": "Como una tostada con mantequilla."
+          },
+          {
+            "word": "mantequilla",
+            "pos": "n.",
+            "zh": "奶油",
+            "example": "La mantequilla es amarilla."
+          },
+          {
+            "word": "beber",
+            "pos": "v.",
+            "zh": "喝",
+            "example": "Él bebe agua todos los días."
+          },
+          {
+            "word": "leche",
+            "pos": "n.",
+            "zh": "牛奶",
+            "example": "Los niños beben leche."
+          },
+          {
+            "word": "contento/a",
+            "pos": "adj.",
+            "zh": "開心的、滿足的",
+            "example": "Estoy contento hoy."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cuántas personas hay en la familia?",
+            "options": [
+              "Dos personas.",
+              "Tres personas.",
+              "Cuatro personas.",
+              "Cinco personas."
+            ],
+            "answer": 2,
+            "explain": "文中提到「Somos cuatro personas」，家庭共有四個人。"
+          },
+          {
+            "q": "¿Cómo está el tiempo hoy?",
+            "options": [
+              "Llueve mucho.",
+              "Hace frío.",
+              "Hace sol.",
+              "Hay nubes."
+            ],
+            "answer": 2,
+            "explain": "文中提到「Hoy hace sol」，今天天氣晴朗。"
+          },
+          {
+            "q": "¿Qué prepara mamá para el desayuno?",
+            "options": [
+              "Café y fruta.",
+              "Tostadas con mantequilla y fruta.",
+              "Leche y tostadas.",
+              "Huevos y café."
+            ],
+            "answer": 1,
+            "explain": "文中說「Mamá prepara tostadas con mantequilla y fruta」，媽媽準備了塗奶油的吐司和水果。"
+          },
+          {
+            "q": "¿Qué bebe papá?",
+            "options": [
+              "Leche.",
+              "Agua.",
+              "Zumo.",
+              "Café."
+            ],
+            "answer": 3,
+            "explain": "文中說「Papá bebe café」，爸爸喝咖啡。"
+          },
+          {
+            "q": "¿Cómo están al final del texto?",
+            "options": [
+              "Están cansados.",
+              "Están contentos.",
+              "Están tristes.",
+              "Están enfermos."
+            ],
+            "answer": 1,
+            "explain": "文章最後說「Estamos contentos」，他們很開心。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-07-20-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Un viaje especial",
+        "text": "El verano pasado, viajé a Barcelona con mi familia. Visitamos muchos lugares interesantes, como el Parque Güell y la Sagrada Familia. También fuimos de compras en las Ramblas y compré ropa bonita y recuerdos para mis amigos. Por la noche, comimos paella en un restaurante cerca del mar. Me gustó mucho la ciudad porque es muy animada y tiene mucha cultura. El próximo año, voy a volver a España con mis amigos. Queremos visitar Madrid y Sevilla. También vamos a aprender más español antes del viaje para hablar con la gente local.",
+        "translation": "去年夏天，我和家人一起去了巴塞隆納。我們參觀了許多有趣的地方，例如奎爾公園和聖家堂。我們也在蘭布拉大道購物，我買了漂亮的衣服和送給朋友的紀念品。晚上，我們在海邊附近的一家餐廳吃了海鮮燉飯。我非常喜歡這座城市，因為它非常熱鬧而且充滿文化氣息。明年，我打算和朋友們再回到西班牙。我們想參觀馬德里和塞維亞。在旅行前，我們也打算學更多西班牙語，以便和當地人交流。",
+        "words": [
+          {
+            "word": "viajar",
+            "pos": "v.",
+            "zh": "旅行",
+            "example": "Me gusta viajar a otros países."
+          },
+          {
+            "word": "visitar",
+            "pos": "v.",
+            "zh": "參觀、拜訪",
+            "example": "Visitamos el museo por la mañana."
+          },
+          {
+            "word": "recuerdo",
+            "pos": "n. m.",
+            "zh": "紀念品；回憶",
+            "example": "Compré un recuerdo para mi madre."
+          },
+          {
+            "word": "animado/a",
+            "pos": "adj.",
+            "zh": "熱鬧的、充滿活力的",
+            "example": "La ciudad es muy animada por la noche."
+          },
+          {
+            "word": "paella",
+            "pos": "n. f.",
+            "zh": "西班牙海鮮燉飯",
+            "example": "La paella valenciana es deliciosa."
+          },
+          {
+            "word": "volver",
+            "pos": "v.",
+            "zh": "返回、再去",
+            "example": "Quiero volver a ese restaurante."
+          },
+          {
+            "word": "antes de",
+            "pos": "prep.",
+            "zh": "在……之前",
+            "example": "Estudio antes de dormir."
+          },
+          {
+            "word": "gente",
+            "pos": "n. f.",
+            "zh": "人們",
+            "example": "Hay mucha gente en el mercado."
+          },
+          {
+            "word": "local",
+            "pos": "adj.",
+            "zh": "當地的",
+            "example": "Nos gustó la comida local."
+          },
+          {
+            "word": "cerca de",
+            "pos": "prep.",
+            "zh": "在……附近",
+            "example": "El hotel está cerca del aeropuerto."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Adónde viajó el narrador el verano pasado?",
+            "options": [
+              "A Madrid",
+              "A Barcelona",
+              "A Sevilla",
+              "A Valencia"
+            ],
+            "answer": 1,
+            "explain": "文章開頭明確說「viajé a Barcelona」，所以答案是巴塞隆納。"
+          },
+          {
+            "q": "¿Qué compró el narrador en las Ramblas?",
+            "options": [
+              "Libros y mapas",
+              "Comida y bebidas",
+              "Ropa y recuerdos",
+              "Zapatos y bolsos"
+            ],
+            "answer": 2,
+            "explain": "文中提到「compré ropa bonita y recuerdos」，即買了衣服和紀念品。"
+          },
+          {
+            "q": "¿Por qué le gustó Barcelona al narrador?",
+            "options": [
+              "Porque es muy tranquila",
+              "Porque es pequeña y barata",
+              "Porque tiene muchas playas",
+              "Porque es animada y tiene mucha cultura"
+            ],
+            "answer": 3,
+            "explain": "文中說「porque es muy animada y tiene mucha cultura」，所以選第四個選項。"
+          },
+          {
+            "q": "¿Qué va a hacer el narrador el próximo año?",
+            "options": [
+              "Va a volver a Barcelona solo",
+              "Va a viajar a Francia con su familia",
+              "Va a volver a España con sus amigos",
+              "Va a quedarse en casa"
+            ],
+            "answer": 2,
+            "explain": "文中使用 Futuro próximo：「voy a volver a España con mis amigos」，表示明年打算和朋友回西班牙。"
+          },
+          {
+            "q": "¿Qué quieren hacer el narrador y sus amigos antes del viaje?",
+            "options": [
+              "Quieren comprar ropa nueva",
+              "Quieren aprender más español",
+              "Quieren buscar un hotel barato",
+              "Quieren estudiar la historia de España"
+            ],
+            "answer": 1,
+            "explain": "文末說「vamos a aprender más español antes del viaje」，表示旅行前打算多學西班牙語。"
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "2026-07-20-B1-1",
+        "source": "ai",
+        "level_label": "B1",
+        "title": "El futuro del trabajo en la era digital",
+        "text": "En los últimos años, el mercado laboral ha cambiado de manera radical. Muchos expertos creen que la automatización reemplazará a millones de trabajadores en las próximas décadas, lo cual genera un debate importante en toda la sociedad.\n\nCuando era niño, mi padre me decía que si estudiaba mucho, encontraría un buen empleo fácilmente. Sin embargo, hoy en día esa promesa ya no es tan sencilla. Aunque muchos jóvenes se esfuerzan y obtienen títulos universitarios, no siempre consiguen trabajo en su campo.\n\nEn mi opinión, el gobierno debería invertir más en programas de formación profesional para que los ciudadanos puedan adaptarse a los nuevos empleos que trae la tecnología. También creo que las empresas tienen la responsabilidad de ofrecer condiciones laborales justas, porque sin trabajadores motivados, ningún negocio puede prosperar.\n\nSería ideal que la sociedad encontrara un equilibrio entre el avance tecnológico y el bienestar humano. Si los líderes políticos y empresariales trabajaran juntos, podríamos construir un futuro donde la tecnología ayudara a las personas en lugar de amenazarlas. La clave está en la educación, la cooperación y la voluntad de adaptarse al cambio.",
+        "translation": "近年來，勞動市場發生了根本性的變化。許多專家認為，自動化將在未來幾十年內取代數百萬名勞工，這在整個社會引發了一場重要的辯論。\n\n當我還是個孩子的時候，我父親常對我說，如果我用功讀書，就能輕鬆找到一份好工作。然而，如今這個承諾已不再那麼簡單。儘管許多年輕人努力奮鬥並取得了大學學位，卻不一定能在自己的領域找到工作。\n\n我認為，政府應該在職業培訓計畫上投入更多資源，讓公民能夠適應科技帶來的新職位。我也認為，企業有責任提供公平的勞動條件，因為沒有有動力的員工，任何企業都無法蓬勃發展。\n\n理想的情況是，社會能在科技進步與人類福祉之間找到平衡。如果政治與商業領袖能攜手合作，我們就能建構一個科技幫助人們而非威脅人們的未來。關鍵在於教育、合作以及適應變化的意願。",
+        "words": [
+          {
+            "word": "mercado laboral",
+            "pos": "n.m.",
+            "zh": "勞動市場",
+            "example": "El mercado laboral está cambiando debido a la tecnología."
+          },
+          {
+            "word": "automatización",
+            "pos": "n.f.",
+            "zh": "自動化",
+            "example": "La automatización puede eliminar muchos empleos tradicionales."
+          },
+          {
+            "word": "reemplazar",
+            "pos": "v.",
+            "zh": "取代、替換",
+            "example": "Los robots podrían reemplazar a los trabajadores en las fábricas."
+          },
+          {
+            "word": "esforzarse",
+            "pos": "v. pron.",
+            "zh": "努力、盡力",
+            "example": "Ella se esfuerza cada día para mejorar sus habilidades."
+          },
+          {
+            "word": "formación profesional",
+            "pos": "n.f.",
+            "zh": "職業培訓",
+            "example": "El gobierno ofrece programas de formación profesional gratuitos."
+          },
+          {
+            "word": "adaptarse",
+            "pos": "v. pron.",
+            "zh": "適應",
+            "example": "Es importante adaptarse a los cambios del mercado laboral."
+          },
+          {
+            "word": "condiciones laborales",
+            "pos": "n.f.pl.",
+            "zh": "勞動條件",
+            "example": "Los empleados exigen mejores condiciones laborales."
+          },
+          {
+            "word": "prosperar",
+            "pos": "v.",
+            "zh": "繁榮、蓬勃發展",
+            "example": "Sin clientes satisfechos, una empresa no puede prosperar."
+          },
+          {
+            "word": "equilibrio",
+            "pos": "n.m.",
+            "zh": "平衡",
+            "example": "Debemos buscar un equilibrio entre el trabajo y la vida personal."
+          },
+          {
+            "word": "bienestar",
+            "pos": "n.m.",
+            "zh": "福祉、幸福",
+            "example": "El bienestar de los ciudadanos debe ser la prioridad del gobierno."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué le decía el padre del autor cuando era niño?",
+            "options": [
+              "Que la tecnología era peligrosa para el empleo.",
+              "Que si estudiaba mucho, encontraría un buen empleo fácilmente.",
+              "Que debería aprender un oficio manual.",
+              "Que el gobierno ayudaría a los jóvenes a encontrar trabajo."
+            ],
+            "answer": 1,
+            "explain": "文中提到作者的父親說，如果努力讀書，就能輕鬆找到好工作（si estudiaba mucho, encontraría un buen empleo fácilmente）。"
+          },
+          {
+            "q": "Según el autor, ¿qué debería hacer el gobierno?",
+            "options": [
+              "Prohibir el uso de robots en las fábricas.",
+              "Reducir el número de universidades.",
+              "Invertir más en programas de formación profesional.",
+              "Obligar a las empresas a contratar más jóvenes."
+            ],
+            "answer": 2,
+            "explain": "作者表達政府應該（debería）在職業培訓計畫上投入更多資源，使用條件式 debería 表達個人意見與建議。"
+          },
+          {
+            "q": "¿Por qué cree el autor que las empresas deben ofrecer condiciones laborales justas?",
+            "options": [
+              "Porque la ley lo exige en todos los países.",
+              "Porque sin trabajadores motivados, ningún negocio puede prosperar.",
+              "Porque los robots no pueden reemplazar a todos los empleados.",
+              "Porque los jóvenes prefieren trabajar en grandes empresas."
+            ],
+            "answer": 1,
+            "explain": "文中明確說明原因：porque sin trabajadores motivados, ningún negocio puede prosperar（因為沒有有動力的員工，任何企業都無法蓬勃發展）。"
+          },
+          {
+            "q": "¿Cuál es el problema que menciona el autor sobre los jóvenes universitarios?",
+            "options": [
+              "Que no quieren estudiar carreras de ciencias.",
+              "Que prefieren trabajar en el extranjero.",
+              "Que no siempre consiguen trabajo en su campo.",
+              "Que estudian demasiado tiempo en la universidad."
+            ],
+            "answer": 2,
+            "explain": "文中提到，雖然許多年輕人努力取得學位，pero no siempre consiguen trabajo en su campo（但不一定能在自己的領域找到工作）。"
+          },
+          {
+            "q": "Según el último párrafo, ¿cuál es la clave para construir un buen futuro?",
+            "options": [
+              "La inteligencia artificial y la automatización.",
+              "La educación, la cooperación y la voluntad de adaptarse al cambio.",
+              "El apoyo económico de otros países.",
+              "La reducción del uso de tecnología en el trabajo."
+            ],
+            "answer": 1,
+            "explain": "最後一段結論明確指出：La clave está en la educación, la cooperación y la voluntad de adaptarse al cambio（關鍵在於教育、合作以及適應變化的意願）。"
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "2026-07-20-real-1",
+        "source": "real",
+        "level_label": "约 B2–C1",
+        "origin_url": "https://www.bbc.co.uk/mundo/live/cn8n7zzzjpjt?at_medium=RSS&at_campaign=rss",
+        "origin_name": "BBC Mundo",
+        "title": "Luis de la Fuente: «Siendo España, tienes que sufrir»",
+        "text": "El seleccionador nacional de España, Luis de la Fuente, vivió uno de los momentos más gloriosos de su carrera al proclamarse campeón del mundo en la Copa del Mundo 2026. Visiblemente emocionado tras el pitido final, el técnico riojano no ocultó sus sentimientos ante los medios de comunicación.\n\n«Estoy muy emocionado. Siento un orgullo enorme por esta generación de futbolistas que crecieron con esta idea, con esta filosofía de juego», declaró De la Fuente, quien subrayó el espíritu colectivo que ha caracterizado a la selección durante todo el torneo. «Son un grupo, un equipo, una familia», sentenció con convicción.\n\nA pesar de la euforia del triunfo, el entrenador no rehuyó el análisis crítico del encuentro. Reconoció abiertamente que el partido «debió decantarse antes» y «con más solvencia», insinuando que el equipo tuvo ocasiones suficientes para sentenciar el duelo mucho antes del pitido final. No obstante, De la Fuente apeló a la idiosincrasia propia del fútbol español para justificar los momentos de angustia vividos sobre el césped: «Siendo España, tienes que sufrir».\n\nCon esta frase, el seleccionador resumió a la perfección la esencia de una selección que, históricamente, ha sabido sobreponerse a la presión y sacar adelante los partidos incluso en las situaciones más comprometidas. El título mundial consolida el legado de una generación dorada que ha llevado el nombre de España a lo más alto del fútbol internacional.",
+        "translation": "西班牙國家隊主教練路易斯·德拉富恩特，在2026年世界盃奪冠後，迎來了執教生涯最輝煌的時刻之一。終場哨聲響起後，這位來自里奧哈的教練明顯激動，毫不掩飾地向媒體傾吐心聲。\n\n「我非常激動。我為這一代球員感到無比驕傲，他們帶著這個理念、這套足球哲學成長。」德拉富恩特如此表示，並強調了整個賽事期間貫穿球隊的集體精神。他堅定地說：「他們是一個群體、一支球隊、一個大家庭。」\n\n儘管沉浸在勝利的喜悅中，這位主教練並未迴避對比賽的批判性分析。他坦然承認，比賽「本應更早分出勝負」，且「應以更穩健的方式」取勝，暗示球隊曾有足夠的機會在終場哨聲響起之前便鎖定勝局。儘管如此，德拉富恩特援引西班牙足球特有的本質來解釋場上經歷的緊張時刻：「身為西班牙，你就得承受煎熬。」\n\n透過這句話，主教練完美地概括了這支球隊的精髓——西班牙歷來能夠頂住壓力，即便在最艱難的處境下也能化險為夷。這座世界盃冠軍鞏固了這一黃金一代的歷史遺產，將西班牙之名帶上了國際足壇的最高峰。",
+        "words": [
+          {
+            "word": "proclamarse",
+            "pos": "verbo pronominal",
+            "zh": "宣告自己成為……；榮獲（冠軍）",
+            "example": "El equipo se proclamó campeón tras una final épica."
+          },
+          {
+            "word": "seleccionador",
+            "pos": "sustantivo masculino",
+            "zh": "國家隊主教練",
+            "example": "El seleccionador convocó a veintisiete jugadores para el torneo."
+          },
+          {
+            "word": "solvencia",
+            "pos": "sustantivo femenino",
+            "zh": "穩健；從容不迫；可靠性",
+            "example": "El equipo resolvió los problemas defensivos con gran solvencia."
+          },
+          {
+            "word": "decantarse",
+            "pos": "verbo pronominal",
+            "zh": "（比賽、局勢）向某方傾斜；分出勝負",
+            "example": "El partido se decantó a favor del local en el último minuto."
+          },
+          {
+            "word": "sentenciar",
+            "pos": "verbo transitivo",
+            "zh": "（比賽中）鎖定勝局；蓋棺論定",
+            "example": "El delantero sentenció el encuentro con un gol en el descuento."
+          },
+          {
+            "word": "rehuir",
+            "pos": "verbo transitivo",
+            "zh": "迴避；逃避",
+            "example": "El político rehuyó las preguntas más incómodas de los periodistas."
+          },
+          {
+            "word": "idiosincrasia",
+            "pos": "sustantivo femenino",
+            "zh": "特有氣質；民族性；個性特質",
+            "example": "La idiosincrasia del fútbol español se basa en la posesión y el juego combinativo."
+          },
+          {
+            "word": "sobreponerse",
+            "pos": "verbo pronominal",
+            "zh": "克服；振作；從……中恢復",
+            "example": "El equipo supo sobreponerse a la adversidad y remontar el marcador."
+          },
+          {
+            "word": "apelar a",
+            "pos": "locución verbal",
+            "zh": "訴諸……；援引；呼籲",
+            "example": "El entrenador apeló al orgullo de sus jugadores antes del partido decisivo."
+          },
+          {
+            "word": "generación dorada",
+            "pos": "locución nominal",
+            "zh": "黃金一代",
+            "example": "La generación dorada del baloncesto español dominó el mundo durante más de una década."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cómo describió Luis de la Fuente a sus jugadores en la rueda de prensa?",
+            "options": [
+              "Como profesionales disciplinados y obedientes",
+              "Como un grupo, un equipo y una familia",
+              "Como los mejores futbolistas del mundo individualmente",
+              "Como una generación que superó todas las expectativas tácticas"
+            ],
+            "answer": 1,
+            "explain": "德拉富恩特明確說球員們是「un grupo, un equipo, una familia」（一個群體、一支球隊、一個大家庭），強調集體精神而非個人表現。"
+          },
+          {
+            "q": "Cuando De la Fuente dice que el partido «debió decantarse antes», ¿qué quiere decir?",
+            "options": [
+              "Que el partido debería haberse jugado en otra fecha",
+              "Que el árbitro debería haber intervenido antes",
+              "Que el resultado debería haberse definido más temprano en el juego",
+              "Que el equipo rival fue superior durante la mayor parte del encuentro"
+            ],
+            "answer": 2,
+            "explain": "「Decantarse」在比賽語境中指「勝負傾斜、分出高下」，所以「debió decantarse antes」意指比賽應該更早就確定了勝負，即西班牙本有機會更早鎖定勝局。"
+          },
+          {
+            "q": "¿Qué significa la frase «siendo España, tienes que sufrir» en el contexto del artículo?",
+            "options": [
+              "Que el fútbol español siempre genera resultados negativos",
+              "Que España suele ganar con facilidad y sin tensión",
+              "Que es propio de la selección española vivir momentos de angustia aunque acabe ganando",
+              "Que los jugadores españoles no tienen suficiente calidad técnica"
+            ],
+            "answer": 2,
+            "explain": "德拉富恩特用這句話說明西班牙隊的比賽特性：即使最終獲勝，過程中也總會經歷緊張煎熬的時刻，這是西班牙足球的一種「本質」。"
+          },
+          {
+            "q": "¿Cuál fue la actitud del entrenador al analizar el rendimiento del equipo tras el partido?",
+            "options": [
+              "Evitó cualquier crítica para no deslucir la celebración",
+              "Reconoció abiertamente que el equipo debería haber resuelto el partido con mayor claridad",
+              "Culpó al árbitro por no haber ayudado al equipo en momentos clave",
+              "Afirmó que fue la actuación perfecta de su carrera como entrenador"
+            ],
+            "answer": 1,
+            "explain": "文中明確指出德拉富恩特「no rehuyó el análisis crítico」（沒有迴避批判性分析），並坦承比賽「debió decantarse antes y con más solvencia」（應更早、更穩健地分出勝負）。"
+          },
+          {
+            "q": "Según el artículo, ¿qué consolida este título mundial para España?",
+            "options": [
+              "La superioridad económica del fútbol español sobre otros países",
+              "El legado de una generación dorada que ha llevado a España a lo más alto",
+              "La retirada definitiva de Luis de la Fuente como entrenador",
+              "El inicio de una nueva era sin referentes de generaciones anteriores"
+            ],
+            "answer": 1,
+            "explain": "文章最後一段明確寫道「El título mundial consolida el legado de una generación dorada que ha llevado el nombre de España a lo más alto del fútbol internacional」，說明這個冠軍鞏固了黃金一代的歷史遺產。"
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-07-20-real-2",
+        "source": "real",
+        "level_label": "约 B2–C1",
+        "origin_url": "https://www.bbc.com/mundo/articles/c1j1lz2k7epo?at_medium=RSS&at_campaign=rss",
+        "origin_name": "BBC Mundo",
+        "title": "Argentina y España: enemigos íntimos en la final del mundo",
+        "text": "El último partido que jugaron las selecciones masculinas de fútbol de Argentina y España lo ganaron los europeos. La única vez que se cruzaron en un partido oficial vencieron los sudamericanos. Están igualados en victorias (seis para cada uno) y dos veces han empatado.\n\nAmbos equipos protagonizan una final inédita en la historia de los Mundiales, no solo porque nunca se habían enfrentado en esta instancia, sino porque es la primera vez que el campeón de la Copa América contra el campeón de la Eurocopa definen la Copa del Mundo. Además, Argentina llegó a este torneo siendo la número uno del ranking FIFA y España, la dos. Nunca desde que se creó este listado, en 1992, los equipos nacionales que lideran la clasificación se habían enfrentado en una final de un Mundial.\n\nA españoles y argentinos los une una historia y una cultura compartida. La migración masiva de europeos al país sudamericano a fines del siglo XIX e inicios del siglo XX queda patente en que haya tres jugadores apellidados Martínez en la Albiceleste. El fútbol es una parte central de esta relación: incluso jugadores nacidos en una orilla han jugado para el equipo nacional de la otra, además del rol protagónico de estrellas argentinas en la liga española, cuyo caso más excepcional es el de Lionel Messi.\n\nEl domingo, debido a su historia compartida, más que rivales serán \"enemigos íntimos\", como se titulaba aquel disco que lanzaron en 1998 Fito Páez y Joaquín Sabina. Ambos jugarán, además, la segunda final donde los 22 jugadores y las dos hinchadas hablan el idioma de Cervantes. Para el otro antecedente hay que remontarse nada menos que a la final de 1930, protagonizada por argentinos y uruguayos.",
+        "translation": "阿根廷和西班牙男足最近一次交手，由歐洲人奪勝。而兩隊唯一一次在正式賽事中相遇，則由南美洲人勝出。目前雙方勝場數持平（各六勝），並曾兩度握手言和。\n\n兩支球隊上演了一場世界盃史上前所未有的決賽，不僅因為雙方從未在這個舞台上交鋒，更因為這是美洲盃冠軍與歐洲盃冠軍首次同台角逐世界盃冠軍寶座。此外，阿根廷以國際足聯排名第一的姿態參賽，西班牙則位居第二。自1992年排名制度建立以來，從未有兩支高居榜首的球隊在世界盃決賽中相遇。\n\n西班牙人與阿根廷人因共同的歷史與文化緊密相連。19世紀末至20世紀初歐洲移民大規模湧入南美的歷史，在阿根廷國家隊（Albiceleste）中清晰可見——隊中竟有三名姓馬丁內斯的球員。足球是這段關係的核心：甚至有球員生於一方海岸，卻效力於另一方的國家隊，此外，阿根廷球星在西班牙聯賽中扮演要角，其中最為特殊的例子莫過於里昂內爾·梅西。\n\n由於共同的歷史淵源，這個週日兩隊與其說是對手，不如說是「親密的敵人」——正如費托·帕埃斯與華金·薩比納於1998年共同推出的那張同名專輯的標題。此外，這也將是第二場22名球員及兩方球迷均說塞萬提斯語言的決賽。要追溯另一場先例，得回溯到1930年那場由阿根廷與烏拉圭主演的決賽。",
+        "words": [
+          {
+            "word": "inédito/a",
+            "pos": "adj.",
+            "zh": "前所未有的、史無前例的",
+            "example": "Este encuentro es absolutamente inédito en la historia del torneo."
+          },
+          {
+            "word": "protagonizar",
+            "pos": "v.",
+            "zh": "主演、主導、成為主角",
+            "example": "Los dos equipos protagonizan la final más esperada del año."
+          },
+          {
+            "word": "instancia",
+            "pos": "n. f.",
+            "zh": "（比賽的）階段、環節；場合",
+            "example": "Nunca se habían enfrentado en esta instancia de la competición."
+          },
+          {
+            "word": "quedar patente",
+            "pos": "loc. verb.",
+            "zh": "清楚顯現、顯而易見",
+            "example": "Su talento queda patente en cada partido que disputa."
+          },
+          {
+            "word": "la Albiceleste",
+            "pos": "n. f. (nombre propio)",
+            "zh": "阿根廷國家足球隊的暱稱（白與天藍色）",
+            "example": "La Albiceleste busca su tercer título mundial."
+          },
+          {
+            "word": "orilla",
+            "pos": "n. f.",
+            "zh": "（河、海的）岸邊；此處引申為「海峽的一端、一方」",
+            "example": "Jugadores nacidos en una orilla han representado al equipo de la otra."
+          },
+          {
+            "word": "jactarse de",
+            "pos": "v. prnl.",
+            "zh": "誇耀、自豪地炫耀",
+            "example": "Ambas selecciones pueden jactarse de sus logros en el siglo XXI."
+          },
+          {
+            "word": "remontarse a",
+            "pos": "v. prnl.",
+            "zh": "追溯至、回溯到",
+            "example": "Para encontrar un precedente similar hay que remontarse a la final de 1930."
+          },
+          {
+            "word": "hinchada",
+            "pos": "n. f.",
+            "zh": "（體育賽事的）球迷群體、啦啦隊",
+            "example": "Las dos hinchadas llenaron el estadio con colores y cánticos."
+          },
+          {
+            "word": "enemigos íntimos",
+            "pos": "loc. nom.",
+            "zh": "親密的敵人（形容關係既對立又緊密）",
+            "example": "Más que simples rivales, son enemigos íntimos unidos por la historia."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cuántas veces han empatado Argentina y España en toda su historia de partidos?",
+            "options": [
+              "Una vez",
+              "Dos veces",
+              "Tres veces",
+              "Nunca han empatado"
+            ],
+            "answer": 1,
+            "explain": "文章明確提到「dos veces han empatado」（兩隊曾兩度平局），故答案為選項B。"
+          },
+          {
+            "q": "¿Por qué esta final es considerada inédita en la historia de los Mundiales?",
+            "options": [
+              "Porque es la primera final jugada en Europa",
+              "Porque ambos equipos nunca habían llegado a una final de Mundial",
+              "Porque es la primera vez que el campeón de la Copa América y el de la Eurocopa se disputan el título mundial",
+              "Porque los dos equipos están igualados en el ranking FIFA"
+            ],
+            "answer": 2,
+            "explain": "文章指出這是「la primera vez que el campeón de la Copa América contra el campeón de la Eurocopa definen la Copa del Mundo」，即美洲盃冠軍對歐洲盃冠軍首次在世界盃決賽交手，故選C。"
+          },
+          {
+            "q": "¿Qué evidencia menciona el texto sobre la migración española a Argentina?",
+            "options": [
+              "Que Messi tiene apellidos de origen español",
+              "Que hay tres jugadores apellidados Martínez en la selección argentina",
+              "Que la mayoría de los jugadores argentinos nacieron en España",
+              "Que el idioma oficial de Argentina es el castellano de España"
+            ],
+            "answer": 1,
+            "explain": "文章以阿根廷國家隊中有三名姓馬丁內斯的球員作為西班牙移民潮的具體佐證，故答案為選項B。"
+          },
+          {
+            "q": "¿Qué resultado tuvo el amistoso entre España y Argentina en Madrid en 2018?",
+            "options": [
+              "Argentina 2 - España 1",
+              "Empate 1 a 1",
+              "España 6 - Argentina 1",
+              "España 1 - Argentina 0"
+            ],
+            "answer": 2,
+            "explain": "文章明確記載2018年馬德里友誼賽結果為「España 6 - Argentina 1」，即選項C。"
+          },
+          {
+            "q": "Según el texto, ¿qué tienen en común esta final y la de 1930?",
+            "options": [
+              "Que ambas fueron disputadas en América del Sur",
+              "Que en ambas participaron selecciones de habla hispana",
+              "Que Argentina llegó como favorita en las dos ocasiones",
+              "Que España participó en las dos finales"
+            ],
+            "answer": 1,
+            "explain": "文章提到這場決賽是第二場「los 22 jugadores y las dos hinchadas hablan el idioma de Cervantes」的決賽，另一場為1930年阿根廷對烏拉圭，兩隊皆為西語系國家，故選B。"
+          }
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "2026-07-20-real-3",
+        "source": "real",
+        "level_label": "約 B2–C1",
+        "origin_url": "https://www.bbc.com/mundo/articles/cwy0yvdzzyvo?at_medium=RSS&at_campaign=rss",
+        "origin_name": "BBC Mundo",
+        "title": "Gianni Infantino: una década al frente de la FIFA entre récords y polémicas",
+        "text": "Gianni Infantino es el hombre que mueve los hilos del fútbol internacional. Tras diez años a las riendas de la FIFA, ha logrado reformar y expandir la competición, aunque no sin controversia. Desde las pausas de hidratación —criticadas por muchos como una excusa para ganar dinero con anuncios— hasta la disputada retirada de una tarjeta roja a un delantero estadounidense tras una llamada telefónica del propio presidente Trump, pasando por los precios desorbitados de las entradas: la hinchada internacional no ha tenido pocas razones para criticar su gestión.\n\nSin embargo, su mandato también ha conseguido darle un vuelco a una institución que se encontraba sumida en escándalos de corrupción y con un déficit que llegó a los US$550 millones tras la retirada de los patrocinadores. Cuando asumió el cargo, prometió trabajar incansablemente para que el fútbol volviera a la FIFA y la FIFA volviera al fútbol. Diez años después, el organismo prevé registrar ingresos récord de US$13.000 millones en el ciclo trienal que concluye a finales de este año.\n\nPero esas cifras solo cuentan una parte de la historia. A ellas se suma la polémica Copa Mundial de Clubes y el Mundial más grande de la historia, con sus elevados precios de las entradas. Infantino ha tenido roces con los sindicatos de jugadores y con el fútbol europeo, pero sigue ocupando una posición inexpugnable en la élite del deporte rey.\n\nNacido en Suiza en 1960 en una familia de migrantes italianos, Infantino se crió en un entorno humilde en el que el fútbol siempre estuvo presente. Antes de presidir la FIFA, era conocido sobre todo como el hombre que presentaba los sorteos de la Liga de Campeones, un personaje que rara vez estaba en la mente del aficionado medio. Hoy sería difícil encontrar un seguidor del fútbol que no lo reconozca.",
+        "translation": "賈尼·因凡蒂諾是掌控國際足球命脈的人。在執掌FIFA長達十年之後，他成功地改革並擴大了賽事規模，儘管並非沒有爭議。從飲水暫停——許多人批評這不過是趁廣告時段斂財的藉口——到在美國總統川普親自致電後撤銷對一名美國前鋒紅牌的爭議決定，再加上高得離譜的門票價格：國際球迷批評他施政的理由從來不少。\n\n然而，他的任期也成功地讓這個曾深陷腐敗醜聞、因贊助商撤資而累積高達5億5千萬美元赤字的機構脫胎換骨。就任時，他承諾將不懈努力，讓足球回歸FIFA、讓FIFA回歸足球。十年後，該組織預計在今年底結束的三年週期內創下130億美元的破紀錄收入。\n\n但這些數字只說明了故事的一部分。除此之外，還有備受爭議的世界俱樂部盃，以及史上規模最大、門票價格高昂的世界盃。因凡蒂諾與球員工會及歐洲足球界都有過摩擦，但他在足球精英圈中的地位依然牢不可破。\n\n因凡蒂諾於1960年出生在瑞士一個義大利移民家庭，在足球始終相伴的平凡環境中成長。在執掌FIFA之前，他最為人所知的形象不過是主持歐洲冠軍聯賽抽籤儀式的那個人，一個鮮少出現在普通球迷腦海中的名字。如今，恐怕很難找到一個不認識他的足球迷了。",
+        "words": [
+          {
+            "word": "mover los hilos",
+            "pos": "loc. verbal（動詞片語）",
+            "zh": "幕後操控、掌握主導權",
+            "example": "El director ejecutivo mueve los hilos de toda la organización sin aparecer en público."
+          },
+          {
+            "word": "a las riendas de",
+            "pos": "loc. preposicional（介詞片語）",
+            "zh": "執掌……、掌舵……",
+            "example": "Lleva cinco años a las riendas de la empresa y ha logrado triplicar sus beneficios."
+          },
+          {
+            "word": "desorbitado/a",
+            "pos": "adj.（形容詞）",
+            "zh": "高得離譜的、過分的、天文數字的",
+            "example": "Los precios desorbitados de la vivienda hacen imposible el acceso a la propiedad para los jóvenes."
+          },
+          {
+            "word": "darle un vuelco a algo",
+            "pos": "loc. verbal（動詞片語）",
+            "zh": "使……徹底改變、讓……翻轉",
+            "example": "La nueva tecnología le dio un vuelco completo al sector editorial."
+          },
+          {
+            "word": "sumido/a en",
+            "pos": "loc. adjetival（形容詞片語）",
+            "zh": "深陷於……、沉浸在……（多指困境）",
+            "example": "El país lleva años sumido en una grave crisis económica."
+          },
+          {
+            "word": "incansablemente",
+            "pos": "adv.（副詞）",
+            "zh": "不懈地、孜孜不倦地",
+            "example": "Los voluntarios trabajaron incansablemente para ayudar a las víctimas del terremoto."
+          },
+          {
+            "word": "inexpugnable",
+            "pos": "adj.（形容詞）",
+            "zh": "牢不可破的、難以撼動的",
+            "example": "Su popularidad entre los votantes lo sitúa en una posición inexpugnable de cara a las elecciones."
+          },
+          {
+            "word": "roce",
+            "pos": "m. n.（陽性名詞）",
+            "zh": "摩擦、衝突、齟齬",
+            "example": "Los roces entre los dos departamentos se han vuelto cada vez más frecuentes."
+          },
+          {
+            "word": "hinchada",
+            "pos": "f. n.（陰性名詞）",
+            "zh": "（球隊的）球迷群體、支持者",
+            "example": "La hinchada local animó al equipo durante los noventa minutos del partido."
+          },
+          {
+            "word": "sorteo",
+            "pos": "m. n.（陽性名詞）",
+            "zh": "抽籤、抽選",
+            "example": "El sorteo de la fase de grupos del torneo se celebrará la próxima semana en Zúrich."
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cuál era el déficit de la FIFA antes de que Infantino asumiera la presidencia?",
+            "options": [
+              "US$550 millones",
+              "US$13.000 millones",
+              "US$1.300 millones",
+              "US$5.500 millones"
+            ],
+            "answer": 0,
+            "explain": "文章明確指出，由於贊助商因腐敗醜聞撤資，FIFA的赤字達到5億5千萬美元（US$550 millones）。"
+          },
+          {
+            "q": "¿Cuál de las siguientes situaciones se menciona como motivo de crítica hacia Infantino?",
+            "options": [
+              "La eliminación de las tarjetas amarillas en los partidos",
+              "La retirada de una tarjeta roja tras una llamada telefónica de Trump",
+              "La prohibición de las pausas de hidratación en el Mundial",
+              "La reducción del número de equipos participantes en el Mundial"
+            ],
+            "answer": 1,
+            "explain": "文章提到，在川普致電後撤銷對美國前鋒紅牌一事（la disputada retirada de la tarjeta roja tras una llamada telefónica del propio Trump）是球迷批評因凡蒂諾的原因之一。"
+          },
+          {
+            "q": "Antes de convertirse en presidente de la FIFA, ¿qué cargo ocupaba Infantino?",
+            "options": [
+              "Presidente de la UEFA",
+              "Secretario general de la FIFA",
+              "Secretario general de la UEFA",
+              "Presidente de la Liga de Campeones"
+            ],
+            "answer": 2,
+            "explain": "文章說明，因凡蒂諾在出任FIFA主席之前，擔任的是UEFA（歐洲足球聯盟）的秘書長（secretario general），是主席普拉蒂尼的得力助手。"
+          },
+          {
+            "q": "¿Qué ingresos récord prevé registrar la FIFA al final del ciclo trienal mencionado en el texto?",
+            "options": [
+              "US$550 millones",
+              "US$1.300 millones",
+              "US$13.000 millones",
+              "US$130.000 millones"
+            ],
+            "answer": 2,
+            "explain": "文章指出，FIFA預計在今年底結束的三年週期內錄得130億美元（US$13.000 millones）的破紀錄收入。"
+          },
+          {
+            "q": "Según el texto, ¿cómo era percibido Infantino por el aficionado medio antes de presidir la FIFA?",
+            "options": [
+              "Como un famoso jugador de fútbol retirado",
+              "Como un político con gran influencia en el deporte",
+              "Como el presentador de los sorteos de la Liga de Campeones",
+              "Como el máximo responsable del escándalo de corrupción"
+            ],
+            "answer": 2,
+            "explain": "文章描述，在擔任FIFA主席之前，因凡蒂諾在普通球迷眼中不過是「那個主持歐冠抽籤的人」（el tipo que presentaba los sorteos de la Liga de Campeones），知名度相當有限。"
+          }
+        ]
+      }
+    ]
+  }
+}

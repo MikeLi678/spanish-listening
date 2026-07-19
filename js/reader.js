@@ -9,15 +9,51 @@ const id = params.get("id");
 let article = null;
 let rate = 1;
 
-function speak(text) {
-  window.speechSynthesis.cancel();
-  const u = new SpeechSynthesisUtterance(text);
+// 播放控制：Web Speech API 無法改變進行中語音的語速，
+// 所以改語速時從目前唸到的位置用新語速重啟；暫停/繼續用 pause()/resume()
+let utter = null;      // 目前的 utterance（用來忽略被 cancel 的舊事件）
+let currentChar = 0;   // 目前唸到的字元位置（相對 article.text）
+let playing = false;   // 是否正在播放（含暫停中）
+let paused = false;
+let warnedNoVoice = false;
+
+function speakFrom(fromChar) {
+  const u = new SpeechSynthesisUtterance(article.text.slice(fromChar));
   u.lang = "es-ES";
   u.rate = rate;
   const voice = window.speechSynthesis.getVoices().find((v) => v.lang.startsWith("es"));
   if (voice) u.voice = voice;
-  else alert("此瀏覽器沒有西語語音，文字閱讀仍可使用。");
+  else if (!warnedNoVoice) {
+    warnedNoVoice = true;
+    alert("此瀏覽器沒有西語語音，文字閱讀仍可使用。");
+  }
+  u.onboundary = (e) => { if (utter === u) currentChar = fromChar + e.charIndex; };
+  u.onend = () => {
+    if (utter !== u) return;   // 忽略被 cancel 掉的舊 utterance
+    playing = false; paused = false; currentChar = 0; updatePlayButton();
+  };
+  utter = u;
+  window.speechSynthesis.cancel();
   window.speechSynthesis.speak(u);
+  playing = true; paused = false; updatePlayButton();
+}
+
+function togglePlay() {
+  if (!playing) { speakFrom(0); return; }
+  if (paused) { window.speechSynthesis.resume(); paused = false; }
+  else { window.speechSynthesis.pause(); paused = true; }
+  updatePlayButton();
+}
+
+function setRate(value) {
+  rate = value;
+  if (playing) speakFrom(currentChar);   // 播放中改語速：從目前位置用新語速無縫重啟
+}
+
+function updatePlayButton() {
+  const btn = document.getElementById("play");
+  if (!btn) return;
+  btn.textContent = !playing ? "▶ 播放" : (paused ? "▶ 繼續" : "⏸ 暫停");
 }
 
 function showPopup(word) {
@@ -126,8 +162,8 @@ async function init() {
   root.appendChild(document.createElement("hr"));
   root.appendChild(renderQuiz());
 
-  document.getElementById("rate").onchange = (e) => { rate = parseFloat(e.target.value); };
-  document.getElementById("play").onclick = () => speak(article.text);
+  document.getElementById("rate").onchange = (e) => setRate(parseFloat(e.target.value));
+  document.getElementById("play").onclick = togglePlay;
   if (translationEl) {
     const tbtn = document.getElementById("translate");
     tbtn.onclick = () => {

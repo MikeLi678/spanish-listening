@@ -16,12 +16,25 @@ let currentChar = 0;   // 目前唸到的字元位置（相對 article.text）
 let playing = false;   // 是否正在播放（含暫停中）
 let paused = false;
 let warnedNoVoice = false;
+let keepAlive = null;
+
+// Chrome 長語音約 15 秒會被自動中斷：播放中（非使用者暫停）週期性 resume 保活
+function startKeepAlive() {
+  stopKeepAlive();
+  keepAlive = setInterval(() => {
+    if (playing && !paused) window.speechSynthesis.resume();
+  }, 10000);
+}
+function stopKeepAlive() {
+  if (keepAlive) { clearInterval(keepAlive); keepAlive = null; }
+}
 
 function speakFrom(fromChar) {
+  const synth = window.speechSynthesis;
   const u = new SpeechSynthesisUtterance(article.text.slice(fromChar));
   u.lang = "es-ES";
   u.rate = rate;
-  const voice = window.speechSynthesis.getVoices().find((v) => v.lang.startsWith("es"));
+  const voice = synth.getVoices().find((v) => v.lang.startsWith("es"));
   if (voice) u.voice = voice;
   else if (!warnedNoVoice) {
     warnedNoVoice = true;
@@ -30,18 +43,28 @@ function speakFrom(fromChar) {
   u.onboundary = (e) => { if (utter === u) currentChar = fromChar + e.charIndex; };
   u.onend = () => {
     if (utter !== u) return;   // 忽略被 cancel 掉的舊 utterance
-    playing = false; paused = false; currentChar = 0; updatePlayButton();
+    playing = false; paused = false; currentChar = 0;
+    stopKeepAlive();
+    updatePlayButton();
   };
   utter = u;
-  window.speechSynthesis.cancel();
-  window.speechSynthesis.speak(u);
-  playing = true; paused = false; updatePlayButton();
+  const doSpeak = () => { if (utter === u) synth.speak(u); };
+  if (synth.speaking || synth.pending) {
+    synth.cancel();
+    setTimeout(doSpeak, 120);   // 避開 Chrome 的 cancel→speak 競態
+  } else {
+    doSpeak();
+  }
+  playing = true; paused = false;
+  startKeepAlive();
+  updatePlayButton();
 }
 
 function togglePlay() {
+  const synth = window.speechSynthesis;
   if (!playing) { speakFrom(0); return; }
-  if (paused) { window.speechSynthesis.resume(); paused = false; }
-  else { window.speechSynthesis.pause(); paused = true; }
+  if (paused) { synth.resume(); paused = false; }
+  else { synth.pause(); paused = true; }
   updatePlayButton();
 }
 

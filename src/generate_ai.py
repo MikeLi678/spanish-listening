@@ -21,18 +21,20 @@ def generate_ai_article(level: str, date: str, caller=call_claude) -> dict:
 - 全文使用西班牙語（含標點與重音符號）
 
 同時提供：
+- translation（整篇短文的繁體中文全文翻譯，通順自然）
 - 8 到 10 個文中重點單字，每個含：word（單字）、pos（詞性縮寫）、zh（繁體中文釋義）、example（西語例句）
 - 5 題西語四選一理解測驗，每題含：q（西語題目）、options（4 個西語選項）、answer（正解索引 0-3）、explain（繁體中文簡短解析）
 
 只回傳 JSON 物件，格式：
-{{"title": "...", "text": "...", "words": [...], "quiz": [...]}}"""
-    data = parse_json(caller(prompt, max_tokens=2000), {})
+{{"title": "...", "text": "...", "translation": "...", "words": [...], "quiz": [...]}}"""
+    data = parse_json(caller(prompt, max_tokens=2500), {})
     return {
         "id": f"{date}-{level}-1",
         "source": "ai",
         "level_label": level,
         "title": data.get("title", ""),
         "text": data.get("text", ""),
+        "translation": data.get("translation", ""),
         "words": data.get("words", []),
         "quiz": data.get("quiz", []),
     }

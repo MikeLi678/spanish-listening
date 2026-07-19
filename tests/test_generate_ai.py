@@ -6,6 +6,7 @@ from schema import validate_article
 _FAKE = json.dumps({
     "title": "Mi día",
     "text": "Yo como pan por la mañana.",
+    "translation": "我早上吃麵包。",
     "words": [{"word": "pan", "pos": "n.m.", "zh": "麵包", "example": "Como pan."}],
     "quiz": [{"q": "¿Qué come?", "options": ["pan", "agua", "sol", "casa"],
               "answer": 0, "explain": "文中 como pan。"}],
@@ -22,3 +23,4 @@ def test_generate_returns_valid_article():
     assert art["source"] == "ai"
     assert art["level_label"] == "A1"
     assert art["id"].startswith("2026-07-18-A1")
+    assert art["translation"] == "我早上吃麵包。"

@@ -100,14 +100,41 @@ async function init() {
       : `AI 生成 · ${article.level_label}`}</div>
     <div class="controls">
       <button class="primary" id="play">▶ 播放</button>
-      語速 <input id="rate" type="range" min="0.7" max="1.2" step="0.1" value="1">
+      語速
+      <select id="rate">
+        <option value="0.25">0.25x</option>
+        <option value="0.5">0.5x</option>
+        <option value="0.75">0.75x</option>
+        <option value="1" selected>1x</option>
+        <option value="1.25">1.25x</option>
+        <option value="1.5">1.5x</option>
+        <option value="2">2x</option>
+      </select>
+      ${article.translation ? '<button id="translate">翻譯成中文</button>' : ""}
     </div>`;
   root.appendChild(renderText());
+
+  let translationEl = null;
+  if (article.translation) {
+    translationEl = document.createElement("div");
+    translationEl.className = "translation";
+    translationEl.hidden = true;
+    translationEl.textContent = article.translation;
+    root.appendChild(translationEl);
+  }
+
   root.appendChild(document.createElement("hr"));
   root.appendChild(renderQuiz());
 
-  document.getElementById("rate").oninput = (e) => { rate = parseFloat(e.target.value); };
+  document.getElementById("rate").onchange = (e) => { rate = parseFloat(e.target.value); };
   document.getElementById("play").onclick = () => speak(article.text);
+  if (translationEl) {
+    const tbtn = document.getElementById("translate");
+    tbtn.onclick = () => {
+      translationEl.hidden = !translationEl.hidden;
+      tbtn.textContent = translationEl.hidden ? "翻譯成中文" : "隱藏翻譯";
+    };
+  }
 }
 
 // 有些瀏覽器語音清單需等 voiceschanged

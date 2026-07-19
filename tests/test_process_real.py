@@ -7,6 +7,7 @@ _FAKE = json.dumps({
     "level_label": "約 B2–C1",
     "title": "La economía",
     "text": "Un párrafo real de nivel avanzado sobre economía y sociedad.",
+    "translation": "一段關於經濟與社會的進階程度真實段落。",
     "words": [{"word": "economía", "pos": "n.f.", "zh": "經濟", "example": "La economía crece."}],
     "quiz": [{"q": "¿De qué trata?", "options": ["economía", "deporte", "clima", "arte"],
               "answer": 0, "explain": "主題是經濟。"}],
@@ -24,3 +25,4 @@ def test_process_returns_valid_real_article():
     assert art["origin_url"] == "https://elpais.com/x"
     assert art["origin_name"] == "El País"
     assert "B2" in art["level_label"]
+    assert art["translation"] == "一段關於經濟與社會的進階程度真實段落。"

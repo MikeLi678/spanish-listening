@@ -14,61 +14,71 @@
             "word": "pequeño/a",
             "pos": "adj.",
             "zh": "小的",
-            "example": "Mi casa es pequeña."
+            "example": "Mi casa es pequeña.",
+            "example_zh": "我的房子很小。"
           },
           {
             "word": "persona",
             "pos": "n.",
             "zh": "人",
-            "example": "Hay cuatro personas en mi familia."
+            "example": "Hay cuatro personas en mi familia.",
+            "example_zh": "我家有四個人。"
           },
           {
             "word": "hace sol",
             "pos": "expr.",
             "zh": "天氣晴朗",
-            "example": "Hoy hace sol y hace calor."
+            "example": "Hoy hace sol y hace calor.",
+            "example_zh": "今天天氣晴朗又炎熱。"
           },
           {
             "word": "cielo",
             "pos": "n.",
             "zh": "天空",
-            "example": "El cielo es azul."
+            "example": "El cielo es azul.",
+            "example_zh": "天空是藍色的。"
           },
           {
             "word": "juntos/as",
             "pos": "adv.",
             "zh": "一起",
-            "example": "Comemos juntos por la mañana."
+            "example": "Comemos juntos por la mañana.",
+            "example_zh": "我們早上一起吃飯。"
           },
           {
             "word": "tostada",
             "pos": "n.",
             "zh": "吐司",
-            "example": "Como una tostada con mantequilla."
+            "example": "Como una tostada con mantequilla.",
+            "example_zh": "我吃一片塗了奶油的吐司。"
           },
           {
             "word": "mantequilla",
             "pos": "n.",
             "zh": "奶油",
-            "example": "La mantequilla es amarilla."
+            "example": "La mantequilla es amarilla.",
+            "example_zh": "奶油是黃色的。"
           },
           {
             "word": "beber",
             "pos": "v.",
             "zh": "喝",
-            "example": "Él bebe agua todos los días."
+            "example": "Él bebe agua todos los días.",
+            "example_zh": "他每天喝水。"
           },
           {
             "word": "leche",
             "pos": "n.",
             "zh": "牛奶",
-            "example": "Los niños beben leche."
+            "example": "Los niños beben leche.",
+            "example_zh": "孩子們喝牛奶。"
           },
           {
             "word": "contento/a",
             "pos": "adj.",
             "zh": "開心的、滿足的",
-            "example": "Estoy contento hoy."
+            "example": "Estoy contento hoy.",
+            "example_zh": "我今天很開心。"
           }
         ],
         "quiz": [
@@ -143,61 +153,71 @@
             "word": "viajar",
             "pos": "v.",
             "zh": "旅行",
-            "example": "Me gusta viajar a otros países."
+            "example": "Me gusta viajar a otros países.",
+            "example_zh": "我喜歡去其他國家旅行。"
           },
           {
             "word": "visitar",
             "pos": "v.",
             "zh": "參觀、拜訪",
-            "example": "Visitamos el museo por la mañana."
+            "example": "Visitamos el museo por la mañana.",
+            "example_zh": "我們早上參觀了博物館。"
           },
           {
             "word": "recuerdo",
             "pos": "n. m.",
             "zh": "紀念品；回憶",
-            "example": "Compré un recuerdo para mi madre."
+            "example": "Compré un recuerdo para mi madre.",
+            "example_zh": "我買了一份紀念品給我媽媽。"
           },
           {
             "word": "animado/a",
             "pos": "adj.",
             "zh": "熱鬧的、充滿活力的",
-            "example": "La ciudad es muy animada por la noche."
+            "example": "La ciudad es muy animada por la noche.",
+            "example_zh": "這座城市在夜晚非常熱鬧。"
           },
           {
             "word": "paella",
             "pos": "n. f.",
             "zh": "西班牙海鮮燉飯",
-            "example": "La paella valenciana es deliciosa."
+            "example": "La paella valenciana es deliciosa.",
+            "example_zh": "瓦倫西亞海鮮燉飯非常美味。"
           },
           {
             "word": "volver",
             "pos": "v.",
             "zh": "返回、再去",
-            "example": "Quiero volver a ese restaurante."
+            "example": "Quiero volver a ese restaurante.",
+            "example_zh": "我想再去那家餐廳。"
           },
           {
             "word": "antes de",
             "pos": "prep.",
             "zh": "在……之前",
-            "example": "Estudio antes de dormir."
+            "example": "Estudio antes de dormir.",
+            "example_zh": "我在睡前讀書。"
           },
           {
             "word": "gente",
             "pos": "n. f.",
             "zh": "人們",
-            "example": "Hay mucha gente en el mercado."
+            "example": "Hay mucha gente en el mercado.",
+            "example_zh": "市場裡有很多人。"
           },
           {
             "word": "local",
             "pos": "adj.",
             "zh": "當地的",
-            "example": "Nos gustó la comida local."
+            "example": "Nos gustó la comida local.",
+            "example_zh": "我們很喜歡當地的食物。"
           },
           {
             "word": "cerca de",
             "pos": "prep.",
             "zh": "在……附近",
-            "example": "El hotel está cerca del aeropuerto."
+            "example": "El hotel está cerca del aeropuerto.",
+            "example_zh": "飯店就在機場附近。"
           }
         ],
         "quiz": [
@@ -272,61 +292,71 @@
             "word": "mercado laboral",
             "pos": "n.m.",
             "zh": "勞動市場",
-            "example": "El mercado laboral está cambiando debido a la tecnología."
+            "example": "El mercado laboral está cambiando debido a la tecnología.",
+            "example_zh": "由於科技的發展，勞動市場正在發生變化。"
           },
           {
             "word": "automatización",
             "pos": "n.f.",
             "zh": "自動化",
-            "example": "La automatización puede eliminar muchos empleos tradicionales."
+            "example": "La automatización puede eliminar muchos empleos tradicionales.",
+            "example_zh": "自動化可能會消滅許多傳統職業。"
           },
           {
             "word": "reemplazar",
             "pos": "v.",
             "zh": "取代、替換",
-            "example": "Los robots podrían reemplazar a los trabajadores en las fábricas."
+            "example": "Los robots podrían reemplazar a los trabajadores en las fábricas.",
+            "example_zh": "機器人可能會取代工廠裡的工人。"
           },
           {
             "word": "esforzarse",
             "pos": "v. pron.",
             "zh": "努力、盡力",
-            "example": "Ella se esfuerza cada día para mejorar sus habilidades."
+            "example": "Ella se esfuerza cada día para mejorar sus habilidades.",
+            "example_zh": "她每天都努力提升自己的技能。"
           },
           {
             "word": "formación profesional",
             "pos": "n.f.",
             "zh": "職業培訓",
-            "example": "El gobierno ofrece programas de formación profesional gratuitos."
+            "example": "El gobierno ofrece programas de formación profesional gratuitos.",
+            "example_zh": "政府提供免費的職業培訓課程。"
           },
           {
             "word": "adaptarse",
             "pos": "v. pron.",
             "zh": "適應",
-            "example": "Es importante adaptarse a los cambios del mercado laboral."
+            "example": "Es importante adaptarse a los cambios del mercado laboral.",
+            "example_zh": "適應勞動市場的變化非常重要。"
           },
           {
             "word": "condiciones laborales",
             "pos": "n.f.pl.",
             "zh": "勞動條件",
-            "example": "Los empleados exigen mejores condiciones laborales."
+            "example": "Los empleados exigen mejores condiciones laborales.",
+            "example_zh": "員工要求改善工作條件。"
           },
           {
             "word": "prosperar",
             "pos": "v.",
             "zh": "繁榮、蓬勃發展",
-            "example": "Sin clientes satisfechos, una empresa no puede prosperar."
+            "example": "Sin clientes satisfechos, una empresa no puede prosperar.",
+            "example_zh": "沒有滿意的客戶，企業就無法蓬勃發展。"
           },
           {
             "word": "equilibrio",
             "pos": "n.m.",
             "zh": "平衡",
-            "example": "Debemos buscar un equilibrio entre el trabajo y la vida personal."
+            "example": "Debemos buscar un equilibrio entre el trabajo y la vida personal.",
+            "example_zh": "我們應該在工作與個人生活之間尋求平衡。"
           },
           {
             "word": "bienestar",
             "pos": "n.m.",
             "zh": "福祉、幸福",
-            "example": "El bienestar de los ciudadanos debe ser la prioridad del gobierno."
+            "example": "El bienestar de los ciudadanos debe ser la prioridad del gobierno.",
+            "example_zh": "市民的福祉應該是政府的首要任務。"
           }
         ],
         "quiz": [
@@ -403,61 +433,71 @@
             "word": "proclamarse",
             "pos": "verbo pronominal",
             "zh": "宣告自己成為……；榮獲（冠軍）",
-            "example": "El equipo se proclamó campeón tras una final épica."
+            "example": "El equipo se proclamó campeón tras una final épica.",
+            "example_zh": "該隊在一場史詩級的決賽後榮登冠軍寶座。"
           },
           {
             "word": "seleccionador",
             "pos": "sustantivo masculino",
             "zh": "國家隊主教練",
-            "example": "El seleccionador convocó a veintisiete jugadores para el torneo."
+            "example": "El seleccionador convocó a veintisiete jugadores para el torneo.",
+            "example_zh": "主教練為本次錦標賽徵召了二十七名球員。"
           },
           {
             "word": "solvencia",
             "pos": "sustantivo femenino",
             "zh": "穩健；從容不迫；可靠性",
-            "example": "El equipo resolvió los problemas defensivos con gran solvencia."
+            "example": "El equipo resolvió los problemas defensivos con gran solvencia.",
+            "example_zh": "該隊以出色的穩健表現解決了防守上的問題。"
           },
           {
             "word": "decantarse",
             "pos": "verbo pronominal",
             "zh": "（比賽、局勢）向某方傾斜；分出勝負",
-            "example": "El partido se decantó a favor del local en el último minuto."
+            "example": "El partido se decantó a favor del local en el último minuto.",
+            "example_zh": "比賽在最後一分鐘向主隊傾斜。"
           },
           {
             "word": "sentenciar",
             "pos": "verbo transitivo",
             "zh": "（比賽中）鎖定勝局；蓋棺論定",
-            "example": "El delantero sentenció el encuentro con un gol en el descuento."
+            "example": "El delantero sentenció el encuentro con un gol en el descuento.",
+            "example_zh": "前鋒在補時階段打入一球，為比賽畫上句點。"
           },
           {
             "word": "rehuir",
             "pos": "verbo transitivo",
             "zh": "迴避；逃避",
-            "example": "El político rehuyó las preguntas más incómodas de los periodistas."
+            "example": "El político rehuyó las preguntas más incómodas de los periodistas.",
+            "example_zh": "這位政治人物刻意迴避了記者們最尖銳的問題。"
           },
           {
             "word": "idiosincrasia",
             "pos": "sustantivo femenino",
             "zh": "特有氣質；民族性；個性特質",
-            "example": "La idiosincrasia del fútbol español se basa en la posesión y el juego combinativo."
+            "example": "La idiosincrasia del fútbol español se basa en la posesión y el juego combinativo.",
+            "example_zh": "西班牙足球的獨特風格建立在控球與組合進攻之上。"
           },
           {
             "word": "sobreponerse",
             "pos": "verbo pronominal",
             "zh": "克服；振作；從……中恢復",
-            "example": "El equipo supo sobreponerse a la adversidad y remontar el marcador."
+            "example": "El equipo supo sobreponerse a la adversidad y remontar el marcador.",
+            "example_zh": "該隊懂得克服逆境，成功逆轉比分。"
           },
           {
             "word": "apelar a",
             "pos": "locución verbal",
             "zh": "訴諸……；援引；呼籲",
-            "example": "El entrenador apeló al orgullo de sus jugadores antes del partido decisivo."
+            "example": "El entrenador apeló al orgullo de sus jugadores antes del partido decisivo.",
+            "example_zh": "教練在這場關鍵賽事前喚起球員們的自尊心。"
           },
           {
             "word": "generación dorada",
             "pos": "locución nominal",
             "zh": "黃金一代",
-            "example": "La generación dorada del baloncesto español dominó el mundo durante más de una década."
+            "example": "La generación dorada del baloncesto español dominó el mundo durante más de una década.",
+            "example_zh": "西班牙籃球的黃金世代稱霸世界長達十餘年。"
           }
         ],
         "quiz": [
@@ -534,61 +574,71 @@
             "word": "inédito/a",
             "pos": "adj.",
             "zh": "前所未有的、史無前例的",
-            "example": "Este encuentro es absolutamente inédito en la historia del torneo."
+            "example": "Este encuentro es absolutamente inédito en la historia del torneo.",
+            "example_zh": "這場相遇在錦標賽史上是絕對前所未有的。"
           },
           {
             "word": "protagonizar",
             "pos": "v.",
             "zh": "主演、主導、成為主角",
-            "example": "Los dos equipos protagonizan la final más esperada del año."
+            "example": "Los dos equipos protagonizan la final más esperada del año.",
+            "example_zh": "兩支球隊共同演繹了年度最受期待的決賽。"
           },
           {
             "word": "instancia",
             "pos": "n. f.",
             "zh": "（比賽的）階段、環節；場合",
-            "example": "Nunca se habían enfrentado en esta instancia de la competición."
+            "example": "Nunca se habían enfrentado en esta instancia de la competición.",
+            "example_zh": "他們從未在這項賽事的這個階段交鋒過。"
           },
           {
             "word": "quedar patente",
             "pos": "loc. verb.",
             "zh": "清楚顯現、顯而易見",
-            "example": "Su talento queda patente en cada partido que disputa."
+            "example": "Su talento queda patente en cada partido que disputa.",
+            "example_zh": "他的才華在每一場比賽中都表露無遺。"
           },
           {
             "word": "la Albiceleste",
             "pos": "n. f. (nombre propio)",
             "zh": "阿根廷國家足球隊的暱稱（白與天藍色）",
-            "example": "La Albiceleste busca su tercer título mundial."
+            "example": "La Albiceleste busca su tercer título mundial.",
+            "example_zh": "阿根廷隊正在追求他們的第三座世界冠軍。"
           },
           {
             "word": "orilla",
             "pos": "n. f.",
             "zh": "（河、海的）岸邊；此處引申為「海峽的一端、一方」",
-            "example": "Jugadores nacidos en una orilla han representado al equipo de la otra."
+            "example": "Jugadores nacidos en una orilla han representado al equipo de la otra.",
+            "example_zh": "出生在一岸的球員曾代表另一岸的球隊出賽。"
           },
           {
             "word": "jactarse de",
             "pos": "v. prnl.",
             "zh": "誇耀、自豪地炫耀",
-            "example": "Ambas selecciones pueden jactarse de sus logros en el siglo XXI."
+            "example": "Ambas selecciones pueden jactarse de sus logros en el siglo XXI.",
+            "example_zh": "兩支國家隊都能以各自在二十一世紀的成就自豪。"
           },
           {
             "word": "remontarse a",
             "pos": "v. prnl.",
             "zh": "追溯至、回溯到",
-            "example": "Para encontrar un precedente similar hay que remontarse a la final de 1930."
+            "example": "Para encontrar un precedente similar hay que remontarse a la final de 1930.",
+            "example_zh": "要找到類似的先例，必須追溯到1930年的決賽。"
           },
           {
             "word": "hinchada",
             "pos": "n. f.",
             "zh": "（體育賽事的）球迷群體、啦啦隊",
-            "example": "Las dos hinchadas llenaron el estadio con colores y cánticos."
+            "example": "Las dos hinchadas llenaron el estadio con colores y cánticos.",
+            "example_zh": "兩支球隊的球迷用色彩與歌聲將球場填滿。"
           },
           {
             "word": "enemigos íntimos",
             "pos": "loc. nom.",
             "zh": "親密的敵人（形容關係既對立又緊密）",
-            "example": "Más que simples rivales, son enemigos íntimos unidos por la historia."
+            "example": "Más que simples rivales, son enemigos íntimos unidos por la historia.",
+            "example_zh": "他們不僅僅是普通的對手，更是被歷史緊緊相連的親密宿敵。"
           }
         ],
         "quiz": [
@@ -665,61 +715,71 @@
             "word": "mover los hilos",
             "pos": "loc. verbal（動詞片語）",
             "zh": "幕後操控、掌握主導權",
-            "example": "El director ejecutivo mueve los hilos de toda la organización sin aparecer en público."
+            "example": "El director ejecutivo mueve los hilos de toda la organización sin aparecer en público.",
+            "example_zh": "這位執行長在幕後操控著整個組織，從不公開露面。"
           },
           {
             "word": "a las riendas de",
             "pos": "loc. preposicional（介詞片語）",
             "zh": "執掌……、掌舵……",
-            "example": "Lleva cinco años a las riendas de la empresa y ha logrado triplicar sus beneficios."
+            "example": "Lleva cinco años a las riendas de la empresa y ha logrado triplicar sus beneficios.",
+            "example_zh": "他掌舵公司五年，成功將獲利提升至三倍。"
           },
           {
             "word": "desorbitado/a",
             "pos": "adj.（形容詞）",
             "zh": "高得離譜的、過分的、天文數字的",
-            "example": "Los precios desorbitados de la vivienda hacen imposible el acceso a la propiedad para los jóvenes."
+            "example": "Los precios desorbitados de la vivienda hacen imposible el acceso a la propiedad para los jóvenes.",
+            "example_zh": "高得離譜的房價讓年輕人根本無力購屋置產。"
           },
           {
             "word": "darle un vuelco a algo",
             "pos": "loc. verbal（動詞片語）",
             "zh": "使……徹底改變、讓……翻轉",
-            "example": "La nueva tecnología le dio un vuelco completo al sector editorial."
+            "example": "La nueva tecnología le dio un vuelco completo al sector editorial.",
+            "example_zh": "這項新技術讓出版業產生了翻天覆地的變化。"
           },
           {
             "word": "sumido/a en",
             "pos": "loc. adjetival（形容詞片語）",
             "zh": "深陷於……、沉浸在……（多指困境）",
-            "example": "El país lleva años sumido en una grave crisis económica."
+            "example": "El país lleva años sumido en una grave crisis económica.",
+            "example_zh": "這個國家多年來深陷嚴重的經濟危機之中。"
           },
           {
             "word": "incansablemente",
             "pos": "adv.（副詞）",
             "zh": "不懈地、孜孜不倦地",
-            "example": "Los voluntarios trabajaron incansablemente para ayudar a las víctimas del terremoto."
+            "example": "Los voluntarios trabajaron incansablemente para ayudar a las víctimas del terremoto.",
+            "example_zh": "志工們不辭辛勞，全力協助地震災民。"
           },
           {
             "word": "inexpugnable",
             "pos": "adj.（形容詞）",
             "zh": "牢不可破的、難以撼動的",
-            "example": "Su popularidad entre los votantes lo sitúa en una posición inexpugnable de cara a las elecciones."
+            "example": "Su popularidad entre los votantes lo sitúa en una posición inexpugnable de cara a las elecciones.",
+            "example_zh": "他在選民中的高人氣使他在選舉前處於無懈可擊的有利地位。"
           },
           {
             "word": "roce",
             "pos": "m. n.（陽性名詞）",
             "zh": "摩擦、衝突、齟齬",
-            "example": "Los roces entre los dos departamentos se han vuelto cada vez más frecuentes."
+            "example": "Los roces entre los dos departamentos se han vuelto cada vez más frecuentes.",
+            "example_zh": "兩個部門之間的摩擦愈來愈頻繁。"
           },
           {
             "word": "hinchada",
             "pos": "f. n.（陰性名詞）",
             "zh": "（球隊的）球迷群體、支持者",
-            "example": "La hinchada local animó al equipo durante los noventa minutos del partido."
+            "example": "La hinchada local animó al equipo durante los noventa minutos del partido.",
+            "example_zh": "主場球迷在比賽九十分鐘內始終為球隊加油打氣。"
           },
           {
             "word": "sorteo",
             "pos": "m. n.（陽性名詞）",
             "zh": "抽籤、抽選",
-            "example": "El sorteo de la fase de grupos del torneo se celebrará la próxima semana en Zúrich."
+            "example": "El sorteo de la fase de grupos del torneo se celebrará la próxima semana en Zúrich.",
+            "example_zh": "錦標賽小組賽的抽籤儀式將於下週在蘇黎世舉行。"
           }
         ],
         "quiz": [

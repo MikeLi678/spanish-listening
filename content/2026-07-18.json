@@ -13,61 +13,71 @@
             "word": "sol",
             "pos": "n.m.",
             "zh": "太陽；陽光",
-            "example": "Hoy hace sol."
+            "example": "Hoy hace sol.",
+            "example_zh": "今天天氣晴朗。"
           },
           {
             "word": "familia",
             "pos": "n.f.",
             "zh": "家庭；家人",
-            "example": "Mi familia está en casa."
+            "example": "Mi familia está en casa.",
+            "example_zh": "我的家人在家裡。"
           },
           {
             "word": "desayuno",
             "pos": "n.m.",
             "zh": "早餐",
-            "example": "Mi mamá prepara el desayuno."
+            "example": "Mi mamá prepara el desayuno.",
+            "example_zh": "我媽媽在準備早餐。"
           },
           {
             "word": "huevos",
             "pos": "n.m.pl.",
             "zh": "雞蛋",
-            "example": "Ella hace huevos y pan."
+            "example": "Ella hace huevos y pan.",
+            "example_zh": "她做了雞蛋和麵包。"
           },
           {
             "word": "beber",
             "pos": "v.",
             "zh": "喝",
-            "example": "Mi papá bebe café."
+            "example": "Mi papá bebe café.",
+            "example_zh": "我爸爸在喝咖啡。"
           },
           {
             "word": "rico",
             "pos": "adj.",
             "zh": "好吃的；美味的",
-            "example": "El café está rico."
+            "example": "El café está rico.",
+            "example_zh": "咖啡很好喝。"
           },
           {
             "word": "fruta",
             "pos": "n.f.",
             "zh": "水果",
-            "example": "Mi hermana come fruta."
+            "example": "Mi hermana come fruta.",
+            "example_zh": "我姊姊在吃水果。"
           },
           {
             "word": "manzana",
             "pos": "n.f.",
             "zh": "蘋果",
-            "example": "Ella come una manzana roja."
+            "example": "Ella come una manzana roja.",
+            "example_zh": "她吃了一顆紅蘋果。"
           },
           {
             "word": "hambre",
             "pos": "n.f.",
             "zh": "飢餓",
-            "example": "Yo tengo hambre."
+            "example": "Yo tengo hambre.",
+            "example_zh": "我肚子餓了。"
           },
           {
             "word": "juntos",
             "pos": "adv.",
             "zh": "一起",
-            "example": "Nosotros comemos juntos."
+            "example": "Nosotros comemos juntos.",
+            "example_zh": "我們一起吃飯。"
           }
         ],
         "quiz": [
@@ -142,61 +152,71 @@
             "word": "viaje",
             "pos": "n.m.",
             "zh": "旅行；旅程",
-            "example": "El viaje a Barcelona fue increíble."
+            "example": "El viaje a Barcelona fue increíble.",
+            "example_zh": "前往巴塞隆納的旅程棒透了。"
           },
           {
             "word": "visitar",
             "pos": "v.",
             "zh": "參觀；拜訪",
-            "example": "Vamos a visitar el museo mañana."
+            "example": "Vamos a visitar el museo mañana.",
+            "example_zh": "我們明天要去參觀博物館。"
           },
           {
             "word": "mercado",
             "pos": "n.m.",
             "zh": "市場",
-            "example": "Compré frutas en el mercado."
+            "example": "Compré frutas en el mercado.",
+            "example_zh": "我在市場買了水果。"
           },
           {
             "word": "recuerdo",
             "pos": "n.m.",
             "zh": "紀念品；回憶",
-            "example": "Compré un recuerdo para mi madre."
+            "example": "Compré un recuerdo para mi madre.",
+            "example_zh": "我買了一份紀念品送給我媽媽。"
           },
           {
             "word": "simpático/a",
             "pos": "adj.",
             "zh": "友善的；可親的",
-            "example": "La gente de España es muy simpática."
+            "example": "La gente de España es muy simpática.",
+            "example_zh": "西班牙的人們非常友善。"
           },
           {
             "word": "emocionante",
             "pos": "adj.",
             "zh": "令人興奮的；刺激的",
-            "example": "El partido de fútbol fue muy emocionante."
+            "example": "El partido de fútbol fue muy emocionante.",
+            "example_zh": "這場足球比賽非常精彩。"
           },
           {
             "word": "próximo/a",
             "pos": "adj.",
             "zh": "下一個的；即將到來的",
-            "example": "El próximo fin de semana voy a estudiar."
+            "example": "El próximo fin de semana voy a estudiar.",
+            "example_zh": "下個週末我要念書。"
           },
           {
             "word": "pintura",
             "pos": "n.f.",
             "zh": "畫作；繪畫",
-            "example": "Me gustan las pinturas de Picasso."
+            "example": "Me gustan las pinturas de Picasso.",
+            "example_zh": "我很喜歡畢卡索的畫作。"
           },
           {
             "word": "probar",
             "pos": "v.",
             "zh": "嘗試；品嚐",
-            "example": "Quiero probar la comida japonesa."
+            "example": "Quiero probar la comida japonesa.",
+            "example_zh": "我想嘗試日本料理。"
           },
           {
             "word": "típico/a",
             "pos": "adj.",
             "zh": "典型的；傳統的",
-            "example": "La paella es un plato típico de España."
+            "example": "La paella es un plato típico de España.",
+            "example_zh": "海鮮燉飯是西班牙的經典料理。"
           }
         ],
         "quiz": [
@@ -271,61 +291,71 @@
             "word": "vocación",
             "pos": "n.f.",
             "zh": "職業志向；天職",
-            "example": "Ella estudió medicina porque sintió una vocación por ayudar a los demás."
+            "example": "Ella estudió medicina porque sintió una vocación por ayudar a los demás.",
+            "example_zh": "她學醫是因為感受到助人的使命感。"
           },
           {
             "word": "preocupante",
             "pos": "adj.",
             "zh": "令人擔憂的",
-            "example": "La tasa de desempleo juvenil es muy preocupante en ese país."
+            "example": "La tasa de desempleo juvenil es muy preocupante en ese país.",
+            "example_zh": "該國的青年失業率令人十分憂慮。"
           },
           {
             "word": "propenso/a",
             "pos": "adj.",
             "zh": "易於……的；傾向於……的",
-            "example": "Las personas que no duermen bien son más propensas a cometer errores."
+            "example": "Las personas que no duermen bien son más propensas a cometer errores.",
+            "example_zh": "睡眠品質不佳的人更容易犯錯。"
           },
           {
             "word": "desigualdad",
             "pos": "n.f.",
             "zh": "不平等",
-            "example": "La desigualdad social sigue siendo un problema grave en muchos países."
+            "example": "La desigualdad social sigue siendo un problema grave en muchos países.",
+            "example_zh": "社會不平等在許多國家仍然是一個嚴重的問題。"
           },
           {
             "word": "inclusivo/a",
             "pos": "adj.",
             "zh": "包容的；包含所有人的",
-            "example": "El nuevo programa educativo busca ser más inclusivo para todos los estudiantes."
+            "example": "El nuevo programa educativo busca ser más inclusivo para todos los estudiantes.",
+            "example_zh": "新的教育計畫致力於讓所有學生都能獲得更好的照顧與融入。"
           },
           {
             "word": "reflexionar",
             "pos": "v.",
             "zh": "反思；深思",
-            "example": "Necesitamos reflexionar sobre las consecuencias de nuestras decisiones."
+            "example": "Necesitamos reflexionar sobre las consecuencias de nuestras decisiones.",
+            "example_zh": "我們需要反思自己決定所帶來的後果。"
           },
           {
             "word": "sentido",
             "pos": "n.m.",
             "zh": "意義；方向",
-            "example": "Buscar trabajo con sentido es una prioridad para la generación joven."
+            "example": "Buscar trabajo con sentido es una prioridad para la generación joven.",
+            "example_zh": "找一份有意義的工作是年輕世代的首要目標。"
           },
           {
             "word": "invertir",
             "pos": "v.",
             "zh": "投資；投入",
-            "example": "El gobierno prometió invertir más dinero en educación pública."
+            "example": "El gobierno prometió invertir más dinero en educación pública.",
+            "example_zh": "政府承諾投入更多資金於公共教育。"
           },
           {
             "word": "orientación vocacional",
             "pos": "n.f.",
             "zh": "職業輔導",
-            "example": "La orientación vocacional ayuda a los estudiantes a descubrir sus intereses."
+            "example": "La orientación vocacional ayuda a los estudiantes a descubrir sus intereses.",
+            "example_zh": "職業輔導幫助學生發掘自己的興趣所在。"
           },
           {
             "word": "comprometido/a",
             "pos": "adj.",
             "zh": "有責任感的；積極投入的",
-            "example": "Los voluntarios estaban muy comprometidos con la causa social."
+            "example": "Los voluntarios estaban muy comprometidos con la causa social.",
+            "example_zh": "這些志工對社會公益事業非常投入。"
           }
         ],
         "quiz": [
@@ -402,61 +432,71 @@
             "word": "escombros",
             "pos": "sustantivo masculino plural",
             "zh": "瓦礫、廢墟碎石",
-            "example": "Los rescatistas trabajaron toda la noche para retirar los escombros del edificio derrumbado."
+            "example": "Los rescatistas trabajaron toda la noche para retirar los escombros del edificio derrumbado.",
+            "example_zh": "救援人員徹夜工作，清除倒塌建築物的瓦礫。"
           },
           {
             "word": "excavadora oruga",
             "pos": "locución nominal femenina",
             "zh": "履帶式挖土機",
-            "example": "La excavadora oruga removió toneladas de tierra en pocas horas para encontrar a los sobrevivientes."
+            "example": "La excavadora oruga removió toneladas de tierra en pocas horas para encontrar a los sobrevivientes.",
+            "example_zh": "履帶式挖掘機在短短幾小時內挖走了數噸泥土，以尋找倖存者。"
           },
           {
             "word": "deslave",
             "pos": "sustantivo masculino",
             "zh": "山崩、土石流",
-            "example": "El deslave arrasó con varios pueblos a lo largo de la ladera de la montaña."
+            "example": "El deslave arrasó con varios pueblos a lo largo de la ladera de la montaña.",
+            "example_zh": "山泥傾瀉沿著山坡一路摧毀了數個村莊。"
           },
           {
             "word": "damnificado/a",
             "pos": "sustantivo / adjetivo",
             "zh": "災民、受災者",
-            "example": "Cientos de damnificados recibieron ayuda humanitaria tras el terremoto."
+            "example": "Cientos de damnificados recibieron ayuda humanitaria tras el terremoto.",
+            "example_zh": "地震發生後，數百名災民獲得了人道主義援助。"
           },
           {
             "word": "reubicar",
             "pos": "verbo transitivo",
             "zh": "重新安置、遷置",
-            "example": "El gobierno prometió reubicar a las familias que perdieron sus hogares en la inundación."
+            "example": "El gobierno prometió reubicar a las familias que perdieron sus hogares en la inundación.",
+            "example_zh": "政府承諾將在洪災中失去家園的家庭遷往安置地點。"
           },
           {
             "word": "desencadenar",
             "pos": "verbo transitivo",
             "zh": "引發、觸發",
-            "example": "La noticia desencadenó una ola de protestas en todo el país."
+            "example": "La noticia desencadenó una ola de protestas en todo el país.",
+            "example_zh": "這則消息在全國各地引發了一波抗議浪潮。"
           },
           {
             "word": "laderas",
             "pos": "sustantivo femenino plural",
             "zh": "山坡、斜坡",
-            "example": "Las intensas lluvias destabilizaron las laderas y provocaron deslizamientos de tierra."
+            "example": "Las intensas lluvias destabilizaron las laderas y provocaron deslizamientos de tierra.",
+            "example_zh": "豪雨使山坡土壤不穩，引發了多處山泥傾瀉。"
           },
           {
             "word": "no despegarse de",
             "pos": "locución verbal pronominal",
             "zh": "寸步不離、緊守在旁",
-            "example": "La madre no se despegó de la cama del hospital donde estaba internado su hijo."
+            "example": "La madre no se despegó de la cama del hospital donde estaba internado su hijo.",
+            "example_zh": "母親寸步不離地守在住院兒子的病床旁。"
           },
           {
             "word": "quedar sepultado/a",
             "pos": "locución verbal",
             "zh": "被埋葬、被掩埋",
-            "example": "Varios vehículos quedaron sepultados bajo la nieve tras la tormenta."
+            "example": "Varios vehículos quedaron sepultados bajo la nieve tras la tormenta.",
+            "example_zh": "暴風雪過後，數輛車輛被埋在積雪之下。"
           },
           {
             "word": "cobrar vidas",
             "pos": "locución verbal",
             "zh": "奪走生命、造成死亡",
-            "example": "El accidente de tránsito cobró tres vidas en la madrugada del sábado."
+            "example": "El accidente de tránsito cobró tres vidas en la madrugada del sábado.",
+            "example_zh": "週六凌晨發生的一起交通事故奪走了三條人命。"
           }
         ],
         "quiz": [
@@ -533,61 +573,71 @@
             "word": "aeronave",
             "pos": "sustantivo femenino",
             "zh": "航空器；飛機",
-            "example": "La aeronave despegó puntualmente y llegó a su destino sin contratiempos."
+            "example": "La aeronave despegó puntualmente y llegó a su destino sin contratiempos.",
+            "example_zh": "這架航空器準時起飛，並順利抵達目的地，途中未發生任何意外。"
           },
           {
             "word": "sobreviviente",
             "pos": "sustantivo / adjetivo",
             "zh": "倖存者",
-            "example": "Los rescatistas buscaron durante horas, pero no encontraron ningún sobreviviente entre los escombros."
+            "example": "Los rescatistas buscaron durante horas, pero no encontraron ningún sobreviviente entre los escombros.",
+            "example_zh": "救援人員搜尋了數小時，卻在廢墟中未能找到任何倖存者。"
           },
           {
             "word": "impunidad",
             "pos": "sustantivo femenino",
             "zh": "不受懲罰；有罪不罰",
-            "example": "La corrupción florece donde existe impunidad y falta de rendición de cuentas."
+            "example": "La corrupción florece donde existe impunidad y falta de rendición de cuentas.",
+            "example_zh": "腐敗在有罪不罰、缺乏問責的環境中滋生蔓延。"
           },
           {
             "word": "esclarecer",
             "pos": "verbo transitivo",
             "zh": "釐清；查明（真相）",
-            "example": "Las autoridades prometieron esclarecer las causas del accidente en el menor tiempo posible."
+            "example": "Las autoridades prometieron esclarecer las causas del accidente en el menor tiempo posible.",
+            "example_zh": "當局承諾將盡快釐清事故發生的原因。"
           },
           {
             "word": "imputado",
             "pos": "sustantivo / adjetivo",
             "zh": "被告；被起訴者",
-            "example": "El imputado fue trasladado al juzgado para declarar ante el fiscal."
+            "example": "El imputado fue trasladado al juzgado para declarar ante el fiscal.",
+            "example_zh": "被告被移送至法院，就檢察官的提問出庭作證。"
           },
           {
             "word": "extraditar",
             "pos": "verbo transitivo",
             "zh": "引渡（嫌疑人或罪犯）",
-            "example": "El sospechoso fue extraditado desde Colombia para enfrentar cargos en España."
+            "example": "El sospechoso fue extraditado desde Colombia para enfrentar cargos en España.",
+            "example_zh": "該嫌疑人已從哥倫比亞被引渡，以面對西班牙的相關指控。"
           },
           {
             "word": "zona franca",
             "pos": "locución nominal femenina",
             "zh": "自由貿易區",
-            "example": "La zona franca de Colón es uno de los principales centros comerciales de América Latina."
+            "example": "La zona franca de Colón es uno de los principales centros comerciales de América Latina.",
+            "example_zh": "科隆自由貿易區是拉丁美洲主要的商業中心之一。"
           },
           {
             "word": "cotidiano",
             "pos": "adjetivo",
             "zh": "日常的；平常的",
-            "example": "Para muchos trabajadores, cruzar la ciudad en autobús es una actividad cotidiana."
+            "example": "Para muchos trabajadores, cruzar la ciudad en autobús es una actividad cotidiana.",
+            "example_zh": "對許多勞工而言，搭公車穿越城市是每天的例行活動。"
           },
           {
             "word": "germen",
             "pos": "sustantivo masculino",
             "zh": "起源；萌芽；根源",
-            "example": "Aquella conversación fue el germen de una amistad que duraría toda la vida."
+            "example": "Aquella conversación fue el germen de una amistad que duraría toda la vida.",
+            "example_zh": "那次對話成為一段友誼的萌芽，而這段友誼將延續一生。"
           },
           {
             "word": "tenaz",
             "pos": "adjetivo",
             "zh": "堅持不懈的；頑強的",
-            "example": "Gracias a su tenaz esfuerzo, logró terminar el doctorado a pesar de todas las dificultades."
+            "example": "Gracias a su tenaz esfuerzo, logró terminar el doctorado a pesar de todas las dificultades.",
+            "example_zh": "憑藉著堅韌不拔的努力，他克服重重困難，終於完成了博士學位。"
           }
         ],
         "quiz": [
@@ -664,61 +714,71 @@
             "word": "conmovido/a",
             "pos": "adj.",
             "zh": "感動的、動容的",
-            "example": "El físico, conmovido, le contó que el acelerador había comenzado a funcionar."
+            "example": "El físico, conmovido, le contó que el acelerador había comenzado a funcionar.",
+            "example_zh": "那位物理學家激動地告訴她，粒子加速器已經開始運作了。"
           },
           {
             "word": "propagarse como fuego",
             "pos": "loc. verbal",
             "zh": "像火一樣蔓延（指情緒或消息迅速傳播）",
-            "example": "La emoción se propagó como fuego entre todos los presentes en la sala."
+            "example": "La emoción se propagó como fuego entre todos los presentes en la sala.",
+            "example_zh": "喜悅的情緒如火焰般在會議室裡所有在場者之間蔓延開來。"
           },
           {
             "word": "atestiguar",
             "pos": "v.",
             "zh": "親眼目睹、作證",
-            "example": "Presenciar ese momento fue atestiguar un hito histórico para la ciencia mexicana."
+            "example": "Presenciar ese momento fue atestiguar un hito histórico para la ciencia mexicana.",
+            "example_zh": "親眼目睹那一刻，就是見證了墨西哥科學史上一個重要的里程碑。"
           },
           {
             "word": "padecer",
             "pos": "v.",
             "zh": "罹患（疾病）、受苦",
-            "example": "Alejandra padecía un cáncer cuando recibió la noticia del éxito de su proyecto."
+            "example": "Alejandra padecía un cáncer cuando recibió la noticia del éxito de su proyecto.",
+            "example_zh": "亞歷杭德拉在身患癌症期間，得知了自己的研究計畫成功的消息。"
           },
           {
             "word": "la nómina",
             "pos": "sust. f.",
             "zh": "薪資名冊、工資",
-            "example": "A los 16 años, ella ya iba a pagarle la nómina a los trabajadores de la mina."
+            "example": "A los 16 años, ella ya iba a pagarle la nómina a los trabajadores de la mina.",
+            "example_zh": "她在十六歲時，就已經負責為礦場的工人發放薪資了。"
           },
           {
             "word": "ponerse celoso/a",
             "pos": "loc. verbal",
             "zh": "（擬人化）變得嫉妒、吃醋",
-            "example": "Según la superstición, la mina se ponía celosa si una mujer entraba durante la producción."
+            "example": "Según la superstición, la mina se ponía celosa si una mujer entraba durante la producción.",
+            "example_zh": "根據當地的迷信說法，若有女性在生產期間進入礦坑，礦坑會因此而心生嫉妒。"
           },
           {
             "word": "lo impensable",
             "pos": "sust. (adj. sustantivado)",
             "zh": "難以想像的事、不可思議的事",
-            "example": "Alejandra hizo lo impensable para la época al entrar a la mina siendo mujer."
+            "example": "Alejandra hizo lo impensable para la época al entrar a la mina siendo mujer.",
+            "example_zh": "亞歷杭德拉做了一件在那個年代令人難以想像的事——身為女性，她走進了礦坑。"
           },
           {
             "word": "el legado",
             "pos": "sust. m.",
             "zh": "遺產、傳承、貢獻",
-            "example": "El legado científico de Alejandra Jáidar sigue presente en la física mexicana hasta hoy."
+            "example": "El legado científico de Alejandra Jáidar sigue presente en la física mexicana hasta hoy.",
+            "example_zh": "亞歷杭德拉·海達爾的科學遺產，至今仍在墨西哥物理學界持續發光發熱。"
           },
           {
             "word": "el acelerador de partículas",
             "pos": "sust. m.",
             "zh": "粒子加速器",
-            "example": "Años de trabajo culminaron cuando el acelerador de partículas comenzó a funcionar."
+            "example": "Años de trabajo culminaron cuando el acelerador de partículas comenzó a funcionar.",
+            "example_zh": "多年的心血在粒子加速器正式啟動的那一刻，終於得到了圓滿的結果。"
           },
           {
             "word": "procedente de",
             "pos": "loc. prep.",
             "zh": "來自……、從……出發的",
-            "example": "Su familia había llegado a México procedente del Líbano a principios del siglo XX."
+            "example": "Su familia había llegado a México procedente del Líbano a principios del siglo XX.",
+            "example_zh": "她的家族於二十世紀初從黎巴嫩移居墨西哥。"
           }
         ],
         "quiz": [

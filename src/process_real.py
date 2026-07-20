@@ -12,7 +12,7 @@ def process_real_article(candidate: dict, date: str, index: int, caller=call_cla
 - translation（該段的繁體中文全文翻譯，通順自然）
 - 判定這段的難度，以範圍標注（level_label），例如「約 B2–C1」
 - 一個西語標題（title）
-- 8 到 10 個重點單字或慣用語，每個含 word、pos（詞性）、zh（繁體中文釋義）、example（西語例句）
+- 8 到 10 個重點單字或慣用語，每個含 word、pos（詞性）、zh（繁體中文釋義）、example（西語例句）、example_zh（例句的繁體中文翻譯）
 - 5 題西語四選一理解測驗，每題含 q、options（4 選項）、answer（0-3 索引）、explain（繁體中文解析）
 
 只回傳 JSON 物件：

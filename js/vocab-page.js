@@ -10,7 +10,7 @@ function render() {
   if (!rows.length) { main.innerHTML = "還沒有收藏單字。"; return; }
   main.innerHTML = rows.map((w) => `<div class="card">
     <div class="card-title">${w.word} <i>${w.pos || ""}</i> — ${w.zh || ""}</div>
-    <div class="card-meta">${w.example || ""}${w.level ? " · " + w.level : ""}</div>
+    <div class="card-meta">${w.example || ""}${w.example_zh ? "<br>" + w.example_zh : ""}${w.level ? " · " + w.level : ""}</div>
   </div>`).join("");
 }
 

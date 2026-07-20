@@ -22,7 +22,7 @@ def generate_ai_article(level: str, date: str, caller=call_claude) -> dict:
 
 同時提供：
 - translation（整篇短文的繁體中文全文翻譯，通順自然）
-- 8 到 10 個文中重點單字，每個含：word（單字）、pos（詞性縮寫）、zh（繁體中文釋義）、example（西語例句）
+- 8 到 10 個文中重點單字，每個含：word（單字）、pos（詞性縮寫）、zh（繁體中文釋義）、example（西語例句）、example_zh（例句的繁體中文翻譯）
 - 5 題西語四選一理解測驗，每題含：q（西語題目）、options（4 個西語選項）、answer（正解索引 0-3）、explain（繁體中文簡短解析）
 
 只回傳 JSON 物件，格式：

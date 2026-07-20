@@ -86,7 +86,7 @@ function showPopup(word) {
   const el = document.getElementById("popup");
   el.className = "popup";
   el.innerHTML = `<b>${word.word}</b> <i>${word.pos}</i> — ${word.zh}<br>
-    <small>${word.example}</small><br>
+    <small>${word.example}</small>${word.example_zh ? `<br><small class="ex-zh">${word.example_zh}</small>` : ""}<br>
     <button class="primary" id="fav">★ 收藏</button>
     <button id="close">關閉</button>`;
   document.getElementById("fav").onclick = async () => {

@@ -66,7 +66,8 @@ export async function saveProgress(articleId, score, total) {
 export async function saveVocab(wordObj, articleId, level) {
   const user = await getUser();
   const row = { word: wordObj.word, pos: wordObj.pos, zh: wordObj.zh,
-                example: wordObj.example, source_article_id: articleId, level };
+                example: wordObj.example, example_zh: wordObj.example_zh || "",
+                source_article_id: articleId, level };
   if (user) {
     try {
       await setDoc(doc(db, "users", user.uid, "vocabulary", docId(wordObj.word)),

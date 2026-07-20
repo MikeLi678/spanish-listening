@@ -24,6 +24,7 @@ button.primary { background: #c0392b; color: #fff; border: none; border-radius: 
   padding: 8px 16px; cursor: pointer; }
 .translation { margin: 12px 0; padding: 12px 14px; background: #f7f7f5;
   border-left: 3px solid #c0392b; border-radius: 4px; line-height: 1.8; }
+.ex-zh { color: #888; }
 .quiz-opt { display: block; width: 100%; text-align: left; padding: 10px; margin: 6px 0;
   border: 1px solid #ccc; border-radius: 8px; background: #fff; cursor: pointer; }
 .quiz-opt.correct { background: #d5f4e6; border-color: #27ae60; }

@@ -5,12 +5,23 @@ on:
     - cron: '0 22 * * *'   # 22:00 UTC = 06:00 台灣時間
   workflow_dispatch:
 
+# 需要 contents:write 提交內容，pages/id-token 部署 Pages
+# （用 GITHUB_TOKEN 推的 commit 不會觸發 deploy-pages workflow，所以本 workflow 生成後自己部署）
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
-  generate:
+  generate-and-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
 
@@ -37,3 +48,11 @@ jobs:
             git commit -m "chore: 每日內容 $(date -u +%Y-%m-%d)"
             git push
           fi
+
+      # 直接用當前工作目錄（已含新生成內容）部署 Pages
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@v4

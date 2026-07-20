@@ -45,7 +45,7 @@ function speakFrom(fromChar) {
     if (utter !== u) return;   // 忽略被 cancel 掉的舊 utterance
     playing = false; paused = false; currentChar = 0;
     stopKeepAlive();
-    updatePlayButton();
+    updateButtons();
   };
   utter = u;
   const doSpeak = () => { if (utter === u) synth.speak(u); };
@@ -57,15 +57,17 @@ function speakFrom(fromChar) {
   }
   playing = true; paused = false;
   startKeepAlive();
-  updatePlayButton();
+  updateButtons();
 }
 
-function togglePlay() {
+function play() {
   const synth = window.speechSynthesis;
-  if (!playing) { speakFrom(0); return; }
-  if (paused) { synth.resume(); paused = false; }
-  else { synth.pause(); paused = true; }
-  updatePlayButton();
+  if (playing && paused) { synth.resume(); paused = false; updateButtons(); }
+  else { speakFrom(0); }   // 停止中或播放中：從頭播；暫停中：繼續
+}
+
+function pause() {
+  if (playing && !paused) { window.speechSynthesis.pause(); paused = true; updateButtons(); }
 }
 
 function setRate(value) {
@@ -73,10 +75,11 @@ function setRate(value) {
   if (playing) speakFrom(currentChar);   // 播放中改語速：從目前位置用新語速無縫重啟
 }
 
-function updatePlayButton() {
-  const btn = document.getElementById("play");
-  if (!btn) return;
-  btn.textContent = !playing ? "▶ 播放" : (paused ? "▶ 繼續" : "⏸ 暫停");
+function updateButtons() {
+  const playBtn = document.getElementById("play");
+  const pauseBtn = document.getElementById("pause");
+  if (playBtn) playBtn.textContent = (playing && paused) ? "▶ 繼續" : "▶ 播放";
+  if (pauseBtn) pauseBtn.disabled = !(playing && !paused);
 }
 
 function showPopup(word) {
@@ -159,6 +162,7 @@ async function init() {
       : `AI 生成 · ${article.level_label}`}</div>
     <div class="controls">
       <button class="primary" id="play">▶ 播放</button>
+      <button id="pause" disabled>⏸ 暫停</button>
       語速
       <select id="rate">
         <option value="0.25">0.25x</option>
@@ -186,7 +190,8 @@ async function init() {
   root.appendChild(renderQuiz());
 
   document.getElementById("rate").onchange = (e) => setRate(parseFloat(e.target.value));
-  document.getElementById("play").onclick = togglePlay;
+  document.getElementById("play").onclick = play;
+  document.getElementById("pause").onclick = pause;
   if (translationEl) {
     const tbtn = document.getElementById("translate");
     tbtn.onclick = () => {

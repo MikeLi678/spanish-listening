@@ -1,0 +1,839 @@
+{
+  "date": "2026-07-21",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-07-21-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Mi familia y el desayuno",
+        "text": "Mi familia es pequeña. Somos cuatro personas: mi padre, mi madre, mi hermano y yo. Por la mañana, desayunamos juntos. Comemos pan y bebemos leche. A veces comemos fruta también. Hoy hace sol y hace calor. Mi madre está contenta. Mi padre trabaja en casa. Mi hermano y yo estudiamos. Es un día bonito.",
+        "translation": "我的家庭很小。我們是四個人：我的爸爸、我的媽媽、我的哥哥和我。早上，我們一起吃早餐。我們吃麵包、喝牛奶。有時候我們也吃水果。今天天氣晴朗、天氣炎熱。我的媽媽很開心。我的爸爸在家工作。我的哥哥和我在讀書。這是美好的一天。",
+        "words": [
+          {
+            "word": "familia",
+            "pos": "n.",
+            "zh": "家庭",
+            "example": "Mi familia es grande.",
+            "example_zh": "我的家庭很大。"
+          },
+          {
+            "word": "pequeño/a",
+            "pos": "adj.",
+            "zh": "小的",
+            "example": "El gato es pequeño.",
+            "example_zh": "這隻貓很小。"
+          },
+          {
+            "word": "desayunar",
+            "pos": "v.",
+            "zh": "吃早餐",
+            "example": "Desayunamos a las ocho.",
+            "example_zh": "我們八點吃早餐。"
+          },
+          {
+            "word": "juntos/as",
+            "pos": "adv.",
+            "zh": "一起",
+            "example": "Comemos juntos cada día.",
+            "example_zh": "我們每天一起吃飯。"
+          },
+          {
+            "word": "pan",
+            "pos": "n.",
+            "zh": "麵包",
+            "example": "Como pan por la mañana.",
+            "example_zh": "我早上吃麵包。"
+          },
+          {
+            "word": "leche",
+            "pos": "n.",
+            "zh": "牛奶",
+            "example": "El niño bebe leche.",
+            "example_zh": "那個小孩喝牛奶。"
+          },
+          {
+            "word": "fruta",
+            "pos": "n.",
+            "zh": "水果",
+            "example": "Me gusta la fruta.",
+            "example_zh": "我喜歡水果。"
+          },
+          {
+            "word": "hace sol",
+            "pos": "expr.",
+            "zh": "天氣晴朗",
+            "example": "Hoy hace sol en Madrid.",
+            "example_zh": "今天馬德里天氣晴朗。"
+          },
+          {
+            "word": "contento/a",
+            "pos": "adj.",
+            "zh": "開心的、滿足的",
+            "example": "El niño está contento.",
+            "example_zh": "那個小孩很開心。"
+          },
+          {
+            "word": "estudiar",
+            "pos": "v.",
+            "zh": "學習、讀書",
+            "example": "Yo estudio español.",
+            "example_zh": "我學西班牙語。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cuántas personas hay en la familia?",
+            "options": [
+              "Tres personas.",
+              "Cuatro personas.",
+              "Cinco personas.",
+              "Dos personas."
+            ],
+            "answer": 1,
+            "explain": "文中提到「Somos cuatro personas」，所以家庭共有四個人。"
+          },
+          {
+            "q": "¿Qué beben por la mañana?",
+            "options": [
+              "Beben agua.",
+              "Beben café.",
+              "Beben leche.",
+              "Beben zumo."
+            ],
+            "answer": 2,
+            "explain": "文中說「bebemos leche」，早上他們喝牛奶。"
+          },
+          {
+            "q": "¿Cómo está el tiempo hoy?",
+            "options": [
+              "Hace frío y llueve.",
+              "Está nublado.",
+              "Hace sol y hace calor.",
+              "Hace viento."
+            ],
+            "answer": 2,
+            "explain": "文中提到「Hoy hace sol y hace calor」，今天天晴且炎熱。"
+          },
+          {
+            "q": "¿Dónde trabaja el padre?",
+            "options": [
+              "Trabaja en una oficina.",
+              "Trabaja en casa.",
+              "Trabaja en un restaurante.",
+              "No trabaja."
+            ],
+            "answer": 1,
+            "explain": "文中說「Mi padre trabaja en casa」，爸爸在家工作。"
+          },
+          {
+            "q": "¿Cómo está la madre hoy?",
+            "options": [
+              "Está cansada.",
+              "Está triste.",
+              "Está enferma.",
+              "Está contenta."
+            ],
+            "answer": 3,
+            "explain": "文中說「Mi madre está contenta」，媽媽今天很開心。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-07-21-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Un viaje especial",
+        "text": "El mes pasado, fui de viaje a Barcelona con mi familia. Visitamos muchos lugares interesantes, como el Parque Güell y la Playa de la Barceloneta. También fuimos de compras en las Ramblas y compré ropa bonita y recuerdos para mis amigos. Me gustó mucho la comida española, porque es deliciosa y variada. Por las noches, escuchamos música en los bares y bailamos un poco. Fue una experiencia increíble. La próxima semana, voy a ver las fotos con mi familia y vamos a planear otro viaje. Queremos visitar Madrid o Sevilla. Viajar es mi pasión y espero conocer más ciudades bonitas en el futuro.",
+        "translation": "上個月，我和家人一起去巴塞隆納旅行。我們參觀了許多有趣的地方，例如奎爾公園和巴塞隆納塔海灘。我們也在蘭布拉大道購物，我買了漂亮的衣服和送給朋友的紀念品。我非常喜歡西班牙料理，因為它美味又多樣。晚上，我們在酒吧聽音樂，也跳了一會兒舞。這是一次很棒的體驗。下週，我要和家人一起看照片，我們打算計畫另一趟旅行。我們想去馬德里或塞維亞。旅行是我的熱情所在，我希望將來能認識更多美麗的城市。",
+        "words": [
+          {
+            "word": "viaje",
+            "pos": "n.m.",
+            "zh": "旅行",
+            "example": "El verano pasado hice un viaje a México.",
+            "example_zh": "去年夏天我去墨西哥旅行了。"
+          },
+          {
+            "word": "visitar",
+            "pos": "v.",
+            "zh": "參觀、拜訪",
+            "example": "Queremos visitar el museo mañana.",
+            "example_zh": "我們明天想參觀博物館。"
+          },
+          {
+            "word": "recuerdo",
+            "pos": "n.m.",
+            "zh": "紀念品；回憶",
+            "example": "Compré un recuerdo para mi madre en la tienda.",
+            "example_zh": "我在店裡買了一個紀念品給我媽媽。"
+          },
+          {
+            "word": "delicioso/a",
+            "pos": "adj.",
+            "zh": "美味的",
+            "example": "Esta paella está deliciosa.",
+            "example_zh": "這道海鮮飯非常美味。"
+          },
+          {
+            "word": "variado/a",
+            "pos": "adj.",
+            "zh": "多樣的、豐富的",
+            "example": "El menú del restaurante es muy variado.",
+            "example_zh": "這家餐廳的菜單非常豐富多樣。"
+          },
+          {
+            "word": "experiencia",
+            "pos": "n.f.",
+            "zh": "體驗、經歷",
+            "example": "Fue una experiencia muy interesante para todos.",
+            "example_zh": "對大家來說這是一次非常有趣的體驗。"
+          },
+          {
+            "word": "planear",
+            "pos": "v.",
+            "zh": "計畫、規劃",
+            "example": "Vamos a planear las vacaciones este fin de semana.",
+            "example_zh": "我們這個週末要規劃假期。"
+          },
+          {
+            "word": "pasión",
+            "pos": "n.f.",
+            "zh": "熱情、熱愛",
+            "example": "El fútbol es la pasión de muchos españoles.",
+            "example_zh": "足球是許多西班牙人的熱情所在。"
+          },
+          {
+            "word": "conocer",
+            "pos": "v.",
+            "zh": "認識、了解（地方或人）",
+            "example": "Espero conocer nuevas ciudades este año.",
+            "example_zh": "我希望今年能認識新的城市。"
+          },
+          {
+            "word": "próximo/a",
+            "pos": "adj.",
+            "zh": "下一個的、即將到來的",
+            "example": "El próximo mes voy a empezar clases de español.",
+            "example_zh": "下個月我要開始上西班牙語課。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Adónde fue la persona de viaje el mes pasado?",
+            "options": [
+              "A Madrid",
+              "A Sevilla",
+              "A Barcelona",
+              "A Valencia"
+            ],
+            "answer": 2,
+            "explain": "文章開頭明確提到「fui de viaje a Barcelona」，所以答案是巴塞隆納。"
+          },
+          {
+            "q": "¿Qué compró la persona en las Ramblas?",
+            "options": [
+              "Comida y bebidas",
+              "Libros y revistas",
+              "Ropa y recuerdos",
+              "Zapatos y bolsos"
+            ],
+            "answer": 2,
+            "explain": "文中提到「compré ropa bonita y recuerdos para mis amigos」，買了衣服和紀念品。"
+          },
+          {
+            "q": "¿Por qué le gustó la comida española?",
+            "options": [
+              "Porque es barata y rápida",
+              "Porque es deliciosa y variada",
+              "Porque es famosa en el mundo",
+              "Porque es fácil de preparar"
+            ],
+            "answer": 1,
+            "explain": "文中說「Me gustó mucho la comida española, porque es deliciosa y variada」，原因是美味又多樣。"
+          },
+          {
+            "q": "¿Qué va a hacer la persona la próxima semana?",
+            "options": [
+              "Va a viajar a Madrid",
+              "Va a comprar ropa nueva",
+              "Va a ver las fotos con su familia",
+              "Va a visitar Barcelona otra vez"
+            ],
+            "answer": 2,
+            "explain": "文中使用 Futuro próximo 說「voy a ver las fotos con mi familia」，下週要和家人看照片。"
+          },
+          {
+            "q": "¿Cuál es la pasión de la persona que escribe el texto?",
+            "options": [
+              "Cocinar comida española",
+              "Escuchar música en bares",
+              "Viajar y conocer ciudades",
+              "Ir de compras en las Ramblas"
+            ],
+            "answer": 2,
+            "explain": "文章最後明確說「Viajar es mi pasión」，旅行是作者的熱情所在。"
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "2026-07-21-B1-1",
+        "source": "ai",
+        "level_label": "B1",
+        "title": "El futuro del trabajo y la desigualdad social",
+        "text": "En los últimos años, la tecnología ha cambiado profundamente el mundo laboral. Muchas personas que trabajaban en fábricas perdieron sus empleos porque las máquinas podían hacer el mismo trabajo más rápido y con menos errores. Aunque este avance tecnológico ha traído beneficios para algunas empresas, también ha aumentado la desigualdad social en muchos países.\n\nYo creo que el gobierno debería crear programas de formación para que los trabajadores pudieran aprender nuevas habilidades. Si existieran más oportunidades de educación gratuita, mucha gente encontraría mejores empleos y tendría una vida más estable. Además, sería importante que las empresas grandes pagaran impuestos más justos para financiar estos programas.\n\nSin embargo, hay personas que opinan que el mercado libre puede resolver estos problemas sin la intervención del Estado. Aunque entiendo esa postura, me parece que sin regulación suficiente, los más vulnerables siempre sufren las consecuencias. Por eso, pienso que necesitamos un equilibrio entre la libertad económica y la responsabilidad social. Solo así podremos construir una sociedad más justa para todos.",
+        "translation": "近年來，科技深刻地改變了勞動世界。許多曾在工廠工作的人失去了工作，因為機器能夠以更快的速度、更少的錯誤完成相同的工作。儘管這項科技進步為某些企業帶來了好處，但也在許多國家加劇了社會不平等。\n\n我認為政府應該建立培訓計畫，讓勞工能夠學習新技能。如果有更多免費教育的機會，很多人就能找到更好的工作，過上更穩定的生活。此外，要求大型企業繳納更公平的稅款來資助這些計畫，也是很重要的。\n\n然而，有些人認為自由市場可以在沒有國家干預的情況下解決這些問題。雖然我理解那種立場，但我認為若缺乏足夠的監管，最脆弱的族群總是承受後果。因此，我認為我們需要在經濟自由與社會責任之間取得平衡。唯有如此，我們才能為所有人建構一個更公平的社會。",
+        "words": [
+          {
+            "word": "desigualdad",
+            "pos": "n.f.",
+            "zh": "不平等、不均等",
+            "example": "La desigualdad social ha crecido mucho en este país.",
+            "example_zh": "這個國家的社會不平等已大幅加劇。"
+          },
+          {
+            "word": "formación",
+            "pos": "n.f.",
+            "zh": "培訓、訓練、養成",
+            "example": "El gobierno ofrece programas de formación para desempleados.",
+            "example_zh": "政府為失業者提供培訓計畫。"
+          },
+          {
+            "word": "habilidad",
+            "pos": "n.f.",
+            "zh": "技能、能力",
+            "example": "Es importante aprender nuevas habilidades para el mercado laboral.",
+            "example_zh": "學習新技能對勞動市場來說很重要。"
+          },
+          {
+            "word": "impuesto",
+            "pos": "n.m.",
+            "zh": "稅、稅款",
+            "example": "Las empresas deben pagar impuestos para financiar los servicios públicos.",
+            "example_zh": "企業必須繳稅以資助公共服務。"
+          },
+          {
+            "word": "intervención",
+            "pos": "n.f.",
+            "zh": "干預、介入",
+            "example": "Algunos economistas rechazan la intervención del Estado en la economía.",
+            "example_zh": "部分經濟學家反對國家干預經濟。"
+          },
+          {
+            "word": "vulnerable",
+            "pos": "adj.",
+            "zh": "脆弱的、易受傷害的",
+            "example": "Los grupos más vulnerables necesitan mayor protección social.",
+            "example_zh": "最脆弱的族群需要更多社會保障。"
+          },
+          {
+            "word": "equilibrio",
+            "pos": "n.m.",
+            "zh": "平衡、均衡",
+            "example": "Debemos encontrar un equilibrio entre el trabajo y la vida personal.",
+            "example_zh": "我們必須在工作與個人生活之間找到平衡。"
+          },
+          {
+            "word": "postura",
+            "pos": "n.f.",
+            "zh": "立場、態度",
+            "example": "Respeto tu postura, aunque no estoy de acuerdo.",
+            "example_zh": "我尊重你的立場，儘管我不同意。"
+          },
+          {
+            "word": "regulación",
+            "pos": "n.f.",
+            "zh": "監管、規範",
+            "example": "Sin regulación adecuada, el mercado puede volverse injusto.",
+            "example_zh": "若缺乏適當監管，市場可能變得不公平。"
+          },
+          {
+            "word": "financiar",
+            "pos": "v.",
+            "zh": "資助、提供資金",
+            "example": "El Estado financia muchos programas educativos con los impuestos.",
+            "example_zh": "國家用稅收資助許多教育計畫。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Por qué muchas personas perdieron sus empleos en las fábricas?",
+            "options": [
+              "Porque no querían trabajar más.",
+              "Porque las máquinas podían hacer el mismo trabajo más rápido.",
+              "Porque el gobierno cerró las fábricas.",
+              "Porque se mudaron a otras ciudades."
+            ],
+            "answer": 1,
+            "explain": "文章明確提到，許多人失去工廠工作，是因為機器能更快速地完成相同工作。"
+          },
+          {
+            "q": "Según el autor, ¿qué debería crear el gobierno?",
+            "options": [
+              "Más fábricas automáticas.",
+              "Programas de formación para los trabajadores.",
+              "Nuevos impuestos para todos los ciudadanos.",
+              "Leyes para prohibir la tecnología."
+            ],
+            "answer": 1,
+            "explain": "作者表示政府「應該」（debería）建立培訓計畫，讓勞工學習新技能。"
+          },
+          {
+            "q": "¿Qué opina el autor sobre el mercado libre?",
+            "options": [
+              "Cree que puede resolver todos los problemas sin ayuda.",
+              "Piensa que es la mejor solución para la desigualdad.",
+              "Entiende esa postura, pero cree que se necesita regulación.",
+              "Está completamente en contra del mercado libre."
+            ],
+            "answer": 2,
+            "explain": "作者說「雖然我理解那種立場」（aunque entiendo esa postura），但認為沒有監管，脆弱族群會受苦，因此支持監管的存在。"
+          },
+          {
+            "q": "¿Para qué quiere el autor que las empresas grandes paguen más impuestos?",
+            "options": [
+              "Para construir más fábricas.",
+              "Para financiar programas de educación y formación.",
+              "Para reducir el precio de los productos.",
+              "Para pagar los salarios de los políticos."
+            ],
+            "answer": 1,
+            "explain": "文章提到，大型企業應繳納更公平的稅款，以「資助這些計畫」（financiar estos programas），即教育與培訓計畫。"
+          },
+          {
+            "q": "¿Cuál es la conclusión principal del autor?",
+            "options": [
+              "La tecnología siempre es negativa para la sociedad.",
+              "El Estado debe controlar toda la economía.",
+              "Necesitamos un equilibrio entre libertad económica y responsabilidad social.",
+              "Solo el mercado libre puede crear una sociedad justa."
+            ],
+            "answer": 2,
+            "explain": "文章最後結論明確指出：需要在「經濟自由」與「社會責任」之間取得平衡（equilibrio），才能建構更公平的社會。"
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "2026-07-21-B2-fallback",
+        "source": "ai",
+        "level_label": "約 B2（AI 生成）",
+        "title": "El futuro del trabajo en la sociedad moderna",
+        "text": "En los últimos años, el mercado laboral ha cambiado de manera significativa. Muchas personas que antes trabajaban en oficinas ahora realizan sus tareas desde casa, lo que ha transformado completamente la forma en que entendemos el trabajo. Aunque esta modalidad ofrece mayor flexibilidad, también ha creado nuevos problemas que no podíamos imaginar hace una década.\n\nEn mi opinión, si los gobiernos no establecieran leyes claras para proteger a los trabajadores remotos, muchas empresas aprovecharían esta situación para exigir más horas sin pagar horas extra. Ya hemos visto casos en los que empleados confesaron que trabajaban más de doce horas diarias sin ningún tipo de compensación adicional.\n\nAdemás, creo que la tecnología, aunque es muy útil, ha borrado los límites entre la vida personal y la profesional. Sería necesario que las empresas respetaran el derecho a la desconexión digital, algo que en muchos países todavía no está garantizado por ley.\n\nSi pudiéramos equilibrar bien estas dos esferas de la vida, la sociedad sería más justa y los trabajadores estarían más motivados. Es fundamental que tanto los empleadores como los empleados dialoguen para encontrar soluciones que beneficien a todos.",
+        "translation": "近年來，勞動市場已發生了重大變化。許多以前在辦公室工作的人現在在家完成工作任務，這完全改變了我們對工作的理解方式。儘管這種模式提供了更大的彈性，但也產生了十年前我們無法想像的新問題。\n\n依我之見，如果政府不制定明確的法律來保護遠距工作者，許多企業將會利用這種情況要求員工加班卻不支付加班費。我們已經見過一些案例，員工坦承每天工作超過十二小時卻沒有任何額外補償。\n\n此外，我認為科技雖然非常有用，卻已模糊了個人生活與職業生活之間的界線。企業有必要尊重員工的數位斷線權，而這在許多國家仍未受到法律保障。\n\n如果我們能夠在生活的這兩個領域之間取得良好平衡，社會將會更加公平，員工也會更有動力。雇主與員工雙方進行對話，以找到對所有人都有利的解決方案，這一點至關重要。",
+        "words": [
+          {
+            "word": "mercado laboral",
+            "pos": "n.m.",
+            "zh": "勞動市場",
+            "example": "El mercado laboral ha cambiado mucho con la tecnología.",
+            "example_zh": "勞動市場因科技而發生了很大的變化。"
+          },
+          {
+            "word": "modalidad",
+            "pos": "n.f.",
+            "zh": "模式、方式",
+            "example": "Esta modalidad de trabajo es cada vez más común.",
+            "example_zh": "這種工作模式越來越普遍。"
+          },
+          {
+            "word": "flexibilidad",
+            "pos": "n.f.",
+            "zh": "彈性、靈活性",
+            "example": "El trabajo remoto ofrece mayor flexibilidad horaria.",
+            "example_zh": "遠距工作提供了更大的時間彈性。"
+          },
+          {
+            "word": "aprovechar",
+            "pos": "v.",
+            "zh": "利用、善加運用",
+            "example": "Algunas empresas aprovechan la situación para pagar menos.",
+            "example_zh": "一些企業利用這種情況來少付薪資。"
+          },
+          {
+            "word": "exigir",
+            "pos": "v.",
+            "zh": "要求、強求",
+            "example": "No es justo exigir más horas sin compensación.",
+            "example_zh": "要求更多工時卻不補償是不公平的。"
+          },
+          {
+            "word": "confesar",
+            "pos": "v.",
+            "zh": "承認、坦承",
+            "example": "Los empleados confesaron que estaban agotados.",
+            "example_zh": "員工們坦承他們已精疲力竭。"
+          },
+          {
+            "word": "borrar",
+            "pos": "v.",
+            "zh": "抹去、消除",
+            "example": "La tecnología ha borrado los límites entre trabajo y descanso.",
+            "example_zh": "科技消除了工作與休息之間的界線。"
+          },
+          {
+            "word": "desconexión digital",
+            "pos": "n.f.",
+            "zh": "數位斷線（下班後不回覆訊息的權利）",
+            "example": "El derecho a la desconexión digital es muy importante.",
+            "example_zh": "數位斷線的權利非常重要。"
+          },
+          {
+            "word": "equilibrar",
+            "pos": "v.",
+            "zh": "平衡、取得均衡",
+            "example": "Es difícil equilibrar la vida personal y la profesional.",
+            "example_zh": "要平衡個人生活與職業生活是很困難的。"
+          },
+          {
+            "word": "empleador",
+            "pos": "n.m.",
+            "zh": "雇主",
+            "example": "Los empleadores deben respetar los derechos de sus trabajadores.",
+            "example_zh": "雇主必須尊重員工的權利。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cuál ha sido uno de los grandes cambios en el mercado laboral según el texto?",
+            "options": [
+              "Las personas trabajan más horas en las oficinas.",
+              "Muchas personas trabajan desde casa en lugar de ir a la oficina.",
+              "Los gobiernos han prohibido el trabajo remoto.",
+              "Las empresas han reducido el uso de la tecnología."
+            ],
+            "answer": 1,
+            "explain": "文章第一段明確指出，許多以前在辦公室工作的人現在已改為在家工作。"
+          },
+          {
+            "q": "Según el autor, ¿qué harían muchas empresas si no existieran leyes que protegieran a los trabajadores remotos?",
+            "options": [
+              "Contratarían a más empleados nuevos.",
+              "Reducirían el número de horas de trabajo.",
+              "Exigirían más horas de trabajo sin pagar horas extra.",
+              "Ofrecerían mejores condiciones laborales."
+            ],
+            "answer": 2,
+            "explain": "文章第二段使用條件式說明，若缺乏法律保護，企業將要求更多工時卻不支付加班費。"
+          },
+          {
+            "q": "¿Qué problema menciona el autor sobre la tecnología y la vida personal?",
+            "options": [
+              "La tecnología ha creado más empleos para todos.",
+              "La tecnología ha separado completamente el trabajo de la vida personal.",
+              "La tecnología ha borrado los límites entre la vida personal y profesional.",
+              "La tecnología no ha tenido ningún impacto en la vida de los trabajadores."
+            ],
+            "answer": 2,
+            "explain": "第三段提到科技雖然有用，但消除了個人生活與職業生活之間的界線。"
+          },
+          {
+            "q": "¿Qué es el 'derecho a la desconexión digital' según el contexto del texto?",
+            "options": [
+              "El derecho a usar internet en el trabajo.",
+              "El derecho a no conectarse al trabajo fuera del horario laboral.",
+              "El derecho a cambiar de trabajo cuando se quiera.",
+              "El derecho a recibir formación tecnológica gratuita."
+            ],
+            "answer": 1,
+            "explain": "由上下文可判斷，「數位斷線權」是指員工在工作時間以外不需接收或回覆工作訊息的權利。"
+          },
+          {
+            "q": "¿Qué propone el autor al final del texto para mejorar la situación?",
+            "options": [
+              "Que los trabajadores acepten trabajar más horas sin quejarse.",
+              "Que los gobiernos eliminen todas las leyes laborales.",
+              "Que empleadores y empleados dialoguen para encontrar soluciones.",
+              "Que las empresas dejen de usar tecnología en el trabajo."
+            ],
+            "answer": 2,
+            "explain": "文章最後一段明確提出，雇主與員工雙方應進行對話，以找到對所有人都有益的解決方案。"
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-07-21-C1-fallback",
+        "source": "ai",
+        "level_label": "約 C1（AI 生成）",
+        "title": "El futuro del trabajo en la era digital",
+        "text": "En los últimos años, el mundo laboral ha cambiado de una manera que nadie habría imaginado hace dos décadas. La tecnología ha transformado sectores enteros y muchos trabajadores se preguntan si sus empleos existirán en el futuro. Cuando era joven, mi padre me decía que encontrar un trabajo estable era lo más importante. Sin embargo, hoy en día esa idea parece anticuada.\n\nCreo que la automatización trae consigo tanto oportunidades como riesgos. Por un lado, las máquinas pueden realizar tareas repetitivas con mayor eficiencia. Por otro lado, millones de personas podrían perder su fuente de ingresos si los gobiernos no tomaran medidas urgentes. Es fundamental que las empresas inviertan en la formación de sus empleados para que estos puedan adaptarse a los nuevos entornos digitales.\n\nAdemás, considero que la sociedad debería reflexionar sobre qué tipo de trabajo valoramos. Profesiones como la enfermería o la educación, que requieren empatía y creatividad humana, nunca serán reemplazadas completamente por máquinas. Sería un error pensar que la tecnología puede sustituir todo lo que los seres humanos ofrecemos. El desafío está en encontrar un equilibrio justo entre el progreso tecnológico y el bienestar social.",
+        "translation": "在過去幾年裡，勞動世界以一種二十年前沒有人能想像到的方式改變了。科技已經徹底改變了許多產業，許多工作者不禁自問，他們的工作在未來是否還會存在。小時候，我父親告訴我，找到一份穩定的工作是最重要的事。然而，在今天，這個想法似乎已經過時了。\n\n我認為自動化帶來的既有機遇，也有風險。一方面，機器能夠更有效率地執行重複性任務。另一方面，如果各國政府不採取緊急措施，數百萬人可能會失去收入來源。企業必須投資於員工培訓，讓他們能夠適應新的數位環境，這一點至關重要。\n\n此外，我認為社會應該反思我們重視哪種類型的工作。像護理或教育這樣需要同理心與人類創造力的職業，永遠不會被機器完全取代。認為科技可以取代人類所提供的一切，將會是一個錯誤。挑戰在於如何在科技進步與社會福祉之間找到公平的平衡點。",
+        "words": [
+          {
+            "word": "laboral",
+            "pos": "adj.",
+            "zh": "勞動的、工作的",
+            "example": "Las condiciones laborales en esa empresa son muy buenas.",
+            "example_zh": "那家公司的工作條件非常好。"
+          },
+          {
+            "word": "automatización",
+            "pos": "n.f.",
+            "zh": "自動化",
+            "example": "La automatización ha eliminado muchos empleos en la industria.",
+            "example_zh": "自動化已經消除了工業中的許多工作機會。"
+          },
+          {
+            "word": "eficiencia",
+            "pos": "n.f.",
+            "zh": "效率",
+            "example": "Trabajar con eficiencia es clave para el éxito de una empresa.",
+            "example_zh": "有效率地工作是企業成功的關鍵。"
+          },
+          {
+            "word": "ingresos",
+            "pos": "n.m.pl.",
+            "zh": "收入、所得",
+            "example": "Sus ingresos mensuales no son suficientes para pagar el alquiler.",
+            "example_zh": "他的月收入不足以支付房租。"
+          },
+          {
+            "word": "formación",
+            "pos": "n.f.",
+            "zh": "培訓、養成教育",
+            "example": "La empresa ofrece programas de formación para sus empleados.",
+            "example_zh": "該公司為員工提供培訓課程。"
+          },
+          {
+            "word": "adaptarse",
+            "pos": "v. pron.",
+            "zh": "適應",
+            "example": "Es difícil adaptarse a un nuevo entorno de trabajo.",
+            "example_zh": "適應新的工作環境是困難的。"
+          },
+          {
+            "word": "empatía",
+            "pos": "n.f.",
+            "zh": "同理心",
+            "example": "Un buen líder necesita empatía para entender a su equipo.",
+            "example_zh": "一位好的領導者需要同理心來理解他的團隊。"
+          },
+          {
+            "word": "reemplazar",
+            "pos": "v.",
+            "zh": "取代、替換",
+            "example": "Los robots no pueden reemplazar completamente a los médicos.",
+            "example_zh": "機器人無法完全取代醫生。"
+          },
+          {
+            "word": "equilibrio",
+            "pos": "n.m.",
+            "zh": "平衡",
+            "example": "Necesitamos encontrar un equilibrio entre el trabajo y la vida personal.",
+            "example_zh": "我們需要在工作與個人生活之間找到平衡。"
+          },
+          {
+            "word": "bienestar",
+            "pos": "n.m.",
+            "zh": "福祉、幸福",
+            "example": "El gobierno debe proteger el bienestar de todos los ciudadanos.",
+            "example_zh": "政府必須保護所有公民的福祉。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué le decía el padre del autor cuando era joven?",
+            "options": [
+              "Que estudiara tecnología para tener éxito.",
+              "Que encontrar un trabajo estable era lo más importante.",
+              "Que la automatización traía muchas oportunidades.",
+              "Que debería trabajar en el sector de la educación."
+            ],
+            "answer": 1,
+            "explain": "文中提到「我父親告訴我，找到一份穩定的工作是最重要的事」（encontrar un trabajo estable era lo más importante），故選第二項。"
+          },
+          {
+            "q": "Según el texto, ¿cuál es una ventaja de la automatización?",
+            "options": [
+              "Crea más empleos estables para los trabajadores.",
+              "Permite a las personas trabajar menos horas.",
+              "Las máquinas pueden realizar tareas repetitivas con mayor eficiencia.",
+              "Elimina todos los riesgos en el mundo laboral."
+            ],
+            "answer": 2,
+            "explain": "文中明確指出自動化的優點是「機器能夠更有效率地執行重複性任務」，故選第三項。"
+          },
+          {
+            "q": "¿Qué recomienda el autor que hagan las empresas?",
+            "options": [
+              "Que contraten solo a trabajadores jóvenes.",
+              "Que reduzcan el número de empleados rápidamente.",
+              "Que inviertan en la formación de sus empleados.",
+              "Que abandonen el uso de tecnología en sus procesos."
+            ],
+            "answer": 2,
+            "explain": "作者認為企業應「投資於員工培訓」（inviertan en la formación de sus empleados），讓員工能適應數位環境，故選第三項。"
+          },
+          {
+            "q": "¿Por qué el autor cree que la enfermería y la educación no serán reemplazadas por máquinas?",
+            "options": [
+              "Porque son profesiones muy bien pagadas.",
+              "Porque requieren empatía y creatividad humana.",
+              "Porque los robots no pueden aprender esas materias.",
+              "Porque el gobierno las protege con leyes especiales."
+            ],
+            "answer": 1,
+            "explain": "作者指出護理與教育「需要同理心與人類創造力」（requieren empatía y creatividad humana），因此不會被機器取代，故選第二項。"
+          },
+          {
+            "q": "¿Cuál es el desafío principal que menciona el autor al final del texto?",
+            "options": [
+              "Eliminar por completo el uso de tecnología en el trabajo.",
+              "Convencer a las empresas de no usar robots.",
+              "Encontrar un equilibrio entre el progreso tecnológico y el bienestar social.",
+              "Aumentar los ingresos de los trabajadores digitales."
+            ],
+            "answer": 2,
+            "explain": "文章結尾明確指出挑戰在於「在科技進步與社會福祉之間找到公平的平衡點」，故選第三項。"
+          }
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "2026-07-21-C2-fallback",
+        "source": "ai",
+        "level_label": "約 C2（AI 生成）",
+        "title": "El futuro del trabajo en la era digital",
+        "text": "En los últimos años, el mundo laboral ha cambiado de manera significativa debido al avance de la tecnología. Muchos expertos creen que la inteligencia artificial reemplazará a miles de trabajadores en sectores como la manufactura y los servicios. Sin embargo, otros opinan que también se crearán nuevos empleos que antes no existían.\n\nCuando era estudiante, nunca imaginé que trabajaría desde casa ni que las reuniones virtuales serían tan comunes. Si los gobiernos no tomaran medidas adecuadas, muchas personas quedarían desempleadas sin posibilidad de adaptarse. Por eso, es fundamental que las instituciones inviertan en programas de formación profesional para que los trabajadores puedan aprender nuevas habilidades.\n\nPersonalmente, creo que la tecnología no debería verse como una amenaza, sino como una herramienta que nos ayuda a trabajar de forma más eficiente. Lo que me preocupa es que las desigualdades sociales podrían aumentar si no garantizamos el acceso equitativo a la educación y a los recursos digitales. En mi opinión, una sociedad justa es aquella en la que todos tienen las mismas oportunidades, independientemente de su origen o situación económica.",
+        "translation": "在過去幾年中，由於科技的進步，勞動世界發生了重大變化。許多專家認為，人工智慧將取代製造業和服務業中成千上萬的工作者。然而，另一些人認為，以前不存在的新工作也將被創造出來。\n\n當我還是學生的時候，我從未想過自己會在家工作，也沒想到虛擬會議會變得如此普遍。如果政府不採取適當措施，許多人將會失業，且無法適應新局面。因此，機構投資職業培訓計畫是至關重要的，讓工作者能夠學習新技能。\n\n就我個人而言，我認為科技不應該被視為一種威脅，而應視為幫助我們更有效率地工作的工具。讓我擔憂的是，如果我們不能保障所有人平等地獲得教育和數位資源，社會不平等可能會加劇。在我看來，一個公正的社會，是每個人都擁有平等機會的社會，無論其出身或經濟狀況如何。",
+        "words": [
+          {
+            "word": "reemplazar",
+            "pos": "v.",
+            "zh": "取代、替換",
+            "example": "La automatización podría reemplazar muchos trabajos manuales.",
+            "example_zh": "自動化可能會取代許多體力勞動的工作。"
+          },
+          {
+            "word": "desempleado/a",
+            "pos": "adj./n.",
+            "zh": "失業的；失業者",
+            "example": "Hay miles de personas desempleadas que buscan nuevas oportunidades.",
+            "example_zh": "有數千名失業者正在尋找新的機會。"
+          },
+          {
+            "word": "formación profesional",
+            "pos": "n. f.",
+            "zh": "職業培訓",
+            "example": "El gobierno invirtió más dinero en formación profesional este año.",
+            "example_zh": "政府今年在職業培訓上投入了更多資金。"
+          },
+          {
+            "word": "habilidad",
+            "pos": "n. f.",
+            "zh": "技能、能力",
+            "example": "Es importante desarrollar nuevas habilidades para el mercado laboral.",
+            "example_zh": "為勞動市場培養新技能非常重要。"
+          },
+          {
+            "word": "amenaza",
+            "pos": "n. f.",
+            "zh": "威脅",
+            "example": "Algunos ven el cambio climático como una amenaza global.",
+            "example_zh": "一些人將氣候變遷視為全球性威脅。"
+          },
+          {
+            "word": "desigualdad",
+            "pos": "n. f.",
+            "zh": "不平等",
+            "example": "La desigualdad social es un problema serio en muchos países.",
+            "example_zh": "社會不平等在許多國家是一個嚴重的問題。"
+          },
+          {
+            "word": "equitativo/a",
+            "pos": "adj.",
+            "zh": "公平的、平等的",
+            "example": "Necesitamos una distribución más equitativa de los recursos.",
+            "example_zh": "我們需要更公平地分配資源。"
+          },
+          {
+            "word": "garantizar",
+            "pos": "v.",
+            "zh": "保障、確保",
+            "example": "El Estado debe garantizar el derecho a la educación.",
+            "example_zh": "國家必須保障受教育的權利。"
+          },
+          {
+            "word": "eficiente",
+            "pos": "adj.",
+            "zh": "有效率的",
+            "example": "Esta nueva aplicación nos permite trabajar de manera más eficiente.",
+            "example_zh": "這個新應用程式讓我們能夠更有效率地工作。"
+          },
+          {
+            "word": "independientemente de",
+            "pos": "loc. prep.",
+            "zh": "無論……、不管……",
+            "example": "Todos merecen respeto, independientemente de su cultura.",
+            "example_zh": "每個人都值得受到尊重，無論其文化背景如何。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Según el texto, ¿qué creen muchos expertos sobre la inteligencia artificial?",
+            "options": [
+              "Que mejorará las condiciones de trabajo para todos los empleados.",
+              "Que reemplazará a miles de trabajadores en varios sectores.",
+              "Que solo afectará a los trabajadores del sector educativo.",
+              "Que no tendrá ningún impacto en el mercado laboral."
+            ],
+            "answer": 1,
+            "explain": "文章第一段提到，許多專家認為人工智慧將取代製造業和服務業中成千上萬的工作者，故選第二項。"
+          },
+          {
+            "q": "¿Qué tiempo verbal se usa en la frase «Si los gobiernos no tomaran medidas adecuadas, muchas personas quedarían desempleadas»?",
+            "options": [
+              "Pretérito indefinido e imperfecto.",
+              "Futuro simple y condicional.",
+              "Imperfecto de subjuntivo y condicional simple.",
+              "Presente de subjuntivo y futuro."
+            ],
+            "answer": 2,
+            "explain": "這是一個假設性條件句（非真實條件句），使用虛擬式過去未完成時（tomaran）與條件式（quedarían），故選第三項。"
+          },
+          {
+            "q": "¿Cuál es la opinión del autor sobre la tecnología?",
+            "options": [
+              "Que es una amenaza peligrosa para la sociedad.",
+              "Que debería eliminarse del mundo laboral.",
+              "Que es una herramienta para trabajar de forma más eficiente.",
+              "Que solo beneficia a las grandes empresas."
+            ],
+            "answer": 2,
+            "explain": "文章第三段明確指出，作者認為科技應被視為幫助我們更有效率工作的工具，而非威脅，故選第三項。"
+          },
+          {
+            "q": "Según el texto, ¿qué es lo que le preocupa al autor?",
+            "options": [
+              "Que la gente trabaje demasiadas horas al día.",
+              "Que las desigualdades sociales aumenten por falta de acceso equitativo.",
+              "Que los gobiernos gasten demasiado en tecnología.",
+              "Que las reuniones virtuales sean poco efectivas."
+            ],
+            "answer": 1,
+            "explain": "文章第三段說明作者擔憂的是，若無法保障平等獲取教育與數位資源，社會不平等將可能加劇，故選第二項。"
+          },
+          {
+            "q": "¿Qué propone el autor para ayudar a los trabajadores a adaptarse a los cambios?",
+            "options": [
+              "Que las empresas reduzcan el uso de tecnología.",
+              "Que los trabajadores busquen empleo en otros países.",
+              "Que las instituciones inviertan en programas de formación profesional.",
+              "Que el gobierno prohíba la inteligencia artificial."
+            ],
+            "answer": 2,
+            "explain": "文章第二段提到，機構應投資職業培訓計畫，讓工作者能夠學習新技能以適應變化，故選第三項。"
+          }
+        ]
+      }
+    ]
+  }
+}

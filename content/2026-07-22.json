@@ -6,9 +6,9 @@
         "id": "2026-07-22-A1-1",
         "source": "ai",
         "level_label": "A1",
-        "title": "Mis bebidas favoritas",
-        "text": "Yo bebo agua todos los días. El agua es buena para la salud. También me gusta el café. Tomo café por la mañana. Mi madre bebe té verde. El té es rico y caliente. A veces bebo jugo de naranja. El jugo es dulce y fresco. No me gusta la leche. Prefiero el agua o el jugo.",
-        "translation": "我每天喝水。水對健康有益。我也喜歡咖啡。我早上喝咖啡。我媽媽喝綠茶。茶又好喝又熱。我有時候喝柳橙汁。果汁又甜又清爽。我不喜歡牛奶。我比較喜歡水或果汁。",
+        "title": "Las bebidas del día",
+        "text": "Por la mañana, yo bebo café con leche. Es rico y caliente. Mi hermana prefiere el té. Ella no toma café. Al mediodía, nosotros bebemos agua fría. El agua es muy importante. Por la tarde, yo tomo un zumo de naranja. Es delicioso y natural. Por la noche, mi familia bebe leche caliente. Nos gusta mucho.",
+        "translation": "早上，我喝加牛奶的咖啡。它香濃又熱。我姊姊偏好茶。她不喝咖啡。中午，我們喝冷水。水非常重要。下午，我喝一杯柳橙汁。它美味又天然。晚上，我的家人喝熱牛奶。我們非常喜歡。",
         "words": [
           {
             "word": "beber",
@@ -18,124 +18,124 @@
             "example_zh": "我每天喝水。"
           },
           {
-            "word": "agua",
-            "pos": "n.f.",
-            "zh": "水",
-            "example": "El agua es buena para la salud.",
-            "example_zh": "水對健康有益。"
-          },
-          {
             "word": "café",
-            "pos": "n.m.",
+            "pos": "n. m.",
             "zh": "咖啡",
-            "example": "Tomo café por la mañana.",
-            "example_zh": "我早上喝咖啡。"
-          },
-          {
-            "word": "té",
-            "pos": "n.m.",
-            "zh": "茶",
-            "example": "Mi madre bebe té verde.",
-            "example_zh": "我媽媽喝綠茶。"
-          },
-          {
-            "word": "jugo",
-            "pos": "n.m.",
-            "zh": "果汁",
-            "example": "A veces bebo jugo de naranja.",
-            "example_zh": "我有時候喝柳橙汁。"
+            "example": "El café está caliente.",
+            "example_zh": "咖啡是熱的。"
           },
           {
             "word": "leche",
-            "pos": "n.f.",
+            "pos": "n. f.",
             "zh": "牛奶",
-            "example": "No me gusta la leche.",
-            "example_zh": "我不喜歡牛奶。"
-          },
-          {
-            "word": "dulce",
-            "pos": "adj.",
-            "zh": "甜的",
-            "example": "El jugo es dulce y fresco.",
-            "example_zh": "果汁又甜又清爽。"
+            "example": "Mi madre bebe leche por la mañana.",
+            "example_zh": "我媽媽早上喝牛奶。"
           },
           {
             "word": "preferir",
             "pos": "v.",
-            "zh": "比較喜歡、偏好",
-            "example": "Prefiero el agua o el jugo.",
-            "example_zh": "我比較喜歡水或果汁。"
+            "zh": "偏好、比較喜歡",
+            "example": "Ella prefiere el té verde.",
+            "example_zh": "她比較喜歡綠茶。"
           },
           {
-            "word": "salud",
-            "pos": "n.f.",
-            "zh": "健康",
-            "example": "El agua es buena para la salud.",
-            "example_zh": "水對健康有益。"
+            "word": "té",
+            "pos": "n. m.",
+            "zh": "茶",
+            "example": "El té es muy rico.",
+            "example_zh": "茶非常好喝。"
+          },
+          {
+            "word": "agua",
+            "pos": "n. f.",
+            "zh": "水",
+            "example": "El agua fría es buena en verano.",
+            "example_zh": "冷水在夏天很好。"
+          },
+          {
+            "word": "zumo",
+            "pos": "n. m.",
+            "zh": "果汁",
+            "example": "Tomo un zumo de naranja cada tarde.",
+            "example_zh": "我每天下午喝一杯柳橙汁。"
+          },
+          {
+            "word": "naranja",
+            "pos": "n. f.",
+            "zh": "柳橙",
+            "example": "La naranja es una fruta muy dulce.",
+            "example_zh": "柳橙是一種很甜的水果。"
           },
           {
             "word": "caliente",
             "pos": "adj.",
             "zh": "熱的",
-            "example": "El té es rico y caliente.",
-            "example_zh": "茶又好喝又熱。"
+            "example": "Me gusta el chocolate caliente.",
+            "example_zh": "我喜歡熱巧克力。"
+          },
+          {
+            "word": "delicioso",
+            "pos": "adj.",
+            "zh": "美味的",
+            "example": "Este zumo está delicioso.",
+            "example_zh": "這杯果汁非常美味。"
           }
         ],
         "quiz": [
           {
-            "q": "¿Qué bebe la persona todos los días?",
+            "q": "¿Qué bebe la persona por la mañana?",
             "options": [
-              "Café",
-              "Leche",
-              "Agua",
-              "Jugo"
-            ],
-            "answer": 2,
-            "explain": "文章第一句說「Yo bebo agua todos los días」，表示這個人每天喝水。"
-          },
-          {
-            "q": "¿Cuándo toma café la persona?",
-            "options": [
-              "Por la noche",
-              "Por la tarde",
-              "A veces",
-              "Por la mañana"
-            ],
-            "answer": 3,
-            "explain": "文章提到「Tomo café por la mañana」，表示早上喝咖啡。"
-          },
-          {
-            "q": "¿Qué bebida toma la madre?",
-            "options": [
-              "Agua",
-              "Té verde",
-              "Jugo de naranja",
-              "Café"
+              "Té con leche",
+              "Café con leche",
+              "Zumo de naranja",
+              "Agua fría"
             ],
             "answer": 1,
-            "explain": "文章說「Mi madre bebe té verde」，所以媽媽喝綠茶。"
+            "explain": "文中提到「por la mañana, yo bebo café con leche（早上我喝加牛奶的咖啡）」，故選第二個選項。"
           },
           {
-            "q": "¿Cómo es el jugo de naranja según el texto?",
+            "q": "¿Qué prefiere la hermana?",
             "options": [
-              "Amargo y frío",
-              "Caliente y rico",
-              "Dulce y fresco",
-              "Salado y dulce"
-            ],
-            "answer": 2,
-            "explain": "文章描述「El jugo es dulce y fresco」，果汁是甜的且清爽的。"
-          },
-          {
-            "q": "¿Qué bebida NO le gusta a la persona?",
-            "options": [
-              "El agua",
               "El café",
-              "El jugo",
+              "El agua",
+              "El té",
               "La leche"
             ],
+            "answer": 2,
+            "explain": "文中說「Mi hermana prefiere el té（我姊姊偏好茶）」，正確答案是茶。"
+          },
+          {
+            "q": "¿Cuándo beben agua fría?",
+            "options": [
+              "Por la mañana",
+              "Por la noche",
+              "Por la tarde",
+              "Al mediodía"
+            ],
             "answer": 3,
-            "explain": "文章明確說「No me gusta la leche」，表示這個人不喜歡牛奶。"
+            "explain": "文中提到「Al mediodía, nosotros bebemos agua fría（中午我們喝冷水）」，故選 al mediodía。"
+          },
+          {
+            "q": "¿Cómo es el zumo de naranja según el texto?",
+            "options": [
+              "Caliente y dulce",
+              "Frío y rico",
+              "Delicioso y natural",
+              "Importante y caliente"
+            ],
+            "answer": 2,
+            "explain": "文中描述柳橙汁為「delicioso y natural（美味又天然）」，故選第三個選項。"
+          },
+          {
+            "q": "¿Qué bebe la familia por la noche?",
+            "options": [
+              "Café caliente",
+              "Agua fría",
+              "Zumo de naranja",
+              "Leche caliente"
+            ],
+            "answer": 3,
+            "explain": "文中說「por la noche, mi familia bebe leche caliente（晚上我的家人喝熱牛奶）」，正確答案是熱牛奶。"
           }
         ]
       }
@@ -146,135 +146,135 @@
         "source": "ai",
         "level_label": "A2",
         "title": "Mi día normal",
-        "text": "Todos los días me levanto a las siete de la mañana. Primero me ducho y luego desayuno café con tostadas. Después voy al trabajo en autobús porque vivo lejos del centro. Por la tarde trabajo mucho y como con mis compañeros en un restaurante pequeño. Ayer llegué tarde a casa porque hubo mucho tráfico en la ciudad. Por la noche cené sopa y vi una película en la televisión. Mañana voy a levantarme más temprano porque tengo una reunión importante a las ocho. También voy a preparar mi ropa esta noche. Me gusta mi rutina, pero a veces es un poco cansada.",
-        "translation": "每天我早上七點起床。首先我淋浴，然後吃早餐——咖啡加吐司。之後我搭公車去上班，因為我住得離市中心很遠。下午我努力工作，並和同事在一家小餐廳吃午餐。昨天我很晚才到家，因為城市裡交通非常擁擠。晚上我喝了湯，看了一部電視電影。明天我要早一點起床，因為我八點有一個重要的會議。今晚我也要準備好衣服。我喜歡我的日常，但有時候有點累。",
+        "text": "Normalmente me despierto a las siete de la mañana y desayuno pan con café. Después voy al trabajo en autobús porque vivo lejos del centro. Ayer llegué tarde a la oficina porque perdí el autobús. Trabajé mucho y comí un sándwich a mediodía. Por la tarde hablé con mis compañeros y terminé todos mis informes. Cuando llegué a casa, cené con mi familia y vi la televisión un rato. Esta noche voy a leer un libro antes de dormir. Mañana voy a levantarme más temprano para no llegar tarde otra vez. Me gusta mi vida, pero a veces es muy ocupada.",
+        "translation": "我平常早上七點起床，吃麵包配咖啡當早餐。之後我搭公車去上班，因為我住得離市中心很遠。昨天我晚到辦公室，因為我錯過了公車。我工作了很多，中午吃了一個三明治。下午我和同事聊天，完成了所有的報告。回到家後，我和家人一起吃晚餐，看了一會兒電視。今晚我要讀一本書再睡覺。明天我要早一點起床，以免再次遲到。我喜歡我的生活，但有時候非常忙碌。",
         "words": [
           {
-            "word": "levantarse",
-            "pos": "v. pron.",
-            "zh": "起床；站起來",
-            "example": "Me levanto a las siete todos los días.",
-            "example_zh": "我每天七點起床。"
+            "word": "despertarse",
+            "pos": "v. prnl.",
+            "zh": "醒來、起床",
+            "example": "Normalmente me despierto a las siete.",
+            "example_zh": "我通常七點起床。"
           },
           {
             "word": "desayunar",
             "pos": "v.",
             "zh": "吃早餐",
-            "example": "Ella desayuna fruta y yogur por la mañana.",
-            "example_zh": "她早上吃水果和優格當早餐。"
+            "example": "Desayuno pan con café cada mañana.",
+            "example_zh": "我每天早上吃麵包配咖啡當早餐。"
           },
           {
             "word": "autobús",
             "pos": "n. m.",
             "zh": "公車",
-            "example": "Voy a la escuela en autobús.",
-            "example_zh": "我搭公車去學校。"
+            "example": "Voy al trabajo en autobús.",
+            "example_zh": "我搭公車去上班。"
+          },
+          {
+            "word": "perder",
+            "pos": "v.",
+            "zh": "錯過；遺失",
+            "example": "Ayer perdí el autobús.",
+            "example_zh": "昨天我錯過了公車。"
+          },
+          {
+            "word": "mediodía",
+            "pos": "n. m.",
+            "zh": "中午",
+            "example": "Comí un sándwich a mediodía.",
+            "example_zh": "我中午吃了一個三明治。"
           },
           {
             "word": "compañero/a",
             "pos": "n. m./f.",
-            "zh": "同事；同伴",
-            "example": "Mis compañeros son muy simpáticos.",
-            "example_zh": "我的同事們非常友善。"
+            "zh": "同事；同學",
+            "example": "Hablé con mis compañeros por la tarde.",
+            "example_zh": "我下午和我的同事聊天。"
           },
           {
-            "word": "llegar",
-            "pos": "v.",
-            "zh": "到達；抵達",
-            "example": "Ayer llegué tarde a la reunión.",
-            "example_zh": "昨天我開會遲到了。"
-          },
-          {
-            "word": "tráfico",
+            "word": "informe",
             "pos": "n. m.",
-            "zh": "交通；車流",
-            "example": "Hay mucho tráfico en la ciudad por la mañana.",
-            "example_zh": "早上城市裡有很多車流。"
+            "zh": "報告",
+            "example": "Terminé todos mis informes.",
+            "example_zh": "我完成了所有的報告。"
           },
           {
             "word": "cenar",
             "pos": "v.",
             "zh": "吃晚餐",
-            "example": "Anoche cené con mi familia.",
-            "example_zh": "昨晚我和家人吃晚餐。"
+            "example": "Cené con mi familia en casa.",
+            "example_zh": "我在家和家人吃晚餐。"
           },
           {
-            "word": "reunión",
-            "pos": "n. f.",
-            "zh": "會議；聚會",
-            "example": "Tengo una reunión importante mañana por la mañana.",
-            "example_zh": "我明天早上有一個重要的會議。"
+            "word": "levantarse",
+            "pos": "v. prnl.",
+            "zh": "起床；站起來",
+            "example": "Mañana voy a levantarme más temprano.",
+            "example_zh": "明天我要早一點起床。"
           },
           {
-            "word": "preparar",
-            "pos": "v.",
-            "zh": "準備",
-            "example": "Voy a preparar la cena esta tarde.",
-            "example_zh": "我今天下午要準備晚餐。"
-          },
-          {
-            "word": "rutina",
-            "pos": "n. f.",
-            "zh": "日常；例行公事",
-            "example": "Mi rutina diaria empieza muy temprano.",
-            "example_zh": "我的日常作息很早就開始了。"
+            "word": "ocupado/a",
+            "pos": "adj.",
+            "zh": "忙碌的",
+            "example": "A veces mi vida es muy ocupada.",
+            "example_zh": "有時候我的生活非常忙碌。"
           }
         ],
         "quiz": [
           {
-            "q": "¿A qué hora se levanta el autor todos los días?",
+            "q": "¿A qué hora se despierta normalmente la persona?",
             "options": [
-              "A las seis de la mañana.",
-              "A las siete de la mañana.",
-              "A las ocho de la mañana.",
-              "A las nueve de la mañana."
+              "A las seis de la mañana",
+              "A las siete de la mañana",
+              "A las ocho de la mañana",
+              "A las nueve de la mañana"
             ],
             "answer": 1,
-            "explain": "短文第一句明確提到「me levanto a las siete de la mañana（我早上七點起床）」，故答案為選項B。"
+            "explain": "文中提到「me despierto a las siete de la mañana」，因此答案是早上七點。"
           },
           {
-            "q": "¿Cómo va el autor al trabajo?",
+            "q": "¿Por qué llegó tarde a la oficina ayer?",
             "options": [
-              "En coche.",
-              "A pie.",
-              "En autobús.",
-              "En metro."
+              "Porque se despertó tarde",
+              "Porque llovía mucho",
+              "Porque perdió el autobús",
+              "Porque estaba enfermo"
             ],
             "answer": 2,
-            "explain": "短文中說「voy al trabajo en autobús（我搭公車去上班）」，故答案為選項C。"
+            "explain": "文中說「porque perdí el autobús」，他昨天遲到是因為錯過了公車。"
           },
           {
-            "q": "¿Por qué llegó tarde a casa el autor ayer?",
+            "q": "¿Qué comió la persona a mediodía?",
             "options": [
-              "Porque tuvo una reunión larga.",
-              "Porque comió en un restaurante.",
-              "Porque hubo mucho tráfico.",
-              "Porque perdió el autobús."
-            ],
-            "answer": 2,
-            "explain": "短文中說「llegué tarde a casa porque hubo mucho tráfico（因為交通擁擠所以很晚到家）」，故答案為選項C。"
-          },
-          {
-            "q": "¿Qué va a hacer el autor mañana a las ocho?",
-            "options": [
-              "Va a desayunar con sus compañeros.",
-              "Va a tener una reunión importante.",
-              "Va a preparar su ropa.",
-              "Va a ver una película."
+              "Pan con café",
+              "Un sándwich",
+              "Arroz con pollo",
+              "Una ensalada"
             ],
             "answer": 1,
-            "explain": "短文中提到「tengo una reunión importante a las ocho（我八點有一個重要的會議）」，故答案為選項B。"
+            "explain": "文中提到「comí un sándwich a mediodía」，中午吃的是三明治。"
           },
           {
-            "q": "¿Qué hizo el autor por la noche?",
+            "q": "¿Qué va a hacer la persona esta noche?",
             "options": [
-              "Preparó ropa y estudió español.",
-              "Cenó tostadas y durmió temprano.",
-              "Cenó sopa y vio una película.",
-              "Fue al restaurante con sus compañeros."
+              "Va a ver la televisión",
+              "Va a hablar con sus compañeros",
+              "Va a leer un libro",
+              "Va a cenar en un restaurante"
             ],
             "answer": 2,
-            "explain": "短文中說「cené sopa y vi una película en la televisión（我喝了湯並看了一部電視電影）」，故答案為選項C。"
+            "explain": "文中使用 Futuro próximo 說「esta noche voy a leer un libro」，今晚要讀書。"
+          },
+          {
+            "q": "¿Por qué va a levantarse más temprano mañana?",
+            "options": [
+              "Para desayunar con su familia",
+              "Para no llegar tarde otra vez",
+              "Para ir al gimnasio",
+              "Para tomar el primer autobús"
+            ],
+            "answer": 1,
+            "explain": "文中說「para no llegar tarde otra vez」，目的是不要再次遲到。"
           }
         ]
       }
@@ -285,8 +285,286 @@
         "source": "ai",
         "level_label": "B1",
         "title": "Las ciudades del futuro",
-        "text": "Muchos expertos creen que las ciudades del futuro serán muy diferentes a las que conocemos hoy. Si pudiéramos diseñar una ciudad ideal, probablemente elegiríamos espacios más verdes, transporte limpio y edificios inteligentes que usaran menos energía.\n\nCuando era niño, imaginaba que en el futuro todos viajaríamos en coches voladores. Aunque esa idea todavía parece lejana, los científicos ya han desarrollado vehículos eléctricos que contaminan mucho menos que los tradicionales. Además, varias ciudades han construido redes de transporte público que conectan distintos barrios de manera eficiente.\n\nTambién es probable que los edificios del futuro tengan paneles solares en los techos y jardines verticales en las fachadas. Estas innovaciones permitirían que los ciudadanos vivieran en armonía con la naturaleza, algo que antes parecía imposible.\n\nSin embargo, para que estas ciudades existieran de verdad, sería necesario que los gobiernos invirtieran más dinero en tecnología sostenible. Espero que las generaciones futuras puedan disfrutar de un entorno urbano más limpio, seguro y humano que el que tenemos ahora.",
-        "translation": "許多專家認為，未來的城市將與我們今日所認識的截然不同。如果我們能夠設計一座理想城市，可能會選擇更多綠色空間、清潔交通，以及能消耗較少能源的智慧建築。\n\n我小時候曾想像，未來大家都會乘坐飛行汽車出行。儘管這個想法看起來還很遙遠，科學家們已經研發出比傳統車輛污染少得多的電動交通工具。此外，好幾座城市已建立了連接各個街區的高效公共交通網絡。\n\n未來的建築也很可能在屋頂裝設太陽能板，並在外牆設置垂直花園。這些創新將使市民能夠與大自然和諧共處，而這在從前似乎是不可能的事。\n\n然而，要讓這些城市真正存在，政府就必須在永續科技上投入更多資金。我希望未來的世代能夠享有一個比我們現在所擁有的更乾淨、更安全、更人性化的城市環境。",
+        "text": "¿Cómo serán las ciudades dentro de cincuenta años? Muchos expertos creen que los centros urbanos cambiarán de manera radical. Si los gobiernos invirtieran más en tecnología verde, las ciudades podrían reducir significativamente su contaminación. Además, es probable que los coches eléctricos reemplazaran completamente a los vehículos de gasolina.\n\nCuando era niño, mi abuelo me contó que las calles de su ciudad estaban llenas de humo y ruido. Hoy en día, aunque todavía existen muchos problemas medioambientales, hemos avanzado bastante. Los arquitectos ya diseñan edificios que producen su propia energía solar, y varios municipios han creado zonas peatonales donde antes había autopistas.\n\nSin embargo, también hay desafíos importantes. Si no se controlara el crecimiento de la población, muchas ciudades sufrirían una crisis grave de vivienda. Los expertos advierten que sería necesario construir más espacios verdes para que los ciudadanos pudieran disfrutar de una mejor calidad de vida.\n\nEspero que las generaciones futuras hereden ciudades más limpias, más inteligentes y más humanas que las que conocemos hoy.",
+        "translation": "未來的城市\n\n五十年後，城市會變成什麼樣子？許多專家認為，市區將會發生根本性的改變。如果政府在綠色科技上投入更多資金，城市或許能大幅減少污染。此外，電動車很可能會完全取代燃油車輛。\n\n我小時候，祖父曾告訴我，他的城市街道上充滿了煙霧與噪音。時至今日，儘管環境問題依然存在，我們已經取得了相當大的進步。建築師已經在設計能自行產生太陽能的建築，好幾個市政府也在原本有高速公路的地方建立了徒步區。\n\n然而，也存在重要的挑戰。如果無法控制人口增長，許多城市將面臨嚴重的住房危機。專家警告說，有必要建設更多綠地，讓市民能夠享有更好的生活品質。\n\n我希望未來的世代能繼承比我們今天所認識的城市更乾淨、更智慧、更人性化的城市。",
+        "words": [
+          {
+            "word": "urbano",
+            "pos": "adj.",
+            "zh": "城市的、都市的",
+            "example": "El transporte urbano es esencial para los ciudadanos.",
+            "example_zh": "都市交通對市民而言至關重要。"
+          },
+          {
+            "word": "invertir",
+            "pos": "v.",
+            "zh": "投資、投入",
+            "example": "El gobierno decidió invertir más dinero en educación.",
+            "example_zh": "政府決定在教育上投入更多資金。"
+          },
+          {
+            "word": "reemplazar",
+            "pos": "v.",
+            "zh": "取代、替換",
+            "example": "Las energías renovables reemplazarán al petróleo en el futuro.",
+            "example_zh": "可再生能源未來將取代石油。"
+          },
+          {
+            "word": "medioambiental",
+            "pos": "adj.",
+            "zh": "環境的、環保的",
+            "example": "Es urgente resolver los problemas medioambientales del planeta.",
+            "example_zh": "解決地球的環境問題十分迫切。"
+          },
+          {
+            "word": "peatonal",
+            "pos": "adj.",
+            "zh": "行人的、步行的",
+            "example": "La zona peatonal del centro está llena de tiendas.",
+            "example_zh": "市中心的步行區裡有許多商店。"
+          },
+          {
+            "word": "desafío",
+            "pos": "n. m.",
+            "zh": "挑戰、難題",
+            "example": "El cambio climático es uno de los mayores desafíos del siglo.",
+            "example_zh": "氣候變遷是本世紀最大的挑戰之一。"
+          },
+          {
+            "word": "vivienda",
+            "pos": "n. f.",
+            "zh": "住宅、住房",
+            "example": "El precio de la vivienda ha subido mucho en los últimos años.",
+            "example_zh": "近年來住房價格上漲了許多。"
+          },
+          {
+            "word": "advertir",
+            "pos": "v.",
+            "zh": "警告、提醒",
+            "example": "Los científicos advierten sobre los peligros del calentamiento global.",
+            "example_zh": "科學家警告全球暖化的危險。"
+          },
+          {
+            "word": "heredar",
+            "pos": "v.",
+            "zh": "繼承、承繼",
+            "example": "Esperamos heredar un mundo mejor para nuestros hijos.",
+            "example_zh": "我們希望為子女繼承一個更美好的世界。"
+          },
+          {
+            "word": "calidad de vida",
+            "pos": "loc. n. f.",
+            "zh": "生活品質",
+            "example": "Vivir cerca de un parque mejora la calidad de vida.",
+            "example_zh": "住在公園附近能提升生活品質。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Según el texto, ¿qué pasaría si los gobiernos invirtieran más en tecnología verde?",
+            "options": [
+              "Las ciudades sufrirían más contaminación.",
+              "Las ciudades podrían reducir su contaminación.",
+              "Los coches de gasolina serían más populares.",
+              "La población urbana disminuiría rápidamente."
+            ],
+            "answer": 1,
+            "explain": "文中提到「如果政府在綠色科技上投入更多，城市就能大幅減少污染」，對應選項B。"
+          },
+          {
+            "q": "¿Qué le contó el abuelo del narrador cuando este era niño?",
+            "options": [
+              "Que las ciudades del futuro serían perfectas.",
+              "Que los coches eléctricos ya existían en su época.",
+              "Que las calles de su ciudad estaban llenas de humo y ruido.",
+              "Que había muchas zonas peatonales en su ciudad."
+            ],
+            "answer": 2,
+            "explain": "文中明確寫到祖父說他的城市街道上充滿了煙霧與噪音，對應選項C。"
+          },
+          {
+            "q": "¿Qué tipo de edificios diseñan ya los arquitectos modernos?",
+            "options": [
+              "Edificios que producen su propia energía solar.",
+              "Edificios sin ventanas para ahorrar energía.",
+              "Edificios exclusivamente para uso industrial.",
+              "Edificios construidos debajo del suelo."
+            ],
+            "answer": 0,
+            "explain": "文中提到建築師已在設計能自行產生太陽能的建築，對應選項A。"
+          },
+          {
+            "q": "Según el texto, ¿cuál sería un problema grave si no se controlara el crecimiento de la población?",
+            "options": [
+              "La desaparición de los coches eléctricos.",
+              "Una crisis grave de vivienda en muchas ciudades.",
+              "La reducción de las zonas industriales.",
+              "El aumento excesivo de espacios verdes."
+            ],
+            "answer": 1,
+            "explain": "文中警告若人口增長無法控制，許多城市將面臨嚴重的住房危機，對應選項B。"
+          },
+          {
+            "q": "¿Cuál es el deseo del narrador al final del texto?",
+            "options": [
+              "Que las ciudades futuras tengan más autopistas y vehículos.",
+              "Que los expertos dejen de estudiar los problemas urbanos.",
+              "Que las generaciones futuras hereden ciudades más limpias e inteligentes.",
+              "Que los ciudadanos vuelvan a vivir en el campo."
+            ],
+            "answer": 2,
+            "explain": "文末作者表示希望未來世代能繼承更乾淨、更智慧、更人性化的城市，對應選項C。"
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "2026-07-22-B2-fallback",
+        "source": "ai",
+        "level_label": "約 B2（AI 生成）",
+        "title": "Las ciudades del futuro",
+        "text": "Cuando era niño, imaginaba que las ciudades del futuro serían lugares llenos de coches voladores y robots en cada esquina. Sin embargo, los expertos que han estudiado este tema opinan que la realidad sería bastante diferente.\n\nSi pudiéramos diseñar la ciudad perfecta, probablemente elegiríamos espacios verdes amplios, transporte público eficiente y edificios que produjeran su propia energía solar. Muchos arquitectos ya han comenzado a construir estructuras que utilizan materiales reciclados y que reducen la contaminación.\n\nAdemás, las ciudades inteligentes que se están desarrollando ahora mismo usarían la tecnología para gestionar mejor el tráfico, los residuos y el consumo de agua. Cuando los gobiernos invirtieran más en estas innovaciones, los ciudadanos vivirían en entornos más saludables y sostenibles.\n\nAunque todavía existen muchos desafíos, como la desigualdad económica y el cambio climático, creo que si trabajáramos juntos, podríamos crear ciudades donde todos tuvieran acceso a una vida digna. El futuro urbano depende de las decisiones que tomemos hoy.",
+        "translation": "小時候，我想像未來的城市會是到處都有飛行汽車、每個街角都有機器人的地方。然而，研究過這個主題的專家們認為，現實將會相當不同。\n\n如果我們能夠設計出完美的城市，我們可能會選擇寬闊的綠色空間、高效的公共交通，以及能夠自行產生太陽能的建築物。許多建築師已經開始建造使用回收材料、並且減少污染的建築結構。\n\n此外，目前正在發展的智慧城市將會利用科技來更有效地管理交通、廢棄物和用水量。當政府在這些創新上投入更多資金時，市民將能夠生活在更健康、更永續的環境中。\n\n儘管仍然存在許多挑戰，例如經濟不平等和氣候變遷，但我相信如果我們共同努力，就能創造出一個人人都能過上有尊嚴生活的城市。城市的未來取決於我們今天所做的決定。",
+        "words": [
+          {
+            "word": "esquina",
+            "pos": "n.f.",
+            "zh": "街角、角落",
+            "example": "Hay una tienda de frutas en la esquina de mi calle.",
+            "example_zh": "我家街角有一間水果店。"
+          },
+          {
+            "word": "experto/a",
+            "pos": "n.m./f.",
+            "zh": "專家",
+            "example": "Los expertos recomiendan dormir ocho horas al día.",
+            "example_zh": "專家們建議每天睡八個小時。"
+          },
+          {
+            "word": "eficiente",
+            "pos": "adj.",
+            "zh": "高效的、有效率的",
+            "example": "Necesitamos un sistema de transporte más eficiente.",
+            "example_zh": "我們需要一個更有效率的運輸系統。"
+          },
+          {
+            "word": "reciclado/a",
+            "pos": "adj.",
+            "zh": "回收再利用的",
+            "example": "Esta silla está hecha con materiales reciclados.",
+            "example_zh": "這把椅子是用回收材料製成的。"
+          },
+          {
+            "word": "contaminación",
+            "pos": "n.f.",
+            "zh": "污染",
+            "example": "La contaminación del aire es un problema grave en muchas ciudades.",
+            "example_zh": "空氣污染在許多城市是個嚴重的問題。"
+          },
+          {
+            "word": "gestionar",
+            "pos": "v.",
+            "zh": "管理、處理",
+            "example": "Es difícil gestionar todos los recursos de una ciudad grande.",
+            "example_zh": "管理一座大城市的所有資源是很困難的。"
+          },
+          {
+            "word": "residuos",
+            "pos": "n.m.pl.",
+            "zh": "廢棄物、垃圾",
+            "example": "Debemos separar los residuos para reciclarlos mejor.",
+            "example_zh": "我們應該將廢棄物分類以便更好地回收。"
+          },
+          {
+            "word": "sostenible",
+            "pos": "adj.",
+            "zh": "永續的、可持續的",
+            "example": "Queremos un desarrollo sostenible para el planeta.",
+            "example_zh": "我們希望地球能夠永續發展。"
+          },
+          {
+            "word": "desigualdad",
+            "pos": "n.f.",
+            "zh": "不平等",
+            "example": "La desigualdad económica sigue siendo un problema mundial.",
+            "example_zh": "經濟不平等仍然是個全球性問題。"
+          },
+          {
+            "word": "digno/a",
+            "pos": "adj.",
+            "zh": "有尊嚴的、體面的",
+            "example": "Todos merecemos vivir una vida digna.",
+            "example_zh": "我們每個人都值得過上有尊嚴的生活。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué imaginaba el autor cuando era niño sobre las ciudades del futuro?",
+            "options": [
+              "Que estarían llenas de árboles y parques naturales.",
+              "Que habría coches voladores y robots en cada esquina.",
+              "Que el transporte público sería gratuito para todos.",
+              "Que los edificios serían muy pequeños y simples."
+            ],
+            "answer": 1,
+            "explain": "文章開頭提到作者小時候想像未來城市會有飛行汽車（coches voladores）和到處都有機器人（robots en cada esquina）。"
+          },
+          {
+            "q": "Según el texto, ¿qué características tendría la ciudad perfecta?",
+            "options": [
+              "Muchos coches privados y grandes autopistas.",
+              "Fábricas industriales y centros comerciales enormes.",
+              "Espacios verdes, transporte eficiente y edificios con energía solar.",
+              "Fronteras cerradas y tecnología militar avanzada."
+            ],
+            "answer": 2,
+            "explain": "文章第二段描述理想城市應有寬闊綠地（espacios verdes amplios）、高效公共交通（transporte público eficiente）及產生太陽能的建築（edificios que produjeran su propia energía solar）。"
+          },
+          {
+            "q": "¿Para qué usarían la tecnología las ciudades inteligentes, según el texto?",
+            "options": [
+              "Para controlar a los ciudadanos y limitar su libertad.",
+              "Para gestionar mejor el tráfico, los residuos y el consumo de agua.",
+              "Para construir más robots y coches voladores.",
+              "Para reemplazar a todos los trabajadores humanos."
+            ],
+            "answer": 1,
+            "explain": "文章第三段明確指出智慧城市會用科技來管理交通（tráfico）、廢棄物（residuos）和用水量（consumo de agua）。"
+          },
+          {
+            "q": "¿Cuáles son algunos de los desafíos que menciona el autor?",
+            "options": [
+              "La falta de robots y coches modernos.",
+              "El exceso de espacios verdes y parques.",
+              "La desigualdad económica y el cambio climático.",
+              "El demasiado uso del transporte público."
+            ],
+            "answer": 2,
+            "explain": "文章最後一段提到現存挑戰包括經濟不平等（desigualdad económica）和氣候變遷（cambio climático）。"
+          },
+          {
+            "q": "¿De qué depende el futuro urbano, según la conclusión del texto?",
+            "options": [
+              "De las máquinas y la inteligencia artificial.",
+              "De las decisiones que tomemos hoy.",
+              "De los arquitectos y los ingenieros solamente.",
+              "Del clima y la geografía de cada país."
+            ],
+            "answer": 1,
+            "explain": "文章結尾一句「El futuro urbano depende de las decisiones que tomemos hoy」明確說明城市的未來取決於我們今天所做的決定。"
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-07-22-C1-fallback",
+        "source": "ai",
+        "level_label": "約 C1（AI 生成）",
+        "title": "Las ciudades del futuro",
+        "text": "Muchos expertos creen que las ciudades del futuro serán completamente diferentes a las que conocemos hoy. Si pudiéramos diseñar una ciudad ideal, probablemente incluiríamos más espacios verdes, transporte público eficiente y edificios que produjeran su propia energía solar.\n\nCuando era niño, imaginaba que en el futuro los coches volarían por el cielo y que los robots harían todo el trabajo doméstico. Aunque algunas de esas ideas parecían imposibles, hoy vemos que la tecnología ha avanzado muchísimo. Por ejemplo, ya existen vehículos eléctricos que reducen la contaminación que afectaba tanto a nuestras ciudades.\n\nSin embargo, los urbanistas advierten que el mayor desafío no es tecnológico sino social. Sería fundamental que los ciudadanos participaran activamente en la planificación urbana para que las ciudades fueran más justas e inclusivas. Si los gobiernos hubieran invertido antes en infraestructura sostenible, hoy tendríamos menos problemas de tráfico y contaminación.\n\nEn definitiva, la ciudad del futuro que quisiéramos construir dependería de las decisiones que tomemos ahora. El momento de actuar es hoy.",
+        "translation": "許多專家認為，未來的城市將與我們今天所認識的城市完全不同。如果我們能夠設計一座理想的城市，我們可能會納入更多綠地、高效的公共交通，以及能自行產生太陽能的建築。\n\n當我還是個孩子的時候，我想像著未來汽車會在天空中飛翔，機器人會做所有的家務。儘管這些想法中有些看似不可能，但今天我們看到科技已經進步了非常多。例如，電動車已經存在，減少了曾經嚴重困擾我們城市的污染。\n\n然而，城市規劃師警告說，最大的挑戰不是技術層面的，而是社會層面的。市民積極參與城市規劃是至關重要的，這樣城市才能更公平、更具包容性。如果政府早些投資於永續基礎設施，我們今天就會減少交通和污染問題。\n\n總而言之，我們希望建設的未來城市，將取決於我們現在所做的決定。行動的時機就是今天。",
         "words": [
           {
             "word": "experto",
@@ -299,399 +577,121 @@
             "word": "diseñar",
             "pos": "v.",
             "zh": "設計",
-            "example": "Quisiera diseñar una casa con jardín solar.",
-            "example_zh": "我想設計一棟有太陽能花園的房子。"
+            "example": "Nos gustaría diseñar un parque más grande para la ciudad.",
+            "example_zh": "我們想為城市設計一座更大的公園。"
           },
           {
-            "word": "contaminar",
-            "pos": "v.",
+            "word": "eficiente",
+            "pos": "adj.",
+            "zh": "高效的",
+            "example": "El nuevo sistema de metro es mucho más eficiente que el anterior.",
+            "example_zh": "新的地鐵系統比以前的效率高得多。"
+          },
+          {
+            "word": "contaminación",
+            "pos": "n. f.",
             "zh": "污染",
-            "example": "Las fábricas antiguas contaminaban mucho el aire.",
-            "example_zh": "老工廠過去嚴重污染空氣。"
+            "example": "La contaminación del aire es un problema grave en muchas ciudades.",
+            "example_zh": "空氣污染是許多城市的嚴重問題。"
           },
           {
-            "word": "red",
-            "pos": "n. f.",
-            "zh": "網絡；網路",
-            "example": "La ciudad construyó una red de metro muy moderna.",
-            "example_zh": "這座城市建造了一個非常現代化的地鐵網絡。"
+            "word": "urbanista",
+            "pos": "n.",
+            "zh": "城市規劃師",
+            "example": "Los urbanistas planifican cómo crecerán las ciudades en el futuro.",
+            "example_zh": "城市規劃師規劃城市未來的發展方式。"
           },
           {
-            "word": "panel solar",
+            "word": "desafío",
             "pos": "n. m.",
-            "zh": "太陽能板",
-            "example": "Muchas casas ya tienen paneles solares en el techo.",
-            "example_zh": "許多房屋的屋頂上已經安裝了太陽能板。"
+            "zh": "挑戰",
+            "example": "El cambio climático es uno de los mayores desafíos de nuestro tiempo.",
+            "example_zh": "氣候變遷是我們時代最大的挑戰之一。"
           },
           {
-            "word": "fachada",
+            "word": "planificación",
             "pos": "n. f.",
-            "zh": "外牆；正面",
-            "example": "La fachada del edificio estaba cubierta de plantas.",
-            "example_zh": "那棟建築的外牆覆滿了植物。"
+            "zh": "規劃；計畫",
+            "example": "Una buena planificación urbana mejora la calidad de vida.",
+            "example_zh": "良好的城市規劃能提升生活品質。"
           },
           {
             "word": "sostenible",
             "pos": "adj.",
             "zh": "永續的；可持續的",
-            "example": "El gobierno apoya el turismo sostenible.",
-            "example_zh": "政府支持永續旅遊。"
-          },
-          {
-            "word": "invertir",
-            "pos": "v.",
-            "zh": "投資；投入",
-            "example": "Es importante invertir en educación y salud.",
-            "example_zh": "投資教育和健康是很重要的。"
-          },
-          {
-            "word": "armonía",
-            "pos": "n. f.",
-            "zh": "和諧",
-            "example": "Queremos vivir en armonía con el medio ambiente.",
-            "example_zh": "我們想與環境和諧共處。"
-          },
-          {
-            "word": "entorno",
-            "pos": "n. m.",
-            "zh": "環境；周遭",
-            "example": "Los niños necesitan un entorno seguro para crecer.",
-            "example_zh": "孩子們需要一個安全的環境來成長。"
-          }
-        ],
-        "quiz": [
-          {
-            "q": "Según el texto, ¿qué elegiríamos si pudiéramos diseñar una ciudad ideal?",
-            "options": [
-              "Más fábricas y autopistas modernas",
-              "Espacios más verdes, transporte limpio y edificios inteligentes",
-              "Coches voladores y rascacielos de cristal",
-              "Mercados tradicionales y calles sin tecnología"
-            ],
-            "answer": 1,
-            "explain": "文章第一段明確提到，若能設計理想城市，會選擇更多綠色空間、清潔交通和智慧建築。"
-          },
-          {
-            "q": "¿Qué imaginaba el autor cuando era niño?",
-            "options": [
-              "Que viviríamos bajo el mar",
-              "Que no habría coches en el futuro",
-              "Que todos viajaríamos en coches voladores",
-              "Que las ciudades serían más pequeñas"
-            ],
-            "answer": 2,
-            "explain": "文章第二段說作者小時候想像未來大家都會乘坐飛行汽車（coches voladores）。"
-          },
-          {
-            "q": "¿Qué han desarrollado los científicos según el texto?",
-            "options": [
-              "Robots que construyen casas automáticamente",
-              "Vehículos eléctricos que contaminan menos",
-              "Aviones que funcionan con agua",
-              "Trenes que viajan bajo el océano"
-            ],
-            "answer": 1,
-            "explain": "文章第二段提到科學家已研發出污染較少的電動交通工具（vehículos eléctricos）。"
-          },
-          {
-            "q": "¿Qué tendrían los edificios del futuro, según el texto?",
-            "options": [
-              "Piscinas en cada piso y helipuertos",
-              "Paneles solares en los techos y jardines verticales en las fachadas",
-              "Ventanas inteligentes y ascensores voladores",
-              "Sótanos enormes y paredes de vidrio"
-            ],
-            "answer": 1,
-            "explain": "文章第三段明確說明未來建築將有屋頂太陽能板（paneles solares）和外牆垂直花園（jardines verticales）。"
-          },
-          {
-            "q": "¿Qué sería necesario para que estas ciudades del futuro existieran de verdad?",
-            "options": [
-              "Que los ciudadanos construyeran sus propias casas",
-              "Que desaparecieran los coches tradicionales",
-              "Que los gobiernos invirtieran más en tecnología sostenible",
-              "Que hubiera menos población en las ciudades"
-            ],
-            "answer": 2,
-            "explain": "文章最後一段指出，要讓這些城市真正存在，政府必須在永續科技（tecnología sostenible）上投入更多資金。"
-          }
-        ]
-      }
-    ],
-    "B2": [
-      {
-        "id": "2026-07-22-B2-fallback",
-        "source": "ai",
-        "level_label": "約 B2（AI 生成）",
-        "title": "Las ciudades del futuro",
-        "text": "Durante mucho tiempo, la gente soñaba con ciudades perfectas donde todos pudieran vivir cómodamente. Hoy en día, los urbanistas y los arquitectos trabajan juntos para que esos sueños se conviertan en realidad.\n\nEn las ciudades del futuro, habría menos coches contaminantes porque la mayoría de los ciudadanos utilizarían el transporte público o bicicletas eléctricas. Los edificios estarían cubiertos de plantas y paneles solares, lo que reduciría el consumo de energía de manera significativa.\n\nAdemás, si los gobiernos invirtieran más en tecnología verde, las ciudades podrían convertirse en lugares mucho más sostenibles. Muchos expertos creen que las inteligencias artificiales gestionarían el tráfico y los residuos urbanos de forma eficiente.\n\nCuando era niño, mi abuelo me contó que nunca imaginó que existirían tantos avances tecnológicos en tan poco tiempo. Ahora, mientras observamos los cambios que ya ocurrieron en algunas ciudades modernas como Singapur o Copenhague, nos damos cuenta de que el futuro que soñábamos ya está llegando. La pregunta es si todos tendríamos acceso a esas mejoras o solo los más privilegiados.",
-        "translation": "很長一段時間以來，人們夢想著擁有完美的城市，讓所有人都能舒適地生活。如今，城市規劃師和建築師攜手合作，讓這些夢想成為現實。\n\n在未來的城市裡，污染性汽車將會減少，因為大多數市民會使用大眾交通工具或電動自行車。建築物將覆蓋著植物和太陽能板，這將大幅降低能源消耗。\n\n此外，如果各國政府在綠色科技上投入更多資金，城市便能成為更加永續的地方。許多專家認為，人工智慧將有效率地管理交通與城市廢棄物。\n\n小時候，我的祖父告訴我，他從未想像過在如此短的時間內會出現這麼多科技進步。如今，當我們觀察到像新加坡或哥本哈根這樣的現代城市中已發生的變化，我們意識到我們所夢想的未來已經到來。問題在於，我們是否都能享有這些進步，還是只有最有特權的人才能享有。",
-        "words": [
-          {
-            "word": "urbanista",
-            "pos": "n.",
-            "zh": "城市規劃師",
-            "example": "Los urbanistas diseñan espacios para mejorar la calidad de vida.",
-            "example_zh": "城市規劃師設計空間以提升生活品質。"
-          },
-          {
-            "word": "contaminante",
-            "pos": "adj.",
-            "zh": "污染性的、有污染的",
-            "example": "Debemos reducir el uso de vehículos contaminantes en las ciudades.",
-            "example_zh": "我們必須減少在城市中使用污染性車輛。"
-          },
-          {
-            "word": "sostenible",
-            "pos": "adj.",
-            "zh": "永續的、可持續的",
-            "example": "El turismo sostenible protege el medio ambiente.",
-            "example_zh": "永續旅遊能保護環境。"
-          },
-          {
-            "word": "panel solar",
-            "pos": "n.",
-            "zh": "太陽能板",
-            "example": "Instalaron paneles solares en el techo del hospital.",
-            "example_zh": "他們在醫院屋頂安裝了太陽能板。"
-          },
-          {
-            "word": "gestionar",
-            "pos": "v.",
-            "zh": "管理、處理",
-            "example": "El ayuntamiento gestiona los residuos de la ciudad.",
-            "example_zh": "市政府管理城市的廢棄物。"
-          },
-          {
-            "word": "residuo",
-            "pos": "n.",
-            "zh": "廢棄物、垃圾",
-            "example": "Es importante reciclar los residuos para cuidar el planeta.",
-            "example_zh": "回收廢棄物對保護地球很重要。"
-          },
-          {
-            "word": "consumo",
-            "pos": "n.",
-            "zh": "消耗、消費",
-            "example": "El consumo de agua en verano aumenta mucho.",
-            "example_zh": "夏天的用水量大幅增加。"
-          },
-          {
-            "word": "invertir",
-            "pos": "v.",
-            "zh": "投資、投入",
-            "example": "El gobierno decidió invertir en energías renovables.",
-            "example_zh": "政府決定投資可再生能源。"
-          },
-          {
-            "word": "privilegiado",
-            "pos": "adj.",
-            "zh": "享有特權的、幸運的",
-            "example": "No todos los ciudadanos tienen una vida tan privilegiada.",
-            "example_zh": "並非所有市民都擁有如此優越的生活。"
-          },
-          {
-            "word": "darse cuenta de",
-            "pos": "loc. v.",
-            "zh": "意識到、察覺到",
-            "example": "Me di cuenta de que había olvidado las llaves.",
-            "example_zh": "我意識到我忘了帶鑰匙。"
-          }
-        ],
-        "quiz": [
-          {
-            "q": "Según el texto, ¿por qué habría menos coches en las ciudades del futuro?",
-            "options": [
-              "Porque los coches serían demasiado caros para todos.",
-              "Porque la mayoría de los ciudadanos usarían transporte público o bicicletas eléctricas.",
-              "Porque los gobiernos prohibirían completamente los vehículos.",
-              "Porque las calles serían demasiado pequeñas para los coches."
-            ],
-            "answer": 1,
-            "explain": "文中明確說明，大多數市民將使用大眾交通工具或電動自行車，因此污染性汽車會減少。"
-          },
-          {
-            "q": "¿Qué función tendrían las inteligencias artificiales en las ciudades futuras?",
-            "options": [
-              "Construirían nuevos edificios automáticamente.",
-              "Enseñarían a los ciudadanos a reciclar.",
-              "Gestionarían el tráfico y los residuos urbanos.",
-              "Diseñarían los paneles solares de los edificios."
-            ],
-            "answer": 2,
-            "explain": "文中提到，人工智慧將有效率地管理交通與城市廢棄物。"
-          },
-          {
-            "q": "¿Qué le contó el abuelo del narrador cuando este era niño?",
-            "options": [
-              "Que las ciudades del futuro serían perfectas.",
-              "Que nunca imaginó que existirían tantos avances tecnológicos.",
-              "Que Singapur era la mejor ciudad del mundo.",
-              "Que debemos invertir en tecnología verde."
-            ],
-            "answer": 1,
-            "explain": "文中敘述者回憶祖父說過，他從未想像過在短時間內會有這麼多科技進步。"
-          },
-          {
-            "q": "¿Qué condición se menciona para que las ciudades sean más sostenibles?",
-            "options": [
-              "Que los ciudadanos trabajen más horas.",
-              "Que se construyan más autopistas.",
-              "Que los gobiernos inviertan más en tecnología verde.",
-              "Que se eliminen todos los árboles urbanos."
-            ],
-            "answer": 2,
-            "explain": "文中使用條件句表示：「如果政府投入更多資金在綠色科技上」，城市才能更加永續。"
-          },
-          {
-            "q": "¿Cuál es la preocupación principal que expresa el autor al final del texto?",
-            "options": [
-              "Que las ciudades del futuro sean demasiado grandes.",
-              "Que la tecnología verde sea muy difícil de usar.",
-              "Que no todos puedan acceder a las mejoras del futuro.",
-              "Que Singapur y Copenhague no sean ciudades modernas."
-            ],
-            "answer": 2,
-            "explain": "文章結尾提出疑問：這些進步是否人人都能享有，還是只有少數有特權的人才能受益，表達了對社會公平的關切。"
-          }
-        ]
-      }
-    ],
-    "C1": [
-      {
-        "id": "2026-07-22-C1-fallback",
-        "source": "ai",
-        "level_label": "約 C1（AI 生成）",
-        "title": "Las ciudades del futuro",
-        "text": "Muchos expertos creen que las ciudades del futuro serán muy diferentes a las que conocemos hoy. Si pudiéramos diseñar una ciudad ideal, probablemente elegiríamos espacios más verdes, transporte limpio y edificios inteligentes que usarían menos energía.\n\nCuando era niño, imaginaba que en el futuro todos volaríamos en coches y que los robots harían todo el trabajo. Aunque algunas de esas ideas parecían imposibles, hoy ya existen tecnologías que antes no podíamos imaginar.\n\nLas ciudades sostenibles que se están construyendo en varios países han demostrado que es posible vivir mejor sin dañar el medio ambiente. Por ejemplo, en algunas ciudades europeas se prohibió el uso de coches de gasolina en el centro urbano, lo que mejoró significativamente la calidad del aire.\n\nSin embargo, también habría desafíos importantes. Sería necesario que los gobiernos invirtieran más en infraestructura y que los ciudadanos cambiaran sus hábitos diarios. Si todos cooperáramos, podríamos construir ciudades donde la gente viviera más feliz y saludable. El futuro de nuestras ciudades depende de las decisiones que tomemos hoy.",
-        "translation": "許多專家認為，未來的城市將與我們今天所熟知的大不相同。如果我們能夠設計一座理想的城市，我們很可能會選擇更多綠色空間、清潔的交通工具，以及能夠消耗更少能源的智慧建築。\n\n小時候，我想像未來我們都會駕駛飛行汽車，機器人會做所有的工作。雖然其中一些想法看似不可能，但今天已經存在了許多以前我們無法想像的技術。\n\n目前在多個國家正在建設的永續城市已經證明，在不破壞環境的情況下過得更好是可能的。例如，在一些歐洲城市，市中心禁止使用汽油車，這顯著改善了空氣品質。\n\n然而，也會有一些重要的挑戰。政府需要在基礎設施上投入更多資金，公民也需要改變日常習慣。如果我們共同合作，就能建造讓人們生活得更幸福、更健康的城市。我們城市的未來取決於我們今天所做的決定。",
-        "words": [
-          {
-            "word": "sostenible",
-            "pos": "adj.",
-            "zh": "永續的、可持續的",
-            "example": "Necesitamos desarrollar un modelo de vida más sostenible.",
-            "example_zh": "我們需要發展更永續的生活模式。"
+            "example": "Necesitamos una energía más sostenible para el futuro.",
+            "example_zh": "我們需要更永續的能源來面對未來。"
           },
           {
             "word": "infraestructura",
-            "pos": "f. n.",
+            "pos": "n. f.",
             "zh": "基礎設施",
-            "example": "El gobierno invirtió millones en la infraestructura de transporte.",
-            "example_zh": "政府在交通基礎設施上投資了數百萬。"
+            "example": "La infraestructura de transporte de esta ciudad es muy moderna.",
+            "example_zh": "這座城市的交通基礎設施非常現代化。"
           },
           {
-            "word": "medio ambiente",
-            "pos": "m. n.",
-            "zh": "環境、自然環境",
-            "example": "Debemos proteger el medio ambiente para las generaciones futuras.",
-            "example_zh": "我們必須為後代保護自然環境。"
-          },
-          {
-            "word": "prohibir",
-            "pos": "v.",
-            "zh": "禁止",
-            "example": "Se prohibió fumar en todos los espacios públicos.",
-            "example_zh": "所有公共場所都禁止吸菸。"
-          },
-          {
-            "word": "significativamente",
-            "pos": "adv.",
-            "zh": "顯著地、大幅地",
-            "example": "La temperatura ha aumentado significativamente en los últimos años.",
-            "example_zh": "近年來溫度已顯著上升。"
-          },
-          {
-            "word": "desafío",
-            "pos": "m. n.",
-            "zh": "挑戰",
-            "example": "Aprender un nuevo idioma es un gran desafío.",
-            "example_zh": "學習一門新語言是一大挑戰。"
-          },
-          {
-            "word": "invertir",
-            "pos": "v.",
-            "zh": "投資、投入",
-            "example": "Es importante invertir en educación desde una edad temprana.",
-            "example_zh": "從小就投資教育是很重要的。"
-          },
-          {
-            "word": "hábito",
-            "pos": "m. n.",
-            "zh": "習慣",
-            "example": "Tengo el hábito de leer antes de dormir.",
-            "example_zh": "我有睡前閱讀的習慣。"
-          },
-          {
-            "word": "cooperar",
-            "pos": "v.",
-            "zh": "合作、協作",
-            "example": "Los países deben cooperar para enfrentar el cambio climático.",
-            "example_zh": "各國必須合作以應對氣候變遷。"
-          },
-          {
-            "word": "demostrar",
-            "pos": "v.",
-            "zh": "證明、展示",
-            "example": "Los resultados demostraron que el método era eficaz.",
-            "example_zh": "結果證明該方法是有效的。"
+            "word": "inclusivo",
+            "pos": "adj.",
+            "zh": "包容的；包含所有人的",
+            "example": "Queremos una sociedad más inclusiva para todos los ciudadanos.",
+            "example_zh": "我們希望建立一個對所有市民更具包容性的社會。"
           }
         ],
         "quiz": [
           {
-            "q": "Según el texto, ¿qué elegiríamos si pudiéramos diseñar una ciudad ideal?",
+            "q": "Según el texto, ¿qué incluiría una ciudad ideal?",
             "options": [
-              "Más coches y autopistas modernas",
-              "Espacios verdes, transporte limpio y edificios inteligentes",
-              "Fábricas grandes y centros comerciales",
-              "Robots que hicieran todo el trabajo"
+              "Más fábricas y autopistas",
+              "Más espacios verdes, transporte eficiente y edificios con energía solar",
+              "Solo tecnología avanzada y robots",
+              "Coches voladores y edificios muy altos"
             ],
             "answer": 1,
-            "explain": "文中提到若能設計理想城市，會選擇更多綠色空間、清潔交通和智慧建築，對應選項1。"
+            "explain": "文中明確提到理想城市應包含更多綠地（espacios verdes）、高效公共交通（transporte público eficiente）以及能產生太陽能的建築。"
           },
           {
             "q": "¿Qué imaginaba el autor cuando era niño?",
             "options": [
-              "Que viviríamos bajo el agua",
-              "Que las ciudades desaparecerían",
-              "Que volaríamos en coches y los robots harían todo el trabajo",
-              "Que todos usaríamos bicicletas"
+              "Que las ciudades serían más pequeñas",
+              "Que habría más parques y jardines",
+              "Que los coches volarían y los robots harían el trabajo doméstico",
+              "Que la gente viviría en el campo"
             ],
             "answer": 2,
-            "explain": "文中明確說作者小時候想像大家會駕駛飛行汽車，且機器人會做所有工作，對應選項2。"
+            "explain": "文中使用未完成過去式描述童年的想像：「los coches volarían por el cielo y que los robots harían todo el trabajo doméstico」。"
           },
           {
-            "q": "¿Qué medida tomaron algunas ciudades europeas para mejorar la calidad del aire?",
+            "q": "Según los urbanistas, ¿cuál es el mayor desafío para las ciudades del futuro?",
             "options": [
-              "Construyeron más autopistas",
-              "Prohibieron el uso de coches de gasolina en el centro urbano",
-              "Eliminaron todo el transporte público",
-              "Plantaron árboles en las carreteras"
+              "Construir edificios más altos",
+              "Desarrollar mejor tecnología",
+              "Reducir el número de habitantes",
+              "El desafío social, no el tecnológico"
+            ],
+            "answer": 3,
+            "explain": "文中明確說明「el mayor desafío no es tecnológico sino social」，城市規劃師認為最大挑戰是社會性的。"
+          },
+          {
+            "q": "¿Qué habrían necesitado hacer los gobiernos antes para tener menos problemas hoy?",
+            "options": [
+              "Prohibir los vehículos eléctricos",
+              "Invertir en infraestructura sostenible",
+              "Construir más carreteras",
+              "Reducir el transporte público"
             ],
             "answer": 1,
-            "explain": "文中提到一些歐洲城市禁止在市中心使用汽油車，從而改善了空氣品質，對應選項1。"
+            "explain": "文中使用過去完成假設句型「Si los gobiernos hubieran invertido antes en infraestructura sostenible」，表示若當初投資永續基礎設施，今天就會少些問題。"
           },
           {
-            "q": "Según el texto, ¿qué sería necesario para construir mejores ciudades?",
+            "q": "¿Qué mensaje principal transmite el último párrafo?",
             "options": [
-              "Que los científicos inventaran coches voladores",
-              "Que los gobiernos invirtieran en infraestructura y los ciudadanos cambiaran sus hábitos",
-              "Que se construyeran más fábricas en las ciudades",
-              "Que la gente se mudara al campo"
-            ],
-            "answer": 1,
-            "explain": "文中使用條件式說明政府需投資基礎設施、市民需改變習慣，兩者缺一不可，對應選項1。"
-          },
-          {
-            "q": "¿De qué depende el futuro de nuestras ciudades, según el último párrafo?",
-            "options": [
-              "De los robots y la inteligencia artificial",
-              "Del clima y la geografía de cada país",
-              "De las decisiones que tomemos hoy",
-              "De los inventos que hagan los científicos"
+              "Que el futuro de las ciudades no depende de nosotros",
+              "Que debemos esperar a que la tecnología solucione los problemas",
+              "Que las decisiones de hoy determinarán las ciudades del futuro",
+              "Que las ciudades actuales ya son perfectas"
             ],
             "answer": 2,
-            "explain": "文章最後一句明確指出城市的未來取決於我們今天所做的決定，對應選項2。"
+            "explain": "最後一段強調「la ciudad del futuro dependería de las decisiones que tomemos ahora」，傳達今日的決策將決定未來城市的樣貌。"
           }
         ]
       }
@@ -702,135 +702,135 @@
         "source": "ai",
         "level_label": "約 C2（AI 生成）",
         "title": "Las ciudades del futuro",
-        "text": "Cuando era niño, imaginaba que las ciudades del futuro serían lugares llenos de coches voladores y robots en cada esquina. Sin embargo, los expertos dicen que la realidad sería muy diferente a lo que pensábamos.\n\nHoy en día, muchas ciudades ya han comenzado a transformarse. Se construyen edificios que producen su propia energía solar, y los gobiernos han invertido mucho dinero para que los ciudadanos puedan moverse en transporte público eficiente. Además, se han creado zonas verdes donde antes había fábricas contaminantes.\n\nSi pudiéramos diseñar la ciudad perfecta, probablemente elegiríamos un lugar donde los vecinos se conocieran bien y colaboraran entre sí. Sería una ciudad en la que los niños pudieran jugar en calles seguras y donde los ancianos tuvieran acceso fácil a los servicios médicos.\n\nAunque nadie sabe exactamente cómo serán las ciudades dentro de cincuenta años, está claro que el cambio climático y la tecnología influirán mucho en su desarrollo. Lo que sí sabemos es que las decisiones que tomamos hoy determinarán el tipo de ciudad que heredarán nuestros hijos.",
-        "translation": "小時候，我想像未來的城市會是到處都有飛行汽車、每個角落都有機器人的地方。然而，專家們說現實會與我們所想的大相徑庭。\n\n如今，許多城市已經開始轉型。能夠自行產生太陽能的建築物正在興建，各國政府也投入了大量資金，讓市民能夠搭乘高效的大眾運輸移動。此外，在以前有污染工廠的地方，現在已經設立了綠化區域。\n\n如果我們能夠設計出完美的城市，大概會選擇一個居民彼此熟識、互相合作的地方。那會是一座孩子們能在安全的街道上玩耍、老年人能夠輕鬆獲得醫療服務的城市。\n\n雖然沒有人確切知道五十年後城市會是什麼樣子，但很明顯地，氣候變遷和科技將會大大影響城市的發展。我們確實知道的是，我們今天所做的決定將決定我們的孩子所繼承的城市面貌。",
+        "text": "Muchos expertos creen que las ciudades del futuro serán muy diferentes a las que conocemos hoy. Si pudiéramos visitar una ciudad dentro de cincuenta años, probablemente veríamos edificios cubiertos de plantas y paneles solares que producirían su propia energía. Los coches que contaminaban el aire habrían desaparecido, reemplazados por vehículos eléctricos y sistemas de transporte público eficientes.\n\nCuando yo era niño, imaginaba que el futuro sería como las películas de ciencia ficción, con robots por todas partes. Aunque es posible que haya robots que ayuden en hospitales y escuelas, lo más importante sería que los ciudadanos pudieran vivir en armonía con la naturaleza.\n\nAlgunas ciudades ya han comenzado a construir espacios verdes donde antes había fábricas. También se están diseñando barrios donde todo lo que necesitas está a quince minutos a pie. Los arquitectos esperan que estos cambios reduzcan la contaminación y mejoren la calidad de vida. Sin duda, el futuro de nuestras ciudades depende de las decisiones que tomemos hoy.",
+        "translation": "許多專家認為，未來的城市將與我們今天所認識的大不相同。如果我們能夠參觀五十年後的一座城市，我們可能會看到覆蓋著植物和太陽能板、能自行產生能源的建築。那些汙染空氣的汽車將已消失，取而代之的是電動車輛和高效的大眾運輸系統。\n\n當我還是個孩子時，我想像未來會像科幻電影一樣，到處都是機器人。雖然很可能會有機器人在醫院和學校提供協助，但最重要的是市民們能夠與大自然和諧共處。\n\n一些城市已經開始在以前有工廠的地方建造綠色空間。人們也正在規劃一些街區，讓你所需要的一切都在步行十五分鐘內可及。建築師們希望這些改變能夠減少汙染並改善生活品質。毫無疑問，我們城市的未來取決於我們今天所做的決定。",
         "words": [
           {
-            "word": "esquina",
-            "pos": "n.f.",
-            "zh": "角落；街角",
-            "example": "Hay una cafetería en la esquina de mi calle.",
-            "example_zh": "我家街角有一間咖啡廳。"
-          },
-          {
-            "word": "invertir",
-            "pos": "v.",
-            "zh": "投資；投入",
-            "example": "El gobierno invirtió millones en educación pública.",
-            "example_zh": "政府在公共教育上投入了數百萬資金。"
-          },
-          {
-            "word": "contaminante",
-            "pos": "adj.",
-            "zh": "污染的；有汙染性的",
-            "example": "Las fábricas contaminantes deben reducir sus emisiones.",
-            "example_zh": "污染性工廠必須減少排放量。"
-          },
-          {
-            "word": "colaborar",
-            "pos": "v.",
-            "zh": "合作；協作",
-            "example": "Es importante colaborar con los vecinos del barrio.",
-            "example_zh": "與社區鄰居合作是很重要的。"
-          },
-          {
-            "word": "anciano/a",
+            "word": "experto",
             "pos": "n./adj.",
-            "zh": "老年人；年邁的",
-            "example": "Los ancianos necesitan transporte accesible.",
-            "example_zh": "老年人需要無障礙的交通工具。"
+            "zh": "專家；專業的",
+            "example": "Los expertos en urbanismo diseñan las ciudades del futuro.",
+            "example_zh": "城市規劃專家設計未來的城市。"
           },
           {
-            "word": "heredar",
+            "word": "panel solar",
+            "pos": "n. m.",
+            "zh": "太陽能板",
+            "example": "Instalaron paneles solares en el techo del edificio.",
+            "example_zh": "他們在建築的屋頂安裝了太陽能板。"
+          },
+          {
+            "word": "contaminar",
             "pos": "v.",
-            "zh": "繼承",
-            "example": "Los jóvenes heredarán los problemas medioambientales.",
-            "example_zh": "年輕人將繼承環境問題。"
+            "zh": "汙染",
+            "example": "Las fábricas antiguas contaminaban mucho el río.",
+            "example_zh": "舊工廠嚴重汙染了河流。"
           },
           {
-            "word": "desarrollo",
-            "pos": "n.m.",
-            "zh": "發展；開發",
-            "example": "El desarrollo sostenible es una prioridad mundial.",
-            "example_zh": "永續發展是全球優先議題。"
-          },
-          {
-            "word": "eficiente",
-            "pos": "adj.",
-            "zh": "高效的；有效率的",
-            "example": "Necesitamos un sistema de transporte más eficiente.",
-            "example_zh": "我們需要更有效率的交通系統。"
-          },
-          {
-            "word": "influir",
+            "word": "reemplazar",
             "pos": "v.",
-            "zh": "影響；作用於",
-            "example": "El clima influye mucho en la calidad de vida.",
-            "example_zh": "氣候對生活品質有很大的影響。"
+            "zh": "取代、替換",
+            "example": "Los autobuses eléctricos reemplazaron a los de gasolina.",
+            "example_zh": "電動公車取代了燃油公車。"
           },
           {
-            "word": "transformarse",
-            "pos": "v. pron.",
-            "zh": "轉變；變化",
-            "example": "El barrio antiguo se ha transformado completamente.",
-            "example_zh": "那個舊社區已經完全轉變了。"
+            "word": "armonía",
+            "pos": "n. f.",
+            "zh": "和諧、協調",
+            "example": "Es importante vivir en armonía con el medio ambiente.",
+            "example_zh": "與環境和諧共處非常重要。"
+          },
+          {
+            "word": "espacio verde",
+            "pos": "n. m.",
+            "zh": "綠地、綠色空間",
+            "example": "El ayuntamiento creó nuevos espacios verdes en el centro.",
+            "example_zh": "市政府在市中心創建了新的綠地。"
+          },
+          {
+            "word": "barrio",
+            "pos": "n. m.",
+            "zh": "街區、社區",
+            "example": "Vivo en un barrio tranquilo cerca del parque.",
+            "example_zh": "我住在公園附近一個安靜的社區裡。"
+          },
+          {
+            "word": "reducir",
+            "pos": "v.",
+            "zh": "減少、降低",
+            "example": "Debemos reducir el uso del plástico en nuestra vida diaria.",
+            "example_zh": "我們應該減少日常生活中塑膠的使用。"
+          },
+          {
+            "word": "calidad de vida",
+            "pos": "n. f.",
+            "zh": "生活品質",
+            "example": "Los parques urbanos mejoran la calidad de vida de los ciudadanos.",
+            "example_zh": "城市公園改善了市民的生活品質。"
+          },
+          {
+            "word": "decisión",
+            "pos": "n. f.",
+            "zh": "決定、決策",
+            "example": "Tomar buenas decisiones hoy afecta nuestro futuro.",
+            "example_zh": "今天做出好的決定會影響我們的未來。"
           }
         ],
         "quiz": [
           {
+            "q": "Según el texto, ¿cómo serían los edificios en las ciudades del futuro?",
+            "options": [
+              "Serían más altos y estarían hechos de cristal.",
+              "Estarían cubiertos de plantas y paneles solares.",
+              "Tendrían muchos estacionamientos para coches.",
+              "Serían pequeños y estarían fuera de la ciudad."
+            ],
+            "answer": 1,
+            "explain": "文章提到未來的建築將覆蓋著植物和太陽能板，並能自行產生能源，故選第二個選項。"
+          },
+          {
+            "q": "¿Qué reemplazaría a los coches que contaminan el aire?",
+            "options": [
+              "Bicicletas y caballos.",
+              "Aviones pequeños y drones.",
+              "Vehículos eléctricos y transporte público eficiente.",
+              "Coches de gasolina más modernos."
+            ],
+            "answer": 2,
+            "explain": "文章明確指出，汙染空氣的汽車將被電動車輛和高效的大眾運輸系統所取代。"
+          },
+          {
             "q": "¿Qué imaginaba el autor cuando era niño?",
             "options": [
-              "Que las ciudades tendrían muchos parques y jardines.",
-              "Que las ciudades estarían llenas de coches voladores y robots.",
-              "Que los edificios producirían energía solar.",
-              "Que los ciudadanos vivirían en el campo."
-            ],
-            "answer": 1,
-            "explain": "文章開頭提到作者小時候想像城市會充滿飛行汽車（coches voladores）和機器人（robots），故選第二項。"
-          },
-          {
-            "q": "¿Qué han hecho los gobiernos para mejorar el transporte?",
-            "options": [
-              "Han prohibido los coches privados en las ciudades.",
-              "Han construido más autopistas.",
-              "Han invertido dinero en transporte público eficiente.",
-              "Han regalado bicicletas a los ciudadanos."
+              "Que las ciudades estarían bajo el agua.",
+              "Que no habría tecnología en el futuro.",
+              "Que el futuro sería como las películas de ciencia ficción.",
+              "Que todos vivirían en el campo."
             ],
             "answer": 2,
-            "explain": "文章明確指出政府投入大量資金（han invertido mucho dinero）讓市民使用高效的大眾運輸，故選第三項。"
+            "explain": "作者描述童年時想像未來會像科幻電影一樣，到處都是機器人。"
           },
           {
-            "q": "Según el texto, ¿cómo sería la ciudad perfecta?",
+            "q": "¿Qué son los 'barrios de quince minutos' mencionados en el texto?",
             "options": [
-              "Una ciudad con muchos robots y tecnología avanzada.",
-              "Una ciudad donde los vecinos se conocieran y colaboraran.",
-              "Una ciudad sin coches ni fábricas.",
-              "Una ciudad construida completamente bajo tierra."
+              "Barrios donde solo se puede vivir quince días.",
+              "Zonas donde todo lo necesario está a quince minutos a pie.",
+              "Barrios que se construyeron en quince minutos.",
+              "Áreas donde los coches tardan quince minutos en circular."
             ],
             "answer": 1,
-            "explain": "文章使用條件式描述理想城市：居民彼此熟識（se conocieran bien）並互相合作（colaboraran），故選第二項。"
+            "explain": "文章說明這類街區的設計是讓居民所需的一切都在步行十五分鐘內可及。"
           },
           {
-            "q": "¿Qué factores influirán en el desarrollo de las ciudades, según el autor?",
+            "q": "Según el texto, ¿de qué depende el futuro de nuestras ciudades?",
             "options": [
-              "La religión y la cultura local.",
-              "El turismo y el comercio internacional.",
-              "El cambio climático y la tecnología.",
-              "La política y la economía global."
+              "De los robots que se inventen en el futuro.",
+              "Del clima y del medio ambiente.",
+              "De las decisiones que tomemos hoy.",
+              "De los arquitectos y sus diseños."
             ],
             "answer": 2,
-            "explain": "文章最後段落明確提到氣候變遷（cambio climático）和科技（tecnología）將大大影響城市發展，故選第三項。"
-          },
-          {
-            "q": "¿Qué determinarán las decisiones que tomamos hoy?",
-            "options": [
-              "El precio de las viviendas en el futuro.",
-              "La ciudad que heredarán nuestros hijos.",
-              "El número de robots que habrá en las calles.",
-              "La cantidad de zonas verdes en cada barrio."
-            ],
-            "answer": 1,
-            "explain": "文章結尾指出「我們今天的決定將決定孩子們所繼承的城市」（la ciudad que heredarán nuestros hijos），故選第二項。"
+            "explain": "文章最後一句明確指出，城市的未來取決於我們今天所做的決定。"
           }
         ]
       }

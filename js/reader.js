@@ -2,6 +2,7 @@ import { findArticle } from "./content.js";
 import { markWords } from "./vocab-render.js";
 import { scoreQuiz } from "./quiz.js";
 import { saveProgress, saveVocab } from "./data-client.js";
+import { pronounce } from "./speak.js";
 
 const params = new URLSearchParams(location.search);
 const date = params.get("date");
@@ -85,10 +86,11 @@ function updateButtons() {
 function showPopup(word) {
   const el = document.getElementById("popup");
   el.className = "popup";
-  el.innerHTML = `<b>${word.word}</b> <i>${word.pos}</i> — ${word.zh}<br>
+  el.innerHTML = `<b>${word.word}</b> <button class="say" id="say" title="發音">🔊</button> <i>${word.pos}</i> — ${word.zh}<br>
     <small>${word.example}</small>${word.example_zh ? `<br><small class="ex-zh">${word.example_zh}</small>` : ""}<br>
     <button class="primary" id="fav">★ 收藏</button>
     <button id="close">關閉</button>`;
+  document.getElementById("say").onclick = () => pronounce(word.word);
   document.getElementById("fav").onclick = async () => {
     await saveVocab(word, article.id, article.level_label);
     el.innerHTML = "已收藏";

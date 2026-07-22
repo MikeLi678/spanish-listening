@@ -1,5 +1,6 @@
 import { LEVELS } from "./config.js";
 import { listVocab } from "./data-client.js";
+import { pronounce } from "./speak.js";
 
 let all = [];
 let filter = "全部";
@@ -9,9 +10,11 @@ function render() {
   const rows = all.filter((w) => filter === "全部" || (w.level && w.level.includes(filter)));
   if (!rows.length) { main.innerHTML = "還沒有收藏單字。"; return; }
   main.innerHTML = rows.map((w) => `<div class="card">
-    <div class="card-title">${w.word} <i>${w.pos || ""}</i> — ${w.zh || ""}</div>
+    <div class="card-title">${w.word} <button class="say" title="發音">🔊</button> <i>${w.pos || ""}</i> — ${w.zh || ""}</div>
     <div class="card-meta">${w.example || ""}${w.example_zh ? "<br>" + w.example_zh : ""}${w.level ? " · " + w.level : ""}</div>
   </div>`).join("");
+  const buttons = main.querySelectorAll(".say");
+  rows.forEach((w, i) => { if (buttons[i]) buttons[i].onclick = () => pronounce(w.word); });
 }
 
 function renderFilter() {

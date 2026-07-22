@@ -161,6 +161,15 @@ button.primary:active { transform: translateY(1px); }
 }
 .ex-zh { color: var(--muted); }
 
+/* 發音按鈕 */
+.say {
+  background: none; border: none; cursor: pointer; padding: 0 4px;
+  font-size: .95em; line-height: 1; opacity: .7; vertical-align: baseline;
+  transition: opacity .12s, transform .1s;
+}
+.say:hover { opacity: 1; }
+.say:active { transform: scale(.9); }
+
 /* ===== 單字彈卡（底部 sheet）===== */
 .popup {
   position: fixed; left: 50%; bottom: 18px; transform: translateX(-50%);

@@ -1,9 +1,222 @@
 {
   "dates": [
-    "2026-07-23",
     "2026-07-22",
     "2026-07-21",
     "2026-07-20",
     "2026-07-18"
+  ],
+  "days": [
+    {
+      "date": "2026-07-22",
+      "articles": [
+        {
+          "id": "2026-07-22-A1-1",
+          "level": "A1",
+          "title": "Mis bebidas favoritas",
+          "source": "ai",
+          "level_label": "A1",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-22-A2-1",
+          "level": "A2",
+          "title": "Mi día normal",
+          "source": "ai",
+          "level_label": "A2",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-22-B1-1",
+          "level": "B1",
+          "title": "Las ciudades del futuro",
+          "source": "ai",
+          "level_label": "B1",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-22-B2-fallback",
+          "level": "B2",
+          "title": "Las ciudades del futuro",
+          "source": "ai",
+          "level_label": "約 B2（AI 生成）",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-22-C1-fallback",
+          "level": "C1",
+          "title": "Las ciudades del futuro",
+          "source": "ai",
+          "level_label": "約 C1（AI 生成）",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-22-C2-fallback",
+          "level": "C2",
+          "title": "Las ciudades del futuro",
+          "source": "ai",
+          "level_label": "約 C2（AI 生成）",
+          "origin_name": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-07-21",
+      "articles": [
+        {
+          "id": "2026-07-21-A1-1",
+          "level": "A1",
+          "title": "Mi familia y el desayuno",
+          "source": "ai",
+          "level_label": "A1",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-21-A2-1",
+          "level": "A2",
+          "title": "Un viaje especial",
+          "source": "ai",
+          "level_label": "A2",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-21-B1-1",
+          "level": "B1",
+          "title": "El futuro del trabajo y la desigualdad social",
+          "source": "ai",
+          "level_label": "B1",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-21-B2-fallback",
+          "level": "B2",
+          "title": "El futuro del trabajo en la sociedad moderna",
+          "source": "ai",
+          "level_label": "約 B2（AI 生成）",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-21-C1-fallback",
+          "level": "C1",
+          "title": "El futuro del trabajo en la era digital",
+          "source": "ai",
+          "level_label": "約 C1（AI 生成）",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-21-C2-fallback",
+          "level": "C2",
+          "title": "El futuro del trabajo en la era digital",
+          "source": "ai",
+          "level_label": "約 C2（AI 生成）",
+          "origin_name": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-07-20",
+      "articles": [
+        {
+          "id": "2026-07-20-A1-1",
+          "level": "A1",
+          "title": "Mi familia y el desayuno",
+          "source": "ai",
+          "level_label": "A1",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-20-A2-1",
+          "level": "A2",
+          "title": "Un viaje especial",
+          "source": "ai",
+          "level_label": "A2",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-20-B1-1",
+          "level": "B1",
+          "title": "El futuro del trabajo en la era digital",
+          "source": "ai",
+          "level_label": "B1",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-20-real-1",
+          "level": "B2",
+          "title": "Luis de la Fuente: «Siendo España, tienes que sufrir»",
+          "source": "real",
+          "level_label": "约 B2–C1",
+          "origin_name": "BBC Mundo"
+        },
+        {
+          "id": "2026-07-20-real-2",
+          "level": "C1",
+          "title": "Argentina y España: enemigos íntimos en la final del mundo",
+          "source": "real",
+          "level_label": "约 B2–C1",
+          "origin_name": "BBC Mundo"
+        },
+        {
+          "id": "2026-07-20-real-3",
+          "level": "C2",
+          "title": "Gianni Infantino: una década al frente de la FIFA entre récords y polémicas",
+          "source": "real",
+          "level_label": "約 B2–C1",
+          "origin_name": "BBC Mundo"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-18",
+      "articles": [
+        {
+          "id": "2026-07-18-A1-1",
+          "level": "A1",
+          "title": "Mi familia y el día de hoy",
+          "source": "ai",
+          "level_label": "A1",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-18-A2-1",
+          "level": "A2",
+          "title": "Un viaje especial",
+          "source": "ai",
+          "level_label": "A2",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-18-B1-1",
+          "level": "B1",
+          "title": "El trabajo en el mundo moderno",
+          "source": "ai",
+          "level_label": "B1",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-18-real-1",
+          "level": "B2",
+          "title": "Entre escombros y esperanza: una joven busca a su familia tras los terremotos de La Guaira",
+          "source": "real",
+          "level_label": "約 B2–C1",
+          "origin_name": "BBC Mundo"
+        },
+        {
+          "id": "2026-07-18-real-2",
+          "level": "C1",
+          "title": "El vuelo 901 de Alas Chiricanas: tres décadas de impunidad y una nueva esperanza de justicia",
+          "source": "real",
+          "level_label": "約 B2–C1",
+          "origin_name": "BBC Mundo"
+        },
+        {
+          "id": "2026-07-18-real-3",
+          "level": "C2",
+          "title": "Alejandra Jáidar: la física mexicana cuyo legado nos toca a todos",
+          "source": "real",
+          "level_label": "约 B2–C1",
+          "origin_name": "BBC Mundo"
+        }
+      ]
+    }
   ]
 }

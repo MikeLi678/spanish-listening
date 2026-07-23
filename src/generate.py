@@ -73,13 +73,37 @@ def _fallback_ai(lvl, date, ai_fn):
 
 
 def update_index(content_dir=CONTENT_DIR) -> list[str]:
+    """寫出輕量清單 index.json：含日期陣列與各篇摘要（不含全文），
+    讓首頁只抓一次就能列出所有文章，不必逐日抓完整內容。"""
     dates = []
     for name in os.listdir(content_dir):
         if name.endswith(".json") and name != "index.json" and name[0].isdigit():
             dates.append(name[:-5])
     dates.sort(reverse=True)
+
+    days = []
+    for date in dates:
+        try:
+            with open(os.path.join(content_dir, f"{date}.json"), encoding="utf-8") as f:
+                day = json.load(f)
+        except (OSError, json.JSONDecodeError) as e:
+            print(f"[update_index] 略過壞掉的 {date}.json: {e}")
+            continue
+        articles = []
+        for level, arts in day.get("levels", {}).items():
+            for a in arts:
+                articles.append({
+                    "id": a.get("id", ""),
+                    "level": level,
+                    "title": a.get("title", ""),
+                    "source": a.get("source", "ai"),
+                    "level_label": a.get("level_label", level),
+                    "origin_name": a.get("origin_name", ""),
+                })
+        days.append({"date": date, "articles": articles})
+
     with open(os.path.join(content_dir, "index.json"), "w", encoding="utf-8") as f:
-        json.dump({"dates": dates}, f, ensure_ascii=False, indent=2)
+        json.dump({"dates": dates, "days": days}, f, ensure_ascii=False, indent=2)
     return dates
 
 

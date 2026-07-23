@@ -86,8 +86,8 @@ function updateButtons() {
 function showPopup(word) {
   const el = document.getElementById("popup");
   el.className = "popup";
-  el.innerHTML = `<b>${word.word}</b> <button class="say" id="say" title="發音">🔊</button> <i>${word.pos}</i> — ${word.zh}<br>
-    <small>${word.example}</small>${word.example_zh ? `<br><small class="ex-zh">${word.example_zh}</small>` : ""}<br>
+  el.innerHTML = `<b lang="es">${word.word}</b> <button class="say" id="say" title="發音" aria-label="發音">🔊</button> <i>${word.pos}</i> — ${word.zh}<br>
+    <small lang="es">${word.example}</small>${word.example_zh ? `<br><small class="ex-zh">${word.example_zh}</small>` : ""}<br>
     <button class="primary" id="fav">★ 收藏</button>
     <button id="close">關閉</button>`;
   document.getElementById("say").onclick = () => pronounce(word.word);
@@ -101,6 +101,7 @@ function showPopup(word) {
 
 function renderText() {
   const container = document.createElement("p");
+  container.lang = "es";
   for (const tok of markWords(article.text, article.words)) {
     if (tok.type === "word") {
       const span = document.createElement("span");
@@ -120,10 +121,11 @@ function renderQuiz() {
   const answers = new Array(article.quiz.length).fill(-1);
   article.quiz.forEach((q, qi) => {
     const block = document.createElement("div");
-    block.innerHTML = `<p><b>${qi + 1}. ${q.q}</b></p>`;
+    block.innerHTML = `<p><b lang="es">${qi + 1}. ${q.q}</b></p>`;
     q.options.forEach((opt, oi) => {
       const b = document.createElement("button");
       b.className = "quiz-opt";
+      b.lang = "es";
       b.textContent = opt;
       b.onclick = () => {
         answers[qi] = oi;
@@ -152,10 +154,16 @@ function renderQuiz() {
 }
 
 async function init() {
-  const resp = await fetch(`content/${date}.json`);
-  const day = resp.ok ? await resp.json() : null;
-  article = day ? findArticle(day, id) : null;
   const root = document.getElementById("article");
+  let day = null;
+  try {
+    const resp = await fetch(`content/${date}.json`);
+    day = resp.ok ? await resp.json() : null;
+  } catch {
+    root.textContent = "目前無法載入內容，請稍後再試。";
+    return;
+  }
+  article = day ? findArticle(day, id) : null;
   if (!article) { root.textContent = "找不到這篇文章。"; return; }
 
   root.innerHTML = `<h2>${article.title}</h2>

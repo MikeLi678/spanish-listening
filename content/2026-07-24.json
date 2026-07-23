@@ -1,0 +1,701 @@
+{
+  "date": "2026-07-24",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-07-24-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Las tres comidas del día",
+        "text": "Por la mañana, desayuno leche y pan. Es un desayuno simple. Al mediodía, como arroz con pollo. También como una ensalada. Es muy rico. Por la tarde, meriendo una fruta. Por la noche, ceno sopa y pan. La cena es tranquila. Me gustan las tres comidas del día.",
+        "translation": "早上，我喝牛奶、吃麵包當早餐。這是一份簡單的早餐。中午，我吃雞肉飯，也吃一份沙拉，非常美味。下午，我吃一份水果當點心。晚上，我喝湯、吃麵包當晚餐。晚餐很清淡愜意。我喜歡一天的三餐。",
+        "words": [
+          {
+            "word": "desayuno",
+            "pos": "v. / n.m.",
+            "zh": "吃早餐／早餐",
+            "example": "Yo desayuno pan y leche cada mañana.",
+            "example_zh": "我每天早上吃麵包和牛奶當早餐。"
+          },
+          {
+            "word": "leche",
+            "pos": "n.f.",
+            "zh": "牛奶",
+            "example": "La leche es blanca.",
+            "example_zh": "牛奶是白色的。"
+          },
+          {
+            "word": "pan",
+            "pos": "n.m.",
+            "zh": "麵包",
+            "example": "Como pan en el desayuno.",
+            "example_zh": "我早餐吃麵包。"
+          },
+          {
+            "word": "como",
+            "pos": "v.",
+            "zh": "吃（第一人稱單數，動詞 comer）",
+            "example": "Yo como arroz al mediodía.",
+            "example_zh": "我中午吃米飯。"
+          },
+          {
+            "word": "arroz",
+            "pos": "n.m.",
+            "zh": "米飯",
+            "example": "El arroz con pollo es muy rico.",
+            "example_zh": "雞肉飯非常美味。"
+          },
+          {
+            "word": "ensalada",
+            "pos": "n.f.",
+            "zh": "沙拉",
+            "example": "La ensalada tiene tomate y lechuga.",
+            "example_zh": "這份沙拉有番茄和萵苣。"
+          },
+          {
+            "word": "meriendo",
+            "pos": "v.",
+            "zh": "吃點心（第一人稱單數，動詞 merendar）",
+            "example": "Por la tarde, meriendo una manzana.",
+            "example_zh": "下午我吃一顆蘋果當點心。"
+          },
+          {
+            "word": "fruta",
+            "pos": "n.f.",
+            "zh": "水果",
+            "example": "La fruta es sana y rica.",
+            "example_zh": "水果既健康又美味。"
+          },
+          {
+            "word": "ceno",
+            "pos": "v.",
+            "zh": "吃晚餐（第一人稱單數，動詞 cenar）",
+            "example": "Ceno sopa todas las noches.",
+            "example_zh": "我每晚喝湯當晚餐。"
+          },
+          {
+            "word": "sopa",
+            "pos": "n.f.",
+            "zh": "湯",
+            "example": "La sopa está caliente.",
+            "example_zh": "這碗湯是熱的。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué come la persona por la mañana?",
+            "options": [
+              "Arroz con pollo",
+              "Leche y pan",
+              "Sopa y pan",
+              "Una fruta"
+            ],
+            "answer": 1,
+            "explain": "短文第一句提到「desayuno leche y pan（早餐喝牛奶、吃麵包）」，故選第二個選項。"
+          },
+          {
+            "q": "¿Qué come la persona al mediodía?",
+            "options": [
+              "Pan y leche",
+              "Sopa y ensalada",
+              "Arroz con pollo y ensalada",
+              "Fruta y pan"
+            ],
+            "answer": 2,
+            "explain": "短文中午部分提到「como arroz con pollo」和「como una ensalada」，故選第三個選項。"
+          },
+          {
+            "q": "¿Cuándo merienda la persona?",
+            "options": [
+              "Por la mañana",
+              "Al mediodía",
+              "Por la noche",
+              "Por la tarde"
+            ],
+            "answer": 3,
+            "explain": "短文提到「Por la tarde, meriendo una fruta（下午吃水果當點心）」，故選第四個選項。"
+          },
+          {
+            "q": "¿Qué cena la persona?",
+            "options": [
+              "Arroz y ensalada",
+              "Leche y fruta",
+              "Sopa y pan",
+              "Pollo y sopa"
+            ],
+            "answer": 2,
+            "explain": "短文晚餐部分提到「ceno sopa y pan（晚餐喝湯、吃麵包）」，故選第三個選項。"
+          },
+          {
+            "q": "¿Cómo es la cena según el texto?",
+            "options": [
+              "Rica y grande",
+              "Simple y fría",
+              "Tranquila",
+              "Muy difícil"
+            ],
+            "answer": 2,
+            "explain": "短文提到「La cena es tranquila（晚餐很清淡愜意）」，故選第三個選項。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-07-24-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Un día de compras",
+        "text": "El sábado pasado, María y su amiga Ana fueron al centro comercial porque necesitaban ropa nueva. Primero, entraron en una tienda de ropa y miraron muchos vestidos y pantalones. María encontró una chaqueta azul muy bonita y la compró porque estaba en oferta. Ana también probó unos zapatos negros, pero eran demasiado caros y no los compró. Después, las dos amigas tomaron un café en una cafetería del centro. El próximo fin de semana, van a volver al centro comercial para buscar más cosas. ¡Les encanta ir de compras juntas!",
+        "translation": "上個星期六，瑪麗亞和她的朋友安娜去了購物中心，因為她們需要新衣服。首先，她們走進一家服裝店，看了很多洋裝和褲子。瑪麗亞發現了一件非常漂亮的藍色夾克，因為在特價中就買了下來。安娜也試穿了一雙黑色鞋子，但太貴了，所以她沒有買。之後，兩個朋友在購物中心的咖啡廳喝了咖啡。下個週末，她們打算再回到購物中心尋找更多東西。她們非常喜歡一起去逛街購物！",
+        "words": [
+          {
+            "word": "centro comercial",
+            "pos": "n.",
+            "zh": "購物中心",
+            "example": "Vamos al centro comercial el domingo.",
+            "example_zh": "我們星期天去購物中心。"
+          },
+          {
+            "word": "tienda",
+            "pos": "n.",
+            "zh": "商店",
+            "example": "Hay una tienda de ropa cerca de mi casa.",
+            "example_zh": "我家附近有一家服裝店。"
+          },
+          {
+            "word": "chaqueta",
+            "pos": "n.",
+            "zh": "夾克、外套",
+            "example": "Ella compró una chaqueta verde.",
+            "example_zh": "她買了一件綠色夾克。"
+          },
+          {
+            "word": "oferta",
+            "pos": "n.",
+            "zh": "特價、優惠",
+            "example": "Este abrigo está en oferta hoy.",
+            "example_zh": "這件大衣今天在特價。"
+          },
+          {
+            "word": "probar",
+            "pos": "v.",
+            "zh": "試穿；嘗試",
+            "example": "Quiero probar estos pantalones.",
+            "example_zh": "我想試穿這條褲子。"
+          },
+          {
+            "word": "caro/a",
+            "pos": "adj.",
+            "zh": "昂貴的",
+            "example": "Ese restaurante es muy caro.",
+            "example_zh": "那家餐廳非常貴。"
+          },
+          {
+            "word": "demasiado",
+            "pos": "adv.",
+            "zh": "太、過於",
+            "example": "Este vestido es demasiado grande para mí.",
+            "example_zh": "這件洋裝對我來說太大了。"
+          },
+          {
+            "word": "ir de compras",
+            "pos": "expr.",
+            "zh": "去購物、逛街",
+            "example": "A ella le gusta ir de compras los fines de semana.",
+            "example_zh": "她喜歡週末去逛街購物。"
+          },
+          {
+            "word": "volver",
+            "pos": "v.",
+            "zh": "回去、返回",
+            "example": "Vamos a volver a casa a las ocho.",
+            "example_zh": "我們打算八點回家。"
+          },
+          {
+            "word": "encontrar",
+            "pos": "v.",
+            "zh": "找到、發現",
+            "example": "No puedo encontrar mis zapatos.",
+            "example_zh": "我找不到我的鞋子。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Adónde fueron María y Ana el sábado pasado?",
+            "options": [
+              "A un supermercado",
+              "A un centro comercial",
+              "A un restaurante",
+              "A un parque"
+            ],
+            "answer": 1,
+            "explain": "文中開頭明確提到「fueron al centro comercial（去了購物中心）」，故選第二項。"
+          },
+          {
+            "q": "¿Por qué compró María la chaqueta azul?",
+            "options": [
+              "Porque era muy grande",
+              "Porque su amiga la recomendó",
+              "Porque estaba en oferta",
+              "Porque era un regalo"
+            ],
+            "answer": 2,
+            "explain": "文中說瑪麗亞買夾克是「porque estaba en oferta（因為在特價）」，故選第三項。"
+          },
+          {
+            "q": "¿Por qué no compró Ana los zapatos negros?",
+            "options": [
+              "Porque eran demasiado pequeños",
+              "Porque eran demasiado caros",
+              "Porque no le gustaron",
+              "Porque no había su talla"
+            ],
+            "answer": 1,
+            "explain": "文中說安娜沒有買鞋子是因為「eran demasiado caros（太貴了）」，故選第二項。"
+          },
+          {
+            "q": "¿Qué hicieron las dos amigas después de ir de compras?",
+            "options": [
+              "Fueron al cine",
+              "Comieron en un restaurante",
+              "Tomaron un café en una cafetería",
+              "Volvieron a casa"
+            ],
+            "answer": 2,
+            "explain": "文中提到購物後「tomaron un café en una cafetería（在咖啡廳喝了咖啡）」，故選第三項。"
+          },
+          {
+            "q": "¿Qué van a hacer María y Ana el próximo fin de semana?",
+            "options": [
+              "Van a ir al cine",
+              "Van a volver al centro comercial",
+              "Van a trabajar juntas",
+              "Van a viajar a otra ciudad"
+            ],
+            "answer": 1,
+            "explain": "文中以 Futuro próximo 說明「van a volver al centro comercial（打算再回購物中心）」，故選第二項。"
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "2026-07-24-B1-1",
+        "source": "ai",
+        "level_label": "B1",
+        "title": "La tecnología que cambió nuestras vidas",
+        "text": "Hace veinte años, era difícil imaginar que llevaríamos un dispositivo tan poderoso en el bolsillo. Sin embargo, los teléfonos inteligentes han transformado completamente la manera en que vivimos, trabajamos y nos comunicamos.\n\nCuando era niño, si quería buscar información, tenía que ir a la biblioteca y consultar enciclopedias. Ahora, con solo tocar una pantalla, podemos acceder a millones de datos en segundos. Esto ha hecho que el aprendizaje sea más accesible para personas de todo el mundo.\n\nAdemás, las redes sociales cambiaron la forma en que nos relacionamos. Antes, si alguien se mudaba a otro país, era muy complicado mantener el contacto con sus amigos y familiares. Hoy en día, podemos hablar por videollamada como si estuviéramos en la misma habitación.\n\nSin embargo, no todo ha sido positivo. Muchos expertos señalan que la tecnología ha creado nuevos problemas, como la adicción a los dispositivos y la pérdida de privacidad. Si usáramos la tecnología con más responsabilidad, podríamos aprovechar sus beneficios sin sufrir sus consecuencias negativas.\n\nEn conclusión, la tecnología es una herramienta poderosa que ha mejorado muchos aspectos de nuestra vida, pero debemos usarla con cuidado y conciencia.",
+        "translation": "二十年前，很難想像我們會在口袋裡攜帶如此強大的裝置。然而，智慧型手機已經徹底改變了我們生活、工作和溝通的方式。\n\n當我還是小孩的時候，如果想查找資訊，我必須去圖書館查閱百科全書。現在，只需輕觸螢幕，我們就能在幾秒內存取數百萬筆資料。這使得學習對全世界的人來說變得更加容易。\n\n此外，社群網路改變了我們建立關係的方式。以前，如果有人移居到另一個國家，要和朋友及家人保持聯繫是非常麻煩的事。如今，我們可以透過視訊通話交談，就像身處同一個房間一樣。\n\n然而，並不是一切都是正面的。許多專家指出，科技製造了新的問題，例如對裝置的成癮以及隱私的喪失。如果我們更負責任地使用科技，就能享受其好處而不受其負面影響之苦。\n\n總之，科技是一項強大的工具，改善了我們生活的許多層面，但我們必須謹慎且有意識地使用它。",
+        "words": [
+          {
+            "word": "dispositivo",
+            "pos": "n.m.",
+            "zh": "裝置、設備",
+            "example": "Mi dispositivo favorito es el teléfono inteligente.",
+            "example_zh": "我最喜歡的裝置是智慧型手機。"
+          },
+          {
+            "word": "poderoso",
+            "pos": "adj.",
+            "zh": "強大的、有力的",
+            "example": "El ordenador es una herramienta muy poderosa.",
+            "example_zh": "電腦是一個非常強大的工具。"
+          },
+          {
+            "word": "consultar",
+            "pos": "v.",
+            "zh": "查閱、諮詢",
+            "example": "Tuve que consultar el diccionario para entender esa palabra.",
+            "example_zh": "我必須查閱字典才能理解那個單字。"
+          },
+          {
+            "word": "acceder",
+            "pos": "v.",
+            "zh": "存取、進入、獲得",
+            "example": "Puedo acceder a la información desde mi casa.",
+            "example_zh": "我可以從家裡存取資訊。"
+          },
+          {
+            "word": "red social",
+            "pos": "n.f.",
+            "zh": "社群網路",
+            "example": "Las redes sociales nos permiten conectar con personas de todo el mundo.",
+            "example_zh": "社群網路讓我們得以與全世界的人連結。"
+          },
+          {
+            "word": "videollamada",
+            "pos": "n.f.",
+            "zh": "視訊通話",
+            "example": "Hago una videollamada con mis abuelos todos los domingos.",
+            "example_zh": "我每週日都和祖父母進行視訊通話。"
+          },
+          {
+            "word": "adicción",
+            "pos": "n.f.",
+            "zh": "成癮、上癮",
+            "example": "La adicción al teléfono móvil es un problema moderno.",
+            "example_zh": "對手機的成癮是一個現代問題。"
+          },
+          {
+            "word": "privacidad",
+            "pos": "n.f.",
+            "zh": "隱私",
+            "example": "Debemos proteger nuestra privacidad en internet.",
+            "example_zh": "我們必須在網路上保護自己的隱私。"
+          },
+          {
+            "word": "aprovechar",
+            "pos": "v.",
+            "zh": "善用、充分利用",
+            "example": "Es importante aprovechar las oportunidades que nos ofrece la tecnología.",
+            "example_zh": "善用科技提供給我們的機會是很重要的。"
+          },
+          {
+            "word": "conciencia",
+            "pos": "n.f.",
+            "zh": "意識、良知",
+            "example": "Debemos usar las redes sociales con conciencia.",
+            "example_zh": "我們應該有意識地使用社群網路。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Según el texto, ¿cómo buscaba información el autor cuando era niño?",
+            "options": [
+              "Usaba internet en su casa.",
+              "Preguntaba a sus profesores.",
+              "Iba a la biblioteca y consultaba enciclopedias.",
+              "Llamaba a sus amigos por teléfono."
+            ],
+            "answer": 2,
+            "explain": "文中提到「當我還是小孩時，如果想查找資訊，必須去圖書館查閱百科全書」，對應選項 C。"
+          },
+          {
+            "q": "¿Qué problema menciona el texto relacionado con la tecnología?",
+            "options": [
+              "El alto coste de los teléfonos inteligentes.",
+              "La adicción a los dispositivos y la pérdida de privacidad.",
+              "La dificultad para aprender a usar los aparatos.",
+              "La falta de conexión a internet en las ciudades."
+            ],
+            "answer": 1,
+            "explain": "文章明確指出科技帶來的新問題是「對裝置的成癮以及隱私的喪失」，對應選項 B。"
+          },
+          {
+            "q": "Según el autor, ¿cómo podríamos aprovechar los beneficios de la tecnología?",
+            "options": [
+              "Usando la tecnología solo en el trabajo.",
+              "Comprando los dispositivos más modernos.",
+              "Usándola con más responsabilidad.",
+              "Compartiendo todo en las redes sociales."
+            ],
+            "answer": 2,
+            "explain": "文中使用條件式表達「如果我們更負責任地使用科技，就能享受其好處」，對應選項 C。"
+          },
+          {
+            "q": "¿Qué cambio produjo la tecnología en las relaciones personales según el texto?",
+            "options": [
+              "Las personas ya no se visitan en persona.",
+              "Ahora es más fácil mantener el contacto aunque alguien viva lejos.",
+              "Los jóvenes tienen menos amigos que antes.",
+              "Las familias se comunican menos entre sí."
+            ],
+            "answer": 1,
+            "explain": "文章提到即使有人移居他國，如今也能透過視訊通話保持聯繫，說明遠距聯絡變得更容易，對應選項 B。"
+          },
+          {
+            "q": "¿Cuál es la conclusión principal del texto?",
+            "options": [
+              "La tecnología solo ha traído problemas a la sociedad.",
+              "Debemos rechazar los teléfonos inteligentes.",
+              "La tecnología es útil, pero hay que usarla con cuidado y conciencia.",
+              "El aprendizaje es imposible sin tecnología."
+            ],
+            "answer": 2,
+            "explain": "結論段落總結全文：科技是強大工具，改善了生活的許多層面，但必須謹慎且有意識地使用，對應選項 C。"
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "2026-07-24-B2-fallback",
+        "source": "ai",
+        "level_label": "約 B2（AI 生成）",
+        "title": "La tecnología que cambió nuestra vida",
+        "text": "Hace veinte años, era imposible imaginar que llevaríamos toda nuestra vida en un pequeño dispositivo que cabía en el bolsillo. Sin embargo, hoy en día los teléfonos inteligentes han transformado completamente la manera en que trabajamos, nos comunicamos y nos entretenemos.\n\nCuando era niño, si quería buscar información, tenía que ir a la biblioteca y consultar enciclopedias enormes. Ahora, cualquier persona puede encontrar lo que necesita en pocos segundos gracias a Internet. Además, las videollamadas nos han permitido hablar con familiares que viven en otros países como si estuviéramos en la misma habitación.\n\nSin embargo, esta revolución tecnológica también ha traído algunos problemas. Muchos jóvenes pasan demasiadas horas mirando pantallas, lo que ha afectado su capacidad de concentración. Antes, la gente leía más libros y pasaba más tiempo al aire libre.\n\nSi usáramos la tecnología con más responsabilidad, podríamos aprovechar todos sus beneficios sin sufrir sus consecuencias negativas. La clave está en encontrar un equilibrio entre el mundo digital y el mundo real, porque aunque la tecnología nos facilita la vida, no puede reemplazar las relaciones humanas verdaderas.",
+        "translation": "二十年前，根本無法想像我們會把整個生活都裝在一個可以放進口袋的小裝置裡。然而，如今智慧型手機已經徹底改變了我們工作、溝通和娛樂的方式。\n\n當我還是個孩子的時候，如果想查找資料，就必須去圖書館查閱厚重的百科全書。現在，任何人都可以透過網際網路在幾秒鐘內找到所需的資訊。此外，視訊通話讓我們能夠與住在其他國家的親人交談，就好像我們在同一個房間裡一樣。\n\n然而，這場科技革命也帶來了一些問題。許多年輕人花太多時間盯著螢幕，這已經影響了他們的專注力。以前，人們閱讀更多書籍，也花更多時間在戶外活動。\n\n如果我們能更有責任感地使用科技，就能享受它所有的好處，而不必承受其負面後果。關鍵在於找到數位世界與現實世界之間的平衡，因為雖然科技讓我們的生活更便利，但它無法取代真實的人際關係。",
+        "words": [
+          {
+            "word": "dispositivo",
+            "pos": "n.",
+            "zh": "裝置、設備",
+            "example": "Mi teléfono es el dispositivo que más uso cada día.",
+            "example_zh": "我的手機是我每天使用最多的裝置。"
+          },
+          {
+            "word": "transformar",
+            "pos": "v.",
+            "zh": "改變、轉變",
+            "example": "Internet ha transformado la forma en que aprendemos.",
+            "example_zh": "網際網路已經改變了我們學習的方式。"
+          },
+          {
+            "word": "enciclopedia",
+            "pos": "n.",
+            "zh": "百科全書",
+            "example": "Antes, los estudiantes consultaban enciclopedias para hacer sus tareas.",
+            "example_zh": "以前，學生們查閱百科全書來完成作業。"
+          },
+          {
+            "word": "videollamada",
+            "pos": "n.",
+            "zh": "視訊通話",
+            "example": "Hacemos videollamadas con los abuelos todos los domingos.",
+            "example_zh": "我們每週日都與祖父母進行視訊通話。"
+          },
+          {
+            "word": "concentración",
+            "pos": "n.",
+            "zh": "專注力、集中力",
+            "example": "La meditación mejora la concentración de los estudiantes.",
+            "example_zh": "冥想能提升學生的專注力。"
+          },
+          {
+            "word": "pantalla",
+            "pos": "n.",
+            "zh": "螢幕",
+            "example": "Pasar muchas horas frente a la pantalla cansa los ojos.",
+            "example_zh": "長時間面對螢幕會讓眼睛疲勞。"
+          },
+          {
+            "word": "equilibrio",
+            "pos": "n.",
+            "zh": "平衡",
+            "example": "Es importante mantener un equilibrio entre el trabajo y el descanso.",
+            "example_zh": "保持工作與休息之間的平衡非常重要。"
+          },
+          {
+            "word": "aprovechar",
+            "pos": "v.",
+            "zh": "善用、充分利用",
+            "example": "Debemos aprovechar las oportunidades que nos da la educación.",
+            "example_zh": "我們應該善用教育給予我們的機會。"
+          },
+          {
+            "word": "reemplazar",
+            "pos": "v.",
+            "zh": "取代、替換",
+            "example": "Las máquinas no pueden reemplazar completamente a los seres humanos.",
+            "example_zh": "機器無法完全取代人類。"
+          },
+          {
+            "word": "beneficio",
+            "pos": "n.",
+            "zh": "好處、利益",
+            "example": "El ejercicio regular tiene muchos beneficios para la salud.",
+            "example_zh": "規律運動對健康有很多好處。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Según el texto, ¿qué hacía el autor cuando era niño para buscar información?",
+            "options": [
+              "Usaba Internet en su teléfono inteligente.",
+              "Iba a la biblioteca a consultar enciclopedias.",
+              "Preguntaba a sus profesores en la escuela.",
+              "Veía programas educativos en la televisión."
+            ],
+            "answer": 1,
+            "explain": "文中提到「當我還是個孩子的時候，如果想查找資料，就必須去圖書館查閱百科全書」，因此答案是選項 1。"
+          },
+          {
+            "q": "¿Qué problema menciona el texto sobre los jóvenes y la tecnología?",
+            "options": [
+              "No saben cómo usar los teléfonos inteligentes.",
+              "Prefieren leer libros en lugar de usar Internet.",
+              "Pasan demasiadas horas mirando pantallas y pierden concentración.",
+              "No tienen acceso a Internet en sus casas."
+            ],
+            "answer": 2,
+            "explain": "文中明確指出「許多年輕人花太多時間盯著螢幕，這已經影響了他們的專注力」，對應選項 2。"
+          },
+          {
+            "q": "¿Para qué sirven las videollamadas según el texto?",
+            "options": [
+              "Para buscar información rápidamente en Internet.",
+              "Para hablar con familiares que viven en otros países.",
+              "Para reemplazar a los libros y enciclopedias.",
+              "Para trabajar desde casa sin ir a la oficina."
+            ],
+            "answer": 1,
+            "explain": "文中說視訊通話讓我們能與住在其他國家的親人交談，對應選項 1。"
+          },
+          {
+            "q": "¿Qué propone el autor para solucionar los problemas de la tecnología?",
+            "options": [
+              "Dejar de usar completamente los teléfonos inteligentes.",
+              "Volver a usar enciclopedias en lugar de Internet.",
+              "Usar la tecnología con más responsabilidad y encontrar un equilibrio.",
+              "Prohibir el uso de pantallas para los jóvenes menores de edad."
+            ],
+            "answer": 2,
+            "explain": "文末作者建議「如果我們能更有責任感地使用科技，並找到數位與現實世界的平衡」，對應選項 2。"
+          },
+          {
+            "q": "¿Qué estructura gramatical aparece en la frase «como si estuviéramos en la misma habitación»?",
+            "options": [
+              "Una comparación con el indicativo presente.",
+              "Una condición real con el futuro simple.",
+              "Una comparación hipotética con el subjuntivo imperfecto.",
+              "Una oración con el pretérito indefinido."
+            ],
+            "answer": 2,
+            "explain": "「como si + 過去虛擬式（subjuntivo imperfecto）」是表達假設性比較的固定句型，意思是「就好像……一樣」，屬於非真實的比較情境，對應選項 2。"
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-07-24-C1-fallback",
+        "source": "ai",
+        "level_label": "約 C1（AI 生成）",
+        "title": "La tecnología que transformó nuestras vidas",
+        "text": "Hace veinte años, nadie imaginaba que llevaríamos un pequeño dispositivo en el bolsillo capaz de conectarnos con cualquier persona del mundo en cuestión de segundos. La tecnología ha cambiado nuestra manera de vivir de una forma tan profunda que sería difícil volver a la vida que teníamos antes.\n\nCuando era niño, si quería buscar información, tenía que ir a la biblioteca y consultar enciclopedias enormes. Ahora, con solo escribir una pregunta en el teléfono, obtenemos respuestas inmediatas. Además, las redes sociales han permitido que personas de culturas muy diferentes se comuniquen y compartan experiencias cotidianas.\n\nSin embargo, estos avances también han traído consecuencias negativas. Muchos jóvenes pasan horas mirando pantallas en lugar de relacionarse con sus amigos en persona. Algunos expertos afirman que esta situación podría causar problemas de salud mental si no se controlara adecuadamente.\n\nA pesar de todo, creo que la tecnología, si se usara con responsabilidad, nos ofrece oportunidades increíbles para aprender, trabajar y conectar con los demás. Lo importante es encontrar un equilibrio entre el mundo digital y el mundo real.",
+        "translation": "二十年前，沒有人能想像我們會在口袋裡帶著一個小裝置，能在幾秒鐘內與世界上任何人聯繫。科技已經如此深刻地改變了我們的生活方式，以至於要回到以前的生活將會十分困難。\n\n當我還是個孩子的時候，如果想查詢資料，我必須去圖書館查閱大型百科全書。現在，只需在手機上輸入一個問題，我們就能立刻得到答案。此外，社群網路讓來自不同文化的人們得以互相交流並分享日常經驗。\n\n然而，這些進步也帶來了負面影響。許多年輕人花好幾個小時盯著螢幕，而不是與朋友面對面交往。一些專家表示，如果這種情況無法得到妥善控制，可能會導致心理健康問題。\n\n儘管如此，我認為科技若能負責任地使用，能為我們提供學習、工作和與他人連結的絕佳機會。重要的是在數位世界與現實世界之間找到平衡。",
+        "words": [
+          {
+            "word": "dispositivo",
+            "pos": "n.m.",
+            "zh": "裝置、設備",
+            "example": "Mi dispositivo favorito es el teléfono inteligente.",
+            "example_zh": "我最喜歡的裝置是智慧型手機。"
+          },
+          {
+            "word": "conectar",
+            "pos": "v.",
+            "zh": "連接、聯繫",
+            "example": "Internet nos ayuda a conectar con personas de todo el mundo.",
+            "example_zh": "網路幫助我們與全世界的人聯繫。"
+          },
+          {
+            "word": "enciclopedia",
+            "pos": "n.f.",
+            "zh": "百科全書",
+            "example": "Antes buscábamos datos en las enciclopedias de papel.",
+            "example_zh": "以前我們在紙本百科全書中查找資料。"
+          },
+          {
+            "word": "red social",
+            "pos": "n.f.",
+            "zh": "社群網路",
+            "example": "Las redes sociales han cambiado cómo nos comunicamos.",
+            "example_zh": "社群網路改變了我們溝通的方式。"
+          },
+          {
+            "word": "avance",
+            "pos": "n.m.",
+            "zh": "進步、進展",
+            "example": "Los avances científicos mejoran la calidad de vida.",
+            "example_zh": "科學進步提升了生活品質。"
+          },
+          {
+            "word": "pantalla",
+            "pos": "n.f.",
+            "zh": "螢幕",
+            "example": "Paso demasiadas horas mirando la pantalla del ordenador.",
+            "example_zh": "我花了太多時間盯著電腦螢幕。"
+          },
+          {
+            "word": "salud mental",
+            "pos": "n.f.",
+            "zh": "心理健康",
+            "example": "Cuidar la salud mental es tan importante como la física.",
+            "example_zh": "照顧心理健康與照顧身體健康同樣重要。"
+          },
+          {
+            "word": "equilibrio",
+            "pos": "n.m.",
+            "zh": "平衡",
+            "example": "Es necesario mantener un equilibrio entre el trabajo y el descanso.",
+            "example_zh": "在工作與休息之間保持平衡是必要的。"
+          },
+          {
+            "word": "responsabilidad",
+            "pos": "n.f.",
+            "zh": "責任感、責任",
+            "example": "Usamos la tecnología con responsabilidad para evitar problemas.",
+            "example_zh": "我們負責任地使用科技以避免問題。"
+          },
+          {
+            "word": "cotidiano",
+            "pos": "adj.",
+            "zh": "日常的",
+            "example": "Compartir experiencias cotidianas en línea se ha vuelto normal.",
+            "example_zh": "在網路上分享日常經驗已經變得很普遍。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué hacía el autor cuando era niño y quería buscar información?",
+            "options": [
+              "Usaba su teléfono inteligente para buscar en internet.",
+              "Iba a la biblioteca a consultar enciclopedias.",
+              "Llamaba a sus amigos para que le ayudaran.",
+              "Veía documentales en la televisión."
+            ],
+            "answer": 1,
+            "explain": "文章提到，當作者還是孩子時，若想查詢資料，必須去圖書館查閱百科全書（consultar enciclopedias）。"
+          },
+          {
+            "q": "Según el texto, ¿qué han permitido las redes sociales?",
+            "options": [
+              "Que la gente duerma menos horas cada noche.",
+              "Que desaparezcan las bibliotecas públicas.",
+              "Que personas de distintas culturas se comuniquen y compartan experiencias.",
+              "Que los jóvenes lean más libros en papel."
+            ],
+            "answer": 2,
+            "explain": "文章指出，社群網路讓來自不同文化的人們得以溝通並分享日常經驗。"
+          },
+          {
+            "q": "¿Cuál es una consecuencia negativa de la tecnología mencionada en el texto?",
+            "options": [
+              "La desaparición de los teléfonos móviles.",
+              "Los jóvenes pasan muchas horas mirando pantallas en lugar de relacionarse en persona.",
+              "Las personas viajan menos al extranjero.",
+              "Los libros electrónicos son más caros que los de papel."
+            ],
+            "answer": 1,
+            "explain": "文章提到，許多年輕人花大量時間盯著螢幕，而不是與朋友面對面交往，這是科技的負面影響之一。"
+          },
+          {
+            "q": "¿Qué tiempo verbal se usa en «si se usara con responsabilidad» para expresar una condición hipotética?",
+            "options": [
+              "Pretérito indefinido",
+              "Futuro simple",
+              "Pretérito imperfecto de subjuntivo",
+              "Presente de indicativo"
+            ],
+            "answer": 2,
+            "explain": "「si se usara」使用的是虛擬式過去未完成時（pretérito imperfecto de subjuntivo），用於表達假設或非現實的條件句。"
+          },
+          {
+            "q": "¿Cuál es la idea principal del último párrafo?",
+            "options": [
+              "La tecnología es completamente negativa y debemos eliminarla.",
+              "Debemos encontrar un equilibrio entre el uso de la tecnología y la vida real.",
+              "Los jóvenes deben usar más las redes sociales.",
+              "Las bibliotecas son más útiles que internet."
+            ],
+            "answer": 1,
+            "explain": "最後一段的核心觀點是：雖然科技有優點，但重要的是在數位世界與現實世界之間找到平衡（equilibrio）。"
+          }
+        ]
+      }
+    ],
+    "C2": []
+  }
+}

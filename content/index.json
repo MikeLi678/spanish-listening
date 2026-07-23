@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-24",
     "2026-07-23",
     "2026-07-22",
     "2026-07-21",
@@ -7,6 +8,51 @@
     "2026-07-18"
   ],
   "days": [
+    {
+      "date": "2026-07-24",
+      "articles": [
+        {
+          "id": "2026-07-24-A1-1",
+          "level": "A1",
+          "title": "Las tres comidas del día",
+          "source": "ai",
+          "level_label": "A1",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-24-A2-1",
+          "level": "A2",
+          "title": "Un día de compras",
+          "source": "ai",
+          "level_label": "A2",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-24-B1-1",
+          "level": "B1",
+          "title": "La tecnología que cambió nuestras vidas",
+          "source": "ai",
+          "level_label": "B1",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-24-B2-fallback",
+          "level": "B2",
+          "title": "La tecnología que cambió nuestra vida",
+          "source": "ai",
+          "level_label": "約 B2（AI 生成）",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-24-C1-fallback",
+          "level": "C1",
+          "title": "La tecnología que transformó nuestras vidas",
+          "source": "ai",
+          "level_label": "約 C1（AI 生成）",
+          "origin_name": ""
+        }
+      ]
+    },
     {
       "date": "2026-07-23",
       "articles": [

@@ -3,6 +3,11 @@ import { markWords } from "./vocab-render.js";
 import { scoreQuiz } from "./quiz.js";
 import { saveProgress, saveVocab } from "./data-client.js";
 import { pronounce } from "./speak.js";
+import { lookup } from "./lookup.js";
+
+function esc(s) {
+  return String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+}
 
 const params = new URLSearchParams(location.search);
 const date = params.get("date");
@@ -99,6 +104,27 @@ function showPopup(word) {
   document.getElementById("close").onclick = () => { el.className = ""; el.innerHTML = ""; };
 }
 
+// 查任意單字（先看本篇重點單字，沒有再線上查）
+async function doLookup(raw) {
+  const q = (raw || "").trim();
+  if (!q) return;
+  const hit = article.words.find((w) => w.word.toLowerCase() === q.toLowerCase());
+  if (hit) { showPopup(hit); return; }
+  showLookupResult(q, "查詢中…", true);
+  const zh = await lookup(q);
+  showLookupResult(q, zh || "查不到翻譯，換個說法再試試。", false);
+}
+
+function showLookupResult(word, zh, loading) {
+  const el = document.getElementById("popup");
+  el.className = "popup";
+  el.innerHTML = `<b lang="es">${esc(word)}</b> <button class="say" id="say" title="發音" aria-label="發音">🔊</button><br>
+    <span class="${loading ? "muted" : ""}">${esc(zh)}</span><br>
+    <button id="close">關閉</button>`;
+  document.getElementById("say").onclick = () => pronounce(word);
+  document.getElementById("close").onclick = () => { el.className = ""; el.innerHTML = ""; };
+}
+
 function renderText() {
   const container = document.createElement("p");
   container.lang = "es";
@@ -184,6 +210,11 @@ async function init() {
         <option value="2">2x</option>
       </select>
       ${article.translation ? '<button id="translate">翻譯成中文</button>' : ""}
+    </div>
+    <div class="lookup">
+      <input id="lookup-input" type="text" lang="es" autocomplete="off"
+        placeholder="查任何西語單字或片語…" aria-label="查詢西語單字">
+      <button class="primary" id="lookup-btn">查詢</button>
     </div>`;
   root.appendChild(renderText());
 
@@ -202,6 +233,11 @@ async function init() {
   document.getElementById("rate").onchange = (e) => setRate(parseFloat(e.target.value));
   document.getElementById("play").onclick = play;
   document.getElementById("pause").onclick = pause;
+
+  const lookupInput = document.getElementById("lookup-input");
+  document.getElementById("lookup-btn").onclick = () => doLookup(lookupInput.value);
+  lookupInput.onkeydown = (e) => { if (e.key === "Enter") doLookup(lookupInput.value); };
+
   if (translationEl) {
     const tbtn = document.getElementById("translate");
     tbtn.onclick = () => {

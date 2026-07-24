@@ -153,6 +153,17 @@ button.primary:active { transform: translateY(1px); }
 }
 .controls select { background: var(--surface); color: var(--text); border: 1px solid var(--border); padding: 7px 10px; font-weight: 600; }
 
+/* 單字查詢列 */
+.lookup { display: flex; gap: 8px; margin: 0 0 14px; }
+.lookup input {
+  flex: 1; min-width: 0; font-family: inherit; font-size: .95rem;
+  padding: 9px 12px; border: 1px solid var(--border); border-radius: var(--radius-sm);
+  background: var(--surface); color: var(--text);
+}
+.lookup input::placeholder { color: var(--muted); }
+.lookup button { flex: none; }
+.popup .muted { color: var(--muted); }
+
 /* 重點單字 */
 .word {
   border-bottom: 2px solid color-mix(in srgb, var(--accent) 70%, transparent);

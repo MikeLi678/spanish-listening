@@ -109,6 +109,14 @@ header nav { white-space: nowrap; }
 }
 .card-title { font-weight: 700; font-size: 1.06rem; margin-bottom: 6px; letter-spacing: .01em; }
 .card-meta { font-size: .8rem; color: var(--muted); letter-spacing: .02em; }
+.card.done { border-color: color-mix(in srgb, var(--ok) 45%, var(--border)); }
+.badge-done {
+  display: inline-block; margin-left: 8px; vertical-align: middle;
+  font-size: .72rem; font-weight: 700; letter-spacing: .02em;
+  color: var(--ok); background: var(--ok-bg);
+  border: 1px solid color-mix(in srgb, var(--ok) 40%, transparent);
+  padding: 2px 9px; border-radius: 999px; white-space: nowrap;
+}
 
 /* ===== 按鈕系統 ===== */
 button { font-family: inherit; }

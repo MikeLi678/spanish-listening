@@ -63,6 +63,17 @@ export async function saveProgress(articleId, score, total) {
   lsSet(LS_PROGRESS, rows);
 }
 
+export async function listProgress() {
+  const user = await getUser();
+  if (user) {
+    try {
+      const snap = await getDocs(collection(db, "users", user.uid, "progress"));
+      return snap.docs.map((d) => d.data());
+    } catch (e) { /* 落回 localStorage */ }
+  }
+  return lsGet(LS_PROGRESS);
+}
+
 export async function saveVocab(wordObj, articleId, level) {
   const user = await getUser();
   const row = { word: wordObj.word, pos: wordObj.pos, zh: wordObj.zh,

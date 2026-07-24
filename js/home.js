@@ -1,8 +1,9 @@
 import { LEVELS } from "./config.js";
-import { getUser, signInWithGoogle, signOut } from "./data-client.js";
+import { getUser, signInWithGoogle, signOut, listProgress } from "./data-client.js";
 
 let currentLevel = LEVELS[0];
 let manifest = { days: [] };   // 來自 index.json 的輕量清單（含各篇摘要，無全文）
+let progress = new Map();      // article_id -> {score, total}（已完成的測驗）
 
 function renderTabs() {
   const el = document.getElementById("tabs");
@@ -25,8 +26,10 @@ function renderList() {
       if (art.level !== currentLevel) continue;
       const src = art.source === "real"
         ? `${art.origin_name} · ${art.level_label}` : `AI 生成 · ${art.level_label}`;
-      cards.push(`<a class="card" href="reader.html?date=${day.date}&id=${encodeURIComponent(art.id)}">
-        <div class="card-title">${art.title}</div>
+      const done = progress.get(art.id);
+      const badge = done ? `<span class="badge-done">✓ ${done.score}/${done.total}</span>` : "";
+      cards.push(`<a class="card${done ? " done" : ""}" href="reader.html?date=${day.date}&id=${encodeURIComponent(art.id)}">
+        <div class="card-title">${art.title}${badge}</div>
         <div class="card-meta">${day.date} · ${src}</div></a>`);
     }
   }
@@ -57,6 +60,10 @@ async function init() {
   if (!Array.isArray(manifest.days)) manifest = { days: [] };
   renderTabs();
   await renderAuth();
+  try {
+    const prog = await listProgress();
+    progress = new Map(prog.map((p) => [p.article_id, p]));
+  } catch { progress = new Map(); }
   renderList();
   if (!manifest.days.length) main.innerHTML = "目前無法載入內容，請稍後再試。";
 }

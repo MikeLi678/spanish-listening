@@ -1,0 +1,839 @@
+{
+  "date": "2026-07-25",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-07-25-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "El tiempo hoy",
+        "text": "Hoy hace mucho calor. El sol brilla en el cielo. No hay nubes. La temperatura es alta. Bebo agua fría. Llevo una camiseta y un sombrero. No quiero salir. Prefiero estar en casa. Abro la ventana. Entra un poco de aire. El verano es muy caliente aquí.",
+        "translation": "今天非常熱。太陽在天空中閃耀。沒有雲。氣溫很高。我喝冷水。我穿著一件T恤和一頂帽子。我不想出門。我寧願待在家裡。我打開窗戶。進來一點空氣。這裡的夏天非常炎熱。",
+        "words": [
+          {
+            "word": "calor",
+            "pos": "n.m.",
+            "zh": "熱、熱氣",
+            "example": "Hoy hace mucho calor.",
+            "example_zh": "今天非常熱。"
+          },
+          {
+            "word": "sol",
+            "pos": "n.m.",
+            "zh": "太陽",
+            "example": "El sol brilla en el cielo.",
+            "example_zh": "太陽在天空中閃耀。"
+          },
+          {
+            "word": "nube",
+            "pos": "n.f.",
+            "zh": "雲",
+            "example": "No hay nubes hoy.",
+            "example_zh": "今天沒有雲。"
+          },
+          {
+            "word": "temperatura",
+            "pos": "n.f.",
+            "zh": "氣溫、溫度",
+            "example": "La temperatura es muy alta.",
+            "example_zh": "氣溫非常高。"
+          },
+          {
+            "word": "frío/a",
+            "pos": "adj.",
+            "zh": "冷的",
+            "example": "Bebo agua fría.",
+            "example_zh": "我喝冷水。"
+          },
+          {
+            "word": "sombrero",
+            "pos": "n.m.",
+            "zh": "帽子",
+            "example": "Llevo un sombrero hoy.",
+            "example_zh": "我今天戴著帽子。"
+          },
+          {
+            "word": "salir",
+            "pos": "v.",
+            "zh": "出去、外出",
+            "example": "No quiero salir ahora.",
+            "example_zh": "我現在不想出去。"
+          },
+          {
+            "word": "ventana",
+            "pos": "n.f.",
+            "zh": "窗戶",
+            "example": "Abro la ventana por la mañana.",
+            "example_zh": "我早上打開窗戶。"
+          },
+          {
+            "word": "aire",
+            "pos": "n.m.",
+            "zh": "空氣、風",
+            "example": "Entra un poco de aire.",
+            "example_zh": "進來一點空氣。"
+          },
+          {
+            "word": "verano",
+            "pos": "n.m.",
+            "zh": "夏天",
+            "example": "El verano es caliente.",
+            "example_zh": "夏天很熱。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cómo está el tiempo hoy según el texto?",
+            "options": [
+              "Hace frío y llueve.",
+              "Hace mucho calor y hay sol.",
+              "Está nublado y hace viento.",
+              "Nieva mucho hoy."
+            ],
+            "answer": 1,
+            "explain": "短文第一句說「今天非常熱」，第二句說「太陽閃耀」，所以答案是選項B。"
+          },
+          {
+            "q": "¿Qué hay en el cielo hoy?",
+            "options": [
+              "Muchas nubes.",
+              "Lluvia fuerte.",
+              "El sol brillante.",
+              "Nieve blanca."
+            ],
+            "answer": 2,
+            "explain": "短文提到「El sol brilla en el cielo」（太陽在天空閃耀），且「No hay nubes」（沒有雲），故答案為選項C。"
+          },
+          {
+            "q": "¿Qué bebe la persona?",
+            "options": [
+              "Café caliente.",
+              "Leche fría.",
+              "Zumo de naranja.",
+              "Agua fría."
+            ],
+            "answer": 3,
+            "explain": "短文中明確寫道「Bebo agua fría」（我喝冷水），故答案為選項D。"
+          },
+          {
+            "q": "¿Qué ropa lleva la persona?",
+            "options": [
+              "Un abrigo y una bufanda.",
+              "Una camiseta y un sombrero.",
+              "Un jersey y unos guantes.",
+              "Un vestido y una chaqueta."
+            ],
+            "answer": 1,
+            "explain": "短文說「Llevo una camiseta y un sombrero」（我穿T恤和戴帽子），故答案為選項B。"
+          },
+          {
+            "q": "¿Por qué abre la persona la ventana?",
+            "options": [
+              "Porque quiere ver la lluvia.",
+              "Porque tiene frío.",
+              "Porque quiere que entre aire.",
+              "Porque escucha música."
+            ],
+            "answer": 2,
+            "explain": "短文說「Abro la ventana. Entra un poco de aire.」（我打開窗戶，進來一點空氣），目的是讓空氣進來，故答案為選項C。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-07-25-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Una cena en el restaurante",
+        "text": "Ayer por la noche, María y yo fuimos a un restaurante italiano cerca de la plaza. Cuando llegamos, el camarero nos llevó a una mesa junto a la ventana. Primero, pedimos una ensalada y pan con ajo porque teníamos mucha hambre. Después, yo pedí una pizza Margarita y María pidió unos espaguetis con tomate. La comida estuvo muy rica y el servicio fue excelente. Pagamos la cuenta juntos y dejamos una propina. Esta tarde vamos a volver al mismo restaurante porque nos gustó mucho. ¡Fue una cena perfecta!",
+        "translation": "昨天晚上，瑪麗亞和我去了廣場附近的一家義大利餐廳。我們到達時，服務生帶我們到一張靠窗的桌子。首先，我們點了一份沙拉和蒜香麵包，因為我們非常餓。之後，我點了一份瑪格麗特披薩，瑪麗亞點了番茄義大利麵。食物非常美味，服務也很棒。我們一起結帳，並留下了小費。今天下午我們打算再回到同一家餐廳，因為我們非常喜歡那裡。真是一頓完美的晚餐！",
+        "words": [
+          {
+            "word": "camarero",
+            "pos": "n.m.",
+            "zh": "服務生（男）",
+            "example": "El camarero nos trajo el menú rápidamente.",
+            "example_zh": "服務生很快地把菜單拿給我們。"
+          },
+          {
+            "word": "pedir",
+            "pos": "v.",
+            "zh": "點餐；要求",
+            "example": "Voy a pedir una sopa de verduras.",
+            "example_zh": "我要點一碗蔬菜湯。"
+          },
+          {
+            "word": "ensalada",
+            "pos": "n.f.",
+            "zh": "沙拉",
+            "example": "La ensalada de tomate está muy fresca.",
+            "example_zh": "番茄沙拉非常新鮮。"
+          },
+          {
+            "word": "hambre",
+            "pos": "n.f.",
+            "zh": "飢餓",
+            "example": "Tengo mucha hambre después de caminar.",
+            "example_zh": "走路之後我非常餓。"
+          },
+          {
+            "word": "rico/a",
+            "pos": "adj.",
+            "zh": "美味的",
+            "example": "Este postre está muy rico.",
+            "example_zh": "這道甜點非常美味。"
+          },
+          {
+            "word": "cuenta",
+            "pos": "n.f.",
+            "zh": "帳單",
+            "example": "¿Nos puede traer la cuenta, por favor?",
+            "example_zh": "請問可以幫我們拿帳單嗎？"
+          },
+          {
+            "word": "propina",
+            "pos": "n.f.",
+            "zh": "小費",
+            "example": "Dejamos una propina porque el servicio fue muy bueno.",
+            "example_zh": "因為服務很好，我們留下了小費。"
+          },
+          {
+            "word": "volver",
+            "pos": "v.",
+            "zh": "返回；再去",
+            "example": "Vamos a volver a este café mañana.",
+            "example_zh": "我們明天打算再來這家咖啡廳。"
+          },
+          {
+            "word": "junto/a",
+            "pos": "adj./adv.",
+            "zh": "一起；旁邊",
+            "example": "Nos sentamos juntos en la mesa.",
+            "example_zh": "我們一起坐在桌子旁。"
+          },
+          {
+            "word": "excelente",
+            "pos": "adj.",
+            "zh": "極好的；出色的",
+            "example": "El servicio del hotel fue excelente.",
+            "example_zh": "飯店的服務非常出色。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Adónde fueron María y el narrador?",
+            "options": [
+              "A un restaurante chino",
+              "A un restaurante italiano",
+              "A un restaurante mexicano",
+              "A un café"
+            ],
+            "answer": 1,
+            "explain": "文中提到「fuimos a un restaurante italiano」，所以他們去了一家義大利餐廳。"
+          },
+          {
+            "q": "¿Dónde estaba la mesa que les dio el camarero?",
+            "options": [
+              "Junto a la puerta",
+              "En el centro del restaurante",
+              "Junto a la ventana",
+              "Cerca de la cocina"
+            ],
+            "answer": 2,
+            "explain": "文中說「nos llevó a una mesa junto a la ventana」，桌子在窗戶旁邊。"
+          },
+          {
+            "q": "¿Por qué pidieron ensalada y pan primero?",
+            "options": [
+              "Porque era la especialidad del restaurante",
+              "Porque el camarero lo recomendó",
+              "Porque tenían mucha hambre",
+              "Porque era muy barato"
+            ],
+            "answer": 2,
+            "explain": "文中說「porque teníamos mucha hambre」，因為他們非常餓，所以先點了沙拉和麵包。"
+          },
+          {
+            "q": "¿Qué pidió María de plato principal?",
+            "options": [
+              "Una pizza Margarita",
+              "Espaguetis con tomate",
+              "Ensalada con pollo",
+              "Pan con ajo"
+            ],
+            "answer": 1,
+            "explain": "文中說「María pidió unos espaguetis con tomate」，瑪麗亞點了番茄義大利麵。"
+          },
+          {
+            "q": "¿Qué van a hacer esta tarde el narrador y María?",
+            "options": [
+              "Van a cocinar en casa",
+              "Van a ir a otro restaurante",
+              "Van a volver al mismo restaurante",
+              "Van a comprar comida en el mercado"
+            ],
+            "answer": 2,
+            "explain": "文中使用了 Futuro próximo：「vamos a volver al mismo restaurante」，表示他們今天下午打算回到同一家餐廳。"
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "2026-07-25-B1-1",
+        "source": "ai",
+        "level_label": "B1",
+        "title": "El futuro del planeta está en nuestras manos",
+        "text": "Cuando era niño, mi abuelo me llevaba al bosque para que conociera la naturaleza. Recuerdo que los ríos eran limpios y que había muchos animales. Sin embargo, cuando volví a ese lugar el año pasado, me sorprendió ver cuánto había cambiado todo. Los árboles habían desaparecido en muchas zonas y el río estaba contaminado.\n\nSi todos tomáramos decisiones más responsables, el planeta estaría en mejor estado. Por ejemplo, podríamos usar menos plástico, reciclar más y elegir el transporte público en lugar del coche. También sería importante que los gobiernos aprobaran leyes más estrictas para proteger los bosques y los océanos.\n\nMuchos científicos advierten que, si no actuamos pronto, las consecuencias serán irreversibles. Aunque el problema parece enorme, cada pequeña acción cuenta. Es necesario que la gente comprenda que el cambio climático no es solo un problema del futuro, sino una realidad del presente. Espero que las próximas generaciones hereden un mundo más verde y sostenible, porque todos merecemos vivir en un planeta sano.",
+        "translation": "小時候，我的祖父常帶我去森林，讓我認識大自然。我記得那時河流清澈，動物成群。然而，去年當我重返那個地方時，眼前的一切令我震驚——許多地方的樹木已經消失，河流也遭到污染。\n\n如果我們每個人都能做出更負責任的選擇，地球的狀況將會好得多。例如，我們可以減少使用塑膠、多加回收，並選擇搭乘大眾交通工具而非開車。同樣重要的是，政府應該通過更嚴格的法律來保護森林和海洋。\n\n許多科學家警告，如果我們不盡快採取行動，後果將無法挽回。儘管問題看似龐大，每一個小小的行動都有意義。人們必須明白，氣候變遷不只是未來的問題，而是當下的現實。我希望下一代能夠繼承一個更綠色、更永續的世界，因為我們都值得生活在一個健康的星球上。",
+        "words": [
+          {
+            "word": "contaminado",
+            "pos": "adj.",
+            "zh": "被污染的",
+            "example": "El lago estaba muy contaminado por las fábricas cercanas.",
+            "example_zh": "那座湖因附近的工廠而受到嚴重污染。"
+          },
+          {
+            "word": "responsable",
+            "pos": "adj.",
+            "zh": "負責任的",
+            "example": "Es importante ser responsable con el uso del agua.",
+            "example_zh": "負責任地使用水資源非常重要。"
+          },
+          {
+            "word": "reciclar",
+            "pos": "v.",
+            "zh": "回收、循環再利用",
+            "example": "Mi familia recicla el papel y el vidrio cada semana.",
+            "example_zh": "我的家人每週回收紙張和玻璃。"
+          },
+          {
+            "word": "estricto",
+            "pos": "adj.",
+            "zh": "嚴格的",
+            "example": "El gobierno aprobó leyes más estrictas sobre los residuos.",
+            "example_zh": "政府通過了關於廢棄物更嚴格的法律。"
+          },
+          {
+            "word": "irreversible",
+            "pos": "adj.",
+            "zh": "不可逆的、無法挽回的",
+            "example": "El daño al ecosistema puede ser irreversible.",
+            "example_zh": "對生態系統的破壞可能是無法挽回的。"
+          },
+          {
+            "word": "advertir",
+            "pos": "v.",
+            "zh": "警告、告誡",
+            "example": "Los expertos advierten sobre los peligros del cambio climático.",
+            "example_zh": "專家們警告氣候變遷的危險性。"
+          },
+          {
+            "word": "sostenible",
+            "pos": "adj.",
+            "zh": "永續的、可持續的",
+            "example": "Necesitamos un modelo de energía sostenible para el futuro.",
+            "example_zh": "我們需要一個面向未來的永續能源模式。"
+          },
+          {
+            "word": "heredar",
+            "pos": "v.",
+            "zh": "繼承",
+            "example": "Queremos que nuestros hijos hereden un planeta limpio.",
+            "example_zh": "我們希望我們的孩子能繼承一個乾淨的地球。"
+          },
+          {
+            "word": "cambio climático",
+            "pos": "n. m.",
+            "zh": "氣候變遷",
+            "example": "El cambio climático afecta a todos los países del mundo.",
+            "example_zh": "氣候變遷影響著世界上所有的國家。"
+          },
+          {
+            "word": "transporte público",
+            "pos": "n. m.",
+            "zh": "大眾交通工具",
+            "example": "Usar el transporte público reduce la contaminación del aire.",
+            "example_zh": "使用大眾交通工具可以減少空氣污染。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué recuerda el narrador sobre el lugar donde iba de niño?",
+            "options": [
+              "Que los ríos estaban contaminados y no había animales.",
+              "Que los ríos eran limpios y había muchos animales.",
+              "Que el bosque había desaparecido completamente.",
+              "Que su abuelo le enseñaba a reciclar."
+            ],
+            "answer": 1,
+            "explain": "文中提到「我記得河流清澈，有許多動物（los ríos eran limpios y que había muchos animales）」，故選第二項。"
+          },
+          {
+            "q": "¿Qué encontró el narrador cuando volvió al lugar el año pasado?",
+            "options": [
+              "Un bosque más grande y un río más limpio.",
+              "Muchos animales nuevos en el bosque.",
+              "Los árboles habían desaparecido y el río estaba contaminado.",
+              "El lugar no había cambiado nada."
+            ],
+            "answer": 2,
+            "explain": "文中說回去後發現「很多地區的樹木消失了，河流遭到污染（Los árboles habían desaparecido… y el río estaba contaminado）」，故選第三項。"
+          },
+          {
+            "q": "Según el texto, ¿qué pasaría si todos tomáramos decisiones más responsables?",
+            "options": [
+              "Los gobiernos no necesitarían hacer leyes.",
+              "El planeta estaría en mejor estado.",
+              "El cambio climático desaparecería inmediatamente.",
+              "Ya no sería necesario usar el transporte público."
+            ],
+            "answer": 1,
+            "explain": "文中使用條件式說「如果我們每個人都做出更負責任的決定，地球將會處於更好的狀態（el planeta estaría en mejor estado）」，故選第二項。"
+          },
+          {
+            "q": "¿Qué dice el texto sobre el cambio climático?",
+            "options": [
+              "Es solo un problema del futuro.",
+              "No afecta a las personas jóvenes.",
+              "Es una realidad del presente, no solo del futuro.",
+              "Ya ha sido resuelto por los científicos."
+            ],
+            "answer": 2,
+            "explain": "文中明確指出「氣候變遷不只是未來的問題，而是當下的現實（no es solo un problema del futuro, sino una realidad del presente）」，故選第三項。"
+          },
+          {
+            "q": "¿Cuál es la esperanza del narrador al final del texto?",
+            "options": [
+              "Que los gobiernos eliminen todos los coches.",
+              "Que las próximas generaciones hereden un mundo más verde y sostenible.",
+              "Que su abuelo pueda volver al bosque.",
+              "Que se prohíba el uso del plástico en todo el mundo."
+            ],
+            "answer": 1,
+            "explain": "文章最後寫道「我希望下一代能繼承一個更綠色、更永續的世界（Espero que las próximas generaciones hereden un mundo más verde y sostenible）」，故選第二項。"
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "2026-07-25-B2-fallback",
+        "source": "ai",
+        "level_label": "約 B2（AI 生成）",
+        "title": "El futuro del planeta está en nuestras manos",
+        "text": "Cuando era pequeño, mi abuelo me llevaba al bosque y me enseñaba los nombres de los árboles y los animales. Aquel lugar era tan hermoso que nunca lo olvidé. Sin embargo, cuando volví allí el año pasado, me sorprendió ver que muchos árboles habían sido talados y que el río estaba contaminado. Sentí una tristeza profunda porque sabía que esa destrucción era consecuencia de las actividades humanas.\n\nSi todos cambiáramos nuestros hábitos cotidianos, podríamos proteger mejor el medio ambiente. Por ejemplo, si usáramos menos plástico y recicláramos más, reduciríamos la cantidad de basura que llega a los océanos. Además, sería importante que los gobiernos aprobaran leyes más estrictas para limitar las emisiones de CO₂.\n\nLos científicos han advertido que, si no actuamos pronto, las consecuencias serán irreversibles. Aunque el problema parece enorme, creo que cada persona puede contribuir con pequeñas acciones. El planeta que heredamos de nuestros antepasados es el mismo que dejaremos a nuestros hijos. Por eso, debemos cuidarlo con responsabilidad y compromiso.",
+        "translation": "當我還小的時候，祖父會帶我去森林，教我樹木和動物的名字。那個地方是如此美麗，讓我永遠無法忘懷。然而，當我去年重返那裡時，看到許多樹木已被砍倒、河流遭到污染，我感到十分驚訝。我感到深深的悲傷，因為我知道這樣的破壞是人類活動的後果。\n\n如果我們大家都改變日常習慣，就能更好地保護環境。例如，如果我們少用塑膠、多加回收，就能減少流入海洋的垃圾量。此外，政府批准更嚴格的法律來限制二氧化碳排放，也是十分重要的。\n\n科學家們警告說，如果我們不盡快採取行動，後果將是不可逆轉的。雖然這個問題看起來龐大，但我相信每個人都能以小小的行動做出貢獻。我們從祖先那裡繼承的地球，也是我們將留給子孫的地球。因此，我們必須以責任感和承諾來守護它。",
+        "words": [
+          {
+            "word": "talar",
+            "pos": "v.",
+            "zh": "砍伐（樹木）",
+            "example": "Muchos árboles fueron talados para construir la carretera.",
+            "example_zh": "許多樹木為了修建道路而被砍倒。"
+          },
+          {
+            "word": "contaminado/a",
+            "pos": "adj.",
+            "zh": "被污染的",
+            "example": "El río estaba contaminado por los desechos de la fábrica.",
+            "example_zh": "那條河因工廠廢棄物而遭到污染。"
+          },
+          {
+            "word": "destrucción",
+            "pos": "n. f.",
+            "zh": "破壞；毀滅",
+            "example": "La destrucción del bosque afecta a miles de especies.",
+            "example_zh": "森林的破壞影響了數千個物種。"
+          },
+          {
+            "word": "medio ambiente",
+            "pos": "n. m.",
+            "zh": "環境；自然環境",
+            "example": "Debemos proteger el medio ambiente para las generaciones futuras.",
+            "example_zh": "我們必須為未來世代保護自然環境。"
+          },
+          {
+            "word": "reciclar",
+            "pos": "v.",
+            "zh": "回收；循環利用",
+            "example": "Es importante reciclar el papel y el vidrio.",
+            "example_zh": "回收紙張和玻璃是很重要的。"
+          },
+          {
+            "word": "emisión",
+            "pos": "n. f.",
+            "zh": "排放（量）",
+            "example": "Las emisiones de CO₂ contribuyen al calentamiento global.",
+            "example_zh": "二氧化碳的排放促成了全球暖化。"
+          },
+          {
+            "word": "advertir",
+            "pos": "v.",
+            "zh": "警告；提醒",
+            "example": "Los médicos nos advirtieron de los peligros del tabaco.",
+            "example_zh": "醫生們警告我們抽菸的危害。"
+          },
+          {
+            "word": "irreversible",
+            "pos": "adj.",
+            "zh": "不可逆的；無法挽回的",
+            "example": "El daño causado al arrecife de coral podría ser irreversible.",
+            "example_zh": "對珊瑚礁造成的損害可能是不可逆的。"
+          },
+          {
+            "word": "heredar",
+            "pos": "v.",
+            "zh": "繼承",
+            "example": "Heredamos este planeta de las generaciones anteriores.",
+            "example_zh": "我們從前幾代人那裡繼承了這個星球。"
+          },
+          {
+            "word": "compromiso",
+            "pos": "n. m.",
+            "zh": "承諾；責任感；投入",
+            "example": "Se necesita un compromiso real para combatir el cambio climático.",
+            "example_zh": "對抗氣候變遷需要真正的承諾與投入。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Por qué sintió tristeza el narrador cuando volvió al bosque?",
+            "options": [
+              "Porque su abuelo ya no vivía.",
+              "Porque muchos árboles habían sido talados y el río estaba contaminado.",
+              "Porque el bosque estaba lleno de turistas.",
+              "Porque hacía mucho frío y llovía."
+            ],
+            "answer": 1,
+            "explain": "文中提到他回到森林後，看見許多樹木被砍倒、河流遭到污染，因此感到悲傷。"
+          },
+          {
+            "q": "Según el texto, ¿qué pasaría si usáramos menos plástico y recicláramos más?",
+            "options": [
+              "Los gobiernos ganarían más dinero.",
+              "El aire de las ciudades mejoraría inmediatamente.",
+              "Reduciríamos la cantidad de basura que llega a los océanos.",
+              "Desaparecerían todas las enfermedades."
+            ],
+            "answer": 2,
+            "explain": "文中使用條件句說明，若減少使用塑膠並多加回收，就能減少流入海洋的垃圾量。"
+          },
+          {
+            "q": "¿Qué pide el narrador que hagan los gobiernos?",
+            "options": [
+              "Que planten más árboles en los parques.",
+              "Que aprobaran leyes más estrictas para limitar las emisiones de CO₂.",
+              "Que cerraran todas las fábricas del país.",
+              "Que financiaran viajes al bosque para los niños."
+            ],
+            "answer": 1,
+            "explain": "文中指出政府應批准更嚴格的法律，以限制二氧化碳排放，此處使用了虛擬式（subjuntivo）表達願望。"
+          },
+          {
+            "q": "¿Qué tiempo verbal predomina en la descripción de los recuerdos del abuelo?",
+            "options": [
+              "El futuro simple.",
+              "El pretérito indefinido (pretérito perfecto simple).",
+              "El pretérito imperfecto.",
+              "El condicional simple."
+            ],
+            "answer": 2,
+            "explain": "描述童年回憶時使用「era」、「llevaba」、「enseñaba」等未完成過去式（imperfecto），表示過去習慣性的動作。"
+          },
+          {
+            "q": "¿Cuál es la idea principal del último párrafo?",
+            "options": [
+              "Los científicos tienen toda la responsabilidad de salvar el planeta.",
+              "El planeta ya está completamente destruido y no hay solución.",
+              "Cada persona puede contribuir y debemos cuidar el planeta con responsabilidad.",
+              "Solo los países ricos pueden proteger el medio ambiente."
+            ],
+            "answer": 2,
+            "explain": "最後一段強調每個人都能以小行動做出貢獻，並說明我們有責任為子孫守護這個地球。"
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-07-25-C1-fallback",
+        "source": "ai",
+        "level_label": "約 C1（AI 生成）",
+        "title": "El futuro de nuestro planeta",
+        "text": "Cuando era niño, mi abuelo me contaba que el río cerca de su pueblo era tan limpio que podía beber el agua directamente. Hoy en día, ese mismo río está contaminado porque las fábricas cercanas han vertido residuos químicos durante décadas. Esta situación me pone muy triste y me hace pensar en lo que hemos perdido.\n\nSi todos tomáramos decisiones más responsables, podríamos reducir significativamente el daño que causamos al medio ambiente. Por ejemplo, sería muy útil que los gobiernos invirtieran más en energías renovables y que las empresas pagaran multas más altas cuando contaminen. Además, los ciudadanos podríamos cambiar hábitos cotidianos: usar el transporte público, reciclar correctamente y consumir menos plástico.\n\nAlgunos expertos afirman que, aunque el cambio climático ya ha causado daños irreversibles, todavía estamos a tiempo de evitar consecuencias peores. Creo que es fundamental que las nuevas generaciones aprendan desde pequeñas a respetar la naturaleza. El planeta que heredamos es el mismo que dejaremos a nuestros hijos, y eso es una responsabilidad que no podemos ignorar.",
+        "translation": "小時候，我祖父常常告訴我，他村子附近的河流非常乾淨，可以直接喝裡面的水。如今，同一條河流已受到污染，因為附近的工廠數十年來一直在排放化學廢棄物。這種情況讓我非常難過，也讓我思考我們失去了什麼。\n\n如果大家都能做出更負責任的決定，我們就能大幅減少對環境造成的傷害。例如，若政府能多投資可再生能源，企業在污染時繳納更高的罰款，那將會非常有益。此外，我們公民也可以改變日常習慣：搭乘大眾運輸、正確回收，以及減少使用塑膠。\n\n一些專家表示，儘管氣候變遷已造成不可逆的損害，我們仍有時間避免更糟糕的後果。我認為，讓新世代從小學會尊重自然是至關重要的。我們繼承的這個星球，也是我們將留給子孫的那個星球，這份責任是我們無法忽視的。",
+        "words": [
+          {
+            "word": "contaminar",
+            "pos": "v.",
+            "zh": "污染",
+            "example": "Las fábricas han contaminado el río durante años.",
+            "example_zh": "工廠多年來一直在污染這條河流。"
+          },
+          {
+            "word": "residuo",
+            "pos": "m.",
+            "zh": "廢棄物、殘餘物",
+            "example": "Es importante reciclar los residuos domésticos.",
+            "example_zh": "回收家庭廢棄物是很重要的。"
+          },
+          {
+            "word": "medio ambiente",
+            "pos": "m.",
+            "zh": "環境、自然環境",
+            "example": "Debemos proteger el medio ambiente para las futuras generaciones.",
+            "example_zh": "我們必須為後代保護自然環境。"
+          },
+          {
+            "word": "renovable",
+            "pos": "adj.",
+            "zh": "可再生的、可更新的",
+            "example": "La energía solar es una fuente de energía renovable.",
+            "example_zh": "太陽能是一種可再生能源。"
+          },
+          {
+            "word": "multa",
+            "pos": "f.",
+            "zh": "罰款",
+            "example": "La empresa tuvo que pagar una multa por contaminar el agua.",
+            "example_zh": "那家公司因污染水源而必須繳納罰款。"
+          },
+          {
+            "word": "cotidiano",
+            "pos": "adj.",
+            "zh": "日常的、每天的",
+            "example": "Reciclar debería ser parte de nuestra vida cotidiana.",
+            "example_zh": "回收應該成為我們日常生活的一部分。"
+          },
+          {
+            "word": "irreversible",
+            "pos": "adj.",
+            "zh": "不可逆的、無法挽回的",
+            "example": "La extinción de una especie es un daño irreversible.",
+            "example_zh": "一個物種的滅絕是無法挽回的損害。"
+          },
+          {
+            "word": "heredar",
+            "pos": "v.",
+            "zh": "繼承",
+            "example": "Heredamos este planeta de las generaciones anteriores.",
+            "example_zh": "我們從前幾代人手中繼承了這個星球。"
+          },
+          {
+            "word": "consecuencia",
+            "pos": "f.",
+            "zh": "後果、結果",
+            "example": "La deforestación tiene graves consecuencias para el clima.",
+            "example_zh": "森林砍伐對氣候有嚴重的後果。"
+          },
+          {
+            "word": "verter",
+            "pos": "v.",
+            "zh": "排放、傾倒（液體或廢棄物）",
+            "example": "Está prohibido verter basura en el mar.",
+            "example_zh": "禁止在海洋中傾倒垃圾。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Por qué está contaminado el río del que habla el autor?",
+            "options": [
+              "Porque los turistas tiraban basura en él.",
+              "Porque las fábricas cercanas vertieron residuos químicos.",
+              "Porque el abuelo del autor lo usaba para regar los campos.",
+              "Porque el gobierno no construyó sistemas de filtración."
+            ],
+            "answer": 1,
+            "explain": "文章中明確提到，附近的工廠數十年來一直在河流中排放化學廢棄物，導致河流受到污染。"
+          },
+          {
+            "q": "Según el texto, ¿qué deberían hacer los gobiernos para ayudar al medio ambiente?",
+            "options": [
+              "Prohibir completamente el uso de coches.",
+              "Invertir más en energías renovables.",
+              "Construir más fábricas modernas.",
+              "Cerrar todos los ríos al público."
+            ],
+            "answer": 1,
+            "explain": "文章使用條件式提到，若政府能多投資可再生能源，將對環境非常有益。"
+          },
+          {
+            "q": "¿Qué modo verbal se usa en la frase \"Si todos tomáramos decisiones más responsables, podríamos reducir el daño\"?",
+            "options": [
+              "Presente de indicativo",
+              "Pretérito indefinido",
+              "Subjuntivo imperfecto y condicional simple",
+              "Futuro simple"
+            ],
+            "answer": 2,
+            "explain": "這個句子使用的是「si + 過去虛擬式（subjuntivo imperfecto）+ 條件式（condicional simple）」結構，表示與現實相反的假設條件。"
+          },
+          {
+            "q": "¿Cuál de los siguientes hábitos NO se menciona en el texto como forma de proteger el medio ambiente?",
+            "options": [
+              "Usar el transporte público.",
+              "Reciclar correctamente.",
+              "Consumir menos plástico.",
+              "Plantar árboles en el jardín."
+            ],
+            "answer": 3,
+            "explain": "文章提到搭乘大眾運輸、正確回收和減少使用塑膠，但沒有提到在花園種樹。"
+          },
+          {
+            "q": "¿Cuál es la idea principal del último párrafo?",
+            "options": [
+              "El cambio climático ya no tiene solución posible.",
+              "Los expertos no se ponen de acuerdo sobre el medio ambiente.",
+              "Aún es posible actuar y las nuevas generaciones deben aprender a respetar la naturaleza.",
+              "Los niños deben estudiar ciencias en la escuela."
+            ],
+            "answer": 2,
+            "explain": "最後一段強調，儘管已有不可逆的損害，仍有時間採取行動，並指出讓新世代學會尊重自然的重要性，這是整段的核心觀念。"
+          }
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "2026-07-25-C2-fallback",
+        "source": "ai",
+        "level_label": "約 C2（AI 生成）",
+        "title": "El futuro del planeta está en nuestras manos",
+        "text": "Cuando era niño, mi abuelo me llevaba al bosque y me decía que los árboles eran los pulmones de la Tierra. En aquel entonces, no entendía bien lo que significaba eso, pero ahora comprendo que tenía razón. Durante las últimas décadas, la actividad humana ha destruido millones de hectáreas de selva tropical y ha contaminado ríos y océanos que antes estaban limpios.\n\nSi no cambiáramos nuestros hábitos de consumo, las consecuencias serían devastadoras para las generaciones futuras. Por eso, muchos científicos recomiendan que reduzcamos el uso de plásticos, que apostemos por las energías renovables y que reciclemos los residuos de manera responsable.\n\nEl año pasado, mi ciudad inauguró un programa de reciclaje que logró reducir la basura en un treinta por ciento. Fue un resultado que nos demostró que el cambio es posible cuando existe voluntad colectiva. Aunque queda mucho por hacer, creo que si cada persona adoptara pequeñas acciones cotidianas, el impacto global sería enorme. El medioambiente no es una herencia que recibimos de nuestros padres, sino un préstamo que tomamos de nuestros hijos.",
+        "translation": "當我還是個孩子的時候，祖父會帶我去森林，告訴我樹木是地球的肺。那時候，我不太明白那句話的意思，但現在我理解他是對的。在過去幾十年間，人類活動摧毀了數百萬公頃的熱帶雨林，也污染了曾經清澈的河流和海洋。\n\n如果我們不改變消費習慣，後果對未來的世代將是毀滅性的。因此，許多科學家建議我們減少塑膠的使用、支持再生能源，並負責任地回收廢棄物。\n\n去年，我的城市啟動了一項回收計畫，成功將垃圾量減少了百分之三十。這個成果證明了，當集體意志存在時，改變是可能的。儘管還有很多事情要做，但我相信，如果每個人都採取日常生活中的小行動，整體影響將會是巨大的。環境不是我們從父母那裡繼承的遺產，而是我們從子女那裡借來的東西。",
+        "words": [
+          {
+            "word": "pulmón",
+            "pos": "n.m.",
+            "zh": "肺；（比喻）重要的呼吸來源",
+            "example": "Los bosques son los pulmones del planeta.",
+            "example_zh": "森林是地球的肺。"
+          },
+          {
+            "word": "hectárea",
+            "pos": "n.f.",
+            "zh": "公頃（面積單位）",
+            "example": "Se perdieron miles de hectáreas de bosque por el incendio.",
+            "example_zh": "大火燒毀了數千公頃的森林。"
+          },
+          {
+            "word": "contaminar",
+            "pos": "v.",
+            "zh": "污染",
+            "example": "Las fábricas contaminan el agua de los ríos.",
+            "example_zh": "工廠污染了河流的水。"
+          },
+          {
+            "word": "renovable",
+            "pos": "adj.",
+            "zh": "可再生的",
+            "example": "La energía solar es una fuente renovable.",
+            "example_zh": "太陽能是一種可再生能源。"
+          },
+          {
+            "word": "residuo",
+            "pos": "n.m.",
+            "zh": "廢棄物；垃圾",
+            "example": "Debemos separar los residuos para reciclarlos mejor.",
+            "example_zh": "我們應該分類廢棄物以便更好地回收。"
+          },
+          {
+            "word": "inaugurar",
+            "pos": "v.",
+            "zh": "啟用；開幕；揭幕",
+            "example": "El gobierno inauguró una nueva planta de energía eólica.",
+            "example_zh": "政府啟用了一座新的風力發電廠。"
+          },
+          {
+            "word": "voluntad",
+            "pos": "n.f.",
+            "zh": "意志；意願",
+            "example": "Se necesita voluntad colectiva para proteger el medioambiente.",
+            "example_zh": "保護環境需要集體意志。"
+          },
+          {
+            "word": "cotidiano",
+            "pos": "adj.",
+            "zh": "日常的；每天的",
+            "example": "Reciclar es una acción cotidiana muy importante.",
+            "example_zh": "回收是一項非常重要的日常行動。"
+          },
+          {
+            "word": "préstamo",
+            "pos": "n.m.",
+            "zh": "借款；借用之物",
+            "example": "El planeta es un préstamo que debemos cuidar.",
+            "example_zh": "地球是我們應該珍惜的借用之物。"
+          },
+          {
+            "word": "devastador",
+            "pos": "adj.",
+            "zh": "毀滅性的；破壞性的",
+            "example": "El huracán tuvo un efecto devastador en la región.",
+            "example_zh": "颶風對該地區造成了毀滅性的影響。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué le decía el abuelo al narrador cuando era niño?",
+            "options": [
+              "Que los océanos estaban contaminados.",
+              "Que los árboles eran los pulmones de la Tierra.",
+              "Que debía reciclar la basura.",
+              "Que el cambio climático era peligroso."
+            ],
+            "answer": 1,
+            "explain": "文中提到祖父告訴敘述者「樹木是地球的肺」（los árboles eran los pulmones de la Tierra）。"
+          },
+          {
+            "q": "Según el texto, ¿qué recomiendan los científicos?",
+            "options": [
+              "Construir más fábricas para crear empleo.",
+              "Eliminar todos los plásticos del mercado inmediatamente.",
+              "Reducir el uso de plásticos, apostar por energías renovables y reciclar.",
+              "Dejar de usar el automóvil por completo."
+            ],
+            "answer": 2,
+            "explain": "文中指出科學家建議減少塑膠使用、支持再生能源並負責任地回收廢棄物。"
+          },
+          {
+            "q": "¿Cuánto logró reducir la basura el programa de reciclaje de la ciudad del narrador?",
+            "options": [
+              "Un diez por ciento.",
+              "Un cincuenta por ciento.",
+              "Un veinte por ciento.",
+              "Un treinta por ciento."
+            ],
+            "answer": 3,
+            "explain": "文中明確提到該回收計畫將垃圾量減少了百分之三十（treinta por ciento）。"
+          },
+          {
+            "q": "¿Qué tiempo verbal se usa en \"Si no cambiáramos nuestros hábitos, las consecuencias serían devastadoras\"?",
+            "options": [
+              "Pretérito indefinido y futuro simple.",
+              "Pretérito imperfecto de subjuntivo y condicional simple.",
+              "Presente de subjuntivo y futuro perfecto.",
+              "Pretérito perfecto y condicional compuesto."
+            ],
+            "answer": 1,
+            "explain": "這個句子使用「虛擬式過去未完成時（cambiáramos）」與「條件式現在時（serían）」，構成假設條件句。"
+          },
+          {
+            "q": "¿Cuál es la idea principal de la última oración del texto?",
+            "options": [
+              "Que nuestros padres no cuidaron bien el medioambiente.",
+              "Que el medioambiente es un regalo que recibimos.",
+              "Que tenemos la responsabilidad de cuidar el planeta para las futuras generaciones.",
+              "Que los hijos deben enseñar a sus padres a reciclar."
+            ],
+            "answer": 2,
+            "explain": "最後一句以比喻說明環境是向子孫「借用」的東西，強調我們有責任為後代保護地球。"
+          }
+        ]
+      }
+    ]
+  }
+}

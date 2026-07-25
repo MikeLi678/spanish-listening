@@ -1,0 +1,841 @@
+{
+  "date": "2026-07-26",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-07-26-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Mi ropa favorita",
+        "text": "Hoy llevo una camiseta roja y unos pantalones azules. Mi chaqueta es blanca. Me gusta mucho el color amarillo. Mi amiga Ana lleva un vestido verde. Su bolso es negro y pequeño. Los zapatos de Ana son marrones. Yo tengo una falda rosa en casa. Los colores son bonitos. La ropa es importante para mí.",
+        "translation": "今天我穿著一件紅色T恤和一條藍色褲子。我的外套是白色的。我非常喜歡黃色。我的朋友安娜穿著一件綠色洋裝。她的包包是黑色且小巧的。安娜的鞋子是棕色的。我家裡有一條粉紅色的裙子。顏色很漂亮。衣服對我來說很重要。",
+        "words": [
+          {
+            "word": "camiseta",
+            "pos": "n. f.",
+            "zh": "T恤、短袖上衣",
+            "example": "Llevo una camiseta roja hoy.",
+            "example_zh": "我今天穿著一件紅色T恤。"
+          },
+          {
+            "word": "pantalones",
+            "pos": "n. m. pl.",
+            "zh": "褲子",
+            "example": "Sus pantalones son azules.",
+            "example_zh": "他的褲子是藍色的。"
+          },
+          {
+            "word": "chaqueta",
+            "pos": "n. f.",
+            "zh": "外套、夾克",
+            "example": "Mi chaqueta es blanca y bonita.",
+            "example_zh": "我的外套是白色且漂亮的。"
+          },
+          {
+            "word": "vestido",
+            "pos": "n. m.",
+            "zh": "洋裝、連衣裙",
+            "example": "Ana lleva un vestido verde.",
+            "example_zh": "安娜穿著一件綠色洋裝。"
+          },
+          {
+            "word": "bolso",
+            "pos": "n. m.",
+            "zh": "包包、手提包",
+            "example": "El bolso es negro y pequeño.",
+            "example_zh": "這個包包是黑色且小巧的。"
+          },
+          {
+            "word": "zapatos",
+            "pos": "n. m. pl.",
+            "zh": "鞋子",
+            "example": "Los zapatos son marrones.",
+            "example_zh": "這雙鞋子是棕色的。"
+          },
+          {
+            "word": "falda",
+            "pos": "n. f.",
+            "zh": "裙子",
+            "example": "Tengo una falda rosa en casa.",
+            "example_zh": "我家裡有一條粉紅色的裙子。"
+          },
+          {
+            "word": "llevar",
+            "pos": "v.",
+            "zh": "穿戴、攜帶",
+            "example": "Hoy llevo una camiseta amarilla.",
+            "example_zh": "今天我穿著一件黃色T恤。"
+          },
+          {
+            "word": "color",
+            "pos": "n. m.",
+            "zh": "顏色",
+            "example": "Me gusta el color azul.",
+            "example_zh": "我喜歡藍色。"
+          },
+          {
+            "word": "bonito/a",
+            "pos": "adj.",
+            "zh": "漂亮的、好看的",
+            "example": "Los colores son muy bonitos.",
+            "example_zh": "這些顏色非常漂亮。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿De qué color es la camiseta de la persona?",
+            "options": [
+              "Azul",
+              "Roja",
+              "Verde",
+              "Amarilla"
+            ],
+            "answer": 1,
+            "explain": "文中提到「una camiseta roja」，T恤是紅色的。"
+          },
+          {
+            "q": "¿Qué ropa lleva Ana?",
+            "options": [
+              "Una chaqueta blanca",
+              "Una falda rosa",
+              "Un vestido verde",
+              "Unos pantalones azules"
+            ],
+            "answer": 2,
+            "explain": "文中說「Ana lleva un vestido verde」，安娜穿著綠色洋裝。"
+          },
+          {
+            "q": "¿De qué color es el bolso de Ana?",
+            "options": [
+              "Marrón",
+              "Rojo",
+              "Blanco",
+              "Negro"
+            ],
+            "answer": 3,
+            "explain": "文中提到「Su bolso es negro」，安娜的包包是黑色的。"
+          },
+          {
+            "q": "¿Dónde tiene la persona su falda rosa?",
+            "options": [
+              "En la escuela",
+              "En casa",
+              "En la tienda",
+              "En el trabajo"
+            ],
+            "answer": 1,
+            "explain": "文中說「Yo tengo una falda rosa en casa」，粉紅色的裙子在家裡。"
+          },
+          {
+            "q": "¿Qué color le gusta mucho a la persona?",
+            "options": [
+              "El rojo",
+              "El verde",
+              "El amarillo",
+              "El azul"
+            ],
+            "answer": 2,
+            "explain": "文中提到「Me gusta mucho el color amarillo」，這個人非常喜歡黃色。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-07-26-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Mis planes para las vacaciones",
+        "text": "El mes pasado, trabajé mucho y estuve muy cansado. Por eso, este verano voy a descansar y voy a viajar con mi familia. Primero, vamos a ir a Barcelona porque es una ciudad muy bonita. Allí vamos a visitar la Sagrada Familia y vamos a comer paella en un restaurante cerca del mar. Después, vamos a ir a la playa todos los días. También voy a leer libros interesantes y voy a dormir hasta tarde. No voy a trabajar nada durante las vacaciones. ¡Estoy muy emocionado porque las vacaciones empiezan la próxima semana!",
+        "translation": "上個月，我工作很多，也非常疲憊。因此，今年夏天我要休息，並和家人一起去旅行。首先，我們要去巴塞隆納，因為那是一座非常美麗的城市。在那裡，我們要參觀聖家堂，並在海邊附近的餐廳吃海鮮燉飯。之後，我們每天都要去海灘。我也要閱讀有趣的書籍，並睡到很晚。假期間我完全不打算工作。我非常興奮，因為假期下週就開始了！",
+        "words": [
+          {
+            "word": "trabajé",
+            "pos": "v.",
+            "zh": "我工作了（trabajar 的第一人稱單數簡單過去式）",
+            "example": "Ayer trabajé ocho horas en la oficina.",
+            "example_zh": "昨天我在辦公室工作了八個小時。"
+          },
+          {
+            "word": "cansado",
+            "pos": "adj.",
+            "zh": "疲憊的",
+            "example": "Después de correr, estoy muy cansado.",
+            "example_zh": "跑步之後，我非常疲憊。"
+          },
+          {
+            "word": "descansar",
+            "pos": "v.",
+            "zh": "休息",
+            "example": "Los fines de semana me gusta descansar en casa.",
+            "example_zh": "週末我喜歡在家休息。"
+          },
+          {
+            "word": "viajar",
+            "pos": "v.",
+            "zh": "旅行",
+            "example": "Voy a viajar a México el próximo año.",
+            "example_zh": "我明年要去墨西哥旅行。"
+          },
+          {
+            "word": "visitar",
+            "pos": "v.",
+            "zh": "參觀；拜訪",
+            "example": "Queremos visitar el museo esta tarde.",
+            "example_zh": "我們今天下午想參觀博物館。"
+          },
+          {
+            "word": "paella",
+            "pos": "n. f.",
+            "zh": "海鮮燉飯（西班牙傳統料理）",
+            "example": "La paella valenciana es muy famosa en España.",
+            "example_zh": "瓦倫西亞海鮮燉飯在西班牙非常有名。"
+          },
+          {
+            "word": "playa",
+            "pos": "n. f.",
+            "zh": "海灘",
+            "example": "En verano, la playa está llena de turistas.",
+            "example_zh": "夏天，海灘擠滿了遊客。"
+          },
+          {
+            "word": "emocionado",
+            "pos": "adj.",
+            "zh": "興奮的；激動的",
+            "example": "Estoy muy emocionado por el viaje de mañana.",
+            "example_zh": "我對明天的旅行感到非常興奮。"
+          },
+          {
+            "word": "próximo",
+            "pos": "adj.",
+            "zh": "下一個的；即將到來的",
+            "example": "El próximo lunes tengo un examen importante.",
+            "example_zh": "下週一我有一個重要的考試。"
+          },
+          {
+            "word": "durante",
+            "pos": "prep.",
+            "zh": "在……期間",
+            "example": "No uso el teléfono durante la cena.",
+            "example_zh": "我吃晚飯時不用手機。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cómo se sintió el narrador el mes pasado?",
+            "options": [
+              "Estuvo muy feliz y descansado.",
+              "Estuvo muy cansado porque trabajó mucho.",
+              "Estuvo enfermo y fue al médico.",
+              "Estuvo aburrido porque no hizo nada."
+            ],
+            "answer": 1,
+            "explain": "短文第一句說「trabajé mucho y estuve muy cansado（我工作很多，也非常疲憊）」，故選第二項。"
+          },
+          {
+            "q": "¿Adónde va a ir el narrador este verano?",
+            "options": [
+              "Va a ir a Madrid.",
+              "Va a ir a Valencia.",
+              "Va a ir a Barcelona.",
+              "Va a ir a Sevilla."
+            ],
+            "answer": 2,
+            "explain": "短文明確提到「vamos a ir a Barcelona」，故答案為巴塞隆納。"
+          },
+          {
+            "q": "¿Qué va a comer el narrador en el restaurante?",
+            "options": [
+              "Va a comer pizza.",
+              "Va a comer paella.",
+              "Va a comer tapas.",
+              "Va a comer bocadillos."
+            ],
+            "answer": 1,
+            "explain": "短文說「vamos a comer paella en un restaurante cerca del mar」，故答案為 paella（海鮮燉飯）。"
+          },
+          {
+            "q": "¿Qué va a hacer el narrador durante las vacaciones además de viajar?",
+            "options": [
+              "Va a estudiar español todos los días.",
+              "Va a trabajar por la mañana.",
+              "Va a leer libros y va a dormir hasta tarde.",
+              "Va a cocinar paella en casa."
+            ],
+            "answer": 2,
+            "explain": "短文提到「voy a leer libros interesantes y voy a dormir hasta tarde」，即閱讀書籍並睡到很晚。"
+          },
+          {
+            "q": "¿Cuándo empiezan las vacaciones del narrador?",
+            "options": [
+              "Empiezan el próximo mes.",
+              "Empiezan mañana.",
+              "Empiezan la próxima semana.",
+              "Empiezan en julio."
+            ],
+            "answer": 2,
+            "explain": "短文最後一句說「las vacaciones empiezan la próxima semana（假期下週就開始了）」，故選第三項。"
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "2026-07-26-B1-1",
+        "source": "ai",
+        "level_label": "B1",
+        "title": "La importancia de la educación",
+        "text": "Desde pequeños, nos enseñaron que la educación era la clave para tener un futuro mejor. Sin embargo, no todos comprenden por qué el aprendizaje continuo es tan valioso en la sociedad actual.\n\nCuando era niño, mi abuelo me decía que, si estudiaba con dedicación, podría alcanzar cualquier meta que me propusiera. Sus palabras me marcaron profundamente, aunque en aquel momento no las entendí del todo.\n\nLa educación no solo nos proporciona conocimientos técnicos, sino que también nos enseña a pensar de manera crítica y a resolver problemas complejos. Si más personas tuvieran acceso a una educación de calidad, el mundo sería un lugar más justo e igualitario.\n\nAdemás, los estudios han demostrado que las personas que completaron una buena formación académica tienden a participar más activamente en la vida cívica de su comunidad. Esto significa que la educación fortalece no solo al individuo, sino también a toda la sociedad.\n\nPor eso, es fundamental que los gobiernos inviertan en escuelas y universidades, y que cada uno de nosotros valore el privilegio de aprender. La educación es, sin duda, la herramienta más poderosa para transformar el mundo.",
+        "translation": "從小，人們就教導我們，教育是擁有更美好未來的關鍵。然而，並非所有人都理解，為什麼持續學習在當今社會中如此珍貴。\n\n當我還是個孩子時，祖父常對我說，如果我用心讀書，就能達成任何我為自己設定的目標。他的話深深地影響了我，雖然在那個時候我並沒有完全理解。\n\n教育不僅為我們提供專業知識，也教導我們如何批判性地思考，以及解決複雜的問題。如果有更多人能夠獲得優質教育，這個世界將會是一個更公平、更平等的地方。\n\n此外，研究已證明，受過良好學術培訓的人，往往更積極地參與所在社區的公民生活。這意味著教育不僅強化了個人，也強化了整個社會。\n\n因此，各國政府投資於學校和大學是至關重要的，而我們每個人也應該珍視學習的特權。教育無疑是改變世界最有力的工具。",
+        "words": [
+          {
+            "word": "dedicación",
+            "pos": "n.f.",
+            "zh": "投入、奉獻、用心",
+            "example": "Logró sus metas gracias a su dedicación al estudio.",
+            "example_zh": "他因為對學習的投入而達成了目標。"
+          },
+          {
+            "word": "alcanzar",
+            "pos": "v.",
+            "zh": "達到、實現",
+            "example": "Si trabajas duro, podrás alcanzar tus sueños.",
+            "example_zh": "如果你努力工作，就能實現你的夢想。"
+          },
+          {
+            "word": "marcar",
+            "pos": "v.",
+            "zh": "留下印記、深深影響",
+            "example": "Ese libro me marcó profundamente cuando era joven.",
+            "example_zh": "那本書在我年輕時深深地影響了我。"
+          },
+          {
+            "word": "proporcionar",
+            "pos": "v.",
+            "zh": "提供、給予",
+            "example": "La biblioteca proporciona libros a todos los estudiantes.",
+            "example_zh": "圖書館為所有學生提供書籍。"
+          },
+          {
+            "word": "igualitario",
+            "pos": "adj.",
+            "zh": "平等的",
+            "example": "Queremos una sociedad más igualitaria para todos.",
+            "example_zh": "我們希望有一個對所有人更平等的社會。"
+          },
+          {
+            "word": "formación",
+            "pos": "n.f.",
+            "zh": "培訓、教育、養成",
+            "example": "Recibió una formación académica excelente en la universidad.",
+            "example_zh": "他在大學接受了優秀的學術培訓。"
+          },
+          {
+            "word": "cívico",
+            "pos": "adj.",
+            "zh": "公民的、市民的",
+            "example": "Es importante participar en la vida cívica de tu ciudad.",
+            "example_zh": "參與城市的公民生活是很重要的。"
+          },
+          {
+            "word": "fortalecer",
+            "pos": "v.",
+            "zh": "強化、增強",
+            "example": "El deporte ayuda a fortalecer tanto el cuerpo como la mente.",
+            "example_zh": "運動有助於強化身體和心靈。"
+          },
+          {
+            "word": "invertir",
+            "pos": "v.",
+            "zh": "投資、投入",
+            "example": "El gobierno decidió invertir más dinero en educación pública.",
+            "example_zh": "政府決定在公共教育上投入更多資金。"
+          },
+          {
+            "word": "herramienta",
+            "pos": "n.f.",
+            "zh": "工具",
+            "example": "El idioma es una herramienta esencial para comunicarse.",
+            "example_zh": "語言是溝通的基本工具。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué le decía el abuelo del narrador cuando era niño?",
+            "options": [
+              "Que el dinero era más importante que los estudios.",
+              "Que si estudiaba con dedicación, podría alcanzar cualquier meta.",
+              "Que la educación no garantizaba el éxito.",
+              "Que debía trabajar desde pequeño para tener éxito."
+            ],
+            "answer": 1,
+            "explain": "文中提到祖父說，如果孫子用心讀書，就能達成任何目標，對應選項 B。"
+          },
+          {
+            "q": "Según el texto, ¿qué nos enseña la educación además de conocimientos técnicos?",
+            "options": [
+              "A ganar más dinero rápidamente.",
+              "A evitar los problemas de la vida diaria.",
+              "A pensar de manera crítica y resolver problemas complejos.",
+              "A obedecer las reglas sin cuestionarlas."
+            ],
+            "answer": 2,
+            "explain": "文章明確指出教育教導我們批判性思考並解決複雜問題，對應選項 C。"
+          },
+          {
+            "q": "¿Qué pasaría si más personas tuvieran acceso a una educación de calidad, según el texto?",
+            "options": [
+              "Habría más competencia entre las personas.",
+              "El mundo sería un lugar más justo e igualitario.",
+              "Los gobiernos tendrían más problemas económicos.",
+              "La tecnología avanzaría más rápido."
+            ],
+            "answer": 1,
+            "explain": "文中使用條件式表示：如果更多人獲得優質教育，世界將更公平平等，對應選項 B。"
+          },
+          {
+            "q": "¿Qué han demostrado los estudios mencionados en el texto?",
+            "options": [
+              "Que la educación universitaria es demasiado cara.",
+              "Que estudiar no garantiza un buen trabajo.",
+              "Que las personas bien formadas participan más en la vida cívica.",
+              "Que los jóvenes prefieren trabajar antes que estudiar."
+            ],
+            "answer": 2,
+            "explain": "文章指出研究顯示，受過良好培訓的人更積極參與社區公民生活，對應選項 C。"
+          },
+          {
+            "q": "¿Cuál es la idea principal del texto?",
+            "options": [
+              "La educación es importante solo para conseguir un trabajo bien pagado.",
+              "Los abuelos tienen un papel clave en la educación de los niños.",
+              "La educación es una herramienta poderosa que beneficia al individuo y a la sociedad.",
+              "Los gobiernos no se preocupan suficientemente por la educación."
+            ],
+            "answer": 2,
+            "explain": "全文主旨在說明教育對個人和整個社會的重要性與正面影響，對應選項 C。"
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "2026-07-26-B2-fallback",
+        "source": "ai",
+        "level_label": "約 B2（AI 生成）",
+        "title": "La importancia de la educación",
+        "text": "Desde pequeños, nos enseñan que la educación es la base del futuro. Aunque muchos estudiantes piensan que las clases son aburridas, la verdad es que aprender nos abre puertas que de otro modo permanecerían cerradas.\n\nCuando era niño, mi abuelo siempre me decía que él habría tenido más oportunidades si hubiera podido estudiar. Trabajó toda su vida en el campo porque no tuvo acceso a una buena escuela. Su historia me hizo comprender cuánto vale la educación.\n\nHoy en día, vivimos en un mundo que cambia constantemente. Por eso, es fundamental que los jóvenes no solo aprendan contenidos académicos, sino que también desarrollen habilidades como el pensamiento crítico y la creatividad. Si los gobiernos invirtieran más en educación, habría menos desigualdad social y más ciudadanos preparados para enfrentar los desafíos del siglo XXI.\n\nAdemás, la educación no termina cuando uno sale de la escuela. A lo largo de la vida, seguimos aprendiendo de nuestras experiencias, de los libros y de las personas que nos rodean. En definitiva, una sociedad que valora el conocimiento es una sociedad más justa y más libre.",
+        "translation": "從小，人們就教導我們教育是未來的基礎。儘管許多學生認為上課很無聊，但事實是，學習為我們開啟了那些若非如此便會永遠關閉的大門。\n\n當我還是個孩子的時候，我的祖父總是告訴我，如果他當年能夠讀書，他本來會有更多機會的。他一生都在田裡工作，因為他沒有機會接受良好的教育。他的故事讓我明白了教育的珍貴。\n\n如今，我們生活在一個不斷變化的世界裡。因此，年輕人不僅要學習學科知識，還必須培養批判性思維和創造力等能力，這一點至關重要。如果各國政府在教育上投入更多，社會不平等就會減少，也會有更多公民做好準備去面對二十一世紀的挑戰。\n\n此外，教育並不會在離開學校時就結束。在人生的旅途中，我們持續從自身的經歷、書本以及身邊的人身上學習。總而言之，一個重視知識的社會，是一個更公正、更自由的社會。",
+        "words": [
+          {
+            "word": "base",
+            "pos": "n.f.",
+            "zh": "基礎、根基",
+            "example": "El respeto es la base de toda buena relación.",
+            "example_zh": "尊重是所有良好關係的基礎。"
+          },
+          {
+            "word": "permanecer",
+            "pos": "v.",
+            "zh": "保持、持續停留",
+            "example": "La puerta permaneció cerrada durante toda la noche.",
+            "example_zh": "那扇門整晚都保持關著。"
+          },
+          {
+            "word": "oportunidad",
+            "pos": "n.f.",
+            "zh": "機會",
+            "example": "Todos merecemos tener las mismas oportunidades en la vida.",
+            "example_zh": "我們每個人都應該在生活中擁有平等的機會。"
+          },
+          {
+            "word": "acceso",
+            "pos": "n.m.",
+            "zh": "接觸、進入、取得",
+            "example": "No todos los niños tienen acceso a internet en casa.",
+            "example_zh": "並非所有孩子在家都能使用網路。"
+          },
+          {
+            "word": "fundamental",
+            "pos": "adj.",
+            "zh": "極其重要的、根本的",
+            "example": "Es fundamental lavarse las manos antes de comer.",
+            "example_zh": "吃飯前洗手是非常重要的。"
+          },
+          {
+            "word": "habilidad",
+            "pos": "n.f.",
+            "zh": "能力、技能",
+            "example": "La comunicación es una habilidad muy valorada en el trabajo.",
+            "example_zh": "溝通能力在職場上非常受到重視。"
+          },
+          {
+            "word": "invertir",
+            "pos": "v.",
+            "zh": "投資、投入",
+            "example": "El gobierno decidió invertir más dinero en hospitales públicos.",
+            "example_zh": "政府決定在公立醫院上投入更多資金。"
+          },
+          {
+            "word": "desigualdad",
+            "pos": "n.f.",
+            "zh": "不平等、不均等",
+            "example": "La desigualdad económica es un problema grave en muchos países.",
+            "example_zh": "經濟不平等是許多國家面臨的嚴重問題。"
+          },
+          {
+            "word": "desafío",
+            "pos": "n.m.",
+            "zh": "挑戰",
+            "example": "Aprender un idioma nuevo es un desafío emocionante.",
+            "example_zh": "學習一門新語言是一個令人興奮的挑戰。"
+          },
+          {
+            "word": "conocimiento",
+            "pos": "n.m.",
+            "zh": "知識、認識",
+            "example": "El conocimiento que adquirimos en la escuela nos acompaña toda la vida.",
+            "example_zh": "我們在學校獲得的知識將伴隨我們一生。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué le decía el abuelo al narrador cuando era niño?",
+            "options": [
+              "Que la escuela era aburrida y no valía la pena.",
+              "Que él habría tenido más oportunidades si hubiera podido estudiar.",
+              "Que trabajar en el campo era la mejor opción.",
+              "Que la educación universitaria era demasiado cara."
+            ],
+            "answer": 1,
+            "explain": "文中提到祖父告訴敘述者，如果他當年能夠讀書，本來會有更多機會，因此正解為選項1。"
+          },
+          {
+            "q": "¿Por qué el abuelo trabajó toda su vida en el campo?",
+            "options": [
+              "Porque le gustaba mucho la naturaleza.",
+              "Porque ganaba mucho dinero en el campo.",
+              "Porque no tuvo acceso a una buena escuela.",
+              "Porque decidió no ir a la universidad."
+            ],
+            "answer": 2,
+            "explain": "文中明確說明祖父因為沒有機會接受良好教育，所以一生都在田間工作，正解為選項2。"
+          },
+          {
+            "q": "Según el texto, ¿qué pasaría si los gobiernos invirtieran más en educación?",
+            "options": [
+              "Habría más problemas económicos en el mundo.",
+              "Los estudiantes no tendrían que estudiar tanto.",
+              "Habría menos desigualdad social y más ciudadanos preparados.",
+              "La educación privada desaparecería completamente."
+            ],
+            "answer": 2,
+            "explain": "文中使用條件句說明，若政府增加教育投資，將會減少社會不平等並培育更多有準備的公民，正解為選項2。"
+          },
+          {
+            "q": "¿Qué habilidades menciona el texto que los jóvenes deben desarrollar?",
+            "options": [
+              "La música y las artes plásticas.",
+              "El pensamiento crítico y la creatividad.",
+              "Los deportes y la alimentación saludable.",
+              "Los idiomas extranjeros y la tecnología."
+            ],
+            "answer": 1,
+            "explain": "文中特別提到年輕人除了學科知識外，還應培養批判性思維（pensamiento crítico）與創造力（creatividad），正解為選項1。"
+          },
+          {
+            "q": "¿Cuál es la idea principal del último párrafo?",
+            "options": [
+              "La educación solo ocurre dentro de las escuelas y universidades.",
+              "Los libros son más importantes que las experiencias personales.",
+              "El aprendizaje continúa durante toda la vida y hace a la sociedad más justa.",
+              "Es mejor aprender de los demás que estudiar solo."
+            ],
+            "answer": 2,
+            "explain": "最後一段的核心概念是：教育不僅限於學校，學習貫穿一生，而重視知識的社會是更公正、更自由的社會，正解為選項2。"
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-07-26-real-2",
+        "source": "real",
+        "level_label": "約 B2–C1",
+        "origin_url": "https://www.bbc.com/mundo/articles/c5yv63e67wko?at_medium=RSS&at_campaign=rss",
+        "origin_name": "BBC Mundo",
+        "title": "Un vehículo arrolla a una multitud en la Marcha del Orgullo de Berlín: un muerto y 15 heridos",
+        "text": "Una persona murió y 15 resultaron heridas este sábado en la Marcha del Orgullo de Berlín luego de que un vehículo arrollara a una multitud en el centro de la capital alemana. La policía informó que inició una intensa búsqueda del sospechoso e instó a la población a evitar la zona.\n\nLos heridos fueron atendidos por los servicios de emergencia cerca del parque Tiergarten, donde tuvo lugar el incidente. El evento anual del Orgullo, conocido localmente como Día de la Liberación de la Calle Cristopher, fue finalizado tras los incidentes.\n\n\"Creemos que un vehículo entró en el parque Tiergarten y atropelló a varias personas y les provocó heridas\", publicó la policía en redes sociales. Las imágenes mostraban una gran presencia de los servicios de emergencia en el lugar de los hechos, y se vio a una persona entrando en una ambulancia en una camilla.\n\nVarios agentes de policía, así como unidades de rescate del cuerpo de bomberos, fueron desplegados en la zona. Según medios locales, el vehículo fue abandonado en el lugar del accidente.\n\nEl sábado por la mañana, una gran multitud había participado en un desfile que recorrió la ciudad y que finalizó cerca del parque, donde se celebraron varios eventos por la noche. Las autoridades no han revelado hasta el momento información sobre la identidad o los posibles motivos del sospechoso, mientras la investigación sigue en curso.",
+        "translation": "週六，柏林驕傲遊行發生一起悲劇：一輛車輛衝入德國首都市中心的人群，造成一人死亡、十五人受傷。警方表示已展開大規模搜捕行動，並呼籲民眾避開該區域。\n\n傷者在蒂爾加滕公園附近由緊急救援人員進行救治，事件即發生於此處。這項每年舉辦的驕傲活動——當地稱為「克里斯托弗街解放日」——在事件發生後宣告終止。\n\n「我們相信一輛車輛進入蒂爾加滕公園，撞倒多人並造成傷亡，」警方在社群媒體上發文說明。現場畫面顯示大批緊急救援人員到場，並可見一名傷者躺在擔架上被送入救護車。\n\n多名警察以及消防隊的救援單位均已部署至該區域。根據當地媒體報導，肇事車輛被遺棄在事故現場。\n\n週六早上，大批民眾參加了一場穿越全城的遊行，終點在公園附近，當晚原本安排了多項慶祝活動。目前當局尚未公開嫌疑人的身分或可能的犯案動機，調查工作仍在進行中。",
+        "words": [
+          {
+            "word": "arrollar",
+            "pos": "動詞",
+            "zh": "撞倒、輾過（人）",
+            "example": "El vehículo arrolló a varias personas que caminaban por la acera.",
+            "example_zh": "那輛車撞倒了幾名在人行道上行走的人。"
+          },
+          {
+            "word": "instar (a alguien a hacer algo)",
+            "pos": "動詞片語",
+            "zh": "敦促、促請某人做某事",
+            "example": "Las autoridades instaron a los ciudadanos a permanecer en sus hogares.",
+            "example_zh": "當局敦促市民留在家中。"
+          },
+          {
+            "word": "desplegar",
+            "pos": "動詞",
+            "zh": "部署、展開（人員或資源）",
+            "example": "Se desplegaron cientos de agentes en toda la ciudad para controlar la situación.",
+            "example_zh": "數百名警員被部署至全市各地以控制局勢。"
+          },
+          {
+            "word": "el lugar de los hechos",
+            "pos": "名詞片語",
+            "zh": "事發現場、案發地點",
+            "example": "Los peritos forenses analizaron minuciosamente el lugar de los hechos.",
+            "example_zh": "法醫鑑識人員仔細檢查了事發現場。"
+          },
+          {
+            "word": "la camilla",
+            "pos": "名詞（陰性）",
+            "zh": "擔架",
+            "example": "Los paramédicos trasladaron al herido en una camilla hasta la ambulancia.",
+            "example_zh": "醫護人員用擔架將傷者搬運至救護車。"
+          },
+          {
+            "word": "atropellar",
+            "pos": "動詞",
+            "zh": "（車輛）撞人、輾過",
+            "example": "Un conductor ebrio atropelló a un ciclista en pleno centro urbano.",
+            "example_zh": "一名醉駕司機在市中心撞倒了一名騎自行車的人。"
+          },
+          {
+            "word": "el sospechoso",
+            "pos": "名詞（陽性）",
+            "zh": "嫌疑人",
+            "example": "La policía detuvo al sospechoso pocas horas después del ataque.",
+            "example_zh": "警方在攻擊事件發生後數小時內逮捕了嫌疑人。"
+          },
+          {
+            "word": "el cuerpo de bomberos",
+            "pos": "名詞片語",
+            "zh": "消防隊",
+            "example": "El cuerpo de bomberos acudió rápidamente al lugar para sofocar el incendio.",
+            "example_zh": "消防隊迅速趕到現場撲滅火勢。"
+          },
+          {
+            "word": "tener lugar",
+            "pos": "動詞片語",
+            "zh": "發生、舉行",
+            "example": "La ceremonia tendrá lugar en el salón principal del ayuntamiento.",
+            "example_zh": "典禮將在市政廳的主廳舉行。"
+          },
+          {
+            "word": "en curso",
+            "pos": "形容詞片語",
+            "zh": "進行中的、尚在進行的",
+            "example": "La investigación sobre el fraude financiero sigue en curso.",
+            "example_zh": "關於金融詐欺的調查仍在進行中。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué ocurrió en la Marcha del Orgullo de Berlín según el artículo?",
+            "options": [
+              "Una explosión destruyó parte del parque Tiergarten.",
+              "Un vehículo arrolló a una multitud, causando una muerte y 15 heridos.",
+              "Un grupo de manifestantes atacó a los participantes del desfile.",
+              "Un incendio obligó a evacuar el parque Tiergarten."
+            ],
+            "answer": 1,
+            "explain": "文章明確指出：「Una persona murió y 15 resultaron heridas [...] luego de que un vehículo arrollara a una multitud」，即一輛車撞入人群造成一死十五傷。"
+          },
+          {
+            "q": "¿Qué hizo la policía tras el incidente?",
+            "options": [
+              "Detuvo al sospechoso de inmediato en el lugar de los hechos.",
+              "Cerró todas las calles de Berlín durante 24 horas.",
+              "Inició una búsqueda del sospechoso e instó a la gente a evitar la zona.",
+              "Declaró el estado de emergencia en toda la ciudad."
+            ],
+            "answer": 2,
+            "explain": "文章寫道：「la policía informó que inició una intensa búsqueda del sospechoso e instó a la población a evitar la zona」，即警方展開搜捕並要求民眾遠離該區。"
+          },
+          {
+            "q": "¿Cómo se conoce localmente el evento del Orgullo de Berlín?",
+            "options": [
+              "Marcha del Arcoíris de Brandeburgo",
+              "Festival de la Diversidad de Berlín",
+              "Día de la Liberación de la Calle Cristopher",
+              "Desfile de la Tolerancia del Tiergarten"
+            ],
+            "answer": 2,
+            "explain": "文章中提到：「conocido localmente como Día de la Liberación de la Calle Cristopher」，這是柏林驕傲活動的當地名稱。"
+          },
+          {
+            "q": "¿Qué ocurrió con el vehículo implicado en el atropello?",
+            "options": [
+              "Fue interceptado por la policía a varios kilómetros del lugar.",
+              "Fue hundido en el río Spree por el sospechoso.",
+              "Fue abandonado en el lugar del accidente.",
+              "El conductor entregó el vehículo a las autoridades voluntariamente."
+            ],
+            "answer": 2,
+            "explain": "文章指出：「el vehículo fue abandonado en el lugar del accidente」，即車輛被遺棄在事故現場。"
+          },
+          {
+            "q": "¿Qué información NO había revelado la policía hasta el momento de la publicación del artículo?",
+            "options": [
+              "El número de personas heridas en el incidente.",
+              "El lugar donde ocurrió el atropello.",
+              "La identidad o los posibles motivos del sospechoso.",
+              "Qué servicios de emergencia fueron desplegados."
+            ],
+            "answer": 2,
+            "explain": "文章末段說明：「Las autoridades no han revelado hasta el momento información sobre la identidad o los posibles motivos del sospechoso」，即當局尚未公開嫌疑人身分或犯案動機。"
+          }
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "2026-07-26-C2-fallback",
+        "source": "ai",
+        "level_label": "約 C2（AI 生成）",
+        "title": "La importancia de la educación",
+        "text": "Desde pequeños, nos enseñan que la educación es la base del futuro. Sin embargo, no siempre comprendemos por qué es tan fundamental hasta que crecemos y enfrentamos los desafíos de la vida adulta.\n\nCuando era niño, pensaba que estudiar era una obligación aburrida. No entendía por qué tenía que aprender materias que, según creía, nunca utilizaría. Pero con el tiempo me di cuenta de que cada lección que recibí me ayudó a desarrollar el pensamiento crítico y la capacidad de resolver problemas.\n\nSi no hubiera ido a la escuela, no habría podido conseguir el trabajo que tengo hoy. Además, la educación no solo nos proporciona conocimientos técnicos, sino que también nos enseña a relacionarnos con los demás y a respetar diferentes puntos de vista.\n\nLos expertos aseguran que los países donde más se invierte en educación tienen mejores condiciones de vida para sus ciudadanos. Por eso, es importante que los gobiernos garanticen el acceso a una educación de calidad para todos, independientemente de su origen social o económico.\n\nEn conclusión, la educación es una herramienta poderosa que transforma vidas y construye sociedades más justas e igualitarias.",
+        "translation": "從小，人們就教導我們教育是未來的基礎。然而，我們往往要等到長大、面對成人生活的挑戰時，才真正理解它為何如此重要。\n\n小時候，我以為讀書只是一種無聊的義務。我不明白為什麼必須學習那些我認為永遠用不到的科目。但隨著時間流逝，我意識到我所接受的每一堂課都幫助我培養了批判性思維和解決問題的能力。\n\n如果我沒有去上學，就不可能得到我今天所擁有的工作。此外，教育不僅為我們提供專業知識，也教導我們如何與他人相處，以及尊重不同的觀點。\n\n專家們指出，在教育上投入越多的國家，其公民的生活條件越好。因此，政府確保所有人都能獲得優質教育是非常重要的，無論其社會或經濟背景如何。\n\n總而言之，教育是一種強大的工具，它改變人們的生命，並建構更公正、更平等的社會。",
+        "words": [
+          {
+            "word": "desafío",
+            "pos": "n.m.",
+            "zh": "挑戰",
+            "example": "La vida adulta está llena de desafíos que debemos superar.",
+            "example_zh": "成人生活充滿了我們必須克服的挑戰。"
+          },
+          {
+            "word": "obligación",
+            "pos": "n.f.",
+            "zh": "義務、責任",
+            "example": "Pagar impuestos es una obligación de todos los ciudadanos.",
+            "example_zh": "繳稅是每位公民的義務。"
+          },
+          {
+            "word": "darse cuenta",
+            "pos": "loc.v.",
+            "zh": "意識到、發覺",
+            "example": "Me di cuenta de que había cometido un error.",
+            "example_zh": "我意識到自己犯了一個錯誤。"
+          },
+          {
+            "word": "pensamiento crítico",
+            "pos": "loc.n.m.",
+            "zh": "批判性思維",
+            "example": "El pensamiento crítico es esencial para tomar buenas decisiones.",
+            "example_zh": "批判性思維對於做出良好決策至關重要。"
+          },
+          {
+            "word": "proporcionar",
+            "pos": "v.",
+            "zh": "提供、給予",
+            "example": "El gobierno debe proporcionar servicios básicos a todos.",
+            "example_zh": "政府應向所有人提供基本服務。"
+          },
+          {
+            "word": "punto de vista",
+            "pos": "loc.n.m.",
+            "zh": "觀點、看法",
+            "example": "Es importante respetar los puntos de vista de los demás.",
+            "example_zh": "尊重他人的觀點是很重要的。"
+          },
+          {
+            "word": "garantizar",
+            "pos": "v.",
+            "zh": "保障、確保",
+            "example": "La ley garantiza el derecho a la educación gratuita.",
+            "example_zh": "法律保障免費受教育的權利。"
+          },
+          {
+            "word": "independientemente",
+            "pos": "adv.",
+            "zh": "不論、無論",
+            "example": "Todos merecen respeto, independientemente de su nacionalidad.",
+            "example_zh": "無論國籍為何，每個人都值得被尊重。"
+          },
+          {
+            "word": "igualitario",
+            "pos": "adj.",
+            "zh": "平等的",
+            "example": "Queremos construir una sociedad más igualitaria para todos.",
+            "example_zh": "我們希望為所有人建構一個更平等的社會。"
+          },
+          {
+            "word": "invertir",
+            "pos": "v.",
+            "zh": "投資、投入",
+            "example": "Es necesario invertir más recursos en la educación pública.",
+            "example_zh": "有必要在公共教育上投入更多資源。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué pensaba el autor sobre estudiar cuando era niño?",
+            "options": [
+              "Que era una actividad muy divertida y emocionante.",
+              "Que era una obligación aburrida que no le gustaba.",
+              "Que era la cosa más importante de su vida.",
+              "Que debía estudiar para ayudar a su familia."
+            ],
+            "answer": 1,
+            "explain": "文中提到「pensaba que estudiar era una obligación aburrida」，表示作者小時候認為讀書是一種無聊的義務。"
+          },
+          {
+            "q": "Según el texto, ¿qué le ayudaron a desarrollar las lecciones que recibió el autor?",
+            "options": [
+              "La habilidad para hablar varios idiomas.",
+              "El pensamiento crítico y la capacidad de resolver problemas.",
+              "Conocimientos sobre ciencias y matemáticas.",
+              "La capacidad de enseñar a otras personas."
+            ],
+            "answer": 1,
+            "explain": "文中寫道每堂課幫助作者「desarrollar el pensamiento crítico y la capacidad de resolver problemas」，即培養批判性思維和解決問題的能力。"
+          },
+          {
+            "q": "¿Qué estructura gramatical usa el autor para expresar una condición hipotética en el pasado?",
+            "options": [
+              "\"Cuando era niño, pensaba que...\"",
+              "\"Es importante que los gobiernos garanticen...\"",
+              "\"Si no hubiera ido a la escuela, no habría podido...\"",
+              "\"Los expertos aseguran que los países...\""
+            ],
+            "answer": 2,
+            "explain": "「Si no hubiera ido... no habría podido...」使用了過去假設條件句（condicional pasado + subjuntivo pluscuamperfecto），表達與過去事實相反的假設情境。"
+          },
+          {
+            "q": "Según los expertos mencionados en el texto, ¿qué característica tienen los países que más invierten en educación?",
+            "options": [
+              "Tienen economías más grandes e influyentes en el mundo.",
+              "Producen más científicos y artistas reconocidos.",
+              "Tienen mejores condiciones de vida para sus ciudadanos.",
+              "Sus ciudadanos hablan más idiomas extranjeros."
+            ],
+            "answer": 2,
+            "explain": "文中引述專家說法：「los países donde más se invierte en educación tienen mejores condiciones de vida para sus ciudadanos」，意指教育投入越多的國家，公民生活條件越好。"
+          },
+          {
+            "q": "¿Qué pide el autor que hagan los gobiernos?",
+            "options": [
+              "Que construyan más universidades en las ciudades principales.",
+              "Que garanticen el acceso a una educación de calidad para todos.",
+              "Que obliguen a los jóvenes a estudiar hasta los 18 años.",
+              "Que contraten a más profesores extranjeros en las escuelas."
+            ],
+            "answer": 1,
+            "explain": "文末明確提到「es importante que los gobiernos garanticen el acceso a una educación de calidad para todos」，呼籲政府保障所有人獲得優質教育的機會。"
+          }
+        ]
+      }
+    ]
+  }
+}

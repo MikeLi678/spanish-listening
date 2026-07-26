@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="西班牙語聽讀">
+  <rect width="64" height="64" rx="14" fill="#c0392b"/>
+  <rect x="10" y="46" width="44" height="5" rx="2.5" fill="#d99a1c"/>
+  <text x="32" y="30" font-family="Georgia, 'Times New Roman', serif" font-size="44"
+        font-weight="700" fill="#f7f3ee" text-anchor="middle" dominant-baseline="central">ñ</text>
+</svg>

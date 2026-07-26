@@ -110,6 +110,20 @@ header nav { white-space: nowrap; }
 .card-title { font-weight: 700; font-size: 1.06rem; margin-bottom: 6px; letter-spacing: .01em; }
 .card-meta { font-size: .8rem; color: var(--muted); letter-spacing: .02em; }
 .card.done { border-color: color-mix(in srgb, var(--ok) 45%, var(--border)); }
+
+/* DELE 官方模擬試題區 */
+.exams { margin: 0 0 22px; padding: 16px 18px; background: var(--surface);
+  border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow-sm); }
+.exams-h { font-size: 1rem; font-weight: 800; margin: 0 0 4px; }
+.exams-h::before { content: "📄"; margin-right: 6px; }
+.exams-sub { font-size: .8rem; color: var(--muted); line-height: 1.6; margin: 0 0 12px; }
+.exams-grid { display: flex; gap: 8px; flex-wrap: wrap; }
+.exam-link { display: inline-flex; align-items: center; padding: 7px 16px;
+  border: 1px solid var(--border); border-radius: 999px; background: var(--surface-2);
+  font-weight: 700; font-size: .9rem; color: var(--text);
+  box-shadow: var(--shadow-sm); transition: transform .12s, border-color .12s, color .12s; }
+.exam-link:hover { transform: translateY(-1px); border-color: var(--primary); color: var(--primary); }
+.exams-more { display: inline-block; margin-top: 12px; font-size: .82rem; color: var(--primary); font-weight: 600; }
 .badge-done {
   display: inline-block; margin-left: 8px; vertical-align: middle;
   font-size: .72rem; font-weight: 700; letter-spacing: .02em;

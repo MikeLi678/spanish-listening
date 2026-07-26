@@ -1,0 +1,425 @@
+{
+  "date": "2026-07-27",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-07-27-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Mi habitación",
+        "text": "Mi habitación es pequeña y bonita. Hay una cama, una mesa y una silla. En la mesa hay un libro y una lámpara. La ventana es grande. Tengo un armario marrón. Mi habitación tiene una puerta blanca. Me gusta mucho mi habitación. Es muy cómoda y tranquila.",
+        "translation": "我的房間又小又漂亮。裡面有一張床、一張桌子和一把椅子。桌子上有一本書和一盞燈。窗戶很大。我有一個棕色的衣櫃。我的房間有一扇白色的門。我非常喜歡我的房間。它非常舒適又安靜。",
+        "words": [
+          {
+            "word": "habitación",
+            "pos": "n.",
+            "zh": "房間",
+            "example": "Mi habitación es pequeña.",
+            "example_zh": "我的房間很小。"
+          },
+          {
+            "word": "pequeño/a",
+            "pos": "adj.",
+            "zh": "小的",
+            "example": "La mesa es pequeña.",
+            "example_zh": "桌子很小。"
+          },
+          {
+            "word": "cama",
+            "pos": "n.",
+            "zh": "床",
+            "example": "Hay una cama en mi habitación.",
+            "example_zh": "我的房間裡有一張床。"
+          },
+          {
+            "word": "lámpara",
+            "pos": "n.",
+            "zh": "燈；檯燈",
+            "example": "La lámpara está en la mesa.",
+            "example_zh": "檯燈在桌子上。"
+          },
+          {
+            "word": "ventana",
+            "pos": "n.",
+            "zh": "窗戶",
+            "example": "La ventana es muy grande.",
+            "example_zh": "窗戶非常大。"
+          },
+          {
+            "word": "armario",
+            "pos": "n.",
+            "zh": "衣櫃",
+            "example": "Tengo un armario en mi habitación.",
+            "example_zh": "我的房間裡有一個衣櫃。"
+          },
+          {
+            "word": "marrón",
+            "pos": "adj.",
+            "zh": "棕色的",
+            "example": "El armario es marrón.",
+            "example_zh": "衣櫃是棕色的。"
+          },
+          {
+            "word": "puerta",
+            "pos": "n.",
+            "zh": "門",
+            "example": "La puerta es blanca.",
+            "example_zh": "門是白色的。"
+          },
+          {
+            "word": "cómodo/a",
+            "pos": "adj.",
+            "zh": "舒適的",
+            "example": "Mi silla es muy cómoda.",
+            "example_zh": "我的椅子非常舒適。"
+          },
+          {
+            "word": "tranquilo/a",
+            "pos": "adj.",
+            "zh": "安靜的；平靜的",
+            "example": "Mi habitación es tranquila.",
+            "example_zh": "我的房間很安靜。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cómo es la habitación?",
+            "options": [
+              "Grande y fea",
+              "Pequeña y bonita",
+              "Grande y bonita",
+              "Pequeña y fea"
+            ],
+            "answer": 1,
+            "explain": "文章開頭說「Mi habitación es pequeña y bonita」，房間又小又漂亮，故選第二項。"
+          },
+          {
+            "q": "¿Qué hay en la mesa?",
+            "options": [
+              "Una lámpara y una silla",
+              "Un armario y una cama",
+              "Un libro y una lámpara",
+              "Una ventana y una puerta"
+            ],
+            "answer": 2,
+            "explain": "文章提到「En la mesa hay un libro y una lámpara」，桌子上有書和燈，故選第三項。"
+          },
+          {
+            "q": "¿De qué color es el armario?",
+            "options": [
+              "Blanco",
+              "Negro",
+              "Marrón",
+              "Verde"
+            ],
+            "answer": 2,
+            "explain": "文章說「Tengo un armario marrón」，衣櫃是棕色的，故選第三項。"
+          },
+          {
+            "q": "¿Cómo es la puerta?",
+            "options": [
+              "Marrón y pequeña",
+              "Blanca y grande",
+              "Blanca",
+              "Verde y bonita"
+            ],
+            "answer": 2,
+            "explain": "文章說「Mi habitación tiene una puerta blanca」，門是白色的，故選第三項。"
+          },
+          {
+            "q": "¿Le gusta su habitación?",
+            "options": [
+              "No, no le gusta.",
+              "Sí, le gusta un poco.",
+              "No, es fea.",
+              "Sí, le gusta mucho."
+            ],
+            "answer": 3,
+            "explain": "文章說「Me gusta mucho mi habitación」，非常喜歡自己的房間，故選第四項。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-07-27-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Una visita al médico",
+        "text": "Ayer me desperté con mucho dolor de cabeza y fiebre alta. También tuve tos y me sentí muy cansado. Por eso, llamé al médico por la mañana y pedí una cita. Fui a la clínica a las once y el médico me examinó con cuidado. Me preguntó sobre mis síntomas y me dijo que tenía una infección leve. Me recetó unos medicamentos y me recomendó descansar mucho. Esta tarde voy a ir a la farmacia para comprar las medicinas. También voy a beber mucha agua y voy a quedarme en casa unos días. Espero sentirme mejor pronto.",
+        "translation": "昨天我醒來時頭非常痛，而且發高燒。我也咳嗽，感覺非常疲倦。因此，我早上打電話給醫生並預約了看診時間。我十一點去了診所，醫生仔細地為我檢查。他問了我的症狀，告訴我我有輕微的感染。他開了一些藥給我，並建議我多休息。今天下午我要去藥局買藥。我也要喝很多水，並且要在家待幾天。希望我很快就能好起來。",
+        "words": [
+          {
+            "word": "dolor de cabeza",
+            "pos": "loc. nom.",
+            "zh": "頭痛",
+            "example": "Tengo un dolor de cabeza muy fuerte hoy.",
+            "example_zh": "我今天頭痛得很厲害。"
+          },
+          {
+            "word": "fiebre",
+            "pos": "f.",
+            "zh": "發燒；高燒",
+            "example": "El niño tiene fiebre y necesita descansar.",
+            "example_zh": "那個孩子在發燒，需要休息。"
+          },
+          {
+            "word": "cita",
+            "pos": "f.",
+            "zh": "預約；約診",
+            "example": "Pedí una cita con el dentista para el lunes.",
+            "example_zh": "我預約了週一去看牙醫。"
+          },
+          {
+            "word": "examinar",
+            "pos": "v.",
+            "zh": "檢查；診察",
+            "example": "El médico examinó al paciente con cuidado.",
+            "example_zh": "醫生仔細地為病人做了檢查。"
+          },
+          {
+            "word": "síntoma",
+            "pos": "m.",
+            "zh": "症狀",
+            "example": "¿Cuáles son tus síntomas principales?",
+            "example_zh": "你主要的症狀是什麼？"
+          },
+          {
+            "word": "infección",
+            "pos": "f.",
+            "zh": "感染；發炎",
+            "example": "Tengo una infección en la garganta.",
+            "example_zh": "我的喉嚨發炎了。"
+          },
+          {
+            "word": "recetar",
+            "pos": "v.",
+            "zh": "開藥；開處方",
+            "example": "El médico me recetó antibióticos.",
+            "example_zh": "醫生開了抗生素給我。"
+          },
+          {
+            "word": "medicamento",
+            "pos": "m.",
+            "zh": "藥物；藥品",
+            "example": "Debes tomar este medicamento tres veces al día.",
+            "example_zh": "你必須一天服用這個藥三次。"
+          },
+          {
+            "word": "farmacia",
+            "pos": "f.",
+            "zh": "藥局；藥房",
+            "example": "Voy a comprar las medicinas en la farmacia.",
+            "example_zh": "我要去藥局買藥。"
+          },
+          {
+            "word": "descansar",
+            "pos": "v.",
+            "zh": "休息",
+            "example": "El médico me recomendó descansar en casa.",
+            "example_zh": "醫生建議我在家休息。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Por qué fue el protagonista al médico?",
+            "options": [
+              "Porque tenía hambre y sed.",
+              "Porque tenía dolor de cabeza, fiebre y tos.",
+              "Porque se rompió el brazo.",
+              "Porque quería hacerse un chequeo general."
+            ],
+            "answer": 1,
+            "explain": "文中明確說明主角因頭痛（dolor de cabeza）、高燒（fiebre alta）和咳嗽（tos）而去看醫生。"
+          },
+          {
+            "q": "¿A qué hora fue el protagonista a la clínica?",
+            "options": [
+              "A las nueve de la mañana.",
+              "A las diez y media.",
+              "A las once.",
+              "A las doce del mediodía."
+            ],
+            "answer": 2,
+            "explain": "文中寫道「Fui a la clínica a las once」，即十一點去了診所。"
+          },
+          {
+            "q": "¿Qué diagnóstico le dio el médico al protagonista?",
+            "options": [
+              "Que tenía una alergia grave.",
+              "Que tenía una infección leve.",
+              "Que tenía gripe muy seria.",
+              "Que estaba perfectamente bien."
+            ],
+            "answer": 1,
+            "explain": "醫生告訴主角他有輕微感染（una infección leve），並非嚴重疾病。"
+          },
+          {
+            "q": "¿Qué va a hacer el protagonista esta tarde?",
+            "options": [
+              "Va a ir al hospital de nuevo.",
+              "Va a visitar a un amigo.",
+              "Va a ir a la farmacia.",
+              "Va a trabajar en la oficina."
+            ],
+            "answer": 2,
+            "explain": "文中使用 Futuro próximo：「esta tarde voy a ir a la farmacia」，說明今天下午要去藥局。"
+          },
+          {
+            "q": "¿Qué le recomendó el médico al protagonista además de tomar medicamentos?",
+            "options": [
+              "Hacer ejercicio todos los días.",
+              "Comer mucha fruta en el hospital.",
+              "Descansar mucho.",
+              "Ir al trabajo normalmente."
+            ],
+            "answer": 2,
+            "explain": "醫生除了開藥（recetó medicamentos）之外，還建議主角多休息（descansar mucho）。"
+          }
+        ]
+      }
+    ],
+    "B1": [],
+    "B2": [],
+    "C1": [
+      {
+        "id": "2026-07-27-C1-fallback",
+        "source": "ai",
+        "level_label": "約 C1（AI 生成）",
+        "title": "Las redes sociales: ventajas y desventajas",
+        "text": "Hoy en día, las redes sociales forman parte de la vida cotidiana de millones de personas. Aunque muchos creen que estas plataformas son completamente negativas, la realidad es más compleja.\n\nPor un lado, las redes sociales nos permiten conectar con amigos y familiares que viven lejos. Cuando era pequeño, era difícil mantener el contacto con personas de otros países, pero ahora podemos comunicarnos en segundos. Además, sirven como herramientas educativas: muchos profesores las usan para compartir contenido con sus estudiantes.\n\nPor otro lado, el uso excesivo podría causar problemas serios. Varios estudios han demostrado que pasar demasiado tiempo frente a la pantalla afecta la salud mental, especialmente en los jóvenes. También es cierto que si las personas no verificaran la información antes de compartirla, la desinformación se extendería rápidamente.\n\nEn mi opinión, sería mejor establecer límites claros en el uso diario. Si aprendiéramos a usarlas de manera responsable, podríamos aprovechar sus beneficios sin sufrir sus consecuencias negativas. Las redes sociales son una herramienta poderosa, y como toda herramienta, depende de nosotros usarla bien.",
+        "translation": "如今，社群媒體已成為數百萬人日常生活的一部分。雖然許多人認為這些平台完全是負面的，但現實情況更為複雜。\n\n一方面，社群媒體讓我們能夠與住在遠方的朋友和家人保持聯繫。小時候，要與其他國家的人維持聯絡是很困難的，但現在我們可以在幾秒鐘內互相溝通。此外，它們也作為教育工具發揮作用：許多老師利用社群媒體與學生分享學習內容。\n\n另一方面，過度使用可能會造成嚴重問題。多項研究已經證明，花太多時間盯著螢幕會影響心理健康，尤其是對年輕人而言。同樣地，如果人們在分享資訊之前不加以核實，錯誤資訊就會迅速散播開來。\n\n依我之見，最好為每天的使用時間設定明確的限制。如果我們學會負責任地使用社群媒體，就能享受其好處而不遭受負面後果。社群媒體是一種強大的工具，就像所有工具一樣，如何善用它取決於我們自己。",
+        "words": [
+          {
+            "word": "cotidiano/a",
+            "pos": "adj.",
+            "zh": "日常的、每天的",
+            "example": "El uso del teléfono móvil es parte de la vida cotidiana.",
+            "example_zh": "使用手機是日常生活的一部分。"
+          },
+          {
+            "word": "plataforma",
+            "pos": "n. f.",
+            "zh": "平台",
+            "example": "Esta plataforma permite subir videos y fotos fácilmente.",
+            "example_zh": "這個平台可以輕鬆上傳影片和照片。"
+          },
+          {
+            "word": "mantener",
+            "pos": "v.",
+            "zh": "維持、保持",
+            "example": "Es importante mantener el contacto con los amigos.",
+            "example_zh": "與朋友保持聯繫很重要。"
+          },
+          {
+            "word": "herramienta",
+            "pos": "n. f.",
+            "zh": "工具",
+            "example": "El diccionario es una herramienta útil para aprender idiomas.",
+            "example_zh": "字典是學習語言的有用工具。"
+          },
+          {
+            "word": "excesivo/a",
+            "pos": "adj.",
+            "zh": "過度的、過量的",
+            "example": "El consumo excesivo de azúcar es malo para la salud.",
+            "example_zh": "過量攝取糖分對健康有害。"
+          },
+          {
+            "word": "demostrar",
+            "pos": "v.",
+            "zh": "證明、展示",
+            "example": "Los científicos han demostrado que el ejercicio mejora el estado de ánimo.",
+            "example_zh": "科學家已經證明運動能改善情緒。"
+          },
+          {
+            "word": "desinformación",
+            "pos": "n. f.",
+            "zh": "錯誤資訊、假訊息",
+            "example": "La desinformación en internet puede ser muy peligrosa.",
+            "example_zh": "網路上的假訊息可能非常危險。"
+          },
+          {
+            "word": "verificar",
+            "pos": "v.",
+            "zh": "核實、確認",
+            "example": "Debes verificar la fuente antes de compartir una noticia.",
+            "example_zh": "分享新聞前你應該先核實來源。"
+          },
+          {
+            "word": "establecer",
+            "pos": "v.",
+            "zh": "建立、設定",
+            "example": "El gobierno quiere establecer nuevas normas de seguridad.",
+            "example_zh": "政府想要建立新的安全規範。"
+          },
+          {
+            "word": "aprovechar",
+            "pos": "v.",
+            "zh": "善用、充分利用",
+            "example": "Debemos aprovechar las oportunidades que se nos presentan.",
+            "example_zh": "我們應該善用呈現在我們面前的機會。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Según el texto, ¿qué era difícil antes de que existieran las redes sociales?",
+            "options": [
+              "Usar herramientas educativas en clase.",
+              "Mantener el contacto con personas de otros países.",
+              "Compartir noticias falsas rápidamente.",
+              "Establecer límites en el uso del internet."
+            ],
+            "answer": 1,
+            "explain": "文中提到「小時候，要與其他國家的人維持聯絡是很困難的（era difícil mantener el contacto con personas de otros países）」，故正解為選項1。"
+          },
+          {
+            "q": "¿Qué han demostrado varios estudios según el texto?",
+            "options": [
+              "Que las redes sociales solo tienen ventajas.",
+              "Que los profesores no deben usar redes sociales.",
+              "Que pasar mucho tiempo frente a la pantalla afecta la salud mental.",
+              "Que la desinformación no es un problema grave."
+            ],
+            "answer": 2,
+            "explain": "文中明確指出多項研究已證明，花太多時間盯著螢幕會影響心理健康（afecta la salud mental），故正解為選項2。"
+          },
+          {
+            "q": "¿Qué pasaría si las personas no verificaran la información antes de compartirla?",
+            "options": [
+              "Las redes sociales desaparecerían.",
+              "La desinformación se extendería rápidamente.",
+              "Los jóvenes usarían menos el teléfono.",
+              "Los profesores enseñarían mejor."
+            ],
+            "answer": 1,
+            "explain": "文中使用條件句說明「如果人們在分享前不核實資訊，假訊息就會迅速散播（la desinformación se extendería rápidamente）」，故正解為選項1。"
+          },
+          {
+            "q": "¿Cuál es la opinión del autor sobre cómo usar las redes sociales?",
+            "options": [
+              "Cree que deberíamos eliminarlas completamente.",
+              "Piensa que solo los jóvenes deben usarlas.",
+              "Sugiere usarlas de manera responsable y con límites.",
+              "Opina que son más negativas que positivas."
+            ],
+            "answer": 2,
+            "explain": "作者表達的立場是應該設定明確使用限制，並負責任地使用社群媒體（usarlas de manera responsable），故正解為選項2。"
+          },
+          {
+            "q": "¿Para qué usan las redes sociales muchos profesores, según el texto?",
+            "options": [
+              "Para jugar videojuegos con sus estudiantes.",
+              "Para compartir contenido educativo con sus estudiantes.",
+              "Para verificar la información de los estudiantes.",
+              "Para establecer límites en el uso de internet."
+            ],
+            "answer": 1,
+            "explain": "文中提到許多老師利用社群媒體與學生分享學習內容（compartir contenido con sus estudiantes），故正解為選項1。"
+          }
+        ]
+      }
+    ],
+    "C2": []
+  }
+}

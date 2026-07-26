@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-27",
     "2026-07-26",
     "2026-07-25",
     "2026-07-24",
@@ -10,6 +11,35 @@
     "2026-07-18"
   ],
   "days": [
+    {
+      "date": "2026-07-27",
+      "articles": [
+        {
+          "id": "2026-07-27-A1-1",
+          "level": "A1",
+          "title": "Mi habitación",
+          "source": "ai",
+          "level_label": "A1",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-27-A2-1",
+          "level": "A2",
+          "title": "Una visita al médico",
+          "source": "ai",
+          "level_label": "A2",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-27-C1-fallback",
+          "level": "C1",
+          "title": "Las redes sociales: ventajas y desventajas",
+          "source": "ai",
+          "level_label": "約 C1（AI 生成）",
+          "origin_name": ""
+        }
+      ]
+    },
     {
       "date": "2026-07-26",
       "articles": [

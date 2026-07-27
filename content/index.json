@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-28",
     "2026-07-27",
     "2026-07-26",
     "2026-07-25",
@@ -11,6 +12,59 @@
     "2026-07-18"
   ],
   "days": [
+    {
+      "date": "2026-07-28",
+      "articles": [
+        {
+          "id": "2026-07-28-A1-1",
+          "level": "A1",
+          "title": "Mi mascota",
+          "source": "ai",
+          "level_label": "A1",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-28-A2-1",
+          "level": "A2",
+          "title": "¿Cómo llego al museo?",
+          "source": "ai",
+          "level_label": "A2",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-28-B1-1",
+          "level": "B1",
+          "title": "Un estilo de vida saludable",
+          "source": "ai",
+          "level_label": "B1",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-28-B2-fallback",
+          "level": "B2",
+          "title": "Una vida sana: pequeños cambios, grandes resultados",
+          "source": "ai",
+          "level_label": "約 B2（AI 生成）",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-28-C1-fallback",
+          "level": "C1",
+          "title": "Un estilo de vida saludable",
+          "source": "ai",
+          "level_label": "約 C1（AI 生成）",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-07-28-C2-fallback",
+          "level": "C2",
+          "title": "Una vida más saludable",
+          "source": "ai",
+          "level_label": "約 C2（AI 生成）",
+          "origin_name": ""
+        }
+      ]
+    },
     {
       "date": "2026-07-27",
       "articles": [

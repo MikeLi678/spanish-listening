@@ -1,0 +1,839 @@
+{
+  "date": "2026-07-29",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-07-29-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Los números y el tiempo",
+        "text": "Hoy es lunes. Son las ocho de la mañana. Tengo clase a las nueve. La clase termina a las doce. Como a la una. Por la tarde, estudio de tres a cinco. Son cinco horas de trabajo. Hay siete días en una semana. El fin de semana descanso. Me gusta el domingo. Es mi día favorito.",
+        "translation": "今天是星期一。現在是早上八點。我九點有課。課在十二點結束。我一點吃飯。下午，我從三點讀書讀到五點。那是五個小時的功課。一個星期有七天。週末我休息。我喜歡星期天。那是我最喜歡的一天。",
+        "words": [
+          {
+            "word": "hoy",
+            "pos": "adv.",
+            "zh": "今天",
+            "example": "Hoy es martes.",
+            "example_zh": "今天是星期二。"
+          },
+          {
+            "word": "mañana",
+            "pos": "n.f.",
+            "zh": "早上；明天",
+            "example": "Estudio por la mañana.",
+            "example_zh": "我早上讀書。"
+          },
+          {
+            "word": "clase",
+            "pos": "n.f.",
+            "zh": "課；課堂",
+            "example": "La clase empieza a las ocho.",
+            "example_zh": "課在八點開始。"
+          },
+          {
+            "word": "terminar",
+            "pos": "v.",
+            "zh": "結束",
+            "example": "El trabajo termina a las seis.",
+            "example_zh": "工作在六點結束。"
+          },
+          {
+            "word": "comer",
+            "pos": "v.",
+            "zh": "吃飯；用餐",
+            "example": "Como a las dos.",
+            "example_zh": "我兩點吃飯。"
+          },
+          {
+            "word": "tarde",
+            "pos": "n.f.",
+            "zh": "下午",
+            "example": "Por la tarde veo televisión.",
+            "example_zh": "我下午看電視。"
+          },
+          {
+            "word": "semana",
+            "pos": "n.f.",
+            "zh": "星期；一週",
+            "example": "Hay siete días en una semana.",
+            "example_zh": "一個星期有七天。"
+          },
+          {
+            "word": "descansar",
+            "pos": "v.",
+            "zh": "休息",
+            "example": "Descanso el domingo.",
+            "example_zh": "我星期天休息。"
+          },
+          {
+            "word": "favorito",
+            "pos": "adj.",
+            "zh": "最喜歡的",
+            "example": "El sábado es mi día favorito.",
+            "example_zh": "星期六是我最喜歡的一天。"
+          },
+          {
+            "word": "fin de semana",
+            "pos": "n.m.",
+            "zh": "週末",
+            "example": "El fin de semana no trabajo.",
+            "example_zh": "週末我不工作。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué día es hoy según el texto?",
+            "options": [
+              "Martes",
+              "Lunes",
+              "Viernes",
+              "Domingo"
+            ],
+            "answer": 1,
+            "explain": "文章第一句「Hoy es lunes.」直接說明今天是星期一（lunes）。"
+          },
+          {
+            "q": "¿A qué hora tiene clase?",
+            "options": [
+              "A las ocho",
+              "A las doce",
+              "A las nueve",
+              "A las tres"
+            ],
+            "answer": 2,
+            "explain": "文中「Tengo clase a las nueve.」表示課在九點開始。"
+          },
+          {
+            "q": "¿Cuántas horas estudia por la tarde?",
+            "options": [
+              "Tres horas",
+              "Cuatro horas",
+              "Seis horas",
+              "Cinco horas"
+            ],
+            "answer": 3,
+            "explain": "文中說「Son cinco horas de trabajo」，所以下午讀書五個小時。"
+          },
+          {
+            "q": "¿Cuántos días hay en una semana?",
+            "options": [
+              "Cinco",
+              "Seis",
+              "Siete",
+              "Ocho"
+            ],
+            "answer": 2,
+            "explain": "文中「Hay siete días en una semana.」明確說明一週有七（siete）天。"
+          },
+          {
+            "q": "¿Cuál es el día favorito de la persona?",
+            "options": [
+              "El lunes",
+              "El sábado",
+              "El viernes",
+              "El domingo"
+            ],
+            "answer": 3,
+            "explain": "文末「Me gusta el domingo. Es mi día favorito.」說明最喜歡的是星期天（domingo）。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-07-29-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Mi película favorita",
+        "text": "Me llamo Sofía y me encantan las películas. El año pasado vi una película española muy bonita que se llama 'El laberinto del fauno'. La historia es interesante y un poco triste, pero también es muy mágica. Los actores son excelentes y la música es preciosa. Vi la película con mi hermana y los dos lloramos al final. Después hablamos mucho sobre la historia y los personajes. Este fin de semana voy a ver la película otra vez porque quiero recordar todos los detalles. También voy a buscar más películas del mismo director. ¿Ya viste esta película? Te la recomiendo mucho.",
+        "translation": "我叫蘇菲亞，我非常喜歡電影。去年我看了一部非常美麗的西班牙電影，叫做《羊男的迷宮》。這個故事很有趣，有點悲傷，但也非常神奇。演員們表現出色，音樂也很動聽。我和我姐姐一起看了這部電影，我們兩個在結尾時都哭了。之後我們聊了很多關於故事和人物的話題。這個週末我打算再看一次這部電影，因為我想回想所有的細節。我也打算去尋找同一位導演的更多電影。你看過這部電影嗎？我非常推薦給你。",
+        "words": [
+          {
+            "word": "encantar",
+            "pos": "v.",
+            "zh": "非常喜歡、著迷",
+            "example": "Me encantan las películas de acción.",
+            "example_zh": "我非常喜歡動作電影。"
+          },
+          {
+            "word": "interesante",
+            "pos": "adj.",
+            "zh": "有趣的、吸引人的",
+            "example": "Este libro es muy interesante.",
+            "example_zh": "這本書非常有趣。"
+          },
+          {
+            "word": "mágico/a",
+            "pos": "adj.",
+            "zh": "神奇的、魔幻的",
+            "example": "El final de la historia es muy mágico.",
+            "example_zh": "故事的結尾非常神奇。"
+          },
+          {
+            "word": "llorar",
+            "pos": "v.",
+            "zh": "哭泣",
+            "example": "Ella lloró mucho cuando vio esa película.",
+            "example_zh": "她看那部電影時哭了很多。"
+          },
+          {
+            "word": "personaje",
+            "pos": "n. m.",
+            "zh": "人物、角色",
+            "example": "Mi personaje favorito es el protagonista.",
+            "example_zh": "我最喜歡的角色是主角。"
+          },
+          {
+            "word": "recordar",
+            "pos": "v.",
+            "zh": "記得、回想",
+            "example": "Quiero recordar el nombre de esa canción.",
+            "example_zh": "我想記住那首歌的名稱。"
+          },
+          {
+            "word": "detalle",
+            "pos": "n. m.",
+            "zh": "細節、詳情",
+            "example": "Ella recuerda todos los detalles del viaje.",
+            "example_zh": "她記得旅行的所有細節。"
+          },
+          {
+            "word": "director",
+            "pos": "n. m.",
+            "zh": "導演",
+            "example": "El director de esta película es muy famoso.",
+            "example_zh": "這部電影的導演非常有名。"
+          },
+          {
+            "word": "recomendar",
+            "pos": "v.",
+            "zh": "推薦",
+            "example": "Te recomiendo este restaurante italiano.",
+            "example_zh": "我推薦你去這家義大利餐廳。"
+          },
+          {
+            "word": "precioso/a",
+            "pos": "adj.",
+            "zh": "美麗的、動聽的、珍貴的",
+            "example": "La música de esa película es preciosa.",
+            "example_zh": "那部電影的音樂非常動聽。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cómo se llama la película favorita de Sofía?",
+            "options": [
+              "El laberinto del fauno",
+              "La historia interminable",
+              "El señor de los anillos",
+              "La vida es bella"
+            ],
+            "answer": 0,
+            "explain": "文章中明確提到她最喜歡的電影叫做《El laberinto del fauno》（羊男的迷宮）。"
+          },
+          {
+            "q": "¿Cuándo vio Sofía la película por primera vez?",
+            "options": [
+              "Este fin de semana",
+              "El año pasado",
+              "La semana pasada",
+              "Ayer por la noche"
+            ],
+            "answer": 1,
+            "explain": "文章使用了過去式「El año pasado vi…」，表示她是去年看的電影。"
+          },
+          {
+            "q": "¿Con quién vio Sofía la película?",
+            "options": [
+              "Con su madre",
+              "Con sus amigos",
+              "Con su hermana",
+              "Con su novio"
+            ],
+            "answer": 2,
+            "explain": "文章中說「Vi la película con mi hermana」，即她和她的姐姐一起看的。"
+          },
+          {
+            "q": "¿Qué va a hacer Sofía este fin de semana?",
+            "options": [
+              "Va a ver una película nueva",
+              "Va a hablar con el director",
+              "Va a ver la misma película otra vez",
+              "Va a ir al cine con su hermana"
+            ],
+            "answer": 2,
+            "explain": "文章使用近未來時態「voy a ver la película otra vez」，表示她週末打算再看一次同一部電影。"
+          },
+          {
+            "q": "¿Por qué Sofía quiere ver la película otra vez?",
+            "options": [
+              "Porque no recuerda el final",
+              "Porque quiere recordar todos los detalles",
+              "Porque su hermana no la vio",
+              "Porque la música es nueva"
+            ],
+            "answer": 1,
+            "explain": "文章中說「porque quiero recordar todos los detalles」，她想再看一次是因為想回想所有的細節。"
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "2026-07-29-B1-1",
+        "source": "ai",
+        "level_label": "B1",
+        "title": "¿Ciudad o campo? Una difícil decisión",
+        "text": "Cuando era pequeña, vivía en un pueblo tranquilo rodeado de montañas. Me encantaba el silencio, el aire fresco y la naturaleza que nos rodeaba. Sin embargo, cuando terminé el bachillerato, decidí mudarme a la ciudad para estudiar en la universidad.\n\nAl principio, me costó adaptarme porque el ritmo de vida era completamente diferente. La ciudad ofrecía muchas oportunidades que el campo no tenía: mejores empleos, transporte público, museos y una vida cultural muy activa. Aunque echaba de menos mi pueblo, reconocía que vivir en la ciudad me había dado muchas ventajas.\n\nSi pudiera elegir libremente, creo que viviría en las afueras de una ciudad mediana. Así podría disfrutar de la tranquilidad del campo sin renunciar a los servicios urbanos. Lo que más valoro es tener espacios verdes cerca de casa, pero también necesito buenas conexiones de transporte.\n\nEn mi opinión, no existe una respuesta perfecta para todos. Cada persona debería considerar qué es lo más importante en su vida antes de tomar esa decisión. Lo esencial es sentirse cómodo en el lugar donde uno vive.",
+        "translation": "小時候，我住在一個被山脈環繞的寧靜小村莊。我非常喜愛那裡的寂靜、新鮮空氣以及圍繞著我們的大自然。然而，當我完成高中學業後，決定搬到城市去大學就讀。\n\n起初，我很難適應，因為生活節奏完全不同。城市提供了許多鄉村所沒有的機會：更好的工作、公共交通、博物館以及非常活躍的文化生活。儘管我很思念自己的村莊，但我也承認，住在城市給了我許多優勢。\n\n如果可以自由選擇，我想我會住在一座中等城市的郊區。這樣一來，我既能享受鄉村的寧靜，又不必放棄城市的各項服務。我最重視的是家附近有綠地，但我同時也需要良好的交通連結。\n\n依我看來，對所有人來說並不存在一個完美的答案。每個人在做出那個決定之前，都應該思考清楚自己人生中最重要的事情是什麼。最關鍵的是，在自己所居住的地方感到自在。",
+        "words": [
+          {
+            "word": "rodeado/a",
+            "pos": "adj.",
+            "zh": "被…環繞的",
+            "example": "El lago estaba rodeado de árboles enormes.",
+            "example_zh": "那座湖被巨大的樹木環繞著。"
+          },
+          {
+            "word": "adaptarse",
+            "pos": "v. pron.",
+            "zh": "適應",
+            "example": "Tardó varios meses en adaptarse al nuevo trabajo.",
+            "example_zh": "他花了好幾個月才適應新工作。"
+          },
+          {
+            "word": "el ritmo de vida",
+            "pos": "n. m.",
+            "zh": "生活節奏",
+            "example": "El ritmo de vida en Tokio es muy acelerado.",
+            "example_zh": "東京的生活節奏非常快。"
+          },
+          {
+            "word": "echar de menos",
+            "pos": "loc. v.",
+            "zh": "思念；想念",
+            "example": "Echo de menos a mis amigos cuando viajo.",
+            "example_zh": "旅行時我會想念我的朋友們。"
+          },
+          {
+            "word": "la ventaja",
+            "pos": "n. f.",
+            "zh": "優勢；好處",
+            "example": "Una ventaja de vivir en el campo es el aire puro.",
+            "example_zh": "住在鄉村的一個優點是空氣清新。"
+          },
+          {
+            "word": "las afueras",
+            "pos": "n. f. pl.",
+            "zh": "郊區；市郊",
+            "example": "Compraron una casa en las afueras de Barcelona.",
+            "example_zh": "他們在巴塞隆納郊區買了一棟房子。"
+          },
+          {
+            "word": "renunciar a",
+            "pos": "v.",
+            "zh": "放棄；辭去",
+            "example": "No quiero renunciar a mis sueños por el dinero.",
+            "example_zh": "我不想為了錢而放棄我的夢想。"
+          },
+          {
+            "word": "valorar",
+            "pos": "v.",
+            "zh": "重視；評價",
+            "example": "Es importante valorar la salud por encima de todo.",
+            "example_zh": "重要的是把健康看得比什麼都重要。"
+          },
+          {
+            "word": "esencial",
+            "pos": "adj.",
+            "zh": "最重要的；不可或缺的",
+            "example": "Es esencial beber agua todos los días.",
+            "example_zh": "每天喝水是不可或缺的。"
+          },
+          {
+            "word": "mediano/a",
+            "pos": "adj.",
+            "zh": "中等的；中型的",
+            "example": "Prefiero vivir en una ciudad mediana, no demasiado grande.",
+            "example_zh": "我比較喜歡住在中等城市，不要太大。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Dónde vivía la autora cuando era pequeña?",
+            "options": [
+              "En una ciudad grande con mucho tráfico",
+              "En un pueblo tranquilo rodeado de montañas",
+              "En las afueras de una ciudad mediana",
+              "En un apartamento cerca de la universidad"
+            ],
+            "answer": 1,
+            "explain": "文章第一段明確提到，作者小時候住在一個被山脈環繞的寧靜小村莊（un pueblo tranquilo rodeado de montañas）。"
+          },
+          {
+            "q": "¿Por qué decidió la autora mudarse a la ciudad?",
+            "options": [
+              "Porque no le gustaba el aire del campo",
+              "Porque quería trabajar en un museo",
+              "Porque quería estudiar en la universidad",
+              "Porque su familia ya vivía allí"
+            ],
+            "answer": 2,
+            "explain": "文章提到她在完成高中學業（bachillerato）後，決定搬到城市去大學就讀（estudiar en la universidad）。"
+          },
+          {
+            "q": "¿Qué solución ideal menciona la autora si pudiera elegir libremente?",
+            "options": [
+              "Vivir en el centro de una gran ciudad",
+              "Regresar al pueblo donde nació",
+              "Vivir en el extranjero",
+              "Vivir en las afueras de una ciudad mediana"
+            ],
+            "answer": 3,
+            "explain": "文章使用條件式表達假設情況：「Si pudiera elegir libremente, creo que viviría en las afueras de una ciudad mediana.」，即住在中等城市的郊區。"
+          },
+          {
+            "q": "Según la autora, ¿qué es lo que más valora en un lugar para vivir?",
+            "options": [
+              "Tener muchos centros comerciales cerca",
+              "Vivir lejos de otras personas",
+              "Tener espacios verdes cerca de casa",
+              "Estar cerca de la playa"
+            ],
+            "answer": 2,
+            "explain": "文章中明確說明「Lo que más valoro es tener espacios verdes cerca de casa」，即最重視家附近有綠地。"
+          },
+          {
+            "q": "¿Cuál es la conclusión principal de la autora sobre esta decisión?",
+            "options": [
+              "Vivir en la ciudad es siempre mejor que vivir en el campo",
+              "No existe una respuesta perfecta para todos",
+              "El campo es más recomendable para las familias jóvenes",
+              "La ciudad ofrece demasiados problemas para vivir bien"
+            ],
+            "answer": 1,
+            "explain": "文章最後一段的結論是「no existe una respuesta perfecta para todos」（對所有人來說並不存在一個完美的答案），強調因人而異。"
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "2026-07-29-B2-fallback",
+        "source": "ai",
+        "level_label": "約 B2（AI 生成）",
+        "title": "¿Ciudad o campo? Una difícil decisión",
+        "text": "Mucha gente se pregunta si es mejor vivir en la ciudad o en el campo. Yo crecí en un pequeño pueblo y, cuando tenía dieciocho años, me mudé a Madrid porque quería estudiar en la universidad. Al principio, me costó adaptarme al ritmo acelerado de la capital. Echaba de menos el silencio, los árboles y la tranquilidad que había conocido de niño.\n\nSin embargo, con el tiempo aprendí a valorar las ventajas urbanas: el transporte público, la oferta cultural y las oportunidades de trabajo. Si pudiera elegir libremente, creo que viviría en las afueras de una ciudad, donde pudiera disfrutar de la naturaleza sin renunciar a los servicios modernos.\n\nMi amiga Laura, que nació en Barcelona, me dijo que nunca podría vivir lejos del bullicio urbano. Para ella, el campo era aburrido porque no había suficientes actividades. En cambio, mi vecino Roberto, que se jubiló el año pasado, se mudó a un pueblo de Andalucía y asegura que fue la mejor decisión de su vida.\n\nCreo que la elección depende de la personalidad de cada uno y del momento vital en que se encuentre.",
+        "translation": "很多人都想知道住在城市還是鄉村比較好。我在一個小村莊長大，十八歲時，因為想去大學念書而搬到了馬德里。起初，我很難適應首都快節奏的生活。我非常想念從小就熟悉的那種寧靜、樹木和安詳。\n\n然而，隨著時間推移，我學會了欣賞城市生活的優點：大眾運輸、豐富的文化活動以及工作機會。如果可以自由選擇，我想我會住在城市郊區，在那裡既能享受自然，又不必放棄現代化的服務。\n\n我的朋友蘿拉在巴塞隆納出生，她告訴我，她永遠無法住在遠離城市喧囂的地方。對她來說，鄉村很無聊，因為沒有足夠的活動。相反地，我的鄰居羅貝托去年退休後，搬到了安達盧西亞的一個小鎮，他說那是他這輩子做過最好的決定。\n\n我認為這個選擇取決於每個人的個性，以及他們所處的人生階段。",
+        "words": [
+          {
+            "word": "mudarse",
+            "pos": "v. prnl.",
+            "zh": "搬家、遷居",
+            "example": "Me mudé a una ciudad más grande para buscar trabajo.",
+            "example_zh": "我搬到了一個更大的城市去找工作。"
+          },
+          {
+            "word": "adaptarse",
+            "pos": "v. prnl.",
+            "zh": "適應",
+            "example": "Le costó mucho adaptarse al clima frío del norte.",
+            "example_zh": "他花了很長時間才適應北方寒冷的氣候。"
+          },
+          {
+            "word": "acelerado/a",
+            "pos": "adj.",
+            "zh": "快節奏的、加速的",
+            "example": "El ritmo de vida acelerado de la ciudad me estresa.",
+            "example_zh": "城市快節奏的生活讓我感到壓力很大。"
+          },
+          {
+            "word": "echar de menos",
+            "pos": "loc. v.",
+            "zh": "想念、思念",
+            "example": "Cuando estoy de viaje, echo de menos a mi familia.",
+            "example_zh": "旅行時，我會想念我的家人。"
+          },
+          {
+            "word": "tranquilidad",
+            "pos": "s. f.",
+            "zh": "寧靜、平靜",
+            "example": "Buscamos la tranquilidad del campo para descansar.",
+            "example_zh": "我們尋求鄉村的寧靜來休息。"
+          },
+          {
+            "word": "valorar",
+            "pos": "v. tr.",
+            "zh": "重視、珍視、評價",
+            "example": "Con los años aprendemos a valorar las cosas pequeñas.",
+            "example_zh": "隨著歲月流逝，我們學會珍視細小的事物。"
+          },
+          {
+            "word": "oferta cultural",
+            "pos": "s. f.",
+            "zh": "文化活動供給、文化資源",
+            "example": "Madrid tiene una oferta cultural muy variada.",
+            "example_zh": "馬德里有非常多樣化的文化活動資源。"
+          },
+          {
+            "word": "bullicio",
+            "pos": "s. m.",
+            "zh": "喧囂、喧鬧",
+            "example": "El bullicio de la ciudad no me deja dormir.",
+            "example_zh": "城市的喧囂讓我無法入睡。"
+          },
+          {
+            "word": "jubilarse",
+            "pos": "v. prnl.",
+            "zh": "退休",
+            "example": "Mi padre se jubiló después de trabajar cuarenta años.",
+            "example_zh": "我父親工作了四十年後退休了。"
+          },
+          {
+            "word": "momento vital",
+            "pos": "s. m.",
+            "zh": "人生階段、生命時刻",
+            "example": "Cada momento vital requiere decisiones diferentes.",
+            "example_zh": "每個人生階段都需要做出不同的決定。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Por qué el narrador se mudó a Madrid?",
+            "options": [
+              "Porque quería escapar del bullicio del pueblo.",
+              "Porque quería estudiar en la universidad.",
+              "Porque encontró un trabajo muy bien pagado.",
+              "Porque su familia vivía allí."
+            ],
+            "answer": 1,
+            "explain": "文中提到「me mudé a Madrid porque quería estudiar en la universidad」，敘述者搬到馬德里是因為想去大學念書。"
+          },
+          {
+            "q": "¿Qué echaba de menos el narrador cuando llegó a Madrid?",
+            "options": [
+              "El transporte público y las oportunidades de trabajo.",
+              "A sus amigos Laura y Roberto.",
+              "El silencio, los árboles y la tranquilidad.",
+              "La oferta cultural de su pueblo."
+            ],
+            "answer": 2,
+            "explain": "文中明確寫道「Echaba de menos el silencio, los árboles y la tranquilidad」，他想念的是寧靜、樹木與安詳。"
+          },
+          {
+            "q": "Si el narrador pudiera elegir libremente, ¿dónde viviría?",
+            "options": [
+              "En el centro de una gran ciudad como Madrid.",
+              "En un pueblo pequeño sin servicios modernos.",
+              "En las afueras de una ciudad.",
+              "En un pueblo de Andalucía como Roberto."
+            ],
+            "answer": 2,
+            "explain": "文中使用條件式「viviría en las afueras de una ciudad」，表示他若能自由選擇，會住在城市郊區。"
+          },
+          {
+            "q": "¿Cuál es la opinión de Laura sobre vivir en el campo?",
+            "options": [
+              "Le parece una experiencia enriquecedora.",
+              "Cree que el campo es aburrido porque no hay suficientes actividades.",
+              "Prefiere el campo porque hay más tranquilidad.",
+              "Le gustaría mudarse al campo cuando se jubile."
+            ],
+            "answer": 1,
+            "explain": "文中寫道蘿拉認為「el campo era aburrido porque no había suficientes actividades」，鄉村對她來說太無聊。"
+          },
+          {
+            "q": "¿Qué hizo Roberto el año pasado?",
+            "options": [
+              "Se mudó a Barcelona para trabajar.",
+              "Empezó a estudiar en la universidad.",
+              "Se jubiló y se mudó a un pueblo de Andalucía.",
+              "Decidió vivir en las afueras de Madrid."
+            ],
+            "answer": 2,
+            "explain": "文中說「mi vecino Roberto, que se jubiló el año pasado, se mudó a un pueblo de Andalucía」，羅貝托去年退休並搬到了安達盧西亞的一個小鎮。"
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-07-29-C1-fallback",
+        "source": "ai",
+        "level_label": "約 C1（AI 生成）",
+        "title": "¿Ciudad o campo? Una difícil decisión",
+        "text": "Mucha gente se pregunta si es mejor vivir en la ciudad o en el campo. Yo crecí en un pequeño pueblo donde todos se conocían y el aire era limpio. Sin embargo, cuando terminé mis estudios, decidí mudarme a Madrid porque quería encontrar mejores oportunidades de trabajo.\n\nAl principio, la ciudad me pareció fascinante. Había museos, restaurantes y transporte público a todas horas. Pero después de varios años, empecé a echar de menos la tranquilidad de mi pueblo natal. El ruido constante y el ritmo acelerado de la vida urbana me cansaban mucho.\n\nSi pudiera elegir de nuevo, creo que buscaría un lugar que combinara lo mejor de los dos mundos: una ciudad pequeña cerca de la naturaleza. Conozco a personas que se mudaron al campo aunque tenían buenos empleos en la ciudad, porque valoraban más la calidad de vida que el dinero.\n\nCreo que la decisión depende de lo que cada persona considere importante. Lo que es seguro es que tanto la ciudad como el campo ofrecen ventajas únicas que merecen considerarse con cuidado.",
+        "translation": "很多人都在問自己，住在城市還是鄉村比較好。我在一個小村莊長大，那裡人人相識，空氣清新。然而，當我完成學業後，決定搬到馬德里，因為我想找到更好的工作機會。\n\n起初，城市讓我覺得十分迷人。到處都有博物館、餐廳，公共交通也全天候運行。但在住了好幾年之後，我開始想念家鄉小鎮的寧靜。城市生活持續不斷的噪音與快節奏讓我感到非常疲倦。\n\n如果可以重新選擇，我想我會去找一個能結合兩者優點的地方：一座靠近大自然的小城市。我認識一些人，他們雖然在城市裡有不錯的工作，還是搬到了鄉村，因為他們比起金錢，更重視生活品質。\n\n我認為這個決定取決於每個人認為什麼是重要的。可以確定的是，城市和鄉村都各自提供了值得仔細考量的獨特優點。",
+        "words": [
+          {
+            "word": "mudarse",
+            "pos": "v. prnl.",
+            "zh": "搬家、遷居",
+            "example": "Decidí mudarme a otra ciudad para buscar trabajo.",
+            "example_zh": "我決定搬到另一個城市去找工作。"
+          },
+          {
+            "word": "echar de menos",
+            "pos": "loc. v.",
+            "zh": "想念、懷念",
+            "example": "Cuando viví en el extranjero, eché de menos a mi familia.",
+            "example_zh": "住在國外時，我非常想念我的家人。"
+          },
+          {
+            "word": "natal",
+            "pos": "adj.",
+            "zh": "出生地的、故鄉的",
+            "example": "Él siempre habla con orgullo de su ciudad natal.",
+            "example_zh": "他總是驕傲地談論自己的故鄉城市。"
+          },
+          {
+            "word": "acelerado",
+            "pos": "adj.",
+            "zh": "快速的、加速的",
+            "example": "El ritmo acelerado de la vida moderna causa estrés.",
+            "example_zh": "現代生活的快節奏造成壓力。"
+          },
+          {
+            "word": "valorar",
+            "pos": "v. tr.",
+            "zh": "重視、珍視",
+            "example": "Es importante valorar la salud por encima de todo.",
+            "example_zh": "重視健康勝過一切是很重要的。"
+          },
+          {
+            "word": "combinar",
+            "pos": "v. tr.",
+            "zh": "結合、組合",
+            "example": "Este plato combina sabores dulces y salados.",
+            "example_zh": "這道菜結合了甜味與鹹味。"
+          },
+          {
+            "word": "tranquilidad",
+            "pos": "s. f.",
+            "zh": "寧靜、平靜",
+            "example": "Me encanta la tranquilidad de las mañanas en el campo.",
+            "example_zh": "我非常喜歡鄉村早晨的寧靜。"
+          },
+          {
+            "word": "ventaja",
+            "pos": "s. f.",
+            "zh": "優點、好處",
+            "example": "Una gran ventaja de vivir en la ciudad es el transporte público.",
+            "example_zh": "住在城市的一大優點是有公共交通。"
+          },
+          {
+            "word": "oportunidad",
+            "pos": "s. f.",
+            "zh": "機會",
+            "example": "Estudiar en el extranjero es una gran oportunidad.",
+            "example_zh": "出國留學是一個很好的機會。"
+          },
+          {
+            "word": "depender de",
+            "pos": "loc. v.",
+            "zh": "取決於、依賴於",
+            "example": "El éxito depende del esfuerzo que pongas.",
+            "example_zh": "成功取決於你所付出的努力。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Dónde creció el autor del texto?",
+            "options": [
+              "En Madrid",
+              "En un pequeño pueblo",
+              "En una ciudad grande",
+              "En el extranjero"
+            ],
+            "answer": 1,
+            "explain": "文章開頭明確提到作者在一個小村莊（un pequeño pueblo）長大。"
+          },
+          {
+            "q": "¿Por qué decidió el autor mudarse a Madrid?",
+            "options": [
+              "Porque quería estudiar en la universidad",
+              "Porque su familia vivía allí",
+              "Porque quería encontrar mejores oportunidades de trabajo",
+              "Porque no le gustaba el campo"
+            ],
+            "answer": 2,
+            "explain": "文中說明作者搬到馬德里是因為「quería encontrar mejores oportunidades de trabajo」（想找到更好的工作機會）。"
+          },
+          {
+            "q": "¿Qué empezó a echar de menos el autor después de vivir en Madrid?",
+            "options": [
+              "Los museos y restaurantes",
+              "El transporte público",
+              "La tranquilidad de su pueblo natal",
+              "Las oportunidades de trabajo"
+            ],
+            "answer": 2,
+            "explain": "作者住了幾年後開始懷念的是「la tranquilidad de mi pueblo natal」（家鄉小鎮的寧靜）。"
+          },
+          {
+            "q": "Si el autor pudiera elegir de nuevo, ¿qué tipo de lugar buscaría?",
+            "options": [
+              "Una gran ciudad con mucho trabajo",
+              "Un pueblo sin acceso a internet",
+              "Una ciudad pequeña cerca de la naturaleza",
+              "Una ciudad extranjera"
+            ],
+            "answer": 2,
+            "explain": "文中使用條件式描述：若能重新選擇，作者會尋找「una ciudad pequeña cerca de la naturaleza」（靠近大自然的小城市）。"
+          },
+          {
+            "q": "¿Por qué se mudaron al campo las personas que menciona el autor?",
+            "options": [
+              "Porque no encontraban trabajo en la ciudad",
+              "Porque valoraban más la calidad de vida que el dinero",
+              "Porque el campo era más barato",
+              "Porque sus familias vivían en el campo"
+            ],
+            "answer": 1,
+            "explain": "文中提到那些人搬到鄉村是因為「valoraban más la calidad de vida que el dinero」（比起金錢，更重視生活品質）。"
+          }
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "2026-07-29-C2-fallback",
+        "source": "ai",
+        "level_label": "約 C2（AI 生成）",
+        "title": "¿Ciudad o campo? Una difícil decisión",
+        "text": "Muchas personas se preguntan si sería mejor vivir en la ciudad o en el campo. Yo crecí en un pequeño pueblo donde todos se conocían y el aire era limpio. Aunque echaba de menos la tranquilidad cuando me mudé a Madrid, pronto descubrí que la vida urbana tenía muchas ventajas que antes no había considerado.\n\nEn la ciudad encontré trabajo fácilmente, porque había más oportunidades en mi sector. Además, me gustaba que los transportes públicos funcionaran hasta medianoche y que hubiera tantos restaurantes y museos cerca de casa. Sin embargo, los alquileres eran tan caros que tuve que compartir piso con tres compañeros durante dos años.\n\nSi pudiera elegir libremente, combinaría lo mejor de los dos mundos: viviría en un pueblo tranquilo que estuviera bien conectado con una ciudad grande. Creo que mucha gente que vive en grandes metrópolis soñaría con tener un jardín propio y escuchar pájaros por la mañana. Al final, lo que importa es que uno se sienta cómodo en el lugar donde vive, ya sea entre rascacielos o rodeado de naturaleza.",
+        "translation": "許多人自問，住在城市還是鄉村是否會更好。我在一個小村莊長大，那裡每個人都彼此認識，空氣也很清新。儘管搬到馬德里後我很懷念那份寧靜，但我很快發現城市生活有許多我以前未曾考慮過的優點。\n\n在城市裡我很容易就找到了工作，因為我的領域有更多機會。此外，我喜歡大眾運輸能運行到午夜，以及家附近有那麼多餐廳和博物館。然而，租金非常昂貴，所以我不得不和三個室友合租公寓長達兩年。\n\n如果我能自由選擇，我會結合兩個世界的優點：住在一個與大城市交通便捷相連的寧靜小村莊。我認為許多住在大都市的人會夢想擁有自己的花園，並在早晨聆聽鳥鳴。最終，重要的是一個人在自己居住的地方感到舒適，無論是在摩天大樓之間還是被大自然環繞。",
+        "words": [
+          {
+            "word": "tranquilidad",
+            "pos": "n.f.",
+            "zh": "寧靜、平靜",
+            "example": "Extrañaba la tranquilidad del campo después de mudarse a la ciudad.",
+            "example_zh": "搬到城市後，她很懷念鄉村的寧靜。"
+          },
+          {
+            "word": "mudarse",
+            "pos": "v. prnl.",
+            "zh": "搬家、遷居",
+            "example": "El año pasado me mudé a un apartamento más grande.",
+            "example_zh": "去年我搬進了一間更大的公寓。"
+          },
+          {
+            "word": "urbano/a",
+            "pos": "adj.",
+            "zh": "城市的、都市的",
+            "example": "El transporte urbano de esta ciudad es muy eficiente.",
+            "example_zh": "這座城市的城市交通非常有效率。"
+          },
+          {
+            "word": "alquiler",
+            "pos": "n.m.",
+            "zh": "租金、租賃",
+            "example": "El alquiler en el centro de la ciudad es muy elevado.",
+            "example_zh": "市中心的租金非常高昂。"
+          },
+          {
+            "word": "combinar",
+            "pos": "v. tr.",
+            "zh": "結合、組合",
+            "example": "Me gustaría combinar el trabajo con el deporte cada día.",
+            "example_zh": "我希望每天能將工作與運動結合起來。"
+          },
+          {
+            "word": "metrópolis",
+            "pos": "n.f.",
+            "zh": "大都市、都會區",
+            "example": "Tokio es una de las metrópolis más grandes del mundo.",
+            "example_zh": "東京是世界上最大的都市之一。"
+          },
+          {
+            "word": "rascacielos",
+            "pos": "n.m.",
+            "zh": "摩天大樓",
+            "example": "Desde el rascacielos se podía ver toda la ciudad.",
+            "example_zh": "從那棟摩天大樓可以俯瞰整座城市。"
+          },
+          {
+            "word": "echar de menos",
+            "pos": "loc. v.",
+            "zh": "思念、懷念",
+            "example": "Cuando viajé al extranjero, eché de menos la comida de mi madre.",
+            "example_zh": "出國旅行時，我很懷念媽媽做的料理。"
+          },
+          {
+            "word": "conectado/a",
+            "pos": "adj.",
+            "zh": "相連的、交通便利的",
+            "example": "Este pueblo está bien conectado con la capital por tren.",
+            "example_zh": "這個村莊通過火車與首都交通便捷相連。"
+          },
+          {
+            "word": "rodeado/a",
+            "pos": "adj.",
+            "zh": "被圍繞的、被包圍的",
+            "example": "La casa estaba rodeada de árboles frutales.",
+            "example_zh": "那棟房子被果樹所環繞。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Dónde creció el autor o la autora del texto?",
+            "options": [
+              "En Madrid",
+              "En un pequeño pueblo",
+              "En una gran metrópolis",
+              "En el extranjero"
+            ],
+            "answer": 1,
+            "explain": "文章第一段明確提到「我在一個小村莊長大（crecí en un pequeño pueblo）」。"
+          },
+          {
+            "q": "¿Por qué encontró trabajo fácilmente en la ciudad?",
+            "options": [
+              "Porque tenía muchos amigos allí",
+              "Porque los alquileres eran baratos",
+              "Porque había más oportunidades en su sector",
+              "Porque el transporte era muy bueno"
+            ],
+            "answer": 2,
+            "explain": "文章第二段說明在城市容易找到工作，原因是「在他/她的領域有更多機會（había más oportunidades en mi sector）」。"
+          },
+          {
+            "q": "¿Cuál era el problema principal de vivir en la ciudad según el texto?",
+            "options": [
+              "No había restaurantes cerca",
+              "El transporte no funcionaba bien",
+              "Los alquileres eran muy caros",
+              "No conocía a nadie"
+            ],
+            "answer": 2,
+            "explain": "文章提到租金非常昂貴（los alquileres eran tan caros），導致作者必須與三個室友合住。"
+          },
+          {
+            "q": "¿Qué solución ideal propone el autor o la autora?",
+            "options": [
+              "Vivir solo en un pueblo muy remoto",
+              "Quedarse siempre en la gran ciudad",
+              "Vivir en un pueblo tranquilo bien conectado con una ciudad grande",
+              "Mudarse al extranjero"
+            ],
+            "answer": 2,
+            "explain": "作者在第三段以條件式表達理想：住在一個與大城市交通便利相連的寧靜小村莊（un pueblo tranquilo que estuviera bien conectado con una ciudad grande）。"
+          },
+          {
+            "q": "Según el texto, ¿con qué sueña mucha gente que vive en grandes metrópolis?",
+            "options": [
+              "Con tener un apartamento en el centro",
+              "Con tener un jardín propio y escuchar pájaros",
+              "Con trabajar en una empresa internacional",
+              "Con viajar por todo el mundo"
+            ],
+            "answer": 1,
+            "explain": "文章最後一段指出，住在大都市的人會夢想擁有自己的花園並在早晨聆聽鳥鳴（tener un jardín propio y escuchar pájaros por la mañana）。"
+          }
+        ]
+      }
+    ]
+  }
+}

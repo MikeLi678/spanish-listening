@@ -1,0 +1,839 @@
+{
+  "date": "2026-07-31",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-07-31-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Mis útiles escolares",
+        "text": "Yo tengo una mochila azul. Dentro hay muchos útiles. Tengo dos cuadernos y tres lápices. También tengo una regla y una goma. Mi estuche es rojo. En la clase uso el libro y el bolígrafo. La maestra tiene una pizarra grande. Me gustan mis útiles escolares.",
+        "translation": "我有一個藍色的書包。裡面有很多文具。我有兩本筆記本和三支鉛筆。我也有一把尺和一塊橡皮擦。我的鉛筆盒是紅色的。在課堂上我使用課本和原子筆。老師有一塊大黑板。我喜歡我的學校用品。",
+        "words": [
+          {
+            "word": "mochila",
+            "pos": "n.f.",
+            "zh": "書包、背包",
+            "example": "Mi mochila es azul.",
+            "example_zh": "我的書包是藍色的。"
+          },
+          {
+            "word": "cuaderno",
+            "pos": "n.m.",
+            "zh": "筆記本",
+            "example": "Tengo un cuaderno en la mesa.",
+            "example_zh": "我的桌上有一本筆記本。"
+          },
+          {
+            "word": "lápiz",
+            "pos": "n.m.",
+            "zh": "鉛筆",
+            "example": "El lápiz es amarillo.",
+            "example_zh": "這支鉛筆是黃色的。"
+          },
+          {
+            "word": "regla",
+            "pos": "n.f.",
+            "zh": "尺、規則",
+            "example": "Uso la regla para dibujar líneas.",
+            "example_zh": "我用尺來畫線。"
+          },
+          {
+            "word": "goma",
+            "pos": "n.f.",
+            "zh": "橡皮擦",
+            "example": "Necesito una goma para borrar.",
+            "example_zh": "我需要一塊橡皮擦來擦掉。"
+          },
+          {
+            "word": "estuche",
+            "pos": "n.m.",
+            "zh": "鉛筆盒",
+            "example": "Mi estuche tiene muchos colores.",
+            "example_zh": "我的鉛筆盒有很多顏色。"
+          },
+          {
+            "word": "bolígrafo",
+            "pos": "n.m.",
+            "zh": "原子筆、圓珠筆",
+            "example": "Escribo con un bolígrafo negro.",
+            "example_zh": "我用一支黑色原子筆書寫。"
+          },
+          {
+            "word": "pizarra",
+            "pos": "n.f.",
+            "zh": "黑板",
+            "example": "La maestra escribe en la pizarra.",
+            "example_zh": "老師在黑板上書寫。"
+          },
+          {
+            "word": "libro",
+            "pos": "n.m.",
+            "zh": "書、課本",
+            "example": "El libro está en la mochila.",
+            "example_zh": "課本在書包裡。"
+          },
+          {
+            "word": "útiles escolares",
+            "pos": "n.m.pl.",
+            "zh": "學校用品、文具",
+            "example": "Necesito útiles escolares para la clase.",
+            "example_zh": "我需要文具來上課。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿De qué color es la mochila?",
+            "options": [
+              "Roja",
+              "Azul",
+              "Verde",
+              "Amarilla"
+            ],
+            "answer": 1,
+            "explain": "文中提到「una mochila azul（一個藍色的書包）」，所以正確答案是 Azul（藍色）。"
+          },
+          {
+            "q": "¿Cuántos lápices tiene el estudiante?",
+            "options": [
+              "Uno",
+              "Dos",
+              "Tres",
+              "Cuatro"
+            ],
+            "answer": 2,
+            "explain": "文中寫道「tres lápices（三支鉛筆）」，所以正確答案是 Tres（三）。"
+          },
+          {
+            "q": "¿De qué color es el estuche?",
+            "options": [
+              "Azul",
+              "Verde",
+              "Amarillo",
+              "Rojo"
+            ],
+            "answer": 3,
+            "explain": "文中提到「Mi estuche es rojo（我的鉛筆盒是紅色的）」，所以正確答案是 Rojo（紅色）。"
+          },
+          {
+            "q": "¿Qué usa el estudiante en la clase?",
+            "options": [
+              "La regla y la goma",
+              "El libro y el bolígrafo",
+              "El lápiz y el cuaderno",
+              "La mochila y el estuche"
+            ],
+            "answer": 1,
+            "explain": "文中說「En la clase uso el libro y el bolígrafo（在課堂上我使用課本和原子筆）」，所以正確答案是第二項。"
+          },
+          {
+            "q": "¿Qué tiene la maestra?",
+            "options": [
+              "Una mochila pequeña",
+              "Un estuche azul",
+              "Una pizarra grande",
+              "Tres cuadernos"
+            ],
+            "answer": 2,
+            "explain": "文中提到「La maestra tiene una pizarra grande（老師有一塊大黑板）」，所以正確答案是 Una pizarra grande（一塊大黑板）。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-07-31-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "La Navidad en familia",
+        "text": "La Navidad es una fiesta muy especial en España y en muchos países de América Latina. El año pasado, mi familia y yo celebramos la Nochebuena juntos en casa de mis abuelos. Mi abuela preparó una cena deliciosa con mucha comida tradicional. Cantamos villancicos y los niños abrieron los regalos con mucha alegría. También decoramos el árbol de Navidad con luces de colores y adornos bonitos. Este año, vamos a visitar a nuestros primos en Madrid porque ellos van a organizar una fiesta grande. Estoy muy emocionado porque vamos a pasar las fiestas con toda la familia. ¡Las navidades son mis días favoritos del año!",
+        "translation": "聖誕節是西班牙以及許多拉丁美洲國家非常特別的節日。去年，我和我的家人一起在祖父母家慶祝平安夜。我的祖母準備了一頓美味的晚餐，有很多傳統食物。我們唱了聖誕歌曲，孩子們非常開心地打開了禮物。我們也用彩燈和漂亮的裝飾品裝飾了聖誕樹。今年，我們打算去馬德里拜訪我們的堂兄弟姐妹，因為他們要舉辦一個大型派對。我非常興奮，因為我們將和全家人一起度過節日。聖誕節是我一年中最喜歡的日子！",
+        "words": [
+          {
+            "word": "fiesta",
+            "pos": "n.f.",
+            "zh": "節日；派對",
+            "example": "La Navidad es una fiesta muy especial.",
+            "example_zh": "聖誕節是一個非常特別的節日。"
+          },
+          {
+            "word": "celebrar",
+            "pos": "v.",
+            "zh": "慶祝",
+            "example": "Celebramos la Nochebuena juntos.",
+            "example_zh": "我們一起慶祝了平安夜。"
+          },
+          {
+            "word": "Nochebuena",
+            "pos": "n.f.",
+            "zh": "平安夜（聖誕節前夕）",
+            "example": "Mi familia se reúne en Nochebuena.",
+            "example_zh": "我的家人在平安夜聚在一起。"
+          },
+          {
+            "word": "villancico",
+            "pos": "n.m.",
+            "zh": "聖誕歌曲",
+            "example": "Los niños cantaron villancicos en la escuela.",
+            "example_zh": "孩子們在學校唱了聖誕歌曲。"
+          },
+          {
+            "word": "regalo",
+            "pos": "n.m.",
+            "zh": "禮物",
+            "example": "Los niños abrieron los regalos con alegría.",
+            "example_zh": "孩子們開心地打開了禮物。"
+          },
+          {
+            "word": "decorar",
+            "pos": "v.",
+            "zh": "裝飾",
+            "example": "Decoramos el árbol con luces de colores.",
+            "example_zh": "我們用彩燈裝飾了聖誕樹。"
+          },
+          {
+            "word": "adorno",
+            "pos": "n.m.",
+            "zh": "裝飾品",
+            "example": "Los adornos del árbol son muy bonitos.",
+            "example_zh": "聖誕樹上的裝飾品非常漂亮。"
+          },
+          {
+            "word": "emocionado",
+            "pos": "adj.",
+            "zh": "興奮的；激動的",
+            "example": "Estoy muy emocionado por las fiestas.",
+            "example_zh": "我對節日感到非常興奮。"
+          },
+          {
+            "word": "organizar",
+            "pos": "v.",
+            "zh": "舉辦；組織",
+            "example": "Ellos van a organizar una fiesta grande.",
+            "example_zh": "他們打算舉辦一個大型派對。"
+          },
+          {
+            "word": "primo/prima",
+            "pos": "n.m./f.",
+            "zh": "堂／表兄弟姐妹",
+            "example": "Vamos a visitar a nuestros primos en Madrid.",
+            "example_zh": "我們打算去馬德里拜訪我們的堂兄弟姐妹。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Dónde celebró la familia la Nochebuena el año pasado?",
+            "options": [
+              "En casa de los primos",
+              "En un restaurante",
+              "En casa de los abuelos",
+              "En Madrid"
+            ],
+            "answer": 2,
+            "explain": "文章提到「celebramos la Nochebuena juntos en casa de mis abuelos」，因此正確答案是在祖父母家。"
+          },
+          {
+            "q": "¿Qué preparó la abuela para la Nochebuena?",
+            "options": [
+              "Un pastel de cumpleaños",
+              "Una cena deliciosa",
+              "Unos villancicos",
+              "Adornos para el árbol"
+            ],
+            "answer": 1,
+            "explain": "文章說「Mi abuela preparó una cena deliciosa」，祖母準備了一頓美味的晚餐。"
+          },
+          {
+            "q": "¿Qué van a hacer este año para las fiestas?",
+            "options": [
+              "Van a quedarse en casa",
+              "Van a viajar a América Latina",
+              "Van a visitar a sus primos en Madrid",
+              "Van a comprar un árbol de Navidad"
+            ],
+            "answer": 2,
+            "explain": "文章使用 Futuro próximo 說「vamos a visitar a nuestros primos en Madrid」，表示今年的計畫。"
+          },
+          {
+            "q": "¿Por qué está emocionado el narrador este año?",
+            "options": [
+              "Porque va a recibir muchos regalos",
+              "Porque va a pasar las fiestas con toda la familia",
+              "Porque va a cantar villancicos en Madrid",
+              "Porque va a decorar el árbol solo"
+            ],
+            "answer": 1,
+            "explain": "文章說「Estoy muy emocionado porque vamos a pasar las fiestas con toda la familia」，原因是能和全家人一起度過節日。"
+          },
+          {
+            "q": "¿Quién va a organizar la fiesta grande este año?",
+            "options": [
+              "Los abuelos",
+              "El narrador",
+              "La abuela",
+              "Los primos"
+            ],
+            "answer": 3,
+            "explain": "文章說「ellos van a organizar una fiesta grande」，這裡的「ellos」指的是住在馬德里的堂兄弟姐妹（primos）。"
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "2026-07-31-B1-1",
+        "source": "ai",
+        "level_label": "B1",
+        "title": "El viaje que me cambió la vida",
+        "text": "Cuando tenía veinte años, decidí viajar solo por América del Sur durante tres meses. Mis padres me dijeron que era una idea arriesgada, pero yo sabía que necesitaba salir de mi zona de confort. Antes de partir, nunca había vivido lejos de mi familia ni había tenido que resolver problemas por mí mismo.\n\nDurante el viaje, me perdí en una ciudad desconocida y no encontré el hotel que había reservado. En ese momento, pensé que me habría rendido si no hubiera conocido a unos viajeros amables que me ayudaron a encontrar el camino. Gracias a ellos, aprendí que la gente puede ser increíblemente generosa cuando menos lo esperas.\n\nAdemás, visité comunidades donde las personas vivían con muy poco, pero sonreían con una alegría genuina. Eso me hizo reflexionar sobre lo que realmente importa en la vida. Si pudiera volver atrás, haría exactamente lo mismo, porque aquel viaje me enseñó que los errores y las dificultades son oportunidades disfrazadas. Hoy soy más paciente, más abierto y más agradecido de lo que era antes de subir a aquel avión.",
+        "translation": "當我二十歲的時候，我決定獨自在南美洲旅行三個月。我的父母告訴我這是個冒險的想法，但我知道我需要走出自己的舒適圈。在出發之前，我從來沒有離家生活過，也從來不需要自己解決問題。\n\n旅途中，我在一座陌生的城市迷路了，也找不到我預訂的旅館。在那個時刻，我心想，如果沒有遇到幾位熱心的旅行者幫我找到路的話，我早就放棄了。多虧了他們，我學到了當你最不期待的時候，人們可以表現得無比慷慨。\n\n此外，我造訪了一些物質匱乏的社區，但那裡的人們卻帶著真誠的喜悅微笑著。這讓我反思生命中真正重要的事。如果可以回到過去，我會做完全相同的選擇，因為那段旅程教會了我，錯誤與困難都是偽裝成機會的禮物。今天的我比登上那架飛機之前更有耐心、更開放，也更懂得感恩。",
+        "words": [
+          {
+            "word": "arriesgado",
+            "pos": "adj.",
+            "zh": "冒險的、危險的",
+            "example": "Conducir muy rápido es una acción arriesgada.",
+            "example_zh": "開車開得很快是一種冒險的行為。"
+          },
+          {
+            "word": "zona de confort",
+            "pos": "n. f.",
+            "zh": "舒適圈",
+            "example": "Es importante salir de la zona de confort para crecer.",
+            "example_zh": "走出舒適圈對成長很重要。"
+          },
+          {
+            "word": "rendirse",
+            "pos": "v. pron.",
+            "zh": "放棄、投降",
+            "example": "No te rindas aunque el camino sea difícil.",
+            "example_zh": "即使路途艱難，也不要放棄。"
+          },
+          {
+            "word": "generoso",
+            "pos": "adj.",
+            "zh": "慷慨的、大方的",
+            "example": "Mi vecino es muy generoso; siempre ayuda a los demás.",
+            "example_zh": "我的鄰居非常慷慨，總是幫助別人。"
+          },
+          {
+            "word": "reflexionar",
+            "pos": "v.",
+            "zh": "反思、沉思",
+            "example": "Después del error, necesitaba reflexionar sobre mis decisiones.",
+            "example_zh": "犯錯之後，我需要反思自己的決定。"
+          },
+          {
+            "word": "disfrazado",
+            "pos": "adj.",
+            "zh": "偽裝的、喬裝的",
+            "example": "A veces los problemas son oportunidades disfrazadas.",
+            "example_zh": "有時候問題是偽裝成機會的。"
+          },
+          {
+            "word": "agradecido",
+            "pos": "adj.",
+            "zh": "感恩的、感激的",
+            "example": "Estoy muy agradecido por todo lo que me enseñaste.",
+            "example_zh": "我非常感激你教給我的一切。"
+          },
+          {
+            "word": "genuino",
+            "pos": "adj.",
+            "zh": "真誠的、真實的",
+            "example": "Su sonrisa era genuina y cálida.",
+            "example_zh": "她的微笑是真誠而溫暖的。"
+          },
+          {
+            "word": "desconocido",
+            "pos": "adj.",
+            "zh": "陌生的、未知的",
+            "example": "Llegamos a un pueblo completamente desconocido para nosotros.",
+            "example_zh": "我們到達了一個對我們來說完全陌生的小鎮。"
+          },
+          {
+            "word": "dificultad",
+            "pos": "n. f.",
+            "zh": "困難、難題",
+            "example": "Superaron todas las dificultades juntos.",
+            "example_zh": "他們一起克服了所有的困難。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cuánto tiempo duró el viaje del narrador por América del Sur?",
+            "options": [
+              "Un mes",
+              "Dos meses",
+              "Tres meses",
+              "Seis meses"
+            ],
+            "answer": 2,
+            "explain": "文中提到「durante tres meses」（三個月），故正解為第三個選項。"
+          },
+          {
+            "q": "¿Qué problema tuvo el narrador durante el viaje?",
+            "options": [
+              "Se quedó sin dinero en una ciudad",
+              "Se perdió y no encontró su hotel",
+              "Perdió su pasaporte en el aeropuerto",
+              "Se enfermó gravemente durante el viaje"
+            ],
+            "answer": 1,
+            "explain": "文中說「me perdí en una ciudad desconocida y no encontré el hotel que había reservado」，他在陌生城市迷路且找不到旅館。"
+          },
+          {
+            "q": "¿Quiénes ayudaron al narrador cuando estaba perdido?",
+            "options": [
+              "Sus padres, que viajaron para ayudarlo",
+              "Un policía de la ciudad",
+              "Unos viajeros amables",
+              "El dueño del hotel"
+            ],
+            "answer": 2,
+            "explain": "文中提到「unos viajeros amables que me ayudaron a encontrar el camino」，是幾位熱心的旅行者幫助了他。"
+          },
+          {
+            "q": "¿Qué aprendió el narrador al visitar las comunidades locales?",
+            "options": [
+              "Que el dinero es lo más importante en la vida",
+              "Que viajar solo es siempre peligroso",
+              "Que la gente pobre no puede ser feliz",
+              "Que se puede ser feliz con muy poco"
+            ],
+            "answer": 3,
+            "explain": "文中描述那些物質匱乏的人們卻笑得真誠快樂，令他反思生命中真正重要的事，意味著物質少也能幸福。"
+          },
+          {
+            "q": "Según el texto, ¿cómo es el narrador hoy comparado con antes del viaje?",
+            "options": [
+              "Es más impaciente y cerrado",
+              "Es más paciente, abierto y agradecido",
+              "Es más miedoso y dependiente",
+              "Es igual que antes del viaje"
+            ],
+            "answer": 1,
+            "explain": "文末明確說「Hoy soy más paciente, más abierto y más agradecido de lo que era antes」，旅行後他變得更有耐心、更開放且更感恩。"
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "2026-07-31-B2-fallback",
+        "source": "ai",
+        "level_label": "約 B2（AI 生成）",
+        "title": "El viaje que me cambió la vida",
+        "text": "Cuando tenía veinte años, decidí viajar solo por Sudamérica durante tres meses. Antes de salir, pensaba que sería una aventura sencilla, pero me equivocaba completamente. El primer día que llegué a Buenos Aires, me perdí porque no entendía el acento local. Sentí miedo y quise regresar a casa. Sin embargo, una señora amable me ayudó a encontrar mi hotel y me invitó a tomar un café. Esa noche, reflexioné sobre lo que había pasado y comprendí que los errores forman parte del aprendizaje.\n\nDurante el viaje, conocí a personas de culturas muy diferentes que me enseñaron a ver el mundo desde otra perspectiva. Aprendí que, si uno está dispuesto a escuchar, puede descubrir historias increíbles en cualquier lugar. También me di cuenta de que era más valiente de lo que creía.\n\nCuando volví a mi país, era una persona distinta. Había superado situaciones difíciles, había hablado con extraños sin miedo y había aprendido a confiar en mí mismo. Si pudiera volver atrás, volvería a hacer ese viaje sin dudarlo, porque me enseñó que crecer significa salir de la zona de confort y abrirse al mundo.",
+        "translation": "當我二十歲的時候，我決定獨自在南美洲旅行三個月。出發之前，我以為這會是一段輕鬆的冒險，但我完全錯了。抵達布宜諾斯艾利斯的第一天，我迷路了，因為我聽不懂當地的口音。我感到害怕，想要回家。然而，一位親切的女士幫我找到了旅館，並邀請我喝咖啡。那天晚上，我反思了所發生的事，明白了錯誤是學習過程的一部分。\n\n在旅途中，我認識了來自不同文化的人，他們教會我從另一個角度看世界。我學到，如果一個人願意傾聽，就能在任何地方發現令人難以置信的故事。我也意識到自己比我所想的更加勇敢。\n\n當我回到祖國時，我已經是一個不同的人了。我克服了困難的處境，毫不畏懼地與陌生人交談，並學會了相信自己。如果我能回到過去，我會毫不猶豫地再次踏上那段旅程，因為它教會了我：成長意味著走出舒適圈，向世界敞開心扉。",
+        "words": [
+          {
+            "word": "equivocarse",
+            "pos": "v. pron.",
+            "zh": "犯錯、搞錯",
+            "example": "Me equivoqué cuando pensé que el examen sería fácil.",
+            "example_zh": "當我以為考試會很簡單時，我犯了錯。"
+          },
+          {
+            "word": "reflexionar",
+            "pos": "v.",
+            "zh": "反思、沉思",
+            "example": "Es importante reflexionar sobre nuestras decisiones.",
+            "example_zh": "反思我們的決定是很重要的。"
+          },
+          {
+            "word": "perspectiva",
+            "pos": "n. f.",
+            "zh": "觀點、視角",
+            "example": "Viajar te da una nueva perspectiva de la vida.",
+            "example_zh": "旅行給你一個看待生活的新視角。"
+          },
+          {
+            "word": "dispuesto/a",
+            "pos": "adj.",
+            "zh": "願意的、準備好的",
+            "example": "Estoy dispuesto a aprender cosas nuevas cada día.",
+            "example_zh": "我每天都願意學習新事物。"
+          },
+          {
+            "word": "darse cuenta",
+            "pos": "v. pron.",
+            "zh": "意識到、察覺",
+            "example": "Me di cuenta de que había olvidado el pasaporte.",
+            "example_zh": "我意識到我忘記帶護照了。"
+          },
+          {
+            "word": "superar",
+            "pos": "v.",
+            "zh": "克服、超越",
+            "example": "Ella superó su miedo a hablar en público.",
+            "example_zh": "她克服了對公開演講的恐懼。"
+          },
+          {
+            "word": "confiar",
+            "pos": "v.",
+            "zh": "信任、相信",
+            "example": "Debes confiar en tus propias capacidades.",
+            "example_zh": "你應該相信自己的能力。"
+          },
+          {
+            "word": "zona de confort",
+            "pos": "n. f.",
+            "zh": "舒適圈",
+            "example": "Salir de la zona de confort te ayuda a crecer.",
+            "example_zh": "走出舒適圈能幫助你成長。"
+          },
+          {
+            "word": "abrirse",
+            "pos": "v. pron.",
+            "zh": "敞開（心扉）、開放自己",
+            "example": "Es difícil abrirse a personas que no conoces.",
+            "example_zh": "向不認識的人敞開心扉是困難的。"
+          },
+          {
+            "word": "extraño/a",
+            "pos": "n. / adj.",
+            "zh": "陌生人／奇怪的",
+            "example": "No es fácil hablar con extraños en otro país.",
+            "example_zh": "在另一個國家與陌生人交談並不容易。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Por qué el narrador se perdió el primer día en Buenos Aires?",
+            "options": [
+              "Porque no tenía mapa de la ciudad.",
+              "Porque no entendía el acento local.",
+              "Porque llegó de noche y no veía bien.",
+              "Porque nadie quiso ayudarle."
+            ],
+            "answer": 1,
+            "explain": "文中明確提到「me perdí porque no entendía el acento local」，他迷路是因為聽不懂當地口音。"
+          },
+          {
+            "q": "¿Quién ayudó al narrador a encontrar su hotel?",
+            "options": [
+              "Un policía del aeropuerto.",
+              "Un joven estudiante.",
+              "Una señora amable.",
+              "El dueño del hotel."
+            ],
+            "answer": 2,
+            "explain": "文中寫道「una señora amable me ayudó a encontrar mi hotel」，是一位親切的女士幫助了他。"
+          },
+          {
+            "q": "¿Qué comprendió el narrador esa primera noche?",
+            "options": [
+              "Que debía aprender más idiomas antes de viajar.",
+              "Que los errores forman parte del aprendizaje.",
+              "Que Buenos Aires era una ciudad peligrosa.",
+              "Que viajar solo no era una buena idea."
+            ],
+            "answer": 1,
+            "explain": "文中說「comprendí que los errores forman parte del aprendizaje」，他明白錯誤是學習的一部分。"
+          },
+          {
+            "q": "Según el texto, ¿cómo era el narrador al volver a su país?",
+            "options": [
+              "Estaba cansado y quería descansar mucho tiempo.",
+              "Se sentía igual que antes de salir.",
+              "Era una persona distinta y más segura de sí misma.",
+              "Tenía miedo de volver a viajar."
+            ],
+            "answer": 2,
+            "explain": "文中提到「era una persona distinta」並描述他學會了相信自己，回國後已是不同的人。"
+          },
+          {
+            "q": "¿Qué haría el narrador si pudiera volver atrás?",
+            "options": [
+              "Elegiría un destino diferente.",
+              "Viajaría con amigos en lugar de solo.",
+              "No volvería a hacer ese viaje.",
+              "Volvería a hacer ese viaje sin dudarlo."
+            ],
+            "answer": 3,
+            "explain": "文中使用條件式「volvería a hacer ese viaje sin dudarlo」，表示他會毫不猶豫地再次踏上那段旅程。"
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-07-31-C1-fallback",
+        "source": "ai",
+        "level_label": "約 C1（AI 生成）",
+        "title": "El viaje que me cambió la vida",
+        "text": "Cuando tenía veinte años, decidí viajar solo por América del Sur durante tres meses. Mis padres estaban preocupados porque pensaban que era demasiado joven para hacer un viaje tan largo. Sin embargo, yo sabía que necesitaba salir de mi zona de confort.\n\nDurante el viaje, conocí a personas de culturas muy diferentes a la mía. Aprendí que, aunque la gente tiene costumbres distintas, todos compartimos los mismos sueños y miedos. Hubo momentos difíciles: perdí mi mochila en Buenos Aires y me quedé sin dinero en Lima. Si no hubiera conocido a otros viajeros generosos, no habría podido continuar.\n\nCada vez que llegaba a una ciudad nueva, me sentía nervioso pero también emocionado. Con el tiempo, gané confianza en mí mismo y aprendí a resolver problemas solo. Descubrí que el mundo era mucho más grande y hermoso de lo que imaginaba.\n\nCuando volví a casa, era una persona diferente. Mis amigos dijeron que había madurado mucho. Creo que viajar es la mejor escuela que existe, porque te enseña cosas que ningún libro podría explicarte.",
+        "translation": "當我二十歲的時候，我決定獨自在南美洲旅行三個月。我的父母很擔心，因為他們認為我太年輕，無法進行這麼長的旅行。然而，我知道我需要走出自己的舒適圈。\n\n旅行途中，我認識了來自與我截然不同文化的人們。我學到，雖然人們有著不同的習俗，但我們都共享著相同的夢想與恐懼。旅途中有困難的時刻：我在布宜諾斯艾利斯弄丟了背包，在利馬身無分文。如果沒有認識那些慷慨的旅人，我就無法繼續旅程。\n\n每當我抵達一座新城市，我感到緊張，但同時也很興奮。隨著時間流逝，我對自己建立了信心，並學會了獨自解決問題。我發現這個世界比我想像中更廣闊也更美麗。\n\n當我回到家時，我已經是一個不同的人了。朋友們說我成熟了許多。我相信旅行是世界上最好的學校，因為它能教會你任何書本都無法解釋的事情。",
+        "words": [
+          {
+            "word": "zona de confort",
+            "pos": "n.f.",
+            "zh": "舒適圈",
+            "example": "Es importante salir de tu zona de confort para crecer.",
+            "example_zh": "走出舒適圈對成長很重要。"
+          },
+          {
+            "word": "costumbre",
+            "pos": "n.f.",
+            "zh": "習慣；習俗",
+            "example": "Cada país tiene sus propias costumbres y tradiciones.",
+            "example_zh": "每個國家都有自己的習俗與傳統。"
+          },
+          {
+            "word": "mochila",
+            "pos": "n.f.",
+            "zh": "背包",
+            "example": "Metí toda mi ropa en la mochila antes de salir.",
+            "example_zh": "我出發前把所有衣服塞進了背包。"
+          },
+          {
+            "word": "generoso/a",
+            "pos": "adj.",
+            "zh": "慷慨的",
+            "example": "El viajero fue muy generoso y nos invitó a cenar.",
+            "example_zh": "那位旅人非常慷慨，邀請我們共進晚餐。"
+          },
+          {
+            "word": "confianza",
+            "pos": "n.f.",
+            "zh": "信心；信任",
+            "example": "Necesitas tener más confianza en ti mismo.",
+            "example_zh": "你需要對自己更有信心。"
+          },
+          {
+            "word": "madurar",
+            "pos": "v.",
+            "zh": "成熟；變得成熟",
+            "example": "Vivir solo te ayuda a madurar rápidamente.",
+            "example_zh": "獨自生活能幫助你快速成熟。"
+          },
+          {
+            "word": "compartir",
+            "pos": "v.",
+            "zh": "分享；共享",
+            "example": "Me gusta compartir mis experiencias con los amigos.",
+            "example_zh": "我喜歡和朋友分享我的經歷。"
+          },
+          {
+            "word": "resolver",
+            "pos": "v.",
+            "zh": "解決（問題）",
+            "example": "Tuve que resolver el problema sin ayuda de nadie.",
+            "example_zh": "我必須在沒有任何人幫助的情況下解決問題。"
+          },
+          {
+            "word": "emocionado/a",
+            "pos": "adj.",
+            "zh": "興奮的；激動的",
+            "example": "Estaba muy emocionado cuando llegué a París por primera vez.",
+            "example_zh": "當我第一次抵達巴黎時，我非常興奮。"
+          },
+          {
+            "word": "preocupado/a",
+            "pos": "adj.",
+            "zh": "擔心的；憂慮的",
+            "example": "Mi madre siempre está preocupada cuando viajo sola.",
+            "example_zh": "每當我獨自旅行時，我母親總是很擔心。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cuánto tiempo duró el viaje del narrador por América del Sur?",
+            "options": [
+              "Un mes",
+              "Dos meses",
+              "Tres meses",
+              "Seis meses"
+            ],
+            "answer": 2,
+            "explain": "文中提到「durante tres meses（三個月期間）」，因此正確答案是三個月。"
+          },
+          {
+            "q": "¿Por qué estaban preocupados los padres del narrador?",
+            "options": [
+              "Porque no tenía dinero suficiente",
+              "Porque pensaban que era demasiado joven",
+              "Porque no sabía hablar español",
+              "Porque el viaje era muy caro"
+            ],
+            "answer": 1,
+            "explain": "文中說「pensaban que era demasiado joven para hacer un viaje tan largo（他們認為他太年輕，無法進行這麼長的旅行）」，故選第二個選項。"
+          },
+          {
+            "q": "¿Qué le pasó al narrador en Buenos Aires?",
+            "options": [
+              "Se quedó sin dinero",
+              "Perdió su pasaporte",
+              "Perdió su mochila",
+              "Se enfermó gravemente"
+            ],
+            "answer": 2,
+            "explain": "文中明確提到「perdí mi mochila en Buenos Aires（我在布宜諾斯艾利斯弄丟了背包）」，故正確答案是遺失背包。"
+          },
+          {
+            "q": "Según el texto, ¿qué aprendió el narrador durante su viaje?",
+            "options": [
+              "Aprendió varios idiomas nuevos",
+              "Aprendió a ganar mucho dinero",
+              "Aprendió a resolver problemas solo y ganó confianza",
+              "Aprendió a cocinar platos tradicionales"
+            ],
+            "answer": 2,
+            "explain": "文中提到「gané confianza en mí mismo y aprendí a resolver problemas solo（我對自己建立了信心，並學會了獨自解決問題）」，符合第三個選項。"
+          },
+          {
+            "q": "¿Qué dice el narrador sobre viajar al final del texto?",
+            "options": [
+              "Que viajar es peligroso y no lo recomienda",
+              "Que viajar es la mejor escuela porque enseña cosas que los libros no pueden",
+              "Que viajar es solo para personas ricas",
+              "Que prefiere quedarse en casa y leer libros"
+            ],
+            "answer": 1,
+            "explain": "文章最後說「viajar es la mejor escuela que existe, porque te enseña cosas que ningún libro podría explicarte（旅行是世界上最好的學校，因為它能教會你任何書本都無法解釋的事情）」，故選第二個選項。"
+          }
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "2026-07-31-C2-fallback",
+        "source": "ai",
+        "level_label": "約 C2（AI 生成）",
+        "title": "El viaje que me cambió la vida",
+        "text": "Cuando tenía veinte años, decidí viajar solo por América del Sur durante tres meses. Antes de salir, pensaba que sería una aventura divertida, pero no imaginaba cuánto aprendería sobre mí mismo.\n\nEl primer mes fue difícil. No conocía a nadie y extrañaba mi hogar. Sin embargo, cuando llegué a una pequeña aldea en Perú, conocí a una familia que me invitó a cenar. Aunque no hablábamos el mismo idioma perfectamente, nos comunicamos con sonrisas y gestos. Esa noche comprendí que la conexión humana no depende solo de las palabras.\n\nDurante el viaje, también aprendí a resolver problemas inesperados. Una vez perdí mi mochila en un autobús y tuve que pedir ayuda a desconocidos. Si no hubiera viajado solo, nunca habría desarrollado esa confianza en mí mismo.\n\nCuando regresé a casa, mis amigos notaron que había cambiado. Era más paciente, más abierto y menos miedoso. Creo que viajar nos enseña lo que ningún libro puede explicar: que el mundo es grande, que las personas son generosas y que somos más fuertes de lo que creemos.",
+        "translation": "當我二十歲的時候，我決定獨自在南美洲旅行三個月。出發之前，我以為這只是一場有趣的冒險，但我沒有想到自己會從中學到多少關於自身的事情。\n\n第一個月非常艱難。我不認識任何人，也很想念家鄉。然而，當我抵達秘魯一個小村莊時，我認識了一戶家庭，他們邀請我共進晚餐。雖然我們的語言並不完全相通，但我們用微笑和手勢交流。那天晚上，我明白了人與人之間的連結不只依賴言語。\n\n旅途中，我也學會了如何解決意想不到的問題。有一次我在公車上遺失了背包，不得不向陌生人求助。如果我不是獨自旅行，我永遠不會培養出那種對自己的信心。\n\n當我回到家時，朋友們注意到我變了。我變得更有耐心、更開放，也不再那麼膽怯。我相信旅行教會我們任何書本都無法解釋的事：世界很大，人們是慷慨的，而我們比自己以為的更堅強。",
+        "words": [
+          {
+            "word": "aventura",
+            "pos": "n.f.",
+            "zh": "冒險；奇遇",
+            "example": "Estudiar en el extranjero fue una gran aventura para ella.",
+            "example_zh": "在國外求學對她來說是一場大冒險。"
+          },
+          {
+            "word": "extrañar",
+            "pos": "v.",
+            "zh": "思念；想念",
+            "example": "Cuando viajo mucho tiempo, extraño la comida de mi madre.",
+            "example_zh": "旅行很長時間後，我會想念媽媽做的菜。"
+          },
+          {
+            "word": "aldea",
+            "pos": "n.f.",
+            "zh": "小村莊；鄉村",
+            "example": "Vivían en una pequeña aldea rodeada de montañas.",
+            "example_zh": "他們住在一個被山脈環繞的小村莊裡。"
+          },
+          {
+            "word": "gesto",
+            "pos": "n.m.",
+            "zh": "手勢；姿態",
+            "example": "Hizo un gesto con la mano para indicar el camino.",
+            "example_zh": "他用手做了個手勢來指引方向。"
+          },
+          {
+            "word": "inesperado",
+            "pos": "adj.",
+            "zh": "意想不到的；出乎意料的",
+            "example": "Recibió una llamada inesperada de su viejo amigo.",
+            "example_zh": "他接到了老朋友一通出乎意料的電話。"
+          },
+          {
+            "word": "mochila",
+            "pos": "n.f.",
+            "zh": "背包",
+            "example": "Mete el libro en tu mochila antes de salir.",
+            "example_zh": "出門前把書放進你的背包裡。"
+          },
+          {
+            "word": "desconocido",
+            "pos": "n.m. / adj.",
+            "zh": "陌生人；不認識的",
+            "example": "No debes aceptar regalos de desconocidos.",
+            "example_zh": "你不應該接受陌生人的禮物。"
+          },
+          {
+            "word": "confianza",
+            "pos": "n.f.",
+            "zh": "信心；信任",
+            "example": "Con práctica, desarrollarás más confianza al hablar en público.",
+            "example_zh": "透過練習，你將會培養出更多在公開場合發言的信心。"
+          },
+          {
+            "word": "paciente",
+            "pos": "adj.",
+            "zh": "有耐心的",
+            "example": "Un buen maestro siempre es paciente con sus estudiantes.",
+            "example_zh": "一位好老師對學生總是有耐心的。"
+          },
+          {
+            "word": "generoso",
+            "pos": "adj.",
+            "zh": "慷慨的；大方的",
+            "example": "Fue muy generoso al compartir su comida con nosotros.",
+            "example_zh": "他把食物分享給我們，非常慷慨大方。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cuánto tiempo duró el viaje del autor por América del Sur?",
+            "options": [
+              "Un mes",
+              "Dos meses",
+              "Tres meses",
+              "Seis meses"
+            ],
+            "answer": 2,
+            "explain": "文章開頭明確提到作者獨自旅行了三個月（durante tres meses）。"
+          },
+          {
+            "q": "¿Qué le pasó al autor en el autobús?",
+            "options": [
+              "Conoció a una familia peruana",
+              "Perdió su mochila",
+              "Se quedó dormido y llegó tarde",
+              "Compró un billete equivocado"
+            ],
+            "answer": 1,
+            "explain": "文章第三段提到作者在公車上遺失了背包（perdí mi mochila en un autobús）。"
+          },
+          {
+            "q": "¿Cómo se comunicó el autor con la familia en Perú?",
+            "options": [
+              "Con un intérprete profesional",
+              "Solo en inglés",
+              "Con sonrisas y gestos",
+              "Escribiendo en papel"
+            ],
+            "answer": 2,
+            "explain": "文章第二段說明雖然語言不通，但他們用微笑和手勢溝通（nos comunicamos con sonrisas y gestos）。"
+          },
+          {
+            "q": "¿Qué aprendió el autor sobre la conexión humana?",
+            "options": [
+              "Que depende completamente del idioma",
+              "Que solo es posible entre personas del mismo país",
+              "Que no depende solo de las palabras",
+              "Que es imposible sin tecnología"
+            ],
+            "answer": 2,
+            "explain": "文章明確指出「人與人之間的連結不只依賴言語」（la conexión humana no depende solo de las palabras）。"
+          },
+          {
+            "q": "Según el texto, ¿cómo era el autor después de regresar a casa?",
+            "options": [
+              "Más tímido y cerrado",
+              "Más paciente, abierto y menos miedoso",
+              "Igual que antes del viaje",
+              "Más nervioso e impaciente"
+            ],
+            "answer": 1,
+            "explain": "文章最後一段描述回家後的作者變得更有耐心、更開放、不再那麼膽怯（más paciente, más abierto y menos miedoso）。"
+          }
+        ]
+      }
+    ]
+  }
+}

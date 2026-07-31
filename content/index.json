@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-01",
     "2026-07-31",
     "2026-07-30",
     "2026-07-29",
@@ -15,6 +16,59 @@
     "2026-07-18"
   ],
   "days": [
+    {
+      "date": "2026-08-01",
+      "articles": [
+        {
+          "id": "2026-08-01-A1-1",
+          "level": "A1",
+          "title": "Los días de la semana",
+          "source": "ai",
+          "level_label": "A1",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-08-01-A2-1",
+          "level": "A2",
+          "title": "Una tarde de compras",
+          "source": "ai",
+          "level_label": "A2",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-08-01-B1-1",
+          "level": "B1",
+          "title": "Sabores del mundo: la comida como cultura",
+          "source": "ai",
+          "level_label": "B1",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-08-01-B2-fallback",
+          "level": "B2",
+          "title": "La riqueza de las culturas culinarias del mundo",
+          "source": "ai",
+          "level_label": "約 B2（AI 生成）",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-08-01-C1-fallback",
+          "level": "C1",
+          "title": "Los sabores del mundo",
+          "source": "ai",
+          "level_label": "約 C1（AI 生成）",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-08-01-C2-fallback",
+          "level": "C2",
+          "title": "Un viaje por las culturas gastronómicas del mundo",
+          "source": "ai",
+          "level_label": "約 C2（AI 生成）",
+          "origin_name": ""
+        }
+      ]
+    },
     {
       "date": "2026-07-31",
       "articles": [

@@ -1,0 +1,839 @@
+{
+  "date": "2026-08-01",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-08-01-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Los días de la semana",
+        "text": "Hay siete días en la semana. El lunes voy a la escuela. El martes estudio español. El miércoles como con mi familia. El jueves hago ejercicio. El viernes salgo con mis amigos. El sábado descanso en casa. El domingo veo televisión. Me gustan todos los días. La semana es muy bonita.",
+        "translation": "一週有七天。星期一我去學校。星期二我學習西班牙語。星期三我和家人一起吃飯。星期四我做運動。星期五我和朋友出去。星期六我在家休息。星期日我看電視。我喜歡每一天。這一週非常美好。",
+        "words": [
+          {
+            "word": "semana",
+            "pos": "n. f.",
+            "zh": "週、星期",
+            "example": "Hay siete días en la semana.",
+            "example_zh": "一週有七天。"
+          },
+          {
+            "word": "lunes",
+            "pos": "n. m.",
+            "zh": "星期一",
+            "example": "El lunes voy a la escuela.",
+            "example_zh": "星期一我去學校。"
+          },
+          {
+            "word": "escuela",
+            "pos": "n. f.",
+            "zh": "學校",
+            "example": "Mi escuela es grande.",
+            "example_zh": "我的學校很大。"
+          },
+          {
+            "word": "estudiar",
+            "pos": "v.",
+            "zh": "學習、讀書",
+            "example": "El martes estudio español.",
+            "example_zh": "星期二我學習西班牙語。"
+          },
+          {
+            "word": "familia",
+            "pos": "n. f.",
+            "zh": "家人、家庭",
+            "example": "Como con mi familia.",
+            "example_zh": "我和家人一起吃飯。"
+          },
+          {
+            "word": "ejercicio",
+            "pos": "n. m.",
+            "zh": "運動、練習",
+            "example": "El jueves hago ejercicio.",
+            "example_zh": "星期四我做運動。"
+          },
+          {
+            "word": "amigos",
+            "pos": "n. m. pl.",
+            "zh": "朋友們",
+            "example": "Salgo con mis amigos el viernes.",
+            "example_zh": "星期五我和朋友們出去。"
+          },
+          {
+            "word": "descansar",
+            "pos": "v.",
+            "zh": "休息",
+            "example": "El sábado descanso en casa.",
+            "example_zh": "星期六我在家休息。"
+          },
+          {
+            "word": "televisión",
+            "pos": "n. f.",
+            "zh": "電視",
+            "example": "El domingo veo televisión.",
+            "example_zh": "星期日我看電視。"
+          },
+          {
+            "word": "bonita",
+            "pos": "adj. f.",
+            "zh": "美好的、漂亮的",
+            "example": "La semana es muy bonita.",
+            "example_zh": "這一週非常美好。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cuántos días hay en la semana?",
+            "options": [
+              "Cinco",
+              "Seis",
+              "Siete",
+              "Ocho"
+            ],
+            "answer": 2,
+            "explain": "文章開頭明確說「Hay siete días en la semana（一週有七天）」，答案是七天。"
+          },
+          {
+            "q": "¿Qué hace la persona el martes?",
+            "options": [
+              "Hace ejercicio",
+              "Estudia español",
+              "Ve televisión",
+              "Descansa en casa"
+            ],
+            "answer": 1,
+            "explain": "文中寫道「El martes estudio español（星期二我學習西班牙語）」，故答案為學習西班牙語。"
+          },
+          {
+            "q": "¿Con quién come la persona el miércoles?",
+            "options": [
+              "Con sus amigos",
+              "Con su profesor",
+              "Con su familia",
+              "Sola"
+            ],
+            "answer": 2,
+            "explain": "文中說「El miércoles como con mi familia（星期三我和家人一起吃飯）」，故答案是家人。"
+          },
+          {
+            "q": "¿Qué día descansa la persona en casa?",
+            "options": [
+              "El viernes",
+              "El jueves",
+              "El domingo",
+              "El sábado"
+            ],
+            "answer": 3,
+            "explain": "文中寫「El sábado descanso en casa（星期六我在家休息）」，故答案是星期六。"
+          },
+          {
+            "q": "¿Qué hace la persona el domingo?",
+            "options": [
+              "Sale con amigos",
+              "Hace ejercicio",
+              "Ve televisión",
+              "Va a la escuela"
+            ],
+            "answer": 2,
+            "explain": "文中說「El domingo veo televisión（星期日我看電視）」，故答案是看電視。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-08-01-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Una tarde de compras",
+        "text": "El sábado pasado, fui al centro comercial con mi amiga Laura. Quería comprar una chaqueta nueva porque el invierno llegó muy pronto este año. Primero, entramos en una tienda grande y vi muchas chaquetas bonitas. Elegí una de color azul y la probé en el probador. Me quedó bien y el precio fue razonable. También compré unos pantalones negros porque estaban en oferta. Al final, pagué con tarjeta de crédito y la dependienta fue muy amable. Esta semana, voy a llevar la chaqueta nueva al trabajo. Estoy muy contenta con mis compras.",
+        "translation": "上個星期六，我和我的朋友蘿拉去了購物中心。我想買一件新夾克，因為今年冬天來得很早。首先，我們走進一家大商店，我看到了很多漂亮的夾克。我選了一件藍色的，並在試衣間試穿了。它很合身，價格也合理。我也買了一條黑色長褲，因為它們在特賣。最後，我用信用卡付款，店員非常親切。這週，我打算穿新夾克去上班。我對這次購物感到非常滿意。",
+        "words": [
+          {
+            "word": "chaqueta",
+            "pos": "n. f.",
+            "zh": "夾克、外套",
+            "example": "Compré una chaqueta azul en la tienda.",
+            "example_zh": "我在商店買了一件藍色夾克。"
+          },
+          {
+            "word": "tienda",
+            "pos": "n. f.",
+            "zh": "商店",
+            "example": "Hay una tienda de ropa cerca de mi casa.",
+            "example_zh": "我家附近有一家服裝店。"
+          },
+          {
+            "word": "probador",
+            "pos": "n. m.",
+            "zh": "試衣間",
+            "example": "Me probé los pantalones en el probador.",
+            "example_zh": "我在試衣間試穿了那條褲子。"
+          },
+          {
+            "word": "quedar",
+            "pos": "v.",
+            "zh": "（衣服）合身、適合",
+            "example": "Este vestido me queda muy bien.",
+            "example_zh": "這件洋裝非常合我的身。"
+          },
+          {
+            "word": "razonable",
+            "pos": "adj.",
+            "zh": "合理的",
+            "example": "El precio de la chaqueta fue razonable.",
+            "example_zh": "那件夾克的價格很合理。"
+          },
+          {
+            "word": "oferta",
+            "pos": "n. f.",
+            "zh": "特賣、優惠",
+            "example": "Compré estos zapatos porque estaban en oferta.",
+            "example_zh": "我買了這雙鞋，因為它們在特賣。"
+          },
+          {
+            "word": "dependienta",
+            "pos": "n. f.",
+            "zh": "（女）店員",
+            "example": "La dependienta me ayudó a encontrar mi talla.",
+            "example_zh": "那位女店員幫我找到了我的尺寸。"
+          },
+          {
+            "word": "tarjeta de crédito",
+            "pos": "n. f.",
+            "zh": "信用卡",
+            "example": "Pagué la ropa con tarjeta de crédito.",
+            "example_zh": "我用信用卡付了衣服的費用。"
+          },
+          {
+            "word": "elegir",
+            "pos": "v.",
+            "zh": "選擇",
+            "example": "Elegí una falda roja entre muchas opciones.",
+            "example_zh": "我從許多選項中選了一條紅色裙子。"
+          },
+          {
+            "word": "centro comercial",
+            "pos": "n. m.",
+            "zh": "購物中心",
+            "example": "Voy a ir al centro comercial este fin de semana.",
+            "example_zh": "我這個週末打算去購物中心。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Con quién fue la narradora al centro comercial?",
+            "options": [
+              "Con su madre",
+              "Con su amiga Laura",
+              "Con su hermano",
+              "Con su novio"
+            ],
+            "answer": 1,
+            "explain": "文中提到「fui al centro comercial con mi amiga Laura」，說話者是和朋友蘿拉一起去的。"
+          },
+          {
+            "q": "¿Por qué quería comprar una chaqueta nueva?",
+            "options": [
+              "Porque era su cumpleaños",
+              "Porque estaba en oferta",
+              "Porque el invierno llegó muy pronto",
+              "Porque su amiga le recomendó una"
+            ],
+            "answer": 2,
+            "explain": "文中說「porque el invierno llegó muy pronto este año」，因為今年冬天來得很早。"
+          },
+          {
+            "q": "¿De qué color fue la chaqueta que eligió?",
+            "options": [
+              "Roja",
+              "Verde",
+              "Negra",
+              "Azul"
+            ],
+            "answer": 3,
+            "explain": "文中提到「Elegí una de color azul」，她選了一件藍色的夾克。"
+          },
+          {
+            "q": "¿Cómo pagó al final?",
+            "options": [
+              "Pagó en efectivo",
+              "Pagó con tarjeta de crédito",
+              "No pagó nada porque fue gratis",
+              "Pagó con cheque"
+            ],
+            "answer": 1,
+            "explain": "文中說「pagué con tarjeta de crédito」，她用信用卡付款。"
+          },
+          {
+            "q": "¿Qué va a hacer esta semana con la chaqueta nueva?",
+            "options": [
+              "Va a venderla",
+              "Va a regalarla a Laura",
+              "Va a llevarla al trabajo",
+              "Va a devolverla a la tienda"
+            ],
+            "answer": 2,
+            "explain": "文中使用 Futuro próximo 說「voy a llevar la chaqueta nueva al trabajo」，她打算穿新夾克去上班。"
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "2026-08-01-B1-1",
+        "source": "ai",
+        "level_label": "B1",
+        "title": "Sabores del mundo: la comida como cultura",
+        "text": "La comida no es solo una necesidad básica; también es una ventana hacia la cultura y la historia de cada pueblo. Cuando viajé a Japón el año pasado, me sorprendió que los japoneses comieran con tanta calma y respeto. Cada plato era una obra de arte que reflejaba siglos de tradición.\n\nEn México, por otro lado, descubrí que la gastronomía era mucho más que tacos y enchiladas. Los mercados locales estaban llenos de ingredientes que nunca había visto antes, y los vendedores me explicaron que muchas recetas habían pasado de generación en generación durante cientos de años.\n\nSi pudiera elegir, viviría en Italia solo por su cocina. Los italianos creen que una buena comida debe compartirse con familia y amigos, y esa filosofía me parece muy hermosa. Aunque no soy experta en cocina, aprendí algunas recetas italianas porque quería reproducir esa experiencia en casa.\n\nLo que más me impresionó fue que, a pesar de las diferencias entre culturas, la comida siempre tiene el poder de unir a las personas. Sentarse a la mesa con alguien es, quizás, la forma más universal de construir amistad.",
+        "translation": "食物不只是基本需求，它也是了解每個民族文化與歷史的一扇窗。去年我前往日本旅行時，日本人用餐時那份從容與敬意令我驚訝。每道菜都是一件藝術品，反映了數百年的傳統。\n\n另一方面，在墨西哥，我發現當地的美食文化遠不止塔可和恩查拉達。當地市場裡擺滿了我從未見過的食材，攤販們告訴我，許多食譜已經世代相傳了數百年。\n\n如果可以選擇，我會只為了義大利料理而住在那裡。義大利人認為，一頓美好的餐食應該與家人和朋友共享，這種理念我覺得非常美好。雖然我不是烹飪專家，但我學了幾道義大利食譜，因為我想在家重現那種體驗。\n\n最讓我印象深刻的是，儘管各文化之間存在差異，食物始終擁有將人們聚在一起的力量。與某人同坐一桌，或許是建立友誼最普世的方式。",
+        "words": [
+          {
+            "word": "gastronomía",
+            "pos": "n.f.",
+            "zh": "美食學；飲食文化",
+            "example": "La gastronomía española es conocida en todo el mundo.",
+            "example_zh": "西班牙的飲食文化舉世聞名。"
+          },
+          {
+            "word": "ingrediente",
+            "pos": "n.m.",
+            "zh": "食材；原料",
+            "example": "Este plato lleva ingredientes frescos del mercado.",
+            "example_zh": "這道菜使用市場裡的新鮮食材。"
+          },
+          {
+            "word": "receta",
+            "pos": "n.f.",
+            "zh": "食譜；配方",
+            "example": "Mi abuela me enseñó su receta secreta de paella.",
+            "example_zh": "我祖母教了我她的海鮮燉飯秘方。"
+          },
+          {
+            "word": "generación",
+            "pos": "n.f.",
+            "zh": "世代；一代",
+            "example": "Esta tradición ha pasado de generación en generación.",
+            "example_zh": "這個傳統已世代相傳。"
+          },
+          {
+            "word": "reflejar",
+            "pos": "v.",
+            "zh": "反映；體現",
+            "example": "La música refleja los sentimientos del pueblo.",
+            "example_zh": "音樂反映了人民的情感。"
+          },
+          {
+            "word": "compartir",
+            "pos": "v.",
+            "zh": "分享；共享",
+            "example": "Me gusta compartir la cena con mis amigos los viernes.",
+            "example_zh": "我喜歡在星期五與朋友共進晚餐。"
+          },
+          {
+            "word": "reproducir",
+            "pos": "v.",
+            "zh": "重現；複製",
+            "example": "Intenté reproducir el sabor del restaurante en casa.",
+            "example_zh": "我試著在家重現餐廳的味道。"
+          },
+          {
+            "word": "unir",
+            "pos": "v.",
+            "zh": "聯合；連結；使聚在一起",
+            "example": "El deporte tiene el poder de unir a las personas.",
+            "example_zh": "運動有將人們聚在一起的力量。"
+          },
+          {
+            "word": "experto/a",
+            "pos": "adj./n.",
+            "zh": "專家的；擅長的；專家",
+            "example": "Ella es experta en cocina asiática.",
+            "example_zh": "她是亞洲料理的專家。"
+          },
+          {
+            "word": "universal",
+            "pos": "adj.",
+            "zh": "普世的；普遍的",
+            "example": "La música es un lenguaje universal.",
+            "example_zh": "音樂是一種普世語言。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué le sorprendió al autor o autora cuando viajó a Japón?",
+            "options": [
+              "Que la comida japonesa era muy picante.",
+              "Que los japoneses comían con calma y respeto.",
+              "Que los mercados japoneses tenían muchos ingredientes.",
+              "Que los japoneses no compartían la comida con nadie."
+            ],
+            "answer": 1,
+            "explain": "文中提到「me sorprendió que los japoneses comieran con tanta calma y respeto」，故答案為選項1：日本人用餐時非常從容且充滿敬意。"
+          },
+          {
+            "q": "Según el texto, ¿qué aprendieron los vendedores del mercado en México?",
+            "options": [
+              "Que las recetas mexicanas eran difíciles de aprender.",
+              "Que muchas recetas habían pasado de generación en generación.",
+              "Que los ingredientes mexicanos eran muy caros.",
+              "Que la gastronomía italiana era mejor que la mexicana."
+            ],
+            "answer": 1,
+            "explain": "文中說「los vendedores me explicaron que muchas recetas habían pasado de generación en generación」，故答案為選項1：許多食譜已世代相傳。"
+          },
+          {
+            "q": "¿Por qué aprendió el autor o autora recetas italianas?",
+            "options": [
+              "Porque quería abrir un restaurante italiano.",
+              "Porque era experto/a en cocina italiana.",
+              "Porque quería reproducir esa experiencia en casa.",
+              "Porque vivía en Italia en ese momento."
+            ],
+            "answer": 2,
+            "explain": "文中寫道「aprendí algunas recetas italianas porque quería reproducir esa experiencia en casa」，故答案為選項2：因為想在家重現那種體驗。"
+          },
+          {
+            "q": "¿Qué filosofía tienen los italianos sobre la comida, según el texto?",
+            "options": [
+              "Que la comida debe prepararse rápidamente.",
+              "Que una buena comida debe compartirse con familia y amigos.",
+              "Que la comida italiana es la mejor del mundo.",
+              "Que comer solo es más tranquilo y agradable."
+            ],
+            "answer": 1,
+            "explain": "文中提到「Los italianos creen que una buena comida debe compartirse con familia y amigos」，故答案為選項1：義大利人認為好的餐食應與家人朋友共享。"
+          },
+          {
+            "q": "¿Cuál es la idea principal del último párrafo?",
+            "options": [
+              "Que la comida de cada país es completamente diferente.",
+              "Que es difícil hacer amigos cuando se viaja.",
+              "Que la comida tiene el poder de unir a las personas.",
+              "Que sentarse a la mesa es una costumbre solo de algunos países."
+            ],
+            "answer": 2,
+            "explain": "最後一段的核心概念是「la comida siempre tiene el poder de unir a las personas」，即食物始終擁有將人們聚在一起的力量，故答案為選項2。"
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "2026-08-01-B2-fallback",
+        "source": "ai",
+        "level_label": "約 B2（AI 生成）",
+        "title": "La riqueza de las culturas culinarias del mundo",
+        "text": "La comida es mucho más que simple nutrición: es una expresión profunda de la identidad cultural de cada pueblo. Cuando viajé a Japón el año pasado, me sorprendió que los habitantes comieran con tanta ceremonia y respeto. Cada plato que probé tenía una presentación cuidadosa que nunca había visto antes.\n\nEn cambio, en México la experiencia fue completamente diferente. Los mercados estaban llenos de colores y aromas intensos. Me dijeron que muchas de las recetas que se preparan hoy en día habían sido transmitidas de generación en generación durante siglos. Si pudiera volver, sin duda pasaría más tiempo aprendiendo a cocinar los platos tradicionales.\n\nEn España, descubrí que la gente valoraba enormemente el tiempo que pasaba en la mesa con familia y amigos. Las sobremesas podían durar horas, algo que me pareció muy hermoso.\n\nCada cultura tiene su propia manera de entender la alimentación. Aunque las tradiciones culinarias son distintas, todas comparten un elemento común: la comida reúne a las personas y crea lazos que van más allá de lo que cualquier idioma podría expresar.",
+        "translation": "食物遠不只是單純的營養攝取，它是每個民族文化認同的深刻表達。去年我去日本旅行時，當地居民用餐時所展現的儀式感與尊重令我十分驚訝。我品嚐的每一道菜都有著我從未見過的精心擺盤。\n\n相比之下，在墨西哥的體驗則完全不同。市場裡充滿了濃烈的色彩與香氣。有人告訴我，如今人們烹製的許多食譜已經世代相傳了幾個世紀。如果能再回去，我無疑會花更多時間學習烹調傳統菜餚。\n\n在西班牙，我發現人們非常珍視與家人和朋友共度餐桌時光。飯後閒聊可以持續好幾個小時，這讓我覺得十分美好。\n\n每種文化都有其獨特的飲食理解方式。儘管烹飪傳統各有不同，但都共享一個共同元素：食物將人們聚集在一起，創造出任何語言都難以言喻的情感連結。",
+        "words": [
+          {
+            "word": "nutrición",
+            "pos": "n.f.",
+            "zh": "營養；營養攝取",
+            "example": "Una buena nutrición es esencial para mantenerse sano.",
+            "example_zh": "良好的營養攝取對保持健康至關重要。"
+          },
+          {
+            "word": "ceremonia",
+            "pos": "n.f.",
+            "zh": "儀式；典禮",
+            "example": "La ceremonia del té en Japón es muy elaborada.",
+            "example_zh": "日本的茶道儀式非常繁複講究。"
+          },
+          {
+            "word": "transmitir",
+            "pos": "v.",
+            "zh": "傳遞；傳授；傳承",
+            "example": "Los abuelos transmitieron sus tradiciones a los nietos.",
+            "example_zh": "祖父母將他們的傳統傳授給了孫子女。"
+          },
+          {
+            "word": "generación",
+            "pos": "n.f.",
+            "zh": "世代；一代",
+            "example": "Esta receta ha pasado de generación en generación.",
+            "example_zh": "這個食譜已經世代相傳。"
+          },
+          {
+            "word": "sobremesa",
+            "pos": "n.f.",
+            "zh": "飯後閒聊；餐後在桌邊共度的時光",
+            "example": "En España, la sobremesa es una parte importante de la comida.",
+            "example_zh": "在西班牙，飯後閒聊是用餐的重要環節。"
+          },
+          {
+            "word": "aroma",
+            "pos": "n.m.",
+            "zh": "香氣；氣味",
+            "example": "El aroma del café recién hecho llenó la cocina.",
+            "example_zh": "剛煮好的咖啡香氣瀰漫整個廚房。"
+          },
+          {
+            "word": "alimentación",
+            "pos": "n.f.",
+            "zh": "飲食；食物攝取",
+            "example": "Una alimentación equilibrada mejora la calidad de vida.",
+            "example_zh": "均衡的飲食能提升生活品質。"
+          },
+          {
+            "word": "lazo",
+            "pos": "n.m.",
+            "zh": "連結；紐帶；關係",
+            "example": "La comida crea lazos entre las personas.",
+            "example_zh": "食物在人與人之間創造情感連結。"
+          },
+          {
+            "word": "culinario/a",
+            "pos": "adj.",
+            "zh": "烹飪的；廚藝的",
+            "example": "México tiene una tradición culinaria muy rica.",
+            "example_zh": "墨西哥擁有非常豐富的烹飪傳統。"
+          },
+          {
+            "word": "valorar",
+            "pos": "v.",
+            "zh": "珍視；重視；評估",
+            "example": "Ella valora mucho el tiempo que pasa con su familia.",
+            "example_zh": "她非常珍視與家人相處的時光。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué le sorprendió al autor cuando viajó a Japón?",
+            "options": [
+              "Los precios tan baratos de la comida",
+              "La ceremonia y el respeto con que la gente comía",
+              "La gran variedad de mercados con colores intensos",
+              "La duración de las sobremesas en los restaurantes"
+            ],
+            "answer": 1,
+            "explain": "文中提到作者去日本時，令他驚訝的是當地居民用餐時展現的儀式感與尊重（ceremonia y respeto）。"
+          },
+          {
+            "q": "Según el texto, ¿qué caracteriza a los mercados de México?",
+            "options": [
+              "Son muy silenciosos y ordenados",
+              "Tienen poca variedad de productos",
+              "Están llenos de colores y aromas intensos",
+              "Son famosos por su ceremonia y presentación"
+            ],
+            "answer": 2,
+            "explain": "文中明確描述墨西哥市場「estaban llenos de colores y aromas intensos」（充滿濃烈的色彩與香氣）。"
+          },
+          {
+            "q": "¿Qué haría el autor si pudiera volver a México?",
+            "options": [
+              "Visitaría más museos de arte culinario",
+              "Pasaría más tiempo aprendiendo a cocinar platos tradicionales",
+              "Estudiaría el idioma para comunicarse mejor",
+              "Compraría recetas antiguas en los mercados"
+            ],
+            "answer": 1,
+            "explain": "文中使用條件式表示：「pasaría más tiempo aprendiendo a cocinar los platos tradicionales」（會花更多時間學習烹調傳統菜餚）。"
+          },
+          {
+            "q": "¿Qué descubrió el autor sobre la cultura española en la mesa?",
+            "options": [
+              "Que los españoles comen muy rápido para volver al trabajo",
+              "Que la presentación de los platos es lo más importante",
+              "Que las recetas españolas llevan siglos de historia",
+              "Que la gente valoraba mucho el tiempo con familia y amigos en la mesa"
+            ],
+            "answer": 3,
+            "explain": "文中提到在西班牙發現人們非常珍視（valoraba enormemente）與家人和朋友共度餐桌時光，飯後閒聊可持續好幾個小時。"
+          },
+          {
+            "q": "¿Cuál es la idea principal del último párrafo?",
+            "options": [
+              "La comida japonesa es la más sofisticada del mundo",
+              "Es imposible comparar las tradiciones culinarias de distintos países",
+              "A pesar de las diferencias, la comida une a las personas en todas las culturas",
+              "Solo los idiomas pueden conectar a personas de distintas culturas"
+            ],
+            "answer": 2,
+            "explain": "最後一段的核心概念是：儘管各地烹飪傳統不同，食物這個共同元素將人們聚集在一起，創造超越語言的情感連結。"
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-08-01-C1-fallback",
+        "source": "ai",
+        "level_label": "約 C1（AI 生成）",
+        "title": "Los sabores del mundo",
+        "text": "La comida es mucho más que una necesidad básica; es una ventana a la cultura de cada pueblo. Cuando viajé a Japón el año pasado, me sorprendió que los japoneses comieran pescado crudo con tanta naturalidad. Al principio pensé que no me gustaría, pero después de probarlo, me pareció delicioso. En México, descubrí que los chiles no solo añaden picante, sino que también aportan sabores complejos que hacen que cada platillo sea único. Si pudiera visitar India, me encantaría probar sus curry, que combinan especias que yo nunca habría imaginado juntas. En Italia, aprendí que la pasta no es simplemente un plato rápido, sino una tradición familiar que se transmite de generación en generación. Lo que más me llamó la atención fue que, aunque las culturas sean muy diferentes, todas comparten el hábito de reunirse alrededor de la mesa para celebrar momentos importantes. La comida nos conecta porque refleja quiénes somos, de dónde venimos y cómo entendemos la vida. Por eso, conocer la gastronomía de otros países es una de las mejores maneras de comprender el mundo.",
+        "translation": "食物遠不只是基本需求；它是一扇通往各民族文化的窗。去年我去日本旅行時，驚訝地發現日本人吃生魚片是如此自然。一開始我以為自己不會喜歡，但嚐過之後，覺得非常美味。在墨西哥，我發現辣椒不只是增添辛辣，還帶來複雜的風味，讓每道菜都獨一無二。如果我能去印度，我很想嚐嚐他們的咖哩，那些香料的組合是我從未想像過的。在義大利，我學到義大利麵不只是一道快速料理，而是一代一代傳承下來的家族傳統。最讓我印象深刻的是，雖然各種文化差異很大，但所有文化都有圍坐在餐桌旁慶祝重要時刻的習慣。食物連結著我們，因為它反映了我們是誰、我們從哪裡來，以及我們如何理解生活。因此，了解其他國家的飲食文化，是認識世界最好的方式之一。",
+        "words": [
+          {
+            "word": "ventana",
+            "pos": "n.",
+            "zh": "窗；窗口（比喻通道）",
+            "example": "El idioma es una ventana a otra cultura.",
+            "example_zh": "語言是通往另一種文化的窗口。"
+          },
+          {
+            "word": "crudo/a",
+            "pos": "adj.",
+            "zh": "生的；未烹煮的",
+            "example": "En algunos países se come carne cruda.",
+            "example_zh": "在某些國家，人們吃生肉。"
+          },
+          {
+            "word": "aportar",
+            "pos": "v.",
+            "zh": "提供；帶來；貢獻",
+            "example": "El ejercicio aporta muchos beneficios para la salud.",
+            "example_zh": "運動為健康帶來許多益處。"
+          },
+          {
+            "word": "platillo",
+            "pos": "n.",
+            "zh": "菜餚；小盤子",
+            "example": "Este platillo tradicional se prepara con maíz.",
+            "example_zh": "這道傳統菜餚是用玉米製作的。"
+          },
+          {
+            "word": "especias",
+            "pos": "n. pl.",
+            "zh": "香料",
+            "example": "Las especias le dan un aroma único a la comida.",
+            "example_zh": "香料賦予食物獨特的香氣。"
+          },
+          {
+            "word": "transmitir",
+            "pos": "v.",
+            "zh": "傳遞；傳承；傳播",
+            "example": "Los abuelos transmiten sus costumbres a los nietos.",
+            "example_zh": "祖父母將習俗傳承給孫子輩。"
+          },
+          {
+            "word": "generación",
+            "pos": "n.",
+            "zh": "世代；一代",
+            "example": "Cada generación tiene sus propias ideas.",
+            "example_zh": "每個世代都有自己的想法。"
+          },
+          {
+            "word": "reunirse",
+            "pos": "v. pron.",
+            "zh": "聚集；集合；團聚",
+            "example": "La familia se reúne cada domingo para comer juntos.",
+            "example_zh": "這家人每個星期天聚在一起吃飯。"
+          },
+          {
+            "word": "gastronomía",
+            "pos": "n.",
+            "zh": "飲食文化；美食學",
+            "example": "La gastronomía española es famosa en todo el mundo.",
+            "example_zh": "西班牙的飲食文化舉世聞名。"
+          },
+          {
+            "word": "reflejar",
+            "pos": "v.",
+            "zh": "反映；反射",
+            "example": "La música refleja los sentimientos de una época.",
+            "example_zh": "音樂反映了一個時代的情感。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué le sorprendió al autor cuando viajó a Japón?",
+            "options": [
+              "Que los japoneses no comieran mucho arroz.",
+              "Que los japoneses comieran pescado crudo con naturalidad.",
+              "Que la comida japonesa fuera muy picante.",
+              "Que los japoneses prefirieran la comida italiana."
+            ],
+            "answer": 1,
+            "explain": "文中提到作者去日本旅行時，驚訝地發現日本人非常自然地吃生魚（pescado crudo）。"
+          },
+          {
+            "q": "Según el texto, ¿cuál es la función de los chiles en la cocina mexicana?",
+            "options": [
+              "Solo sirven para decorar los platos.",
+              "Únicamente añaden sabor dulce.",
+              "Aportan picante y sabores complejos.",
+              "Se usan solo en postres tradicionales."
+            ],
+            "answer": 2,
+            "explain": "文中說明辣椒不只帶來辛辣（picante），還提供複雜的風味（sabores complejos）。"
+          },
+          {
+            "q": "¿Qué habría querido hacer el autor si pudiera visitar India?",
+            "options": [
+              "Aprender a bailar danzas tradicionales.",
+              "Conocer los monumentos históricos.",
+              "Probar los curry con sus especias.",
+              "Comprar ropa típica del país."
+            ],
+            "answer": 2,
+            "explain": "文中使用條件式表達：「Si pudiera visitar India, me encantaría probar sus curry」，說明作者想嚐印度咖哩。"
+          },
+          {
+            "q": "¿Cómo describe el texto la pasta italiana?",
+            "options": [
+              "Como un plato rápido y moderno.",
+              "Como una tradición familiar transmitida de generación en generación.",
+              "Como una comida que solo comen los jóvenes.",
+              "Como un plato inventado hace pocos años."
+            ],
+            "answer": 1,
+            "explain": "文中說義大利麵是「una tradición familiar que se transmite de generación en generación」，即世代相傳的家族傳統。"
+          },
+          {
+            "q": "¿Qué idea principal comparten todas las culturas mencionadas en el texto?",
+            "options": [
+              "Todas prefieren la comida picante.",
+              "Todas tienen los mismos ingredientes en sus platos.",
+              "Todas se reúnen alrededor de la mesa para celebrar momentos importantes.",
+              "Todas consideran que la pasta es el plato más importante."
+            ],
+            "answer": 2,
+            "explain": "文中提到雖然各文化差異很大，但共同點是「reunirse alrededor de la mesa para celebrar momentos importantes」，即圍坐餐桌慶祝重要時刻。"
+          }
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "2026-08-01-C2-fallback",
+        "source": "ai",
+        "level_label": "約 C2（AI 生成）",
+        "title": "Un viaje por las culturas gastronómicas del mundo",
+        "text": "La comida es mucho más que un simple alimento: es una ventana hacia la cultura y la identidad de cada pueblo. Cuando viajé a Japón el año pasado, me sorprendió que los japoneses comieran con palillos y que cada plato se presentara con una atención artística increíble. Si pudiera volver, probaría más variedades de ramen y sushi.\n\nEn México, la gastronomía es tan rica que la UNESCO la declaró Patrimonio Cultural Inmaterial de la Humanidad. Durante mi estancia, descubrí que los mexicanos usaban ingredientes como el chile y el cacao desde tiempos prehispánicos. Me encantó el mole, una salsa compleja que tarda horas en prepararse.\n\nPor otro lado, en Italia aprendí que la pasta no era simplemente un plato, sino toda una filosofía de vida. Los italianos me explicaron que era importante respetar las recetas tradicionales de cada región. Si viviera en Roma, comería pasta fresca cada día sin ninguna duda.\n\nEstas experiencias me enseñaron que, aunque las culturas sean diferentes, la comida siempre nos une y nos permite comprender mejor a las personas que conocemos.",
+        "translation": "食物遠不只是簡單的養分：它是通往每個民族文化與身份認同的一扇窗。去年我前往日本旅行時，令我驚訝的是日本人用筷子吃飯，而且每道菜的擺盤都有著令人難以置信的藝術感。如果我能再回去，我會嘗試更多種類的拉麵和壽司。\n\n在墨西哥，其美食文化是如此豐富，以至於聯合國教科文組織將其列為人類非物質文化遺產。在旅居期間，我發現墨西哥人從前哥倫布時期就開始使用辣椒和可可等食材。我非常喜愛莫雷醬，這是一種需要花費數小時才能製作完成的複雜醬汁。\n\n另一方面，在義大利我了解到義大利麵不僅僅是一道菜，而是一種完整的生活哲學。義大利人告訴我，尊重每個地區的傳統食譜是非常重要的。如果我住在羅馬，我每天都會毫無疑問地吃新鮮義大利麵。\n\n這些經歷教會了我：儘管各種文化有所不同，食物始終將我們連結在一起，並讓我們能夠更深入地了解所認識的人。",
+        "words": [
+          {
+            "word": "gastronomía",
+            "pos": "n.f.",
+            "zh": "美食學；飲食文化",
+            "example": "La gastronomía española es famosa en todo el mundo.",
+            "example_zh": "西班牙的飲食文化在全世界都很有名。"
+          },
+          {
+            "word": "palillos",
+            "pos": "n.m.pl.",
+            "zh": "筷子",
+            "example": "Aprendí a comer con palillos cuando visité China.",
+            "example_zh": "我造訪中國時學會了用筷子吃飯。"
+          },
+          {
+            "word": "patrimonio",
+            "pos": "n.m.",
+            "zh": "遺產；財產",
+            "example": "El tango es patrimonio cultural de Argentina.",
+            "example_zh": "探戈是阿根廷的文化遺產。"
+          },
+          {
+            "word": "ingrediente",
+            "pos": "n.m.",
+            "zh": "食材；原料",
+            "example": "El ingrediente principal de este plato es el tomate.",
+            "example_zh": "這道菜的主要食材是番茄。"
+          },
+          {
+            "word": "receta",
+            "pos": "n.f.",
+            "zh": "食譜；配方",
+            "example": "Mi abuela me enseñó la receta tradicional de su región.",
+            "example_zh": "我祖母教了我她家鄉的傳統食譜。"
+          },
+          {
+            "word": "declarar",
+            "pos": "v.",
+            "zh": "宣布；宣告",
+            "example": "El gobierno declaró ese edificio como monumento histórico.",
+            "example_zh": "政府宣布那棟建築為歷史古蹟。"
+          },
+          {
+            "word": "estancia",
+            "pos": "n.f.",
+            "zh": "停留；旅居",
+            "example": "Durante mi estancia en París, visité muchos museos.",
+            "example_zh": "在巴黎旅居期間，我參觀了許多博物館。"
+          },
+          {
+            "word": "filosofía",
+            "pos": "n.f.",
+            "zh": "哲學；人生觀",
+            "example": "Para él, el deporte es una filosofía de vida.",
+            "example_zh": "對他來說，運動是一種生活哲學。"
+          },
+          {
+            "word": "respetar",
+            "pos": "v.",
+            "zh": "尊重；遵守",
+            "example": "Es importante respetar las costumbres de otros países.",
+            "example_zh": "尊重其他國家的習俗是很重要的。"
+          },
+          {
+            "word": "unir",
+            "pos": "v.",
+            "zh": "連結；團結",
+            "example": "La música tiene el poder de unir a las personas.",
+            "example_zh": "音樂擁有將人們連結在一起的力量。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué le sorprendió al autor cuando viajó a Japón?",
+            "options": [
+              "Que los japoneses comieran mucho arroz.",
+              "Que los japoneses comieran con palillos y presentaran los platos artísticamente.",
+              "Que los japoneses no comieran sushi.",
+              "Que los japoneses usaran tenedor y cuchillo."
+            ],
+            "answer": 1,
+            "explain": "文章提到作者在日本感到驚訝的是日本人使用筷子進食，以及每道菜都有藝術感的擺盤呈現。"
+          },
+          {
+            "q": "¿Por qué la gastronomía mexicana es especial según el texto?",
+            "options": [
+              "Porque es la más barata del mundo.",
+              "Porque la UNESCO la declaró Patrimonio Cultural Inmaterial de la Humanidad.",
+              "Porque solo usa ingredientes modernos.",
+              "Porque fue inventada en el siglo XX."
+            ],
+            "answer": 1,
+            "explain": "文章明確指出聯合國教科文組織（UNESCO）將墨西哥美食列為人類非物質文化遺產。"
+          },
+          {
+            "q": "¿Qué es el mole según el texto?",
+            "options": [
+              "Un tipo de pasta italiana.",
+              "Un postre japonés muy dulce.",
+              "Una salsa compleja que tarda horas en prepararse.",
+              "Un ingrediente prehispánico sencillo."
+            ],
+            "answer": 2,
+            "explain": "文章描述莫雷醬（mole）是一種複雜的醬汁，需要花費數小時才能製作完成。"
+          },
+          {
+            "q": "¿Qué aprendió el autor sobre la pasta en Italia?",
+            "options": [
+              "Que la pasta es un plato muy moderno.",
+              "Que la pasta no es importante en Italia.",
+              "Que la pasta es igual en todas las regiones de Italia.",
+              "Que la pasta no era simplemente un plato, sino una filosofía de vida."
+            ],
+            "answer": 3,
+            "explain": "文章說明作者在義大利學到義大利麵不只是一道菜，而是一種完整的生活哲學。"
+          },
+          {
+            "q": "¿Cuál es la conclusión principal del texto?",
+            "options": [
+              "Que la comida japonesa es la mejor del mundo.",
+              "Que aunque las culturas sean diferentes, la comida siempre nos une.",
+              "Que es imposible entender otras culturas a través de la comida.",
+              "Que solo la gastronomía europea es importante."
+            ],
+            "answer": 1,
+            "explain": "文章最後一段的結論是：儘管各種文化有所不同，食物始終將人們連結在一起，幫助我們更了解彼此。"
+          }
+        ]
+      }
+    ]
+  }
+}

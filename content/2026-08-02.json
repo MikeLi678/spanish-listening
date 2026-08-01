@@ -1,0 +1,701 @@
+{
+  "date": "2026-08-02",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-08-02-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Mi ciudad",
+        "text": "Me llamo Sofía y vivo en Barcelona. Es una ciudad grande y bonita. Hay muchas tiendas, parques y restaurantes. El mar está cerca. Me gusta caminar por la playa. La gente es simpática. El tiempo es bueno casi siempre. Barcelona tiene museos muy famosos. Yo estoy muy contenta aquí. Es mi ciudad favorita.",
+        "translation": "我叫蘇菲亞，我住在巴塞隆納。這是一座大而美麗的城市。這裡有很多商店、公園和餐廳。海就在附近。我喜歡在海灘散步。人們很友善。天氣幾乎總是很好。巴塞隆納有非常著名的博物館。我在這裡非常開心。這是我最喜歡的城市。",
+        "words": [
+          {
+            "word": "ciudad",
+            "pos": "n.f.",
+            "zh": "城市",
+            "example": "Barcelona es una ciudad bonita.",
+            "example_zh": "巴塞隆納是一座美麗的城市。"
+          },
+          {
+            "word": "grande",
+            "pos": "adj.",
+            "zh": "大的",
+            "example": "Madrid es una ciudad muy grande.",
+            "example_zh": "馬德里是一座非常大的城市。"
+          },
+          {
+            "word": "tienda",
+            "pos": "n.f.",
+            "zh": "商店",
+            "example": "Hay muchas tiendas en el centro.",
+            "example_zh": "市中心有很多商店。"
+          },
+          {
+            "word": "parque",
+            "pos": "n.m.",
+            "zh": "公園",
+            "example": "Los niños juegan en el parque.",
+            "example_zh": "孩子們在公園裡玩耍。"
+          },
+          {
+            "word": "mar",
+            "pos": "n.m.",
+            "zh": "海、大海",
+            "example": "El mar está cerca de mi casa.",
+            "example_zh": "大海離我家很近。"
+          },
+          {
+            "word": "playa",
+            "pos": "n.f.",
+            "zh": "海灘",
+            "example": "Me gusta caminar por la playa.",
+            "example_zh": "我喜歡在海灘散步。"
+          },
+          {
+            "word": "simpático/a",
+            "pos": "adj.",
+            "zh": "友善的、親切的",
+            "example": "La gente de este pueblo es muy simpática.",
+            "example_zh": "這個村子的人非常友善。"
+          },
+          {
+            "word": "tiempo",
+            "pos": "n.m.",
+            "zh": "天氣；時間",
+            "example": "El tiempo en Valencia es muy bueno.",
+            "example_zh": "瓦倫西亞的天氣非常好。"
+          },
+          {
+            "word": "museo",
+            "pos": "n.m.",
+            "zh": "博物館",
+            "example": "Este museo es muy famoso.",
+            "example_zh": "這座博物館非常著名。"
+          },
+          {
+            "word": "favorito/a",
+            "pos": "adj.",
+            "zh": "最喜歡的",
+            "example": "El español es mi idioma favorito.",
+            "example_zh": "西班牙語是我最喜歡的語言。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Dónde vive Sofía?",
+            "options": [
+              "En Madrid",
+              "En Valencia",
+              "En Barcelona",
+              "En Sevilla"
+            ],
+            "answer": 2,
+            "explain": "短文第一句說「vivo en Barcelona」，所以蘇菲亞住在巴塞隆納。"
+          },
+          {
+            "q": "¿Cómo es Barcelona según el texto?",
+            "options": [
+              "Pequeña y fea",
+              "Grande y bonita",
+              "Fría y aburrida",
+              "Tranquila y antigua"
+            ],
+            "answer": 1,
+            "explain": "短文提到「Es una ciudad grande y bonita」，形容巴塞隆納又大又美。"
+          },
+          {
+            "q": "¿Qué hay en Barcelona?",
+            "options": [
+              "Solo parques",
+              "Montañas y ríos",
+              "Tiendas, parques y restaurantes",
+              "Solo museos"
+            ],
+            "answer": 2,
+            "explain": "短文說「Hay muchas tiendas, parques y restaurantes」，三者都有提到。"
+          },
+          {
+            "q": "¿Qué le gusta hacer a Sofía?",
+            "options": [
+              "Nadar en el mar",
+              "Caminar por la playa",
+              "Visitar museos",
+              "Comer en restaurantes"
+            ],
+            "answer": 1,
+            "explain": "短文明確說「Me gusta caminar por la playa」，她喜歡在海灘散步。"
+          },
+          {
+            "q": "¿Cómo se siente Sofía en Barcelona?",
+            "options": [
+              "Triste",
+              "Aburrida",
+              "Nerviosa",
+              "Contenta"
+            ],
+            "answer": 3,
+            "explain": "短文說「Yo estoy muy contenta aquí」，表示她在這裡非常開心。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-08-02-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Mi mejor amiga",
+        "text": "Mi mejor amiga se llama Laura. Ella tiene veinticinco años y vive en Madrid. Laura es simpática, inteligente y muy trabajadora. Tiene el pelo largo y los ojos marrones. Nosotras nos conocimos en la universidad hace tres años. El año pasado, viajamos juntas a Barcelona y lo pasamos muy bien. Visitamos muchos museos y comimos tapas deliciosas. Laura estudia medicina porque quiere ayudar a las personas. El próximo mes, vamos a celebrar su cumpleaños en un restaurante especial. Estoy muy contenta de tener una amiga tan buena.",
+        "translation": "我最好的朋友叫蘿拉。她二十五歲，住在馬德里。蘿拉個性親切、聰明，而且非常勤奮。她有一頭長髮和棕色的眼睛。我們三年前在大學認識。去年，我們一起去了巴塞隆納，玩得非常開心。我們參觀了許多博物館，也吃了美味的小點。蘿拉在讀醫學，因為她想幫助他人。下個月，我們要在一家特別的餐廳慶祝她的生日。我非常慶幸能擁有這樣一位好朋友。",
+        "words": [
+          {
+            "word": "simpática",
+            "pos": "adj.",
+            "zh": "親切的、和藹可親的",
+            "example": "Mi profesora es muy simpática con todos los estudiantes.",
+            "example_zh": "我的老師對所有學生都非常親切。"
+          },
+          {
+            "word": "trabajadora",
+            "pos": "adj.",
+            "zh": "勤奮的、努力工作的",
+            "example": "Ella es muy trabajadora y siempre termina sus tareas.",
+            "example_zh": "她非常勤奮，總是完成她的作業。"
+          },
+          {
+            "word": "conocimos",
+            "pos": "v.",
+            "zh": "認識（conocer 的簡單過去式，我們）",
+            "example": "Nos conocimos en una fiesta el año pasado.",
+            "example_zh": "我們去年在一個派對上認識。"
+          },
+          {
+            "word": "viajamos",
+            "pos": "v.",
+            "zh": "旅行（viajar 的簡單過去式，我們）",
+            "example": "El verano pasado viajamos a México.",
+            "example_zh": "去年夏天我們去了墨西哥旅行。"
+          },
+          {
+            "word": "visitamos",
+            "pos": "v.",
+            "zh": "參觀（visitar 的簡單過去式，我們）",
+            "example": "Visitamos el museo de arte ayer.",
+            "example_zh": "我們昨天參觀了藝術博物館。"
+          },
+          {
+            "word": "medicina",
+            "pos": "n.f.",
+            "zh": "醫學；藥",
+            "example": "Su hermano estudia medicina en la universidad.",
+            "example_zh": "她的哥哥在大學讀醫學。"
+          },
+          {
+            "word": "vamos a celebrar",
+            "pos": "v.",
+            "zh": "我們要慶祝（ir a + 不定詞，近未來式）",
+            "example": "Mañana vamos a celebrar el Año Nuevo.",
+            "example_zh": "明天我們要慶祝新年。"
+          },
+          {
+            "word": "cumpleaños",
+            "pos": "n.m.",
+            "zh": "生日",
+            "example": "¿Cuándo es tu cumpleaños?",
+            "example_zh": "你的生日是什麼時候？"
+          },
+          {
+            "word": "contenta",
+            "pos": "adj.",
+            "zh": "開心的、滿足的",
+            "example": "Estoy muy contenta con mis notas este semestre.",
+            "example_zh": "我對這學期的成績非常滿意。"
+          },
+          {
+            "word": "deliciosas",
+            "pos": "adj.",
+            "zh": "美味的",
+            "example": "Las empanadas de esa tienda son deliciosas.",
+            "example_zh": "那家店的餡餅非常美味。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cómo se llama la mejor amiga de la narradora?",
+            "options": [
+              "María",
+              "Laura",
+              "Sofía",
+              "Ana"
+            ],
+            "answer": 1,
+            "explain": "文章開頭明確說明「Mi mejor amiga se llama Laura」，因此答案是 Laura。"
+          },
+          {
+            "q": "¿Dónde se conocieron las dos amigas?",
+            "options": [
+              "En un restaurante",
+              "En Madrid",
+              "En la universidad",
+              "En Barcelona"
+            ],
+            "answer": 2,
+            "explain": "文中提到「Nos conocimos en la universidad」，兩人在大學認識。"
+          },
+          {
+            "q": "¿Qué hicieron juntas el año pasado?",
+            "options": [
+              "Estudiaron medicina",
+              "Viajaron a Barcelona",
+              "Celebraron un cumpleaños",
+              "Vivieron en Madrid"
+            ],
+            "answer": 1,
+            "explain": "文中說「El año pasado, viajamos juntas a Barcelona」，去年她們一起去了巴塞隆納。"
+          },
+          {
+            "q": "¿Por qué estudia medicina Laura?",
+            "options": [
+              "Porque le gusta viajar",
+              "Porque vive en Madrid",
+              "Porque quiere ayudar a las personas",
+              "Porque tiene muchos amigos"
+            ],
+            "answer": 2,
+            "explain": "文中說明「Laura estudia medicina porque quiere ayudar a las personas」，她讀醫學是因為想幫助他人。"
+          },
+          {
+            "q": "¿Qué van a hacer el próximo mes?",
+            "options": [
+              "Van a viajar a Madrid",
+              "Van a visitar un museo",
+              "Van a estudiar juntas",
+              "Van a celebrar el cumpleaños de Laura"
+            ],
+            "answer": 3,
+            "explain": "文中使用近未來式：「vamos a celebrar su cumpleaños en un restaurante especial」，下個月要慶祝蘿拉的生日。"
+          }
+        ]
+      }
+    ],
+    "B1": [],
+    "B2": [
+      {
+        "id": "2026-08-02-B2-fallback",
+        "source": "ai",
+        "level_label": "約 B2（AI 生成）",
+        "title": "Entre generaciones: un mundo diferente",
+        "text": "Cuando mi abuela era joven, la vida era mucho más sencilla. Ella me contó que, en su época, la gente se comunicaba principalmente mediante cartas y que era normal esperar semanas para recibir una respuesta. Sin embargo, hoy en día, mis amigos y yo enviamos mensajes instantáneos y esperamos una contestación en cuestión de segundos.\n\nMi abuela siempre decía que si los jóvenes de ahora hubieran crecido sin tecnología, habrían aprendido a ser más pacientes. Quizás tenía razón. Aunque reconozco que la tecnología nos ha facilitado la vida enormemente, también creo que hemos perdido algo valioso: la capacidad de esperar y de disfrutar el momento sin prisas.\n\nPor otro lado, mi abuela admitió que le habría gustado tener acceso a tanta información como tenemos nosotros. Cuando era estudiante, tenía que ir a la biblioteca para buscar datos que ahora encontramos en pocos segundos con el móvil.\n\nCreo que cada generación tiene sus ventajas y sus desafíos. Lo importante es que nos escuchemos mutuamente y aprendamos los unos de los otros, porque aunque el mundo cambie, las relaciones humanas siempre serán lo más valioso.",
+        "translation": "當我祖母年輕的時候，生活要簡單得多。她告訴我，在她那個年代，人們主要透過書信往來，等待幾個星期才能收到回覆是很正常的事。然而，在今天，我和朋友們傳送即時訊息，並期待在幾秒鐘內得到回覆。\n\n我祖母常說，如果現在的年輕人是在沒有科技的環境下長大的，他們就會學會更有耐心。也許她是對的。雖然我承認科技極大地便利了我們的生活，但我也認為我們失去了一些珍貴的東西：那就是等待的能力，以及不慌不忙地享受當下的能力。\n\n另一方面，我祖母承認，她也希望自己曾經能夠像我們一樣獲取這麼多的資訊。她當學生的時候，必須去圖書館查找資料，而這些資料我們現在用手機幾秒鐘就能找到。\n\n我認為每個世代都有各自的優勢與挑戰。重要的是我們要互相傾聽，彼此學習，因為儘管世界不斷改變，人與人之間的關係永遠都是最珍貴的。",
+        "words": [
+          {
+            "word": "sencillo/a",
+            "pos": "adj.",
+            "zh": "簡單的、樸素的",
+            "example": "La vida en el campo es más sencilla que en la ciudad.",
+            "example_zh": "鄉村生活比城市生活更簡單。"
+          },
+          {
+            "word": "principalmente",
+            "pos": "adv.",
+            "zh": "主要地",
+            "example": "Nos comunicamos principalmente por correo electrónico.",
+            "example_zh": "我們主要透過電子郵件溝通。"
+          },
+          {
+            "word": "instantáneo/a",
+            "pos": "adj.",
+            "zh": "即時的、瞬間的",
+            "example": "Las aplicaciones permiten una comunicación instantánea.",
+            "example_zh": "應用程式能讓人即時溝通。"
+          },
+          {
+            "word": "contestación",
+            "pos": "f. n.",
+            "zh": "回覆、回答",
+            "example": "Espero tu contestación lo antes posible.",
+            "example_zh": "我盼望你盡快回覆。"
+          },
+          {
+            "word": "paciente",
+            "pos": "adj.",
+            "zh": "有耐心的",
+            "example": "Hay que ser paciente cuando se aprende un idioma nuevo.",
+            "example_zh": "學習一門新語言時必須有耐心。"
+          },
+          {
+            "word": "enormemente",
+            "pos": "adv.",
+            "zh": "極大地、非常地",
+            "example": "El internet ha cambiado enormemente nuestra vida cotidiana.",
+            "example_zh": "網路已極大地改變了我們的日常生活。"
+          },
+          {
+            "word": "valioso/a",
+            "pos": "adj.",
+            "zh": "珍貴的、有價值的",
+            "example": "La amistad es algo muy valioso que debemos cuidar.",
+            "example_zh": "友誼是非常珍貴的東西，我們應該好好珍惜。"
+          },
+          {
+            "word": "admitir",
+            "pos": "v.",
+            "zh": "承認、承認接受",
+            "example": "Él admitió que había cometido un error.",
+            "example_zh": "他承認自己犯了一個錯誤。"
+          },
+          {
+            "word": "desafío",
+            "pos": "m. n.",
+            "zh": "挑戰",
+            "example": "Aprender a vivir con menos recursos es un gran desafío.",
+            "example_zh": "學會以較少的資源生活是一大挑戰。"
+          },
+          {
+            "word": "mutuamente",
+            "pos": "adv.",
+            "zh": "互相地、彼此地",
+            "example": "Es importante que los compañeros se ayuden mutuamente.",
+            "example_zh": "同學之間互相幫助是很重要的。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cómo se comunicaba la gente en la época de la abuela?",
+            "options": [
+              "Mediante mensajes instantáneos",
+              "Mediante cartas",
+              "Mediante correos electrónicos",
+              "Mediante videollamadas"
+            ],
+            "answer": 1,
+            "explain": "文章第一段明確提到，祖母那個年代的人主要是透過書信（cartas）溝通。"
+          },
+          {
+            "q": "Según la abuela, ¿qué habrían aprendido los jóvenes si hubieran crecido sin tecnología?",
+            "options": [
+              "A utilizar mejor el móvil",
+              "A buscar información en bibliotecas",
+              "A ser más pacientes",
+              "A escribir cartas más largas"
+            ],
+            "answer": 2,
+            "explain": "文章第二段說，祖母認為若現在的年輕人在沒有科技的環境下成長，他們會學會更有耐心（ser más pacientes）。"
+          },
+          {
+            "q": "¿Qué cree el narrador que han perdido los jóvenes de hoy?",
+            "options": [
+              "La capacidad de usar la tecnología",
+              "La capacidad de esperar y disfrutar el momento sin prisas",
+              "El acceso a la información",
+              "Las relaciones con sus abuelos"
+            ],
+            "answer": 1,
+            "explain": "第二段末尾提到，敘述者認為現代人失去了等待的能力以及不慌不忙享受當下的能力。"
+          },
+          {
+            "q": "¿Qué tenía que hacer la abuela cuando era estudiante para buscar información?",
+            "options": [
+              "Llamar a sus amigos por teléfono",
+              "Comprar muchos libros",
+              "Ir a la biblioteca",
+              "Preguntar a sus profesores"
+            ],
+            "answer": 2,
+            "explain": "第三段說明，祖母當學生時必須去圖書館（biblioteca）查找資料。"
+          },
+          {
+            "q": "¿Cuál es la idea principal del último párrafo?",
+            "options": [
+              "La tecnología es más importante que las relaciones humanas",
+              "Los ancianos son más sabios que los jóvenes",
+              "Cada generación debe vivir separada de las demás",
+              "Es importante escucharse y aprender entre generaciones"
+            ],
+            "answer": 3,
+            "explain": "最後一段的核心訊息是：不同世代之間互相傾聽與學習很重要，因為人際關係永遠是最珍貴的。"
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-08-02-C1-fallback",
+        "source": "ai",
+        "level_label": "約 C1（AI 生成）",
+        "title": "Entre generaciones: puentes y diferencias",
+        "text": "Cuando mi abuela era joven, la vida era completamente diferente a la de hoy. Ella me contó que, si quería hablar con una amiga, tenía que ir a su casa o esperar junto al teléfono fijo durante horas. No existían las redes sociales ni los mensajes instantáneos que nosotros usamos constantemente.\n\nMi abuela pensaba que los jóvenes de hoy somos demasiado dependientes de la tecnología, y quizás tenía razón. Sin embargo, yo creo que cada generación enfrenta sus propios desafíos. Cuando éramos niños, aprendimos a usar tabletas antes de aprender a escribir a mano. Si pudiéramos vivir sin el móvil por una semana, muchos de nosotros nos sentiríamos perdidos.\n\nA pesar de estas diferencias, también hay muchas cosas que nos unen. Mi abuela me enseñó que el respeto, la solidaridad y el amor por la familia son valores que no cambian con el tiempo. Ella decía que, aunque el mundo cambiara, las personas siempre necesitarían sentirse queridas y comprendidas.\n\nCreo que lo más importante es escucharnos mutuamente, porque solo así podemos aprender algo valioso de cada generación.",
+        "translation": "當我祖母年輕的時候，生活與今天完全不同。她告訴我，如果她想和朋友聊天，就必須親自去她家，或者在固定電話旁等待好幾個小時。那時既沒有社群網路，也沒有我們現在不斷使用的即時通訊。\n\n我祖母認為今天的年輕人過於依賴科技，也許她是對的。然而，我相信每個世代都有自己的挑戰。我們小時候，在學會手寫之前就已經學會使用平板電腦了。如果我們能一週不用手機，我們之中許多人都會感到不知所措。\n\n儘管有這些差異，也有許多事情將我們聯繫在一起。我祖母教導我，尊重、團結與對家人的愛，是不會隨時間改變的價值觀。她說，即使世界再怎麼改變，人們永遠都需要被愛、被理解的感覺。\n\n我認為最重要的事是互相傾聽，因為唯有如此，我們才能從每個世代身上學到珍貴的東西。",
+        "words": [
+          {
+            "word": "generación",
+            "pos": "n.f.",
+            "zh": "世代、一代人",
+            "example": "Cada generación tiene sus propios valores y costumbres.",
+            "example_zh": "每個世代都有自己的價值觀與習俗。"
+          },
+          {
+            "word": "red social",
+            "pos": "n.f.",
+            "zh": "社群網路",
+            "example": "Muchos jóvenes pasan horas en las redes sociales cada día.",
+            "example_zh": "許多年輕人每天花好幾個小時在社群網路上。"
+          },
+          {
+            "word": "dependiente",
+            "pos": "adj.",
+            "zh": "依賴的、依附的",
+            "example": "Somos muy dependientes del teléfono móvil.",
+            "example_zh": "我們非常依賴手機。"
+          },
+          {
+            "word": "desafío",
+            "pos": "n.m.",
+            "zh": "挑戰",
+            "example": "Superar los desafíos de la vida nos hace más fuertes.",
+            "example_zh": "克服生活中的挑戰使我們變得更強大。"
+          },
+          {
+            "word": "solidaridad",
+            "pos": "n.f.",
+            "zh": "團結、互助",
+            "example": "La solidaridad entre vecinos es fundamental en tiempos difíciles.",
+            "example_zh": "在困難時期，鄰里之間的團結互助是至關重要的。"
+          },
+          {
+            "word": "mutuamente",
+            "pos": "adv.",
+            "zh": "互相地、彼此",
+            "example": "Es importante que nos respetemos mutuamente.",
+            "example_zh": "我們互相尊重是很重要的。"
+          },
+          {
+            "word": "perdido/a",
+            "pos": "adj.",
+            "zh": "迷失的、不知所措的",
+            "example": "Me sentí perdido cuando llegué a la ciudad nueva.",
+            "example_zh": "當我到達那座新城市時，我感到迷失不知所措。"
+          },
+          {
+            "word": "valioso/a",
+            "pos": "adj.",
+            "zh": "珍貴的、有價值的",
+            "example": "El tiempo que pasamos con la familia es muy valioso.",
+            "example_zh": "我們與家人共度的時光是非常珍貴的。"
+          },
+          {
+            "word": "comprendido/a",
+            "pos": "adj.",
+            "zh": "被理解的",
+            "example": "Todos necesitamos sentirnos comprendidos por las personas que queremos.",
+            "example_zh": "我們都需要被我們所愛的人理解。"
+          },
+          {
+            "word": "instantáneo/a",
+            "pos": "adj.",
+            "zh": "即時的、瞬間的",
+            "example": "Los mensajes instantáneos han cambiado la forma en que nos comunicamos.",
+            "example_zh": "即時通訊改變了我們溝通的方式。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué tenía que hacer la abuela si quería hablar con una amiga?",
+            "options": [
+              "Enviarle un mensaje por las redes sociales.",
+              "Ir a su casa o esperar junto al teléfono fijo.",
+              "Llamarla desde su teléfono móvil.",
+              "Escribirle una carta por correo electrónico."
+            ],
+            "answer": 1,
+            "explain": "文中提到祖母若想和朋友說話，必須親自去她家或在固定電話旁等待，選項B正確。"
+          },
+          {
+            "q": "¿Qué opinaba la abuela sobre los jóvenes de hoy?",
+            "options": [
+              "Que son más inteligentes que las generaciones anteriores.",
+              "Que no saben respetar a los mayores.",
+              "Que son demasiado dependientes de la tecnología.",
+              "Que trabajan más que antes."
+            ],
+            "answer": 2,
+            "explain": "文中明確提到祖母認為今天的年輕人過於依賴科技（demasiado dependientes de la tecnología），選項C正確。"
+          },
+          {
+            "q": "Según el texto, ¿qué aprendieron los jóvenes de hoy antes de aprender a escribir a mano?",
+            "options": [
+              "A hablar varios idiomas.",
+              "A usar tabletas.",
+              "A tocar instrumentos musicales.",
+              "A cocinar comidas tradicionales."
+            ],
+            "answer": 1,
+            "explain": "文章指出現在的年輕人在學會手寫之前，就先學會了使用平板電腦（tabletas），選項B正確。"
+          },
+          {
+            "q": "¿Cuáles son los valores que, según la abuela, no cambian con el tiempo?",
+            "options": [
+              "La tecnología, la moda y el dinero.",
+              "La velocidad, la eficiencia y la innovación.",
+              "El respeto, la solidaridad y el amor por la familia.",
+              "La independencia, la libertad y el éxito."
+            ],
+            "answer": 2,
+            "explain": "文中祖母教導說，尊重（respeto）、團結（solidaridad）與對家人的愛（amor por la familia）是不隨時間改變的價值觀，選項C正確。"
+          },
+          {
+            "q": "¿Qué considera el narrador lo más importante entre generaciones?",
+            "options": [
+              "Usar la misma tecnología.",
+              "Tener las mismas costumbres.",
+              "Escucharse mutuamente.",
+              "Vivir en el mismo lugar."
+            ],
+            "answer": 2,
+            "explain": "文章結尾指出，世代之間最重要的事是互相傾聽（escucharnos mutuamente），選項C正確。"
+          }
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "2026-08-02-C2-fallback",
+        "source": "ai",
+        "level_label": "約 C2（AI 生成）",
+        "title": "El mundo que conocieron nuestros abuelos",
+        "text": "Cuando mi abuela era joven, la vida era muy diferente a la de hoy. Ella me contó que, si quería hablar con una amiga, tenía que ir a su casa o esperar hasta el día siguiente. No existían los teléfonos móviles ni las redes sociales, así que las relaciones personales dependían completamente del contacto directo.\n\nMi abuela admitió que, aunque aquella época era más lenta, también era más tranquila. Las personas se reunían en la plaza, charlaban durante horas y se conocían de verdad. En cambio, mi generación utiliza las aplicaciones para comunicarse, pero a veces nos sentimos solos aunque estemos rodeados de mensajes.\n\nCuando le pregunté si le gustaría vivir en el mundo actual, ella respondió que preferiría quedarse en su época, porque valoraba más la calidad que la cantidad en las relaciones. Sin embargo, reconoció que la tecnología había traído muchos beneficios, como el acceso a la información y la posibilidad de conectar con personas de todo el mundo.\n\nCreo que ambas generaciones tienen razón en parte. Sería ideal combinar lo mejor de los dos mundos: la profundidad de las relaciones antiguas con las oportunidades que ofrece la tecnología moderna.",
+        "translation": "我的祖母年輕時，生活與今日大不相同。她告訴我，如果她想和朋友說話，就必須親自上門拜訪，或等到隔天。那時沒有手機，也沒有社群媒體，因此人際關係完全依賴直接的接觸。\n\n我的祖母坦承，雖然那個年代步調較慢，卻也更加寧靜。人們在廣場相聚，聊上好幾個小時，彼此真正地認識對方。相較之下，我這個世代用應用程式溝通，但有時候即使被訊息圍繞，我們仍感到孤獨。\n\n當我問她是否願意生活在現在這個世界，她回答說她寧願留在自己的那個年代，因為她更重視關係的質而非量。不過，她也承認科技帶來了許多好處，例如獲取資訊的管道，以及與世界各地的人連結的可能性。\n\n我認為兩個世代各有其道理。若能結合兩個世界的精華，將是最理想的：融合昔日人際關係的深度，與現代科技所提供的各種機會。",
+        "words": [
+          {
+            "word": "generación",
+            "pos": "n.f.",
+            "zh": "世代、一代",
+            "example": "Mi generación creció con internet.",
+            "example_zh": "我這個世代是伴隨著網路長大的。"
+          },
+          {
+            "word": "depender de",
+            "pos": "v.",
+            "zh": "依賴、取決於",
+            "example": "El éxito depende del esfuerzo.",
+            "example_zh": "成功取決於努力。"
+          },
+          {
+            "word": "reunirse",
+            "pos": "v. pron.",
+            "zh": "聚集、相聚",
+            "example": "Nos reunimos en el parque cada domingo.",
+            "example_zh": "我們每個星期天在公園相聚。"
+          },
+          {
+            "word": "valorar",
+            "pos": "v.",
+            "zh": "重視、珍視",
+            "example": "Ella valora mucho la honestidad.",
+            "example_zh": "她非常重視誠實。"
+          },
+          {
+            "word": "reconocer",
+            "pos": "v.",
+            "zh": "承認、認可",
+            "example": "El estudiante reconoció su error.",
+            "example_zh": "那位學生承認了他的錯誤。"
+          },
+          {
+            "word": "profundidad",
+            "pos": "n.f.",
+            "zh": "深度、深刻",
+            "example": "Me gusta la profundidad de esa conversación.",
+            "example_zh": "我喜歡那場對話的深度。"
+          },
+          {
+            "word": "rodeado/a de",
+            "pos": "adj.",
+            "zh": "被……圍繞的",
+            "example": "Estaba rodeado de amigos pero se sentía solo.",
+            "example_zh": "他被朋友圍繞，卻感到孤獨。"
+          },
+          {
+            "word": "beneficio",
+            "pos": "n.m.",
+            "zh": "好處、利益",
+            "example": "El ejercicio tiene muchos beneficios para la salud.",
+            "example_zh": "運動對健康有許多好處。"
+          },
+          {
+            "word": "combinar",
+            "pos": "v.",
+            "zh": "結合、融合",
+            "example": "Es importante combinar el trabajo con el descanso.",
+            "example_zh": "將工作與休息結合是很重要的。"
+          },
+          {
+            "word": "charlar",
+            "pos": "v.",
+            "zh": "聊天、閒談",
+            "example": "Nos quedamos charlando hasta medianoche.",
+            "example_zh": "我們聊天聊到午夜。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué tenía que hacer la abuela si quería hablar con una amiga?",
+            "options": [
+              "Enviarle un mensaje por teléfono móvil.",
+              "Ir a su casa o esperar hasta el día siguiente.",
+              "Llamarla por videollamada.",
+              "Escribirle un correo electrónico."
+            ],
+            "answer": 1,
+            "explain": "文中提到祖母若想與朋友說話，必須親自上門拜訪或等到隔天，因為當時沒有手機。"
+          },
+          {
+            "q": "Según la abuela, ¿cómo era la vida en su época?",
+            "options": [
+              "Era rápida y llena de tecnología.",
+              "Era aburrida y solitaria.",
+              "Era más lenta pero también más tranquila.",
+              "Era igual que la vida actual."
+            ],
+            "answer": 2,
+            "explain": "祖母坦承那個年代步調較慢（más lenta），但也更加寧靜（más tranquila）。"
+          },
+          {
+            "q": "¿Por qué la abuela preferiría quedarse en su época?",
+            "options": [
+              "Porque no le gustaba la tecnología moderna.",
+              "Porque valoraba más la calidad que la cantidad en las relaciones.",
+              "Porque en su época había más información disponible.",
+              "Porque las aplicaciones le parecían difíciles de usar."
+            ],
+            "answer": 1,
+            "explain": "文中明確說明祖母選擇留在自己年代的原因，是她更重視關係的質（calidad）而非量（cantidad）。"
+          },
+          {
+            "q": "¿Qué problema menciona el autor sobre su propia generación?",
+            "options": [
+              "Que no saben usar las redes sociales.",
+              "Que no tienen tiempo para reunirse en la plaza.",
+              "Que se sienten solos aunque estén rodeados de mensajes.",
+              "Que prefieren no usar el teléfono móvil."
+            ],
+            "answer": 2,
+            "explain": "作者提到自己這個世代有時即使被訊息圍繞（rodeados de mensajes），仍感到孤獨（nos sentimos solos）。"
+          },
+          {
+            "q": "¿Cuál es la conclusión del autor al final del texto?",
+            "options": [
+              "Que la tecnología moderna es completamente negativa.",
+              "Que la vida antigua era mejor en todos los aspectos.",
+              "Que sería ideal combinar lo mejor de las dos épocas.",
+              "Que las generaciones jóvenes no valoran las relaciones personales."
+            ],
+            "answer": 2,
+            "explain": "作者在結尾表示，若能結合兩個世界的精華（combinar lo mejor de los dos mundos）將是最理想的，顯示他認為兩個時代各有優點。"
+          }
+        ]
+      }
+    ]
+  }
+}

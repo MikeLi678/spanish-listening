@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-03",
     "2026-08-02",
     "2026-08-01",
     "2026-07-31",
@@ -17,6 +18,59 @@
     "2026-07-18"
   ],
   "days": [
+    {
+      "date": "2026-08-03",
+      "articles": [
+        {
+          "id": "2026-08-03-A1-1",
+          "level": "A1",
+          "title": "Los medios de transporte",
+          "source": "ai",
+          "level_label": "A1",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-08-03-A2-1",
+          "level": "A2",
+          "title": "Recuerdos de mi infancia",
+          "source": "ai",
+          "level_label": "A2",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-08-03-B1-1",
+          "level": "B1",
+          "title": "El significado de ser voluntario",
+          "source": "ai",
+          "level_label": "B1",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-08-03-B2-fallback",
+          "level": "B2",
+          "title": "El valor de ser voluntario",
+          "source": "ai",
+          "level_label": "約 B2（AI 生成）",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-08-03-C1-fallback",
+          "level": "C1",
+          "title": "El valor del voluntariado",
+          "source": "ai",
+          "level_label": "約 C1（AI 生成）",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-08-03-C2-fallback",
+          "level": "C2",
+          "title": "El significado de ser voluntario",
+          "source": "ai",
+          "level_label": "約 C2（AI 生成）",
+          "origin_name": ""
+        }
+      ]
+    },
     {
       "date": "2026-08-02",
       "articles": [

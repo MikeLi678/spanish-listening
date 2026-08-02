@@ -1,0 +1,839 @@
+{
+  "date": "2026-08-03",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-08-03-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Los medios de transporte",
+        "text": "Yo vivo en la ciudad. Todos los días tomo el autobús para ir al trabajo. El autobús es rápido y barato. Mi hermana prefiere el metro. El metro es muy cómodo. Mi padre tiene un coche. Él conduce al trabajo. A veces, yo camino. Caminar es bueno para la salud. Me gustan todos los transportes.",
+        "translation": "我住在城市裡。我每天搭公車去上班。公車又快又便宜。我姐姐比較喜歡搭地鐵。地鐵非常舒適。我爸爸有一輛車。他開車去上班。有時候，我走路。走路對健康有益。我喜歡所有的交通工具。",
+        "words": [
+          {
+            "word": "autobús",
+            "pos": "n. m.",
+            "zh": "公車",
+            "example": "Yo tomo el autobús cada mañana.",
+            "example_zh": "我每天早上搭公車。"
+          },
+          {
+            "word": "metro",
+            "pos": "n. m.",
+            "zh": "地鐵",
+            "example": "El metro llega rápido.",
+            "example_zh": "地鐵很快就到了。"
+          },
+          {
+            "word": "coche",
+            "pos": "n. m.",
+            "zh": "汽車",
+            "example": "Mi madre tiene un coche rojo.",
+            "example_zh": "我媽媽有一輛紅色的車。"
+          },
+          {
+            "word": "conducir",
+            "pos": "v.",
+            "zh": "駕駛、開車",
+            "example": "Él conduce todos los días.",
+            "example_zh": "他每天開車。"
+          },
+          {
+            "word": "caminar",
+            "pos": "v.",
+            "zh": "走路、步行",
+            "example": "Me gusta caminar en el parque.",
+            "example_zh": "我喜歡在公園散步。"
+          },
+          {
+            "word": "rápido",
+            "pos": "adj.",
+            "zh": "快速的",
+            "example": "El tren es muy rápido.",
+            "example_zh": "火車非常快。"
+          },
+          {
+            "word": "barato",
+            "pos": "adj.",
+            "zh": "便宜的",
+            "example": "El autobús es barato.",
+            "example_zh": "公車很便宜。"
+          },
+          {
+            "word": "cómodo",
+            "pos": "adj.",
+            "zh": "舒適的",
+            "example": "Este asiento es muy cómodo.",
+            "example_zh": "這個座位非常舒適。"
+          },
+          {
+            "word": "salud",
+            "pos": "n. f.",
+            "zh": "健康",
+            "example": "Comer frutas es bueno para la salud.",
+            "example_zh": "吃水果對健康有益。"
+          },
+          {
+            "word": "preferir",
+            "pos": "v.",
+            "zh": "偏好、比較喜歡",
+            "example": "Ella prefiere el té al café.",
+            "example_zh": "她比較喜歡茶而不是咖啡。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cómo va al trabajo el narrador todos los días?",
+            "options": [
+              "En coche",
+              "En metro",
+              "En autobús",
+              "Caminando"
+            ],
+            "answer": 2,
+            "explain": "文中提到「tomo el autobús para ir al trabajo」，表示敘述者每天搭公車去上班。"
+          },
+          {
+            "q": "¿Qué transporte prefiere la hermana del narrador?",
+            "options": [
+              "El autobús",
+              "El coche",
+              "La bicicleta",
+              "El metro"
+            ],
+            "answer": 3,
+            "explain": "文中寫道「Mi hermana prefiere el metro」，所以她偏好地鐵。"
+          },
+          {
+            "q": "Según el texto, ¿cómo es el autobús?",
+            "options": [
+              "Lento y caro",
+              "Rápido y barato",
+              "Cómodo y lento",
+              "Caro y cómodo"
+            ],
+            "answer": 1,
+            "explain": "文中描述公車「es rápido y barato」，即又快又便宜。"
+          },
+          {
+            "q": "¿Quién conduce al trabajo?",
+            "options": [
+              "La hermana",
+              "El narrador",
+              "El padre",
+              "La madre"
+            ],
+            "answer": 2,
+            "explain": "文中說「Mi padre tiene un coche. Él conduce al trabajo.」，是父親開車去上班。"
+          },
+          {
+            "q": "Según el texto, ¿por qué es bueno caminar?",
+            "options": [
+              "Porque es rápido",
+              "Porque es barato",
+              "Porque es bueno para la salud",
+              "Porque es cómodo"
+            ],
+            "answer": 2,
+            "explain": "文中提到「Caminar es bueno para la salud」，走路對健康有益。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-08-03-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Recuerdos de mi infancia",
+        "text": "Cuando era niño, vivía en un pequeño pueblo cerca del mar. Todos los veranos, mi familia y yo íbamos a la playa y jugábamos en el agua. El año pasado, visité ese pueblo con mis amigos y saqué muchas fotos. Caminé por las mismas calles y recordé muchos momentos felices. Vi la casa donde nací y me sentí muy emocionado. También comí el helado favorito de mi infancia en la misma tienda de siempre. El próximo verano, voy a volver allí con mis padres. Vamos a pasar una semana juntos y vamos a visitar todos los lugares especiales. Estoy muy contento porque esos recuerdos son muy importantes para mí.",
+        "translation": "童年回憶\n\n我小時候住在海邊一個小村莊。每個夏天，我和家人都會去海灘，在水裡玩耍。去年，我和朋友拜訪了那個村莊，拍了很多照片。我走在同樣的街道上，想起了許多快樂的時光。我看到了自己出生的房子，感到非常感動。我也在同一家老店吃了童年最愛的冰淇淋。下個夏天，我打算和父母再回去那裡。我們要一起待上一個星期，並參觀所有特別的地方。我非常開心，因為那些回憶對我來說非常重要。",
+        "words": [
+          {
+            "word": "infancia",
+            "pos": "n.f.",
+            "zh": "童年、幼年時期",
+            "example": "Tengo buenos recuerdos de mi infancia.",
+            "example_zh": "我對我的童年有美好的回憶。"
+          },
+          {
+            "word": "pueblo",
+            "pos": "n.m.",
+            "zh": "村莊、小鎮",
+            "example": "Mi abuela vive en un pueblo tranquilo.",
+            "example_zh": "我祖母住在一個安靜的小村莊。"
+          },
+          {
+            "word": "visité",
+            "pos": "v. (Pret.)",
+            "zh": "拜訪了（visitar 的過去式）",
+            "example": "El verano pasado visité a mis abuelos.",
+            "example_zh": "去年夏天我拜訪了我的祖父母。"
+          },
+          {
+            "word": "recordé",
+            "pos": "v. (Pret.)",
+            "zh": "想起了（recordar 的過去式）",
+            "example": "Cuando vi la foto, recordé su nombre.",
+            "example_zh": "當我看到那張照片，我想起了他的名字。"
+          },
+          {
+            "word": "emocionado/a",
+            "pos": "adj.",
+            "zh": "感動的、激動的",
+            "example": "Estoy muy emocionado por el viaje.",
+            "example_zh": "我對這次旅行感到非常興奮。"
+          },
+          {
+            "word": "helado",
+            "pos": "n.m.",
+            "zh": "冰淇淋",
+            "example": "A los niños les encanta el helado de chocolate.",
+            "example_zh": "孩子們非常喜歡巧克力冰淇淋。"
+          },
+          {
+            "word": "voy a volver",
+            "pos": "v. (Fut. próx.)",
+            "zh": "打算回去（ir a + infinitivo）",
+            "example": "Voy a volver a España el próximo año.",
+            "example_zh": "我打算明年再回西班牙。"
+          },
+          {
+            "word": "juntos/as",
+            "pos": "adj./adv.",
+            "zh": "一起、共同",
+            "example": "Vamos a cenar juntos esta noche.",
+            "example_zh": "我們今晚要一起吃晚餐。"
+          },
+          {
+            "word": "recuerdos",
+            "pos": "n.m.pl.",
+            "zh": "回憶、記憶",
+            "example": "Tengo muchos recuerdos bonitos de la escuela.",
+            "example_zh": "我有很多關於學校的美好回憶。"
+          },
+          {
+            "word": "especial",
+            "pos": "adj.",
+            "zh": "特別的、特殊的",
+            "example": "Este día es muy especial para nuestra familia.",
+            "example_zh": "這一天對我們家來說非常特別。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Dónde vivía el narrador cuando era niño?",
+            "options": [
+              "En una gran ciudad",
+              "En un pequeño pueblo cerca del mar",
+              "En una montaña muy alta",
+              "En la capital del país"
+            ],
+            "answer": 1,
+            "explain": "文中提到「vivía en un pequeño pueblo cerca del mar」（住在海邊的一個小村莊），所以正確答案是選項 B。"
+          },
+          {
+            "q": "¿Qué hizo el narrador el año pasado?",
+            "options": [
+              "Viajó a otro país con su familia",
+              "Compró una casa nueva",
+              "Visitó el pueblo con sus amigos",
+              "Fue a la playa con sus padres"
+            ],
+            "answer": 2,
+            "explain": "文中說「El año pasado, visité ese pueblo con mis amigos」（去年，我和朋友拜訪了那個村莊），正確答案是選項 C。"
+          },
+          {
+            "q": "¿Cómo se sintió el narrador cuando vio la casa donde nació?",
+            "options": [
+              "Aburrido",
+              "Triste y cansado",
+              "Emocionado",
+              "Enfadado"
+            ],
+            "answer": 2,
+            "explain": "文中說「me sentí muy emocionado」（我感到非常感動），正確答案是選項 C。"
+          },
+          {
+            "q": "¿Qué va a hacer el narrador el próximo verano?",
+            "options": [
+              "Va a trabajar en otro pueblo",
+              "Va a volver allí con sus padres",
+              "Va a viajar a otro país",
+              "Va a estudiar en la universidad"
+            ],
+            "answer": 1,
+            "explain": "文中使用 Futuro próximo 說「voy a volver allí con mis padres」（打算和父母再回去那裡），正確答案是選項 B。"
+          },
+          {
+            "q": "¿Cuánto tiempo van a pasar juntos el narrador y sus padres?",
+            "options": [
+              "Un fin de semana",
+              "Dos semanas",
+              "Un mes",
+              "Una semana"
+            ],
+            "answer": 3,
+            "explain": "文中說「Vamos a pasar una semana juntos」（我們要一起待上一個星期），正確答案是選項 D。"
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "2026-08-03-B1-1",
+        "source": "ai",
+        "level_label": "B1",
+        "title": "El significado de ser voluntario",
+        "text": "Cuando era estudiante universitario, nunca había pensado en dedicar mi tiempo libre a ayudar a los demás. Sin embargo, un día mi amiga me sugirió que fuera con ella a un centro comunitario donde enseñaban español a inmigrantes. Acepté porque pensé que sería una experiencia interesante, aunque no sabía exactamente qué esperar.\n\nDesde el primer momento, me di cuenta de que aquella actividad tenía un valor que iba mucho más allá de lo que imaginaba. Los estudiantes llegaban cansados después del trabajo, pero mostraban una motivación increíble. Yo les explicaba la gramática con paciencia y ellos me enseñaban cosas sobre sus culturas que jamás habría aprendido en ningún libro.\n\nCon el tiempo, comprendí que el voluntariado no consiste únicamente en dar, sino también en recibir. Si no hubiera participado en ese programa, me habría perdido conexiones humanas auténticas que cambiaron mi manera de ver el mundo. Creo que cualquier persona que tenga la oportunidad de ser voluntaria debería intentarlo, porque transforma tanto a quien ayuda como a quien recibe la ayuda.",
+        "translation": "當我還是大學生的時候，從未想過要把空閒時間用來幫助他人。然而，有一天我的朋友建議我和她一起去一個社區中心，那裡有人在教移民學西班牙語。我答應了，因為我認為這會是一個有趣的經歷，儘管我不確定會遇到什麼。\n\n從第一刻起，我就意識到那項活動所具有的價值遠遠超出了我的想像。學生們在工作結束後疲憊地趕來，卻展現出令人難以置信的學習動力。我耐心地向他們解釋文法，他們則教我許多關於他們文化的事，這些都是我在任何書本上都學不到的。\n\n隨著時間推移，我明白了志工服務不只是付出，也是一種收穫。如果我當初沒有參加那個計畫，我就會錯過那些真實的人際連結，而正是這些連結改變了我看待世界的方式。我認為任何有機會當志工的人都應該嘗試看看，因為它既改變了幫助別人的人，也改變了接受幫助的人。",
+        "words": [
+          {
+            "word": "voluntario",
+            "pos": "n./adj.",
+            "zh": "志工；自願的",
+            "example": "Muchos jóvenes trabajan como voluntarios en hospitales.",
+            "example_zh": "許多年輕人在醫院擔任志工。"
+          },
+          {
+            "word": "sugerir",
+            "pos": "v.",
+            "zh": "建議",
+            "example": "El médico me sugirió que descansara más.",
+            "example_zh": "醫生建議我多休息。"
+          },
+          {
+            "word": "inmigrante",
+            "pos": "n.",
+            "zh": "移民",
+            "example": "Los inmigrantes a veces enfrentan dificultades con el idioma.",
+            "example_zh": "移民有時會面臨語言上的困難。"
+          },
+          {
+            "word": "darse cuenta de",
+            "pos": "v. phr.",
+            "zh": "意識到；察覺到",
+            "example": "Me di cuenta de que había olvidado las llaves.",
+            "example_zh": "我意識到我忘記帶鑰匙了。"
+          },
+          {
+            "word": "motivación",
+            "pos": "n.",
+            "zh": "動力；積極性",
+            "example": "Los alumnos necesitan motivación para aprender.",
+            "example_zh": "學生們需要學習動力。"
+          },
+          {
+            "word": "paciencia",
+            "pos": "n.",
+            "zh": "耐心",
+            "example": "Enseñar a niños pequeños requiere mucha paciencia.",
+            "example_zh": "教導小孩需要很大的耐心。"
+          },
+          {
+            "word": "consistir en",
+            "pos": "v. phr.",
+            "zh": "在於；由……組成",
+            "example": "Su trabajo consiste en revisar documentos legales.",
+            "example_zh": "他的工作在於審查法律文件。"
+          },
+          {
+            "word": "auténtico",
+            "pos": "adj.",
+            "zh": "真實的；道地的",
+            "example": "Probamos comida mexicana auténtica en ese restaurante.",
+            "example_zh": "我們在那家餐廳吃到了道地的墨西哥料理。"
+          },
+          {
+            "word": "transformar",
+            "pos": "v.",
+            "zh": "改變；轉變",
+            "example": "Viajar al extranjero puede transformar tu perspectiva.",
+            "example_zh": "出國旅行可以改變你的視野。"
+          },
+          {
+            "word": "comunitario",
+            "pos": "adj.",
+            "zh": "社區的；社群的",
+            "example": "El ayuntamiento organizó un evento comunitario para todos los vecinos.",
+            "example_zh": "市政府為所有居民舉辦了一場社區活動。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Por qué el narrador decidió ir al centro comunitario?",
+            "options": [
+              "Porque necesitaba dinero urgentemente.",
+              "Porque su amiga se lo sugirió y pensó que sería interesante.",
+              "Porque tenía experiencia previa como voluntario.",
+              "Porque era un requisito de su universidad."
+            ],
+            "answer": 1,
+            "explain": "文中提到是朋友建議他去，而他接受了因為覺得會是有趣的經歷（«mi amiga me sugirió que fuera» 與 «pensé que sería una experiencia interesante»）。"
+          },
+          {
+            "q": "¿Qué hacían los estudiantes inmigrantes en el centro comunitario?",
+            "options": [
+              "Aprendían inglés para conseguir trabajo.",
+              "Enseñaban su idioma nativo a los voluntarios.",
+              "Aprendían español con la ayuda de voluntarios.",
+              "Participaban en talleres de cocina."
+            ],
+            "answer": 2,
+            "explain": "文中明確說明那個中心是在教移民學西班牙語（«donde enseñaban español a inmigrantes»）。"
+          },
+          {
+            "q": "Según el texto, ¿cómo llegaban los estudiantes a las clases?",
+            "options": [
+              "Llegaban muy animados y con energía.",
+              "Llegaban cansados después del trabajo.",
+              "Llegaban tarde porque vivían lejos.",
+              "Llegaban con sus familias los fines de semana."
+            ],
+            "answer": 1,
+            "explain": "文中說學生們「工作結束後疲憊地趕來」（«Los estudiantes llegaban cansados después del trabajo»）。"
+          },
+          {
+            "q": "¿Qué aprendió el narrador de los estudiantes inmigrantes?",
+            "options": [
+              "Nuevas técnicas para enseñar gramática española.",
+              "Cómo conseguir trabajo en otro país.",
+              "Cosas sobre sus culturas que no habría aprendido en ningún libro.",
+              "Varios idiomas extranjeros."
+            ],
+            "answer": 2,
+            "explain": "文中說學生們教他關於他們文化的事，「這些都是在任何書本上都學不到的」（«cosas sobre sus culturas que jamás habría aprendido en ningún libro»）。"
+          },
+          {
+            "q": "¿Cuál es la conclusión principal del narrador sobre el voluntariado?",
+            "options": [
+              "Que es una actividad solo recomendable para estudiantes universitarios.",
+              "Que consiste únicamente en dar ayuda a los demás.",
+              "Que es una pérdida de tiempo si no se tiene experiencia previa.",
+              "Que transforma tanto a quien ayuda como a quien recibe la ayuda."
+            ],
+            "answer": 3,
+            "explain": "文章最後的結論是志工服務同時改變幫助者與被幫助者（«transforma tanto a quien ayuda como a quien recibe la ayuda»）。"
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "2026-08-03-B2-fallback",
+        "source": "ai",
+        "level_label": "約 B2（AI 生成）",
+        "title": "El valor de ser voluntario",
+        "text": "Cuando era joven, nunca había pensado en dedicar mi tiempo libre a ayudar a los demás. Sin embargo, el año pasado, una amiga me convenció de que participara en un proyecto de voluntariado en un centro comunitario de mi ciudad. Al principio, no sabía si tendría suficiente tiempo ni energía para comprometerme con esa responsabilidad.\n\nLos primeros días fueron difíciles porque no conocía bien a las personas que vivían allí. Pero poco a poco, fui descubriendo que aquellas personas me enseñaban tanto como yo les enseñaba a ellas. Una señora mayor me contó que, cuando era niña, soñaba con estudiar medicina, aunque nunca pudo hacerlo. Su historia me afectó profundamente.\n\nSi no hubiera aceptado esa invitación, jamás habría comprendido lo que significa dar sin esperar nada a cambio. El voluntariado me hizo darme cuenta de que la felicidad no depende solo de lo que tenemos, sino también de lo que ofrecemos a los demás. Creo que todo el mundo debería experimentar al menos una vez en la vida la satisfacción de servir a su comunidad, porque esa experiencia cambia la manera en que uno ve el mundo.",
+        "translation": "當我年輕的時候，從未想過要把空閒時間奉獻給幫助他人。然而，去年一位朋友說服我參加了一個社區中心的志工計畫。一開始，我不確定自己是否有足夠的時間和精力來承擔這份責任。\n\n最初幾天很困難，因為我不太認識住在那裡的人。但漸漸地，我發現那些人教會我的，和我教給他們的一樣多。一位老太太告訴我，她小時候夢想學醫，儘管她從未能實現這個夢想。她的故事深深地觸動了我。\n\n如果我當初沒有接受那個邀請，我永遠不會明白「無私付出」的真正意義。做志工讓我意識到，幸福不只取決於我們擁有什麼，還取決於我們給予他人什麼。我認為每個人一生中至少應該體驗一次服務社區的滿足感，因為那段經歷會改變一個人看待世界的方式。",
+        "words": [
+          {
+            "word": "voluntariado",
+            "pos": "n.m.",
+            "zh": "志工服務、義工活動",
+            "example": "El voluntariado puede cambiar tu perspectiva de la vida.",
+            "example_zh": "志工服務可以改變你對生活的看法。"
+          },
+          {
+            "word": "convencer",
+            "pos": "v.",
+            "zh": "說服、使信服",
+            "example": "Mi madre me convenció de que estudiara más.",
+            "example_zh": "我媽媽說服我多讀書。"
+          },
+          {
+            "word": "comprometerse",
+            "pos": "v. pron.",
+            "zh": "承諾、投入、負責",
+            "example": "Ella se comprometió a ayudar todos los fines de semana.",
+            "example_zh": "她承諾每個週末都去幫忙。"
+          },
+          {
+            "word": "afectar",
+            "pos": "v.",
+            "zh": "影響、觸動",
+            "example": "La noticia me afectó muchísimo.",
+            "example_zh": "那則消息深深地觸動了我。"
+          },
+          {
+            "word": "a cambio",
+            "pos": "loc. adv.",
+            "zh": "作為回報、以換取",
+            "example": "Él ayudó sin pedir nada a cambio.",
+            "example_zh": "他幫忙，卻什麼都不要求作為回報。"
+          },
+          {
+            "word": "darse cuenta de",
+            "pos": "loc. v.",
+            "zh": "意識到、發覺",
+            "example": "Me di cuenta de que había olvidado las llaves.",
+            "example_zh": "我意識到我忘了帶鑰匙。"
+          },
+          {
+            "word": "depender de",
+            "pos": "v.",
+            "zh": "取決於、依賴",
+            "example": "El éxito depende del esfuerzo que ponemos.",
+            "example_zh": "成功取決於我們付出的努力。"
+          },
+          {
+            "word": "satisfacción",
+            "pos": "n.f.",
+            "zh": "滿足感、滿意",
+            "example": "Sentí una gran satisfacción al terminar el proyecto.",
+            "example_zh": "完成那個計畫時，我感到非常滿足。"
+          },
+          {
+            "word": "comunitario/a",
+            "pos": "adj.",
+            "zh": "社區的、共同的",
+            "example": "Participamos en un proyecto comunitario muy interesante.",
+            "example_zh": "我們參加了一個非常有趣的社區計畫。"
+          },
+          {
+            "word": "ofrecer",
+            "pos": "v.",
+            "zh": "提供、給予、奉獻",
+            "example": "Quiero ofrecer mi tiempo a quienes más lo necesitan.",
+            "example_zh": "我想把我的時間奉獻給最需要的人。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Por qué el autor empezó a hacer voluntariado?",
+            "options": [
+              "Porque lo exigía su trabajo.",
+              "Porque una amiga lo convenció.",
+              "Porque siempre había querido hacerlo.",
+              "Porque sus padres se lo ordenaron."
+            ],
+            "answer": 1,
+            "explain": "文中提到「una amiga me convenció de que participara」，說明是一位朋友說服了作者去做志工。"
+          },
+          {
+            "q": "¿Qué descubrió el autor durante el voluntariado?",
+            "options": [
+              "Que las personas del centro no querían hablar con él.",
+              "Que el trabajo era demasiado difícil para él.",
+              "Que las personas del centro también le enseñaban cosas.",
+              "Que no tenía suficiente tiempo para continuar."
+            ],
+            "answer": 2,
+            "explain": "文中說「aquellas personas me enseñaban tanto como yo les enseñaba a ellas」，意指那些人也在教導作者，雙方互相學習。"
+          },
+          {
+            "q": "¿Cuál era el sueño de la señora mayor cuando era niña?",
+            "options": [
+              "Ser profesora de idiomas.",
+              "Viajar por todo el mundo.",
+              "Estudiar medicina.",
+              "Trabajar en una comunidad."
+            ],
+            "answer": 2,
+            "explain": "文中明確提到老太太「soñaba con estudiar medicina」，她的夢想是學醫。"
+          },
+          {
+            "q": "Según el texto, ¿de qué depende la felicidad?",
+            "options": [
+              "Solo de tener mucho dinero y bienes.",
+              "De lo que tenemos y de lo que ofrecemos a los demás.",
+              "Únicamente de nuestra salud física.",
+              "De los estudios que hayamos completado."
+            ],
+            "answer": 1,
+            "explain": "文中說「la felicidad no depende solo de lo que tenemos, sino también de lo que ofrecemos a los demás」，幸福同時取決於我們擁有的與我們給予的。"
+          },
+          {
+            "q": "¿Qué estructura gramatical aparece en la frase «Si no hubiera aceptado esa invitación, jamás habría comprendido...»?",
+            "options": [
+              "Una condición real en el presente.",
+              "Una condición hipotética en el pasado.",
+              "Un mandato directo al lector.",
+              "Una descripción de hábitos en el pasado."
+            ],
+            "answer": 1,
+            "explain": "這個句子使用「si + pluscuamperfecto de subjuntivo + condicional compuesto」的結構，表達對過去的反事實假設（如果當初沒有…就不會…），屬於過去的假設條件句。"
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-08-03-C1-fallback",
+        "source": "ai",
+        "level_label": "約 C1（AI 生成）",
+        "title": "El valor del voluntariado",
+        "text": "Cuando era estudiante universitaria, nunca había pensado seriamente en el voluntariado. Creía que no tendría suficiente tiempo ni energía para ayudar a los demás. Sin embargo, una amiga me convenció de que participara en un programa de apoyo escolar para niños de familias con pocos recursos.\n\nAl principio, me sentía un poco insegura porque no sabía si podría enseñar bien. Pero desde el primer día, cuando vi que los niños sonreían al entender algo nuevo, comprendí que aquella experiencia valdría la pena. Cada semana, preparaba actividades que fueran divertidas y útiles al mismo tiempo.\n\nLo que más me sorprendió fue que, aunque iba para ayudar a otros, terminé aprendiendo muchísimo yo misma. Los niños me enseñaron a tener paciencia y a valorar las pequeñas victorias. Si pudiera dar un consejo a cualquier persona que dudara sobre ser voluntaria, le diría que lo intentara sin miedo.\n\nEl voluntariado no solo beneficia a quienes reciben la ayuda, sino también a quienes la ofrecen. Es una forma de conectar con la comunidad y de descubrir lo mejor de uno mismo.",
+        "translation": "當我是大學生的時候，從來沒有認真想過當志工這件事。我以為自己沒有足夠的時間和精力去幫助別人。然而，一位朋友說服了我，讓我參加了一個為資源匱乏家庭的孩子提供課業輔助的計畫。\n\n一開始，我感到有些不安，因為我不知道自己能否教得好。但從第一天起，當我看到孩子們在理解新事物時露出笑容，我就明白了那段經歷是值得的。每週，我都會準備既有趣又實用的活動。\n\n最讓我驚訝的是，雖然我是去幫助別人的，最終我自己也學到了很多。孩子們教會了我耐心，以及珍視每一個小小的進步。如果我能給任何一個對當志工感到猶豫的人一個建議，我會告訴他們要毫不畏懼地去嘗試。\n\n當志工不只讓接受幫助的人受益，也讓提供幫助的人獲益。這是一種與社區建立連結、並發掘自身最美好一面的方式。",
+        "words": [
+          {
+            "word": "voluntariado",
+            "pos": "n.m.",
+            "zh": "志願服務、志工活動",
+            "example": "El voluntariado puede cambiar la vida de muchas personas.",
+            "example_zh": "志願服務可以改變許多人的生活。"
+          },
+          {
+            "word": "convencer",
+            "pos": "v.",
+            "zh": "說服",
+            "example": "Mi hermano me convenció de que probara el nuevo restaurante.",
+            "example_zh": "我哥哥說服我去試試那家新餐廳。"
+          },
+          {
+            "word": "recursos",
+            "pos": "n.m.pl.",
+            "zh": "資源、財力",
+            "example": "Las familias con pocos recursos necesitan más apoyo del gobierno.",
+            "example_zh": "資源匱乏的家庭需要更多政府支援。"
+          },
+          {
+            "word": "insegura",
+            "pos": "adj.f.",
+            "zh": "不安的、沒有把握的",
+            "example": "Me sentía insegura antes de hablar en público.",
+            "example_zh": "在公開演講之前我感到很沒把握。"
+          },
+          {
+            "word": "valer la pena",
+            "pos": "loc.v.",
+            "zh": "值得",
+            "example": "Estudiar mucho vale la pena al final.",
+            "example_zh": "努力學習最終是值得的。"
+          },
+          {
+            "word": "paciencia",
+            "pos": "n.f.",
+            "zh": "耐心",
+            "example": "Trabajar con niños requiere mucha paciencia.",
+            "example_zh": "與孩子一起工作需要很大的耐心。"
+          },
+          {
+            "word": "valorar",
+            "pos": "v.",
+            "zh": "珍視、重視",
+            "example": "Es importante valorar las amistades que tenemos.",
+            "example_zh": "珍視我們所擁有的友誼是很重要的。"
+          },
+          {
+            "word": "dudar",
+            "pos": "v.",
+            "zh": "猶豫、懷疑",
+            "example": "No dudes en llamarme si necesitas ayuda.",
+            "example_zh": "如果你需要幫助，不要猶豫，打電話給我。"
+          },
+          {
+            "word": "beneficiar",
+            "pos": "v.",
+            "zh": "使受益、有益於",
+            "example": "Hacer ejercicio beneficia tanto al cuerpo como a la mente.",
+            "example_zh": "運動對身體和心理都有益處。"
+          },
+          {
+            "word": "comunidad",
+            "pos": "n.f.",
+            "zh": "社區、社群",
+            "example": "Es bueno participar en actividades de la comunidad.",
+            "example_zh": "參與社區活動是件好事。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Por qué la narradora no había pensado en el voluntariado antes?",
+            "options": [
+              "Porque no le gustaban los niños.",
+              "Porque creía que no tendría suficiente tiempo ni energía.",
+              "Porque su universidad no permitía el voluntariado.",
+              "Porque ya participaba en otro programa."
+            ],
+            "answer": 1,
+            "explain": "文中提到她認為自己沒有足夠的時間和精力（no tendría suficiente tiempo ni energía）幫助別人，所以之前沒有認真考慮過志工活動。"
+          },
+          {
+            "q": "¿Quién convenció a la narradora de participar en el voluntariado?",
+            "options": [
+              "Un profesor universitario.",
+              "Sus padres.",
+              "Una amiga.",
+              "Un compañero de trabajo."
+            ],
+            "answer": 2,
+            "explain": "文中明確寫道「una amiga me convenció」，是一位朋友說服了她參加志工計畫。"
+          },
+          {
+            "q": "¿Qué sintió la narradora el primer día del voluntariado?",
+            "options": [
+              "Comprendió que la experiencia valdría la pena.",
+              "Decidió abandonar el programa.",
+              "Se aburrió porque los niños no prestaban atención.",
+              "Se puso muy enferma de los nervios."
+            ],
+            "answer": 0,
+            "explain": "文中說從第一天她看到孩子們微笑時，就明白那段經歷是值得的（comprendió que aquella experiencia valdría la pena）。"
+          },
+          {
+            "q": "Según el texto, ¿qué le enseñaron los niños a la narradora?",
+            "options": [
+              "A hablar otro idioma.",
+              "A tener paciencia y a valorar las pequeñas victorias.",
+              "A preparar actividades deportivas.",
+              "A conectar con otras organizaciones."
+            ],
+            "answer": 1,
+            "explain": "文中提到孩子們教會她耐心以及珍視小小的進步（tener paciencia y valorar las pequeñas victorias）。"
+          },
+          {
+            "q": "¿Cuál es la idea principal del último párrafo?",
+            "options": [
+              "El voluntariado es demasiado difícil para la mayoría de las personas.",
+              "Solo los estudiantes universitarios deben hacer voluntariado.",
+              "El voluntariado beneficia tanto a quien ayuda como a quien recibe la ayuda.",
+              "Es mejor donar dinero que dedicar tiempo al voluntariado."
+            ],
+            "answer": 2,
+            "explain": "最後一段的核心概念是志工活動不僅讓受助者受益，也讓提供幫助的人獲益（beneficia a quienes reciben la ayuda y también a quienes la ofrecen）。"
+          }
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "2026-08-03-C2-fallback",
+        "source": "ai",
+        "level_label": "約 C2（AI 生成）",
+        "title": "El significado de ser voluntario",
+        "text": "Cuando era estudiante universitario, nunca pensé que el voluntariado cambiaría mi vida de una manera tan profunda. Un día, mi profesora nos recomendó que participáramos en un programa de ayuda a personas mayores del barrio. Al principio, dudé mucho porque creía que no tendría suficiente tiempo, pero al final decidí intentarlo.\n\nDurante los fines de semana, visitábamos a ancianos que vivían solos y les llevábamos comida y compañía. Recuerdo que una señora me contó que, si no fuera por los voluntarios, se sentiría completamente olvidada. Sus palabras me tocaron el corazón y comprendí que ayudar a los demás no era solo una obligación, sino también una fuente de alegría personal.\n\nSi pudiera dar un consejo a los jóvenes de hoy, les diría que el voluntariado enseña valores que ningún libro puede transmitir: la empatía, la paciencia y la gratitud. Además, he aprendido que las pequeñas acciones que hacemos cada día pueden transformar la vida de alguien. Ser voluntario no significa sacrificarse, sino descubrir lo mejor de uno mismo mientras se contribuye a una sociedad más justa y solidaria.",
+        "translation": "當我還是大學生的時候，從未想過當志工會以如此深刻的方式改變我的人生。有一天，我的老師建議我們參加一個幫助附近老年人的計畫。一開始，我猶豫了很久，因為我認為自己沒有足夠的時間，但最終還是決定試試看。\n\n在週末，我們會去探訪獨居的老人，為他們送去食物和陪伴。我記得有位女士告訴我，如果沒有志工們，她會感到完全被遺忘。她的話觸動了我的心，我也明白了，幫助他人不只是一種義務，更是個人快樂的源泉。\n\n如果我能給現在的年輕人一個建議，我會告訴他們：當志工能教導人們任何書本都無法傳授的價值觀——同理心、耐心與感恩。此外，我學到了，我們每天所做的小小行動可以改變某個人的生命。當志工並不意味著犧牲自己，而是在為一個更公平、更互助的社會做出貢獻的同時，發現自己最美好的一面。",
+        "words": [
+          {
+            "word": "voluntariado",
+            "pos": "n.",
+            "zh": "志工服務、義工活動",
+            "example": "El voluntariado me enseñó a ser más empático con los demás.",
+            "example_zh": "志工服務教導了我對他人更有同理心。"
+          },
+          {
+            "word": "participar",
+            "pos": "v.",
+            "zh": "參加、參與",
+            "example": "Ella decidió participar en el proyecto de ayuda social.",
+            "example_zh": "她決定參加這個社會援助計畫。"
+          },
+          {
+            "word": "dudar",
+            "pos": "v.",
+            "zh": "猶豫、懷疑",
+            "example": "Dudé antes de aceptar la invitación, pero no me arrepentí.",
+            "example_zh": "我在接受邀請之前猶豫了，但我並不後悔。"
+          },
+          {
+            "word": "compañía",
+            "pos": "n.",
+            "zh": "陪伴、公司",
+            "example": "Los ancianos a veces solo necesitan compañía y alguien que los escuche.",
+            "example_zh": "老年人有時只需要陪伴和一個願意傾聽的人。"
+          },
+          {
+            "word": "olvidado/a",
+            "pos": "adj.",
+            "zh": "被遺忘的",
+            "example": "Muchas personas mayores se sienten olvidadas por la sociedad.",
+            "example_zh": "許多老年人感到被社會遺忘。"
+          },
+          {
+            "word": "empatía",
+            "pos": "n.",
+            "zh": "同理心",
+            "example": "La empatía es fundamental para trabajar con personas vulnerables.",
+            "example_zh": "同理心對於與弱勢族群合作至關重要。"
+          },
+          {
+            "word": "gratitud",
+            "pos": "n.",
+            "zh": "感恩、感謝",
+            "example": "Siento una gran gratitud hacia todas las personas que me ayudaron.",
+            "example_zh": "我對所有幫助過我的人心懷深深的感激。"
+          },
+          {
+            "word": "transformar",
+            "pos": "v.",
+            "zh": "改變、轉化",
+            "example": "Una sola acción puede transformar la vida de alguien para siempre.",
+            "example_zh": "一個單一的行動就可以永遠改變某人的生命。"
+          },
+          {
+            "word": "solidario/a",
+            "pos": "adj.",
+            "zh": "互助的、團結的",
+            "example": "Queremos construir una sociedad más solidaria e igualitaria.",
+            "example_zh": "我們希望建立一個更加互助平等的社會。"
+          },
+          {
+            "word": "sacrificarse",
+            "pos": "v.",
+            "zh": "犧牲自己、奉獻",
+            "example": "Ser generoso no siempre significa sacrificarse completamente.",
+            "example_zh": "慷慨並不總是意味著要完全犧牲自己。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Quién recomendó al narrador que participara en el programa de voluntariado?",
+            "options": [
+              "Un amigo del barrio",
+              "Su profesora universitaria",
+              "Una persona mayor",
+              "Sus padres"
+            ],
+            "answer": 1,
+            "explain": "文中提到「mi profesora nos recomendó que participáramos」，是老師建議他參加志工計畫。"
+          },
+          {
+            "q": "¿Por qué dudó el narrador al principio?",
+            "options": [
+              "Porque no le gustaban las personas mayores",
+              "Porque el programa estaba muy lejos de su casa",
+              "Porque pensaba que no tendría suficiente tiempo",
+              "Porque tenía miedo de hablar con desconocidos"
+            ],
+            "answer": 2,
+            "explain": "文中說「creía que no tendría suficiente tiempo」，他認為自己沒有足夠的時間，因此起初猶豫。"
+          },
+          {
+            "q": "¿Qué hacían los voluntarios durante los fines de semana?",
+            "options": [
+              "Organizaban eventos deportivos en el parque",
+              "Enseñaban idiomas a niños del barrio",
+              "Visitaban a ancianos y les llevaban comida y compañía",
+              "Recogían dinero para organizaciones benéficas"
+            ],
+            "answer": 2,
+            "explain": "文中明確指出「visitábamos a ancianos que vivían solos y les llevábamos comida y compañía」。"
+          },
+          {
+            "q": "Según el narrador, ¿qué enseña el voluntariado que los libros no pueden transmitir?",
+            "options": [
+              "La gramática y la escritura correcta",
+              "La empatía, la paciencia y la gratitud",
+              "Las leyes y los derechos ciudadanos",
+              "Las habilidades profesionales y técnicas"
+            ],
+            "answer": 1,
+            "explain": "文中提到「el voluntariado enseña valores que ningún libro puede transmitir: la empatía, la paciencia y la gratitud」。"
+          },
+          {
+            "q": "¿Cuál es la idea principal del último párrafo?",
+            "options": [
+              "El voluntariado es muy difícil y requiere mucho sacrificio",
+              "Solo las personas jóvenes pueden ser voluntarias",
+              "Ser voluntario ayuda a descubrir lo mejor de uno mismo y mejora la sociedad",
+              "Es mejor leer libros que hacer voluntariado"
+            ],
+            "answer": 2,
+            "explain": "最後一段的核心概念是「Ser voluntario no significa sacrificarse, sino descubrir lo mejor de uno mismo mientras se contribuye a una sociedad más justa y solidaria」，強調志工活動幫助發現自我並改善社會。"
+          }
+        ]
+      }
+    ]
+  }
+}

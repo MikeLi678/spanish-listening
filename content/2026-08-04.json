@@ -1,0 +1,839 @@
+{
+  "date": "2026-08-04",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-08-04-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Las frutas y las verduras",
+        "text": "Me gustan las frutas y las verduras. En el mercado hay manzanas, naranjas y plátanos. Las manzanas son rojas o verdes. Los plátanos son amarillos. También hay zanahorias y tomates. Las zanahorias son anaranjadas. Los tomates son rojos. Como frutas todos los días. Son deliciosas y muy buenas para la salud. ¡Me encantan!",
+        "translation": "我喜歡水果和蔬菜。市場裡有蘋果、柳橙和香蕉。蘋果是紅色或綠色的。香蕉是黃色的。那裡也有胡蘿蔔和番茄。胡蘿蔔是橙色的。番茄是紅色的。我每天都吃水果。它們很美味，對健康非常好。我超愛它們！",
+        "words": [
+          {
+            "word": "fruta",
+            "pos": "n. f.",
+            "zh": "水果",
+            "example": "La fruta es muy deliciosa.",
+            "example_zh": "水果非常美味。"
+          },
+          {
+            "word": "verdura",
+            "pos": "n. f.",
+            "zh": "蔬菜",
+            "example": "Como verdura todos los días.",
+            "example_zh": "我每天都吃蔬菜。"
+          },
+          {
+            "word": "manzana",
+            "pos": "n. f.",
+            "zh": "蘋果",
+            "example": "La manzana es roja.",
+            "example_zh": "蘋果是紅色的。"
+          },
+          {
+            "word": "plátano",
+            "pos": "n. m.",
+            "zh": "香蕉",
+            "example": "El plátano es amarillo.",
+            "example_zh": "香蕉是黃色的。"
+          },
+          {
+            "word": "zanahoria",
+            "pos": "n. f.",
+            "zh": "胡蘿蔔",
+            "example": "Las zanahorias son anaranjadas.",
+            "example_zh": "胡蘿蔔是橙色的。"
+          },
+          {
+            "word": "tomate",
+            "pos": "n. m.",
+            "zh": "番茄",
+            "example": "El tomate es rojo y pequeño.",
+            "example_zh": "番茄是紅色且小巧的。"
+          },
+          {
+            "word": "mercado",
+            "pos": "n. m.",
+            "zh": "市場",
+            "example": "En el mercado hay muchas frutas.",
+            "example_zh": "市場裡有很多水果。"
+          },
+          {
+            "word": "delicioso/a",
+            "pos": "adj.",
+            "zh": "美味的",
+            "example": "Esta naranja es muy deliciosa.",
+            "example_zh": "這顆柳橙非常美味。"
+          },
+          {
+            "word": "salud",
+            "pos": "n. f.",
+            "zh": "健康",
+            "example": "Las verduras son buenas para la salud.",
+            "example_zh": "蔬菜對健康有益。"
+          },
+          {
+            "word": "encantar",
+            "pos": "v.",
+            "zh": "非常喜愛、超愛",
+            "example": "Me encantan las frutas tropicales.",
+            "example_zh": "我超愛熱帶水果。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Dónde hay manzanas, naranjas y plátanos?",
+            "options": [
+              "En la escuela",
+              "En el mercado",
+              "En el hospital",
+              "En la casa"
+            ],
+            "answer": 1,
+            "explain": "文中提到「En el mercado hay manzanas, naranjas y plátanos.」，市場裡有蘋果、柳橙和香蕉。"
+          },
+          {
+            "q": "¿De qué color son los plátanos?",
+            "options": [
+              "Rojos",
+              "Verdes",
+              "Anaranjados",
+              "Amarillos"
+            ],
+            "answer": 3,
+            "explain": "文中說「Los plátanos son amarillos.」，香蕉是黃色的。"
+          },
+          {
+            "q": "¿De qué color son las zanahorias?",
+            "options": [
+              "Amarillas",
+              "Verdes",
+              "Anaranjadas",
+              "Rojas"
+            ],
+            "answer": 2,
+            "explain": "文中說「Las zanahorias son anaranjadas.」，胡蘿蔔是橙色的。"
+          },
+          {
+            "q": "¿Con qué frecuencia come frutas la persona del texto?",
+            "options": [
+              "Una vez a la semana",
+              "Todos los días",
+              "Los fines de semana",
+              "Nunca"
+            ],
+            "answer": 1,
+            "explain": "文中提到「Como frutas todos los días.」，她每天都吃水果。"
+          },
+          {
+            "q": "Según el texto, ¿para qué son buenas las frutas?",
+            "options": [
+              "Para estudiar",
+              "Para dormir",
+              "Para la salud",
+              "Para cocinar"
+            ],
+            "answer": 2,
+            "explain": "文中說「Son deliciosas y muy buenas para la salud.」，水果對健康非常好。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-08-04-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Mi fin de semana pasado",
+        "text": "El sábado por la mañana me levanté tarde porque estaba muy cansado. Después desayuné con mi familia y comimos huevos y pan tostado. Por la tarde fui al parque con mis amigos y jugamos al fútbol durante dos horas. También tomamos un helado porque hacía mucho calor. El domingo visité a mis abuelos y mi abuela cocinó una paella deliciosa. Por la noche vi una película en casa. El fin de semana fue muy divertido. El próximo fin de semana voy a ir a la playa con mi familia y vamos a descansar mucho.",
+        "translation": "上週六早上我起床很晚，因為我非常疲倦。之後我和家人一起吃早餐，我們吃了雞蛋和吐司。下午我和朋友去公園踢了兩個小時的足球。我們也吃了冰淇淋，因為天氣很熱。週日我去看望了祖父母，我奶奶做了一道美味的海鮮飯。晚上我在家看了一部電影。這個週末非常有趣。下個週末我打算和家人去海邊，我們要好好休息。",
+        "words": [
+          {
+            "word": "levantarse",
+            "pos": "v. pron.",
+            "zh": "起床、起身",
+            "example": "Me levanté tarde el sábado.",
+            "example_zh": "我週六起床很晚。"
+          },
+          {
+            "word": "cansado/a",
+            "pos": "adj.",
+            "zh": "疲倦的、累的",
+            "example": "Estaba muy cansado después del trabajo.",
+            "example_zh": "工作之後我非常疲倦。"
+          },
+          {
+            "word": "desayunar",
+            "pos": "v.",
+            "zh": "吃早餐",
+            "example": "Desayuné pan tostado con café.",
+            "example_zh": "我吃了吐司配咖啡當早餐。"
+          },
+          {
+            "word": "jugar",
+            "pos": "v.",
+            "zh": "玩、打（球）",
+            "example": "Jugamos al fútbol en el parque.",
+            "example_zh": "我們在公園踢足球。"
+          },
+          {
+            "word": "helado",
+            "pos": "n. m.",
+            "zh": "冰淇淋",
+            "example": "Tomamos un helado porque hacía calor.",
+            "example_zh": "因為天氣很熱，我們吃了冰淇淋。"
+          },
+          {
+            "word": "visitar",
+            "pos": "v.",
+            "zh": "拜訪、參觀",
+            "example": "Visité a mis abuelos el domingo.",
+            "example_zh": "我週日去拜訪了祖父母。"
+          },
+          {
+            "word": "cocinar",
+            "pos": "v.",
+            "zh": "烹飪、做菜",
+            "example": "Mi abuela cocinó una paella deliciosa.",
+            "example_zh": "我奶奶做了一道美味的海鮮飯。"
+          },
+          {
+            "word": "película",
+            "pos": "n. f.",
+            "zh": "電影",
+            "example": "Vi una película interesante anoche.",
+            "example_zh": "我昨晚看了一部有趣的電影。"
+          },
+          {
+            "word": "divertido/a",
+            "pos": "adj.",
+            "zh": "有趣的、好玩的",
+            "example": "El fin de semana fue muy divertido.",
+            "example_zh": "這個週末非常有趣。"
+          },
+          {
+            "word": "descansar",
+            "pos": "v.",
+            "zh": "休息",
+            "example": "Vamos a descansar en la playa.",
+            "example_zh": "我們要在海邊休息。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Por qué se levantó tarde el narrador el sábado?",
+            "options": [
+              "Porque tenía mucho trabajo.",
+              "Porque estaba muy cansado.",
+              "Porque llovía mucho.",
+              "Porque no tenía despertador."
+            ],
+            "answer": 1,
+            "explain": "文中提到「me levanté tarde porque estaba muy cansado」，因為非常疲倦所以起床很晚。"
+          },
+          {
+            "q": "¿Qué hicieron el narrador y sus amigos en el parque?",
+            "options": [
+              "Comieron una paella.",
+              "Vieron una película.",
+              "Jugaron al fútbol.",
+              "Tomaron café."
+            ],
+            "answer": 2,
+            "explain": "文中說「fui al parque con mis amigos y jugamos al fútbol」，他們在公園踢足球。"
+          },
+          {
+            "q": "¿Por qué tomaron un helado?",
+            "options": [
+              "Porque tenían hambre.",
+              "Porque era su postre favorito.",
+              "Porque hacía mucho calor.",
+              "Porque era el cumpleaños de un amigo."
+            ],
+            "answer": 2,
+            "explain": "文中提到「tomamos un helado porque hacía mucho calor」，因為天氣非常熱。"
+          },
+          {
+            "q": "¿Qué hizo la abuela del narrador el domingo?",
+            "options": [
+              "Vio una película con él.",
+              "Fue al parque con él.",
+              "Cocinó una paella deliciosa.",
+              "Compró un helado."
+            ],
+            "answer": 2,
+            "explain": "文中說「mi abuela cocinó una paella deliciosa」，奶奶做了美味的海鮮飯。"
+          },
+          {
+            "q": "¿Qué va a hacer el narrador el próximo fin de semana?",
+            "options": [
+              "Va a visitar a sus abuelos.",
+              "Va a ir a la playa con su familia.",
+              "Va a jugar al fútbol con sus amigos.",
+              "Va a cocinar una paella."
+            ],
+            "answer": 1,
+            "explain": "文中用 Futuro próximo 表達「voy a ir a la playa con mi familia」，下個週末要和家人去海邊。"
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "2026-08-04-B1-1",
+        "source": "ai",
+        "level_label": "B1",
+        "title": "Cómo aprender un idioma de manera efectiva",
+        "text": "Aprender un idioma nuevo puede parecer difícil al principio, pero si uno adopta los métodos correctos, el proceso se vuelve mucho más agradable. Cuando era estudiante universitario, intenté aprender francés solo con libros de gramática, y aunque entendía las reglas, no podía hablar con fluidez. Fue entonces cuando me di cuenta de que necesitaba cambiar mi enfoque.\n\nLo que más me ayudó fue escuchar música y ver series en el idioma que quería aprender. Si hubiera hecho esto desde el principio, habría progresado mucho más rápido. Además, encontré a un compañero nativo con quien practicaba conversación dos veces por semana. Al principio cometía muchos errores, pero él me corregía con paciencia.\n\nTambién es importante llevar un diario en el nuevo idioma. Aunque las primeras entradas eran muy simples, con el tiempo me expresaba con mayor naturalidad. Los expertos recomiendan que los estudiantes se expongan al idioma todos los días, incluso aunque solo sean quince minutos. Si alguien me hubiera dado este consejo antes, habría evitado muchas frustraciones. La constancia y la curiosidad son, sin duda, las mejores herramientas para dominar cualquier lengua.",
+        "translation": "學習一門新語言乍看之下可能很困難，但如果採用正確的方法，這個過程就會變得有趣許多。當我還是大學生的時候，曾試著只用文法書來學法語，雖然我能理解規則，卻無法流暢地說話。就在那時，我意識到自己需要改變學習方式。\n\n對我幫助最大的，是用想學的語言來聽音樂和看影集。如果我從一開始就這樣做，進步一定會快得多。此外，我找到了一位以該語言為母語的夥伴，每週和他練習兩次對話。起初我犯了很多錯，但他耐心地幫我糾正。\n\n用新語言寫日記也很重要。雖然最初的幾篇內容很簡單，但隨著時間流逝，我的表達越來越自然。專家建議學習者每天都接觸這門語言，即使只有十五分鐘也好。如果有人早點給我這個建議，我就能避免許多挫折。毫無疑問，持之以恆和求知若渴是掌握任何一門語言最好的工具。",
+        "words": [
+          {
+            "word": "fluidez",
+            "pos": "n.",
+            "zh": "流利、流暢",
+            "example": "Después de dos años de práctica, habla inglés con fluidez.",
+            "example_zh": "經過兩年的練習，他能流利地說英語。"
+          },
+          {
+            "word": "enfoque",
+            "pos": "n.",
+            "zh": "方式、方法、焦點",
+            "example": "Necesito cambiar mi enfoque para mejorar mis notas.",
+            "example_zh": "我需要改變方法來提高成績。"
+          },
+          {
+            "word": "progresado",
+            "pos": "v. (participio de progresar)",
+            "zh": "進步（progresar 的過去分詞）",
+            "example": "Hemos progresado mucho en este proyecto.",
+            "example_zh": "我們在這個專案上進步了很多。"
+          },
+          {
+            "word": "corregir",
+            "pos": "v.",
+            "zh": "糾正、修改",
+            "example": "La profesora nos corregía los errores con amabilidad.",
+            "example_zh": "老師親切地幫我們糾正錯誤。"
+          },
+          {
+            "word": "diario",
+            "pos": "n.",
+            "zh": "日記、日報",
+            "example": "Llevo un diario desde que tenía diez años.",
+            "example_zh": "我從十歲開始就寫日記了。"
+          },
+          {
+            "word": "entradas",
+            "pos": "n. pl.",
+            "zh": "（日記的）篇目、條目；入場券",
+            "example": "Las primeras entradas de su diario eran muy cortas.",
+            "example_zh": "她日記最初幾篇寫得非常簡短。"
+          },
+          {
+            "word": "exponerse",
+            "pos": "v. pron.",
+            "zh": "接觸、暴露於（某環境）",
+            "example": "Es fundamental exponerse al idioma todos los días.",
+            "example_zh": "每天接觸這門語言是非常重要的。"
+          },
+          {
+            "word": "frustraciones",
+            "pos": "n. pl.",
+            "zh": "挫折、沮喪",
+            "example": "Aprender a manejar las frustraciones es parte del proceso.",
+            "example_zh": "學會處理挫折是學習過程的一部分。"
+          },
+          {
+            "word": "constancia",
+            "pos": "n.",
+            "zh": "持之以恆、堅持",
+            "example": "La constancia es la clave del éxito en cualquier disciplina.",
+            "example_zh": "在任何領域，堅持都是成功的關鍵。"
+          },
+          {
+            "word": "dominar",
+            "pos": "v.",
+            "zh": "掌握、精通",
+            "example": "Quisiera dominar el japonés antes de los treinta años.",
+            "example_zh": "我希望在三十歲之前精通日語。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué método usó el autor cuando era estudiante universitario para aprender francés?",
+            "options": [
+              "Veía series y escuchaba música en francés.",
+              "Practicaba conversación con un compañero nativo.",
+              "Estudiaba solo con libros de gramática.",
+              "Llevaba un diario en francés todos los días."
+            ],
+            "answer": 2,
+            "explain": "文中提到作者大學時只用文法書（solo con libros de gramática）學法語，但無法流暢說話，後來才改變方法。"
+          },
+          {
+            "q": "Según el texto, ¿con qué frecuencia practicaba el autor la conversación con su compañero nativo?",
+            "options": [
+              "Todos los días.",
+              "Una vez por semana.",
+              "Dos veces por semana.",
+              "Tres veces al mes."
+            ],
+            "answer": 2,
+            "explain": "文中明確說明作者每週和母語夥伴練習兩次對話（dos veces por semana）。"
+          },
+          {
+            "q": "¿Qué consejo dan los expertos según el artículo?",
+            "options": [
+              "Que los estudiantes estudien gramática avanzada cada día.",
+              "Que los estudiantes se expongan al idioma todos los días.",
+              "Que los estudiantes busquen un profesor universitario.",
+              "Que los estudiantes traduzcan textos literarios."
+            ],
+            "answer": 1,
+            "explain": "文中提到專家建議學習者每天接觸語言（exponerse al idioma todos los días），即使只有十五分鐘。"
+          },
+          {
+            "q": "¿Qué tiempo verbal usa la oración: 'Si hubiera hecho esto desde el principio, habría progresado mucho más rápido'?",
+            "options": [
+              "Presente de subjuntivo y futuro simple.",
+              "Pretérito imperfecto de subjuntivo y condicional compuesto.",
+              "Pretérito indefinido y condicional simple.",
+              "Pretérito perfecto y futuro compuesto."
+            ],
+            "answer": 1,
+            "explain": "此句使用「過去虛擬式（hubiera hecho）」和「複合條件式（habría progresado）」，表示與過去事實相反的假設。"
+          },
+          {
+            "q": "¿Cuáles son, según el autor, las mejores herramientas para dominar una lengua?",
+            "options": [
+              "La gramática y la traducción.",
+              "La tecnología y los diccionarios.",
+              "La constancia y la curiosidad.",
+              "Los viajes y los libros de texto."
+            ],
+            "answer": 2,
+            "explain": "文章最後明確指出持之以恆（constancia）與求知若渴（curiosidad）是掌握語言最好的工具。"
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "2026-08-04-B2-fallback",
+        "source": "ai",
+        "level_label": "約 B2（AI 生成）",
+        "title": "Cómo aprender un idioma de manera efectiva",
+        "text": "Aprender un nuevo idioma es una de las experiencias más enriquecedoras que una persona puede tener. Cuando era niño, pensaba que aprender idiomas era demasiado difícil, pero con el tiempo descubrí que existen métodos muy eficaces que facilitan el proceso.\n\nUno de los mejores métodos que he probado es la inmersión cultural. Si tuvieras la oportunidad de vivir en un país donde se hable el idioma que estudias, aprenderías mucho más rápido. Sin embargo, como no todos podemos viajar al extranjero, hay otras alternativas igualmente útiles.\n\nPor ejemplo, ver películas y series en el idioma original, aunque al principio parezca complicado, ayuda enormemente a mejorar la comprensión auditiva. También recomendaría que buscaras un compañero de intercambio lingüístico con quien practicar conversaciones reales.\n\nAdemás, escribir un diario personal en el idioma que aprendes es una práctica que muchos expertos han recomendado durante años. Cuando cometí errores al principio, me di cuenta de que equivocarse es parte esencial del aprendizaje.\n\nEn conclusión, la clave del éxito es la constancia. Si dedicaras aunque sea treinta minutos al día, verías resultados sorprendentes en pocos meses.",
+        "translation": "學習一門新語言是一個人所能擁有的最豐富的體驗之一。我小時候認為學語言太困難了，但隨著時間流逝，我發現存在著許多非常有效的方法，能讓學習過程更輕鬆。\n\n我嘗試過的最好方法之一是文化沉浸式學習。如果你有機會住在一個說你所學語言的國家，你會學得快得多。然而，由於我們不是所有人都能出國旅行，還有其他同樣有用的替代方案。\n\n例如，用原聲語言觀看電影和影集，雖然一開始看起來很複雜，但對提升聽力理解有極大的幫助。我也會建議你去尋找一位語言交換夥伴，和他一起練習真實的對話。\n\n此外，用你正在學習的語言寫個人日記，是許多專家多年來一直推薦的練習方式。當我一開始犯錯時，我意識到犯錯是學習過程中不可或缺的一部分。\n\n總而言之，成功的關鍵在於持之以恆。如果你每天哪怕只投入三十分鐘，幾個月內你就會看到令人驚喜的成果。",
+        "words": [
+          {
+            "word": "enriquecedor",
+            "pos": "adj.",
+            "zh": "豐富的、充實的",
+            "example": "Viajar por el mundo es una experiencia muy enriquecedora.",
+            "example_zh": "環遊世界是一段非常充實的經歷。"
+          },
+          {
+            "word": "eficaz",
+            "pos": "adj.",
+            "zh": "有效的",
+            "example": "Este medicamento es muy eficaz contra el dolor de cabeza.",
+            "example_zh": "這種藥對頭痛非常有效。"
+          },
+          {
+            "word": "inmersión",
+            "pos": "n. f.",
+            "zh": "沉浸、浸入",
+            "example": "La inmersión cultural acelera el aprendizaje de idiomas.",
+            "example_zh": "文化沉浸式學習能加速語言學習。"
+          },
+          {
+            "word": "alternativa",
+            "pos": "n. f.",
+            "zh": "替代方案、選擇",
+            "example": "Si no puedes venir en tren, hay otras alternativas de transporte.",
+            "example_zh": "如果你無法搭火車來，還有其他交通方式可選擇。"
+          },
+          {
+            "word": "comprensión auditiva",
+            "pos": "loc. n. f.",
+            "zh": "聽力理解",
+            "example": "El examen incluye una sección de comprensión auditiva.",
+            "example_zh": "考試包含一個聽力理解的部分。"
+          },
+          {
+            "word": "intercambio lingüístico",
+            "pos": "loc. n. m.",
+            "zh": "語言交換",
+            "example": "Encontré un compañero de intercambio lingüístico por internet.",
+            "example_zh": "我在網路上找到了一位語言交換夥伴。"
+          },
+          {
+            "word": "equivocarse",
+            "pos": "v. pron.",
+            "zh": "犯錯、弄錯",
+            "example": "No te preocupes si te equivocas; es normal al principio.",
+            "example_zh": "如果你犯了錯不用擔心，一開始這是很正常的。"
+          },
+          {
+            "word": "constancia",
+            "pos": "n. f.",
+            "zh": "持之以恆、堅持",
+            "example": "Con constancia y esfuerzo, puedes lograr cualquier objetivo.",
+            "example_zh": "只要持之以恆並付出努力，你可以達成任何目標。"
+          },
+          {
+            "word": "sorprendente",
+            "pos": "adj.",
+            "zh": "令人驚訝的、驚人的",
+            "example": "Los resultados del experimento fueron sorprendentes.",
+            "example_zh": "實驗的結果令人驚訝。"
+          },
+          {
+            "word": "dedicar",
+            "pos": "v. tr.",
+            "zh": "投入、奉獻（時間或精力）",
+            "example": "Deberías dedicar más tiempo a estudiar gramática.",
+            "example_zh": "你應該投入更多時間學習文法。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Según el texto, ¿qué pensaba el autor sobre aprender idiomas cuando era niño?",
+            "options": [
+              "Que era una actividad muy divertida",
+              "Que era demasiado difícil",
+              "Que era innecesario",
+              "Que era muy fácil"
+            ],
+            "answer": 1,
+            "explain": "文章第一段明確提到「pensaba que aprender idiomas era demasiado difícil（認為學語言太困難了）」，故選第二個選項。"
+          },
+          {
+            "q": "¿Qué método considera el autor como uno de los mejores que ha probado?",
+            "options": [
+              "Estudiar con libros de texto",
+              "Memorizar listas de vocabulario",
+              "La inmersión cultural",
+              "Tomar clases particulares"
+            ],
+            "answer": 2,
+            "explain": "文章第二段開頭說「Uno de los mejores métodos que he probado es la inmersión cultural（我嘗試過的最好方法之一是文化沉浸式學習）」。"
+          },
+          {
+            "q": "Según el autor, ¿para qué sirve ver películas en el idioma original?",
+            "options": [
+              "Para mejorar la comprensión auditiva",
+              "Para aprender a escribir mejor",
+              "Para conocer la gramática avanzada",
+              "Para memorizar vocabulario técnico"
+            ],
+            "answer": 0,
+            "explain": "文章第三段提到看原聲電影「ayuda enormemente a mejorar la comprensión auditiva（對提升聽力理解有極大幫助）」。"
+          },
+          {
+            "q": "¿Qué recomienda el autor hacer con un compañero de intercambio lingüístico?",
+            "options": [
+              "Traducir textos literarios juntos",
+              "Practicar conversaciones reales",
+              "Estudiar gramática en silencio",
+              "Ver películas sin subtítulos"
+            ],
+            "answer": 1,
+            "explain": "文章建議尋找語言交換夥伴「con quien practicar conversaciones reales（用來練習真實對話）」。"
+          },
+          {
+            "q": "Según el texto, ¿cuál es la clave del éxito en el aprendizaje de idiomas?",
+            "options": [
+              "Tener un profesor nativo",
+              "Vivir en el extranjero obligatoriamente",
+              "La constancia",
+              "Aprender muchas reglas gramaticales"
+            ],
+            "answer": 2,
+            "explain": "文章最後一段明確指出「la clave del éxito es la constancia（成功的關鍵在於持之以恆）」。"
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-08-04-C1-fallback",
+        "source": "ai",
+        "level_label": "約 C1（AI 生成）",
+        "title": "Cómo aprender un idioma de manera efectiva",
+        "text": "Aprender un idioma nuevo puede parecer difícil al principio, pero si uno sigue ciertos métodos, el proceso se vuelve mucho más agradable y eficiente. Cuando era estudiante universitario, intenté aprender francés solo con libros de gramática, y no progresé tanto como esperaba. Fue entonces cuando me di cuenta de que necesitaba un enfoque diferente.\n\nLo que más me ayudó fue escuchar música y ver series en el idioma que quería aprender. Aunque no entendía todo al principio, poco a poco fui reconociendo palabras y estructuras. También empecé a escribir un diario en español todos los días. Si hubiera hecho esto desde el comienzo, habría avanzado mucho más rápido.\n\nAdemás, conversar con hablantes nativos es algo que recomendaría a cualquier estudiante. Al principio me daba vergüenza cometer errores, pero después comprendí que equivocarse es una parte esencial del aprendizaje. Si tuvieras la oportunidad de hablar con nativos regularmente, mejorarías tu pronunciación y tu fluidez de forma natural. La clave está en practicar cada día con constancia y curiosidad.",
+        "translation": "學習一門新語言一開始可能看起來很困難，但如果遵循某些方法，這個過程會變得更加愉快且有效率。當我還是大學生的時候，我嘗試只靠文法書學習法語，但進步的程度並不如預期。就在那時，我意識到自己需要一種不同的方式。\n\n對我幫助最大的，是聆聽音樂和用想學的語言看影集。雖然一開始無法理解所有內容，但我漸漸地開始認識單字和句型。我也開始每天用西班牙語寫日記。如果我從一開始就這樣做，進步會快得多。\n\n此外，我會向任何學生推薦與母語者交談。一開始我很害怕犯錯，但後來我明白，犯錯是學習中不可或缺的一部分。如果你有機會定期與母語者交談，你的發音和流利度將會自然地提升。關鍵在於每天帶著恆心與好奇心去練習。",
+        "words": [
+          {
+            "word": "eficiente",
+            "pos": "adj.",
+            "zh": "有效率的",
+            "example": "Este método de estudio es muy eficiente para aprender vocabulario.",
+            "example_zh": "這個學習方法在記單字方面非常有效率。"
+          },
+          {
+            "word": "progresé",
+            "pos": "v.",
+            "zh": "（我）進步了（progresar 的過去式）",
+            "example": "Estudié mucho, pero no progresé lo suficiente.",
+            "example_zh": "我讀了很多書，但進步得不夠。"
+          },
+          {
+            "word": "enfoque",
+            "pos": "n.m.",
+            "zh": "方法、取向、焦點",
+            "example": "Necesito un enfoque más práctico para mejorar mi español.",
+            "example_zh": "我需要一種更實際的方式來改善我的西班牙語。"
+          },
+          {
+            "word": "reconociendo",
+            "pos": "v.",
+            "zh": "辨認出（reconocer 的現在分詞）",
+            "example": "Fui reconociendo las palabras poco a poco.",
+            "example_zh": "我漸漸地開始辨認出那些單字。"
+          },
+          {
+            "word": "diario",
+            "pos": "n.m.",
+            "zh": "日記；日報",
+            "example": "Escribir un diario en otro idioma es muy útil.",
+            "example_zh": "用另一種語言寫日記非常有用。"
+          },
+          {
+            "word": "hablantes nativos",
+            "pos": "n.m.pl.",
+            "zh": "母語者",
+            "example": "Conversar con hablantes nativos mejora mucho la pronunciación.",
+            "example_zh": "與母語者交談能大幅改善發音。"
+          },
+          {
+            "word": "vergüenza",
+            "pos": "n.f.",
+            "zh": "羞愧、害羞、尷尬",
+            "example": "Me daba vergüenza hablar en público en inglés.",
+            "example_zh": "我以前很害怕在公開場合用英語說話。"
+          },
+          {
+            "word": "equivocarse",
+            "pos": "v. pron.",
+            "zh": "犯錯、弄錯",
+            "example": "No tengas miedo de equivocarte cuando hablas.",
+            "example_zh": "說話的時候不要害怕犯錯。"
+          },
+          {
+            "word": "fluidez",
+            "pos": "n.f.",
+            "zh": "流利度、流暢性",
+            "example": "La fluidez se consigue con mucha práctica diaria.",
+            "example_zh": "流利度是透過每天大量練習獲得的。"
+          },
+          {
+            "word": "constancia",
+            "pos": "n.f.",
+            "zh": "恆心、持之以恆",
+            "example": "El éxito en el aprendizaje depende de la constancia.",
+            "example_zh": "學習上的成功取決於恆心。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué método usó el autor cuando era estudiante universitario para aprender francés?",
+            "options": [
+              "Ver series en francés todos los días",
+              "Hablar con hablantes nativos de francés",
+              "Estudiar solo con libros de gramática",
+              "Escribir un diario en francés"
+            ],
+            "answer": 2,
+            "explain": "文章中提到作者當大學生時，只靠文法書（solo con libros de gramática）學習法語，結果進步不如預期。"
+          },
+          {
+            "q": "Según el texto, ¿qué fue lo que más ayudó al autor a aprender el idioma?",
+            "options": [
+              "Tomar clases particulares con un profesor",
+              "Escuchar música y ver series en el idioma que quería aprender",
+              "Viajar al extranjero durante un año",
+              "Memorizar listas de vocabulario"
+            ],
+            "answer": 1,
+            "explain": "文章明確說「Lo que más me ayudó fue escuchar música y ver series en el idioma que quería aprender」，即聽音樂和看影集幫助最大。"
+          },
+          {
+            "q": "¿Qué expresa la frase «Si hubiera hecho esto desde el comienzo, habría avanzado mucho más rápido»?",
+            "options": [
+              "Un plan para el futuro",
+              "Una obligación del pasado",
+              "Un arrepentimiento sobre algo que no hizo en el pasado",
+              "Una condición que se cumplió"
+            ],
+            "answer": 2,
+            "explain": "「Si hubiera hecho... habría avanzado」是過去反事實條件句，表達對過去未做之事的遺憾或後悔，即「若早就這麼做，結果就會不同」。"
+          },
+          {
+            "q": "¿Por qué le daba vergüenza al autor hablar con hablantes nativos al principio?",
+            "options": [
+              "Porque no conocía a ningún hablante nativo",
+              "Porque le daba miedo cometer errores",
+              "Porque hablaba demasiado rápido",
+              "Porque no le gustaba la pronunciación nativa"
+            ],
+            "answer": 1,
+            "explain": "文章說「me daba vergüenza cometer errores」，表示作者一開始害怕犯錯，所以感到羞澀。"
+          },
+          {
+            "q": "Según el autor, ¿cuál es la clave para aprender un idioma?",
+            "options": [
+              "Estudiar gramática avanzada cada semana",
+              "Vivir en un país donde se hable el idioma",
+              "Practicar cada día con constancia y curiosidad",
+              "Ver muchas películas sin subtítulos"
+            ],
+            "answer": 2,
+            "explain": "文章最後一句「La clave está en practicar cada día con constancia y curiosidad」，明確點出關鍵是每天帶著恆心與好奇心練習。"
+          }
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "2026-08-04-C2-fallback",
+        "source": "ai",
+        "level_label": "約 C2（AI 生成）",
+        "title": "Las mejores formas de aprender un idioma",
+        "text": "Aprender un idioma nuevo puede parecer difícil al principio, pero si uno encuentra el método adecuado, el proceso se vuelve mucho más interesante. Cuando era estudiante universitario, intenté aprender francés solo con libros de gramática, pero pronto me di cuenta de que eso no era suficiente. Me habría resultado más fácil si hubiera practicado la conversación desde el principio.\n\nLos expertos recomiendan que los estudiantes combinen diferentes técnicas: ver series en el idioma original con subtítulos, escuchar podcasts durante los viajes en metro y hablar con hablantes nativos siempre que sea posible. También es importante que uno no tenga miedo a cometer errores, porque equivocarse es parte natural del aprendizaje.\n\nPersonalmente, creo que la clave está en la constancia. Si estudiaras solo diez minutos cada día, notarías una mejora significativa después de varios meses. Además, llevar un diario en el idioma que estás aprendiendo es una estrategia que muchos poliglotas han utilizado con gran éxito. Lo fundamental es que el aprendizaje forme parte de tu vida cotidiana y que disfrutes del camino.",
+        "translation": "學習一門新語言一開始可能看起來很困難，但如果找到合適的方法，這個過程就會變得有趣許多。當我還是大學生的時候，曾試著只靠文法書學法語，但很快就意識到那樣做是不夠的。如果我從一開始就練習會話，對我來說應該會容易許多。\n\n專家建議學生結合不同的技巧：看原聲附字幕的影集、在搭地鐵通勤時聆聽 Podcast，以及盡可能與母語者對話。同樣重要的是，不要害怕犯錯，因為犯錯是學習過程中自然的一部分。\n\n就我個人而言，我認為關鍵在於持之以恆。如果你每天只學習十分鐘，幾個月後就會注意到明顯的進步。此外，用你正在學習的語言寫日記，是許多多語者曾非常成功地運用過的一種策略。最根本的是，讓學習成為你日常生活的一部分，並享受這段旅程。",
+        "words": [
+          {
+            "word": "adecuado",
+            "pos": "adj.",
+            "zh": "合適的、適當的",
+            "example": "Es importante elegir el método adecuado para estudiar.",
+            "example_zh": "選擇合適的學習方法是很重要的。"
+          },
+          {
+            "word": "darse cuenta de",
+            "pos": "loc. v.",
+            "zh": "意識到、察覺到",
+            "example": "Me di cuenta de que necesitaba más práctica.",
+            "example_zh": "我意識到自己需要更多練習。"
+          },
+          {
+            "word": "hablante nativo",
+            "pos": "n. m.",
+            "zh": "母語者",
+            "example": "Hablar con hablantes nativos mejora la pronunciación.",
+            "example_zh": "與母語者交談可以改善發音。"
+          },
+          {
+            "word": "cometer errores",
+            "pos": "loc. v.",
+            "zh": "犯錯",
+            "example": "No tengas miedo a cometer errores cuando hablas.",
+            "example_zh": "說話時不要害怕犯錯。"
+          },
+          {
+            "word": "constancia",
+            "pos": "n. f.",
+            "zh": "持之以恆、堅持",
+            "example": "La constancia es la clave para aprender cualquier idioma.",
+            "example_zh": "持之以恆是學習任何語言的關鍵。"
+          },
+          {
+            "word": "mejora",
+            "pos": "n. f.",
+            "zh": "進步、改善",
+            "example": "Después de un mes, noté una gran mejora en mi español.",
+            "example_zh": "一個月後，我注意到我的西語有了很大的進步。"
+          },
+          {
+            "word": "diario",
+            "pos": "n. m.",
+            "zh": "日記",
+            "example": "Escribo un diario en inglés para practicar la escritura.",
+            "example_zh": "我用英語寫日記來練習寫作。"
+          },
+          {
+            "word": "políglota",
+            "pos": "n. m./f.",
+            "zh": "多語者、通曉多種語言的人",
+            "example": "Los poliglotas suelen tener estrategias de aprendizaje muy eficaces.",
+            "example_zh": "多語者通常擁有非常有效的學習策略。"
+          },
+          {
+            "word": "cotidiano",
+            "pos": "adj.",
+            "zh": "日常的、每天的",
+            "example": "Incorporar el idioma en la vida cotidiana acelera el aprendizaje.",
+            "example_zh": "將語言融入日常生活可以加速學習。"
+          },
+          {
+            "word": "subtítulo",
+            "pos": "n. m.",
+            "zh": "字幕",
+            "example": "Ver películas con subtítulos ayuda a entender el vocabulario.",
+            "example_zh": "看附有字幕的電影有助於理解詞彙。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Según el texto, ¿qué hizo el autor cuando era estudiante universitario?",
+            "options": [
+              "Viajó a Francia para practicar el idioma.",
+              "Intentó aprender francés solo con libros de gramática.",
+              "Habló con muchos hablantes nativos de francés.",
+              "Vio series en francés con subtítulos."
+            ],
+            "answer": 1,
+            "explain": "文章第一段明確提到，作者當大學生時，嘗試只靠文法書學法語（intenté aprender francés solo con libros de gramática）。"
+          },
+          {
+            "q": "¿Qué dice el texto sobre cometer errores?",
+            "options": [
+              "Que hay que evitarlos siempre que sea posible.",
+              "Que solo los principiantes cometen errores.",
+              "Que es una parte natural del aprendizaje.",
+              "Que los errores demuestran falta de talento."
+            ],
+            "answer": 2,
+            "explain": "文章第二段說「equivocarse es parte natural del aprendizaje」（犯錯是學習過程中自然的一部分），故答案為選項 2。"
+          },
+          {
+            "q": "Según el autor, ¿cuál es la clave para aprender un idioma?",
+            "options": [
+              "Estudiar muchas horas seguidas cada semana.",
+              "La constancia en el estudio diario.",
+              "Memorizar listas de vocabulario.",
+              "Tomar clases con un profesor nativo."
+            ],
+            "answer": 1,
+            "explain": "第三段作者明確表示「la clave está en la constancia」（關鍵在於持之以恆），選項 1 正確。"
+          },
+          {
+            "q": "¿Qué estrategia menciona el texto que usan muchos poliglotas?",
+            "options": [
+              "Escuchar música clásica en el idioma que estudian.",
+              "Traducir textos literarios al español.",
+              "Llevar un diario en el idioma que están aprendiendo.",
+              "Repetir palabras frente a un espejo."
+            ],
+            "answer": 2,
+            "explain": "文章第三段提到「llevar un diario en el idioma que estás aprendiendo es una estrategia que muchos poliglotas han utilizado」，故答案為選項 2。"
+          },
+          {
+            "q": "¿Qué tiempo verbal se usa en la frase: 'Si estudiaras solo diez minutos cada día, notarías una mejora significativa'?",
+            "options": [
+              "Pretérito indefinido y pretérito imperfecto.",
+              "Pretérito imperfecto de subjuntivo y condicional simple.",
+              "Presente de subjuntivo y futuro simple.",
+              "Pretérito perfecto y condicional compuesto."
+            ],
+            "answer": 1,
+            "explain": "這個句子使用的是「si + 過去虛擬式（estudiaras）+ 條件式（notarías）」的假設句型，表示與現實相反或不確定的條件，答案為選項 1。"
+          }
+        ]
+      }
+    ]
+  }
+}

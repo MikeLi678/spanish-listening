@@ -1,0 +1,839 @@
+{
+  "date": "2026-08-05",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-08-05-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Mi mejor amigo",
+        "text": "Mi mejor amigo se llama Carlos. Él tiene veinte años. Es alto y delgado. Tiene el pelo negro y los ojos marrones. Carlos es muy simpático y divertido. Nosotros somos estudiantes. Estudiamos español juntos. Él vive cerca de mi casa. Los sábados comemos pizza y escuchamos música. Carlos es importante para mí.",
+        "translation": "我最好的朋友叫卡洛斯。他二十歲。他高挑而瘦。他有黑色的頭髮和棕色的眼睛。卡洛斯非常親切又有趣。我們都是學生。我們一起學西班牙語。他住在我家附近。每週六我們吃披薩、聽音樂。卡洛斯對我來說很重要。",
+        "words": [
+          {
+            "word": "mejor",
+            "pos": "adj.",
+            "zh": "最好的",
+            "example": "Ella es mi mejor amiga.",
+            "example_zh": "她是我最好的朋友。"
+          },
+          {
+            "word": "llamarse",
+            "pos": "v. pron.",
+            "zh": "名叫、叫做",
+            "example": "Yo me llamo Ana.",
+            "example_zh": "我叫安娜。"
+          },
+          {
+            "word": "alto",
+            "pos": "adj.",
+            "zh": "高的",
+            "example": "Mi padre es muy alto.",
+            "example_zh": "我爸爸很高。"
+          },
+          {
+            "word": "delgado",
+            "pos": "adj.",
+            "zh": "瘦的",
+            "example": "El chico es delgado y joven.",
+            "example_zh": "那個男孩又瘦又年輕。"
+          },
+          {
+            "word": "simpático",
+            "pos": "adj.",
+            "zh": "親切的、友善的",
+            "example": "El profesor es muy simpático.",
+            "example_zh": "那位老師非常親切。"
+          },
+          {
+            "word": "divertido",
+            "pos": "adj.",
+            "zh": "有趣的、好玩的",
+            "example": "La película es muy divertida.",
+            "example_zh": "那部電影非常有趣。"
+          },
+          {
+            "word": "estudiante",
+            "pos": "n.",
+            "zh": "學生",
+            "example": "Somos estudiantes de español.",
+            "example_zh": "我們是西班牙語學生。"
+          },
+          {
+            "word": "juntos",
+            "pos": "adv.",
+            "zh": "一起",
+            "example": "Ellos trabajan juntos.",
+            "example_zh": "他們一起工作。"
+          },
+          {
+            "word": "cerca de",
+            "pos": "prep.",
+            "zh": "在⋯附近",
+            "example": "La tienda está cerca de la escuela.",
+            "example_zh": "那家商店在學校附近。"
+          },
+          {
+            "word": "importante",
+            "pos": "adj.",
+            "zh": "重要的",
+            "example": "La familia es muy importante.",
+            "example_zh": "家人非常重要。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cómo se llama el mejor amigo?",
+            "options": [
+              "Se llama Miguel.",
+              "Se llama Carlos.",
+              "Se llama Pedro.",
+              "Se llama Luis."
+            ],
+            "answer": 1,
+            "explain": "文中第一句說「Mi mejor amigo se llama Carlos」，所以最好的朋友叫卡洛斯。"
+          },
+          {
+            "q": "¿Cuántos años tiene Carlos?",
+            "options": [
+              "Tiene quince años.",
+              "Tiene treinta años.",
+              "Tiene veinte años.",
+              "Tiene dieciocho años."
+            ],
+            "answer": 2,
+            "explain": "文中說「Él tiene veinte años」，表示他二十歲。"
+          },
+          {
+            "q": "¿Cómo es Carlos físicamente?",
+            "options": [
+              "Es bajo y gordo.",
+              "Es alto y delgado.",
+              "Es bajo y delgado.",
+              "Es alto y gordo."
+            ],
+            "answer": 1,
+            "explain": "文中說「Es alto y delgado」，表示他高挑而瘦。"
+          },
+          {
+            "q": "¿Qué hacen los sábados?",
+            "options": [
+              "Estudian español y leen libros.",
+              "Comen hamburguesas y ven películas.",
+              "Comen pizza y escuchan música.",
+              "Juegan fútbol y beben café."
+            ],
+            "answer": 2,
+            "explain": "文中說「Los sábados comemos pizza y escuchamos música」，週六他們吃披薩和聽音樂。"
+          },
+          {
+            "q": "¿Dónde vive Carlos?",
+            "options": [
+              "Vive lejos de la escuela.",
+              "Vive cerca de mi casa.",
+              "Vive en otra ciudad.",
+              "Vive en un apartamento grande."
+            ],
+            "answer": 1,
+            "explain": "文中說「Él vive cerca de mi casa」，表示他住在「我」家附近。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-08-05-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Mis planes para el futuro",
+        "text": "El año pasado estudié mucho español y aprendí palabras nuevas cada día. También viajé a México con mi familia y fue una experiencia increíble. Este año quiero mejorar más mi español, porque es un idioma muy importante. El próximo mes voy a empezar un curso nuevo en la escuela. Además, voy a leer libros en español y voy a ver películas sin subtítulos. Mi sueño es hablar español con fluidez. Por eso, voy a practicar todos los días con mis amigos y con mi profesor. Estoy muy emocionado y tengo muchas ganas de aprender.",
+        "translation": "去年我努力學習了很多西班牙語，每天學習新單字。我也和家人一起去了墨西哥，那是一次令人難以置信的經歷。今年我想更進一步提升我的西班牙語，因為它是一門非常重要的語言。下個月我打算在學校開始一門新課程。此外，我打算閱讀西班牙語書籍，並且看沒有字幕的電影。我的夢想是流利地說西班牙語。因此，我每天都會和我的朋友以及老師一起練習。我非常興奮，而且非常渴望學習。",
+        "words": [
+          {
+            "word": "estudié",
+            "pos": "v.",
+            "zh": "我學習了（estudiar 的簡單過去式）",
+            "example": "El año pasado estudié mucho español.",
+            "example_zh": "去年我學習了很多西班牙語。"
+          },
+          {
+            "word": "aprendí",
+            "pos": "v.",
+            "zh": "我學會了（aprender 的簡單過去式）",
+            "example": "Aprendí palabras nuevas cada día.",
+            "example_zh": "我每天學習新單字。"
+          },
+          {
+            "word": "mejorar",
+            "pos": "v.",
+            "zh": "改善、提升",
+            "example": "Quiero mejorar mi español este año.",
+            "example_zh": "今年我想提升我的西班牙語。"
+          },
+          {
+            "word": "idioma",
+            "pos": "n. m.",
+            "zh": "語言",
+            "example": "El español es un idioma muy importante.",
+            "example_zh": "西班牙語是一門非常重要的語言。"
+          },
+          {
+            "word": "voy a empezar",
+            "pos": "v.",
+            "zh": "我打算開始（Futuro próximo 結構）",
+            "example": "Voy a empezar un curso nuevo el próximo mes.",
+            "example_zh": "下個月我打算開始一門新課程。"
+          },
+          {
+            "word": "subtítulos",
+            "pos": "n. m. pl.",
+            "zh": "字幕",
+            "example": "Voy a ver películas sin subtítulos.",
+            "example_zh": "我打算看沒有字幕的電影。"
+          },
+          {
+            "word": "fluidez",
+            "pos": "n. f.",
+            "zh": "流利、流暢",
+            "example": "Mi sueño es hablar español con fluidez.",
+            "example_zh": "我的夢想是流利地說西班牙語。"
+          },
+          {
+            "word": "practicar",
+            "pos": "v.",
+            "zh": "練習",
+            "example": "Voy a practicar todos los días con mis amigos.",
+            "example_zh": "我每天都會和朋友練習。"
+          },
+          {
+            "word": "emocionado",
+            "pos": "adj.",
+            "zh": "興奮的、激動的",
+            "example": "Estoy muy emocionado por mis planes.",
+            "example_zh": "我對我的計畫感到非常興奮。"
+          },
+          {
+            "word": "tener ganas de",
+            "pos": "expr.",
+            "zh": "渴望、很想做某事",
+            "example": "Tengo muchas ganas de aprender español.",
+            "example_zh": "我非常渴望學習西班牙語。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Adónde viajó el autor el año pasado?",
+            "options": [
+              "A España",
+              "A México",
+              "A Argentina",
+              "A Colombia"
+            ],
+            "answer": 1,
+            "explain": "文中提到「viajé a México con mi familia」，所以作者去年和家人去了墨西哥。"
+          },
+          {
+            "q": "¿Qué va a empezar el autor el próximo mes?",
+            "options": [
+              "Un viaje a México",
+              "Un libro en español",
+              "Un curso nuevo en la escuela",
+              "Una película sin subtítulos"
+            ],
+            "answer": 2,
+            "explain": "文中寫道「voy a empezar un curso nuevo en la escuela」，作者下個月打算在學校開始一門新課程。"
+          },
+          {
+            "q": "¿Cuál es el sueño del autor?",
+            "options": [
+              "Viajar a todos los países de habla hispana",
+              "Hablar español con fluidez",
+              "Escribir un libro en español",
+              "Ser profesor de español"
+            ],
+            "answer": 1,
+            "explain": "文中明確說明「Mi sueño es hablar español con fluidez」，作者的夢想是流利地說西班牙語。"
+          },
+          {
+            "q": "¿Con quiénes va a practicar el autor todos los días?",
+            "options": [
+              "Con su familia y su hermano",
+              "Con sus compañeros de viaje",
+              "Con sus amigos y su profesor",
+              "Con sus padres y su hermana"
+            ],
+            "answer": 2,
+            "explain": "文中提到「voy a practicar todos los días con mis amigos y con mi profesor」，他打算和朋友及老師一起練習。"
+          },
+          {
+            "q": "¿Cómo describe el autor su experiencia en México?",
+            "options": [
+              "Fue una experiencia difícil.",
+              "Fue una experiencia aburrida.",
+              "Fue una experiencia increíble.",
+              "Fue una experiencia normal."
+            ],
+            "answer": 2,
+            "explain": "文中描述墨西哥之旅「fue una experiencia increíble」，意思是「那是一次令人難以置信的經歷」。"
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "2026-08-05-B1-1",
+        "source": "ai",
+        "level_label": "B1",
+        "title": "El poder de la creatividad",
+        "text": "Cuando era niña, mi abuela me enseñó que el arte no era simplemente dibujar o pintar, sino una forma de expresar lo que las palabras no podían decir. Recuerdo que pasábamos horas en su taller, donde ella creaba esculturas de barro que parecían cobrar vida entre sus manos.\n\nAquel verano aprendí que cualquier persona podía ser artista si se lo proponía. Mi abuela me explicó que ella había descubierto su pasión por la escultura después de que su maestra le dijera que tenía un talento especial. Desde ese momento, nunca dejó de crear.\n\nYo también intenté hacer mis propias obras. Aunque al principio mis esculturas no eran perfectas, me di cuenta de que el proceso era más importante que el resultado. Si pudiera volver a esos días, pasaría aún más tiempo aprendiendo de ella.\n\nHoy creo que el arte nos permite conocernos mejor a nosotros mismos. No importa si eres principiante o experto; lo esencial es que expreses tus emociones con libertad. Como decía mi abuela: «La creatividad es el idioma del alma.»",
+        "translation": "當我還是個小女孩的時候，祖母教導我，藝術不僅僅是畫畫或繪圖，而是一種表達文字無法訴說之事的方式。我記得我們會在她的工作室裡待上好幾個小時，她在那裡用黏土創作雕塑，那些作品在她手中彷彿活了過來。\n\n那個夏天，我學到了任何人只要下定決心都可以成為藝術家。祖母告訴我，她是在老師對她說她有特別的天賦之後，才發現了自己對雕塑的熱情。從那一刻起，她從未停止創作。\n\n我也嘗試製作自己的作品。雖然一開始我的雕塑並不完美，但我意識到過程比結果更重要。如果我能回到那些日子，我會花更多時間向她學習。\n\n今天，我相信藝術讓我們更了解自己。不管你是初學者還是專家，最重要的是你能自由地表達你的情感。正如我祖母常說的：「創意是靈魂的語言。」",
+        "words": [
+          {
+            "word": "escultura",
+            "pos": "n.f.",
+            "zh": "雕塑；雕刻作品",
+            "example": "Mi abuela creaba esculturas de barro en su taller.",
+            "example_zh": "我祖母在她的工作室裡創作黏土雕塑。"
+          },
+          {
+            "word": "barro",
+            "pos": "n.m.",
+            "zh": "黏土；泥土",
+            "example": "Las figuras de barro son frágiles si no se cuecen bien.",
+            "example_zh": "黏土做的人像如果沒有烤好的話很容易碎。"
+          },
+          {
+            "word": "cobrar vida",
+            "pos": "loc.v.",
+            "zh": "活過來；栩栩如生",
+            "example": "Los personajes del cuento parecían cobrar vida.",
+            "example_zh": "故事裡的角色彷彿活了過來。"
+          },
+          {
+            "word": "talento",
+            "pos": "n.m.",
+            "zh": "才能；天賦",
+            "example": "Ella tenía un talento especial para la música.",
+            "example_zh": "她在音樂方面有特別的天賦。"
+          },
+          {
+            "word": "proponerse",
+            "pos": "v.pron.",
+            "zh": "下定決心；立志",
+            "example": "Si te lo propones, puedes aprender cualquier idioma.",
+            "example_zh": "如果你下定決心，你可以學習任何語言。"
+          },
+          {
+            "word": "proceso",
+            "pos": "n.m.",
+            "zh": "過程；程序",
+            "example": "El proceso de aprendizaje requiere paciencia.",
+            "example_zh": "學習的過程需要耐心。"
+          },
+          {
+            "word": "principiante",
+            "pos": "n.m./f.",
+            "zh": "初學者；新手",
+            "example": "Este curso está diseñado para principiantes.",
+            "example_zh": "這門課是為初學者設計的。"
+          },
+          {
+            "word": "esencial",
+            "pos": "adj.",
+            "zh": "本質的；最重要的",
+            "example": "Lo esencial es mantener una actitud positiva.",
+            "example_zh": "最重要的是保持積極的態度。"
+          },
+          {
+            "word": "creatividad",
+            "pos": "n.f.",
+            "zh": "創意；創造力",
+            "example": "La creatividad se puede desarrollar con práctica.",
+            "example_zh": "創造力可以透過練習來培養。"
+          },
+          {
+            "word": "alma",
+            "pos": "n.f.",
+            "zh": "靈魂；心靈",
+            "example": "El arte refleja el alma del artista.",
+            "example_zh": "藝術反映了藝術家的靈魂。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué le enseñó la abuela a la narradora cuando era niña?",
+            "options": [
+              "Que el arte era solo para personas con mucho dinero.",
+              "Que el arte era una forma de expresar lo que las palabras no podían decir.",
+              "Que era imposible aprender a esculpir sin estudiar en una escuela.",
+              "Que solo los adultos podían ser artistas."
+            ],
+            "answer": 1,
+            "explain": "文章第一段明確指出，祖母教導她藝術是一種表達文字無法訴說之事的方式（una forma de expresar lo que las palabras no podían decir）。"
+          },
+          {
+            "q": "¿Cómo descubrió la abuela su pasión por la escultura?",
+            "options": [
+              "Después de visitar un museo famoso en su ciudad.",
+              "Cuando vio una exposición de arte en la televisión.",
+              "Después de que su maestra le dijera que tenía un talento especial.",
+              "Porque su madre también era escultora."
+            ],
+            "answer": 2,
+            "explain": "文章第二段說明，祖母是在老師告訴她她有特別的天賦之後（después de que su maestra le dijera que tenía un talento especial），才發現了對雕塑的熱情。"
+          },
+          {
+            "q": "¿Qué conclusión sacó la narradora de su experiencia con las esculturas?",
+            "options": [
+              "Que era mejor no intentarlo si no se tenía talento.",
+              "Que el proceso era más importante que el resultado.",
+              "Que el resultado final era lo único que importaba.",
+              "Que necesitaba ir a una academia de arte profesional."
+            ],
+            "answer": 1,
+            "explain": "第三段中，敘述者意識到過程比結果更重要（el proceso era más importante que el resultado）。"
+          },
+          {
+            "q": "¿Qué expresa la narradora con la frase condicional «Si pudiera volver a esos días»?",
+            "options": [
+              "Que puede regresar al pasado cuando quiera.",
+              "Que planea visitar a su abuela el próximo verano.",
+              "Que lamenta no haber aprovechado más el tiempo con su abuela.",
+              "Que no le gustaron esos días de verano."
+            ],
+            "answer": 2,
+            "explain": "「Si pudiera volver a esos días」使用條件式，表達一個與現實相反的假設，暗示敘述者後悔當時沒有把握更多時間向祖母學習，帶有惋惜之情。"
+          },
+          {
+            "q": "Según la narradora, ¿qué es lo esencial en el arte?",
+            "options": [
+              "Tener muchos años de experiencia antes de empezar.",
+              "Usar materiales muy caros y de alta calidad.",
+              "Expresar las emociones con libertad, sin importar el nivel.",
+              "Imitar el estilo de los grandes artistas del pasado."
+            ],
+            "answer": 2,
+            "explain": "文章最後一段說明，最重要的是自由地表達情感（expreses tus emociones con libertad），無論是初學者還是專家都適用。"
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "2026-08-05-B2-fallback",
+        "source": "ai",
+        "level_label": "約 B2（AI 生成）",
+        "title": "El poder de la creatividad",
+        "text": "Desde pequeña, María soñaba con ser pintora. Aunque sus padres querían que estudiara algo más práctico, ella nunca abandonó su pasión por el arte. Cuando tenía quince años, descubrió que podía expresar sus emociones más profundas a través de los colores y las formas.\n\nDespués de terminar el bachillerato, decidió matricularse en una escuela de bellas artes, donde conoció a profesores que la inspiraron profundamente. Si hubiera escuchado los consejos de sus padres, quizás nunca habría encontrado su verdadera vocación.\n\nEn su primer año, María aprendió técnicas que nunca había visto antes. Le sorprendió que el arte no fuera solo dibujar bien, sino también observar el mundo con ojos distintos. Sus obras reflejaban todo lo que había vivido: la alegría, el dolor y la esperanza.\n\nHoy, María expone sus cuadros en una galería del centro. Aunque el camino fue difícil y hubo momentos en que dudó de sí misma, está convencida de que seguir su vocación fue la mejor decisión que tomó. La creatividad, según ella, es la forma más honesta de comunicarse con los demás.",
+        "translation": "從小，瑪麗亞就夢想成為一名畫家。儘管她的父母希望她學習更實用的東西，她卻從未放棄對藝術的熱情。當她十五歲的時候，她發現自己可以透過顏色和形狀來表達最深層的情感。\n\n高中畢業後，她決定報名就讀一所美術學校，在那裡她認識了深深啟發她的老師們。如果她當初聽從了父母的建議，也許她永遠不會找到自己真正的天職。\n\n在第一年，瑪麗亞學到了許多她從未見過的技法。讓她驚訝的是，藝術不只是把畫畫好，而是用不同的眼光觀察世界。她的作品反映了她所經歷的一切：喜悅、痛苦與希望。\n\n如今，瑪麗亞在市中心的一家畫廊展出她的畫作。雖然這條路很艱難，也有過懷疑自己的時刻，但她深信追隨自己的天職是她所做過最好的決定。在她看來，創意是與他人溝通最真誠的方式。",
+        "words": [
+          {
+            "word": "abandonar",
+            "pos": "v.",
+            "zh": "放棄、拋棄",
+            "example": "Ella nunca abandonó su pasión por la música.",
+            "example_zh": "她從未放棄對音樂的熱情。"
+          },
+          {
+            "word": "matricularse",
+            "pos": "v. pron.",
+            "zh": "報名、註冊入學",
+            "example": "Decidió matricularse en un curso de fotografía.",
+            "example_zh": "她決定報名參加一門攝影課程。"
+          },
+          {
+            "word": "vocación",
+            "pos": "n. f.",
+            "zh": "天職、志業",
+            "example": "Desde joven supo que su vocación era el teatro.",
+            "example_zh": "從年輕時他就知道自己的天職是戲劇。"
+          },
+          {
+            "word": "reflejar",
+            "pos": "v.",
+            "zh": "反映、反射",
+            "example": "Sus pinturas reflejan la realidad de su país.",
+            "example_zh": "他的畫作反映了他國家的現實。"
+          },
+          {
+            "word": "exponer",
+            "pos": "v.",
+            "zh": "展出、展示",
+            "example": "El artista va a exponer sus obras en Madrid.",
+            "example_zh": "這位藝術家將在馬德里展出他的作品。"
+          },
+          {
+            "word": "galería",
+            "pos": "n. f.",
+            "zh": "畫廊、藝廊",
+            "example": "Visitamos una galería de arte moderno ayer.",
+            "example_zh": "我們昨天參觀了一間現代藝術畫廊。"
+          },
+          {
+            "word": "dudar",
+            "pos": "v.",
+            "zh": "懷疑、猶豫",
+            "example": "A veces dudaba de su talento, pero siguió adelante.",
+            "example_zh": "有時她懷疑自己的才能，但她還是繼續前行。"
+          },
+          {
+            "word": "técnica",
+            "pos": "n. f.",
+            "zh": "技法、技術",
+            "example": "Aprendió nuevas técnicas de escultura en el taller.",
+            "example_zh": "他在工作坊學到了新的雕塑技法。"
+          },
+          {
+            "word": "inspirar",
+            "pos": "v.",
+            "zh": "啟發、激勵",
+            "example": "La naturaleza inspiró al poeta para escribir sus versos.",
+            "example_zh": "大自然啟發了詩人寫下他的詩句。"
+          },
+          {
+            "word": "creatividad",
+            "pos": "n. f.",
+            "zh": "創意、創造力",
+            "example": "La creatividad es esencial en el mundo del diseño.",
+            "example_zh": "創意在設計領域是不可或缺的。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué querían los padres de María?",
+            "options": [
+              "Que estudiara bellas artes.",
+              "Que se convirtiera en pintora famosa.",
+              "Que estudiara algo más práctico.",
+              "Que viajara al extranjero."
+            ],
+            "answer": 2,
+            "explain": "文中提到「她的父母希望她學習更實用的東西（algo más práctico）」，故選第3項。"
+          },
+          {
+            "q": "¿A qué edad descubrió María que podía expresar sus emociones a través del arte?",
+            "options": [
+              "A los diez años.",
+              "A los doce años.",
+              "A los dieciocho años.",
+              "A los quince años."
+            ],
+            "answer": 3,
+            "explain": "文中明確提到「當她十五歲（quince años）的時候」，故選第4項。"
+          },
+          {
+            "q": "Según el texto, ¿qué le sorprendió a María en la escuela de bellas artes?",
+            "options": [
+              "Que el arte era solo dibujar bien.",
+              "Que el arte implicaba observar el mundo con ojos distintos.",
+              "Que los profesores no la inspiraban.",
+              "Que las técnicas eran muy fáciles."
+            ],
+            "answer": 1,
+            "explain": "文中說藝術「不只是把畫畫好，而是用不同的眼光觀察世界」，故選第2項。"
+          },
+          {
+            "q": "¿Qué habría pasado si María hubiera escuchado a sus padres?",
+            "options": [
+              "Habría encontrado su vocación antes.",
+              "Habría estudiado en una galería.",
+              "Quizás nunca habría encontrado su verdadera vocación.",
+              "Habría dejado de pintar para siempre."
+            ],
+            "answer": 2,
+            "explain": "文中使用條件式完成時態表示「也許她永遠不會找到自己真正的天職」，故選第3項。"
+          },
+          {
+            "q": "¿Dónde expone sus cuadros María actualmente?",
+            "options": [
+              "En su escuela de bellas artes.",
+              "En una galería del centro.",
+              "En la casa de sus padres.",
+              "En un museo internacional."
+            ],
+            "answer": 1,
+            "explain": "文中提到她「在市中心的一家畫廊（galería del centro）展出畫作」，故選第2項。"
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-08-05-C1-fallback",
+        "source": "ai",
+        "level_label": "約 C1（AI 生成）",
+        "title": "El poder de la creatividad",
+        "text": "Desde pequeña, María soñaba con convertirse en pintora. Aunque sus padres querían que estudiara algo más práctico, ella nunca abandonó su pasión por el arte. Cuando tenía quince años, descubrió que podía expresar sus emociones más profundas a través de los colores y las formas.\n\nDespués de terminar el instituto, decidió matricularse en una escuela de bellas artes, donde aprendió técnicas que nunca había imaginado. Sus profesores le decían que tenía un talento especial, pero ella creía que el trabajo constante era más importante que el talento natural.\n\nUn día, mientras pintaba en su estudio, se dio cuenta de que el arte no era solo una profesión, sino una forma de entender el mundo. Si pudiera elegir de nuevo, haría exactamente lo mismo. Sus cuadros reflejaban experiencias que había vivido y emociones que no podía explicar con palabras.\n\nHoy, María expone su obra en galerías de toda España. Aunque el camino fue difícil, nunca se arrepintió de haber seguido su vocación. Para ella, la creatividad es el regalo más valioso que existe, porque nos permite ver la realidad desde perspectivas completamente nuevas.",
+        "translation": "從小，瑪麗亞就夢想成為一名畫家。儘管她的父母希望她學習更實際的東西，她從未放棄對藝術的熱情。當她十五歲時，她發現自己可以透過色彩與形狀表達內心最深處的情感。\n\n完成高中學業後，她決定報名就讀一所美術學校，在那裡她學到了許多從未想像過的技法。她的老師們告訴她，她擁有特別的天賦，但她相信持續努力比天生的才能更重要。\n\n某天，當她在工作室作畫時，她意識到藝術不只是一種職業，而是一種理解世界的方式。如果能重新選擇，她還是會做一模一樣的選擇。她的畫作反映了她所經歷的人生和無法用言語表達的情感。\n\n如今，瑪麗亞在西班牙各地的畫廊展出她的作品。儘管這條路充滿艱辛，她從未後悔追隨自己的使命。對她而言，創造力是世界上最珍貴的禮物，因為它讓我們能從全新的視角看待現實。",
+        "words": [
+          {
+            "word": "abandonar",
+            "pos": "v.",
+            "zh": "放棄、拋棄",
+            "example": "Nunca deberías abandonar tus sueños por miedo al fracaso.",
+            "example_zh": "你絕不應該因害怕失敗而放棄自己的夢想。"
+          },
+          {
+            "word": "matricularse",
+            "pos": "v. pron.",
+            "zh": "報名、註冊入學",
+            "example": "Me matriculé en un curso de fotografía el año pasado.",
+            "example_zh": "我去年報名了一門攝影課。"
+          },
+          {
+            "word": "técnica",
+            "pos": "n. f.",
+            "zh": "技法、技術",
+            "example": "El pintor dominaba muchas técnicas diferentes.",
+            "example_zh": "那位畫家精通許多不同的技法。"
+          },
+          {
+            "word": "talento",
+            "pos": "n. m.",
+            "zh": "才能、天賦",
+            "example": "Tiene un talento natural para la música.",
+            "example_zh": "他在音樂方面有天生的才能。"
+          },
+          {
+            "word": "reflejar",
+            "pos": "v.",
+            "zh": "反映、反射",
+            "example": "Su poesía refleja el dolor de su infancia.",
+            "example_zh": "她的詩歌反映了她童年的痛苦。"
+          },
+          {
+            "word": "arrepentirse",
+            "pos": "v. pron.",
+            "zh": "後悔",
+            "example": "Nunca me arrepentí de haber viajado tanto.",
+            "example_zh": "我從未後悔旅行了那麼多地方。"
+          },
+          {
+            "word": "vocación",
+            "pos": "n. f.",
+            "zh": "使命感、天職",
+            "example": "Ser médico era su vocación desde niño.",
+            "example_zh": "從小，當一名醫生就是他的天職。"
+          },
+          {
+            "word": "perspectiva",
+            "pos": "n. f.",
+            "zh": "視角、透視",
+            "example": "Viajar te ayuda a ver la vida desde otra perspectiva.",
+            "example_zh": "旅行幫助你從另一個視角看待生活。"
+          },
+          {
+            "word": "exponer",
+            "pos": "v.",
+            "zh": "展出、展覽",
+            "example": "La artista expuso sus esculturas en un museo famoso.",
+            "example_zh": "那位藝術家在一座著名博物館展出了她的雕塑。"
+          },
+          {
+            "word": "galería",
+            "pos": "n. f.",
+            "zh": "畫廊",
+            "example": "Visitamos una galería de arte moderno en Madrid.",
+            "example_zh": "我們在馬德里參觀了一座現代藝術畫廊。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué querían los padres de María?",
+            "options": [
+              "Que se convirtiera en pintora famosa.",
+              "Que estudiara algo más práctico.",
+              "Que viajara por toda España.",
+              "Que trabajara en una galería de arte."
+            ],
+            "answer": 1,
+            "explain": "文中提到「Aunque sus padres querían que estudiara algo más práctico」，父母希望她學更實際的東西。"
+          },
+          {
+            "q": "¿A qué edad descubrió María su capacidad para expresar emociones a través del arte?",
+            "options": [
+              "A los diez años.",
+              "A los doce años.",
+              "A los quince años.",
+              "A los veinte años."
+            ],
+            "answer": 2,
+            "explain": "文中明確提到「Cuando tenía quince años, descubrió que podía expresar sus emociones」，是十五歲時的發現。"
+          },
+          {
+            "q": "Según María, ¿qué es más importante que el talento natural?",
+            "options": [
+              "Tener buenos profesores.",
+              "Estudiar en una escuela famosa.",
+              "El trabajo constante.",
+              "Vender muchos cuadros."
+            ],
+            "answer": 2,
+            "explain": "文中寫道「el trabajo constante era más importante que el talento natural」，持續努力比天賦更重要。"
+          },
+          {
+            "q": "¿Qué conclusión sacó María mientras pintaba en su estudio?",
+            "options": [
+              "Que el arte era demasiado difícil para ella.",
+              "Que necesitaba cambiar de profesión.",
+              "Que el arte era una forma de entender el mundo.",
+              "Que sus cuadros no tenían valor."
+            ],
+            "answer": 2,
+            "explain": "文中說「se dio cuenta de que el arte no era solo una profesión, sino una forma de entender el mundo」，藝術是理解世界的方式。"
+          },
+          {
+            "q": "¿Qué hace María hoy en día?",
+            "options": [
+              "Trabaja como profesora de arte.",
+              "Expone su obra en galerías de toda España.",
+              "Vive en el extranjero y pinta paisajes.",
+              "Dirige una escuela de bellas artes."
+            ],
+            "answer": 1,
+            "explain": "文末提到「María expone su obra en galerías de toda España」，她在西班牙各地畫廊展出作品。"
+          }
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "2026-08-05-C2-fallback",
+        "source": "ai",
+        "level_label": "約 C2（AI 生成）",
+        "title": "El poder de la creatividad",
+        "text": "Desde pequeña, María soñaba con convertirse en pintora. Cuando tenía diez años, su abuela le regaló su primer juego de acuarelas, y desde ese momento supo que el arte sería parte esencial de su vida. Aunque sus padres querían que estudiara algo más «práctico», ella insistió en matricularse en la escuela de bellas artes.\n\nDurante sus años de estudio, María aprendió que la creatividad no era simplemente un talento con el que se nacía, sino una habilidad que se desarrollaba con esfuerzo y dedicación. Su profesor le dijo que, si practicaba todos los días, llegaría a dominar su propio estilo. Ella siguió ese consejo y experimentó con distintas técnicas hasta que encontró una voz artística auténtica.\n\nHoy, sus cuadros se exponen en una galería del centro de la ciudad. Si hubiera abandonado su sueño cuando era joven, nunca habría descubierto hasta dónde podía llegar su imaginación. María cree que cualquier persona que se apasione por algo tiene la capacidad de crear obras que emocionen a los demás. Para ella, el arte no es un lujo, sino una necesidad del alma.",
+        "translation": "從小，瑪麗亞就夢想成為一名畫家。當她十歲的時候，祖母送給她第一套水彩顏料，從那一刻起，她便知道藝術將會是她生命中不可或缺的一部分。儘管她的父母希望她學一些更「實用」的東西，她還是堅持報名就讀美術學校。\n\n在求學期間，瑪麗亞學到，創造力並不只是一種與生俱來的天賦，而是一種透過努力與專注才能培養出來的能力。她的老師告訴她，如果她每天練習，終有一天將能掌握自己的風格。她遵循了這個建議，不斷嘗試各種不同的技法，直到找到了真實的藝術聲音。\n\n如今，她的畫作正在市中心的一間畫廊展出。如果她年輕時放棄了自己的夢想，她永遠不會發現自己的想像力究竟能帶她走多遠。瑪麗亞相信，任何對某件事充滿熱情的人，都有能力創作出令他人感動的作品。對她而言，藝術不是一種奢侈，而是靈魂的必需品。",
+        "words": [
+          {
+            "word": "acuarela",
+            "pos": "n.f.",
+            "zh": "水彩（顏料）",
+            "example": "La artista pintó el paisaje con acuarelas brillantes.",
+            "example_zh": "這位藝術家用鮮豔的水彩顏料畫了那片風景。"
+          },
+          {
+            "word": "matricularse",
+            "pos": "v. pron.",
+            "zh": "報名；註冊入學",
+            "example": "Él decidió matricularse en un curso de fotografía.",
+            "example_zh": "他決定報名參加一門攝影課程。"
+          },
+          {
+            "word": "habilidad",
+            "pos": "n.f.",
+            "zh": "能力；技能",
+            "example": "Tocar el piano es una habilidad que requiere mucha práctica.",
+            "example_zh": "彈鋼琴是一項需要大量練習的技能。"
+          },
+          {
+            "word": "dedicación",
+            "pos": "n.f.",
+            "zh": "專注；奉獻；投入",
+            "example": "El escultor trabajó con dedicación durante meses.",
+            "example_zh": "這位雕塑家全心投入地工作了好幾個月。"
+          },
+          {
+            "word": "dominar",
+            "pos": "v. tr.",
+            "zh": "掌握；精通",
+            "example": "Con el tiempo, logró dominar la técnica del óleo.",
+            "example_zh": "隨著時間推移，她終於掌握了油畫技法。"
+          },
+          {
+            "word": "auténtico/a",
+            "pos": "adj.",
+            "zh": "真實的；真正的",
+            "example": "Buscaba un estilo auténtico que reflejara sus emociones.",
+            "example_zh": "她尋求一種能反映自身情感的真實風格。"
+          },
+          {
+            "word": "exponer",
+            "pos": "v. tr.",
+            "zh": "展出；展覽",
+            "example": "Sus fotografías se expusieron en un museo importante.",
+            "example_zh": "她的攝影作品在一間重要的博物館展出。"
+          },
+          {
+            "word": "imaginación",
+            "pos": "n.f.",
+            "zh": "想像力",
+            "example": "Los niños usan su imaginación para inventar historias.",
+            "example_zh": "孩子們運用想像力來創造故事。"
+          },
+          {
+            "word": "apasionarse",
+            "pos": "v. pron.",
+            "zh": "對……充滿熱情",
+            "example": "Se apasionó por la danza clásica desde los cinco años.",
+            "example_zh": "她從五歲起就對古典舞蹈充滿熱情。"
+          },
+          {
+            "word": "lujo",
+            "pos": "n.m.",
+            "zh": "奢侈（品）",
+            "example": "Para muchos artistas, crear no es un lujo sino una obligación.",
+            "example_zh": "對許多藝術家來說，創作不是奢侈，而是一種義務。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué le regaló la abuela de María cuando tenía diez años?",
+            "options": [
+              "Un libro sobre pintores famosos",
+              "Un juego de acuarelas",
+              "Una entrada a una galería de arte",
+              "Un cuadro pintado a mano"
+            ],
+            "answer": 1,
+            "explain": "文章提到祖母在瑪麗亞十歲時送了她「su primer juego de acuarelas（第一套水彩顏料）」，故選第二項。"
+          },
+          {
+            "q": "¿Qué querían los padres de María?",
+            "options": [
+              "Que se convirtiera en profesora de arte",
+              "Que viajara al extranjero para estudiar",
+              "Que estudiara algo más práctico",
+              "Que abriera su propia galería"
+            ],
+            "answer": 2,
+            "explain": "文章明確指出「sus padres querían que estudiara algo más 'práctico'」，故選第三項。"
+          },
+          {
+            "q": "Según el profesor de María, ¿qué pasaría si practicaba todos los días?",
+            "options": [
+              "Ganaría mucho dinero vendiendo cuadros",
+              "Llegaría a dominar su propio estilo",
+              "Podría enseñar en la escuela de bellas artes",
+              "Sus obras se publicarían en revistas"
+            ],
+            "answer": 1,
+            "explain": "老師用條件句告訴她「si practicaba todos los días, llegaría a dominar su propio estilo」，故選第二項。"
+          },
+          {
+            "q": "¿Dónde se exponen hoy los cuadros de María?",
+            "options": [
+              "En la escuela donde estudió",
+              "En el taller de su abuela",
+              "En una galería del centro de la ciudad",
+              "En un museo internacional"
+            ],
+            "answer": 2,
+            "explain": "文章說「sus cuadros se exponen en una galería del centro de la ciudad」，故選第三項。"
+          },
+          {
+            "q": "¿Qué afirma María sobre el arte al final del texto?",
+            "options": [
+              "Que el arte es solo para personas con talento natural",
+              "Que el arte es un lujo que pocos pueden permitirse",
+              "Que el arte es difícil de aprender sin un buen profesor",
+              "Que el arte no es un lujo sino una necesidad del alma"
+            ],
+            "answer": 3,
+            "explain": "文章結尾瑪麗亞說「el arte no es un lujo, sino una necesidad del alma」，故選第四項。"
+          }
+        ]
+      }
+    ]
+  }
+}

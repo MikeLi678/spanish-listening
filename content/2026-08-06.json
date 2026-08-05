@@ -1,0 +1,839 @@
+{
+  "date": "2026-08-06",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-08-06-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Mis intereses",
+        "text": "Me llamo Lucía. Tengo dieciocho años. Me gustan mucho la música y el deporte. Toco la guitarra todos los días. También me gusta leer libros. Leo novelas en casa. Juego al fútbol con mis amigos los fines de semana. El fútbol es muy divertido. No me gusta cocinar. Prefiero escuchar canciones. Soy muy feliz con mis intereses.",
+        "translation": "我叫露西亞。我十八歲。我非常喜歡音樂和運動。我每天彈吉他。我也喜歡看書。我在家看小說。我週末和朋友一起踢足球。足球非常有趣。我不喜歡做飯。我更喜歡聽歌。我對自己的興趣感到非常快樂。",
+        "words": [
+          {
+            "word": "interés",
+            "pos": "n.m.",
+            "zh": "興趣",
+            "example": "Tengo muchos intereses.",
+            "example_zh": "我有很多興趣。"
+          },
+          {
+            "word": "guitarra",
+            "pos": "n.f.",
+            "zh": "吉他",
+            "example": "Ella toca la guitarra muy bien.",
+            "example_zh": "她吉他彈得很好。"
+          },
+          {
+            "word": "tocar",
+            "pos": "v.",
+            "zh": "演奏、彈奏",
+            "example": "Yo toco el piano.",
+            "example_zh": "我彈鋼琴。"
+          },
+          {
+            "word": "leer",
+            "pos": "v.",
+            "zh": "閱讀",
+            "example": "Me gusta leer libros.",
+            "example_zh": "我喜歡看書。"
+          },
+          {
+            "word": "novela",
+            "pos": "n.f.",
+            "zh": "小說",
+            "example": "Él lee una novela cada semana.",
+            "example_zh": "他每週讀一本小說。"
+          },
+          {
+            "word": "jugar",
+            "pos": "v.",
+            "zh": "玩、打（球）",
+            "example": "Jugamos al fútbol en el parque.",
+            "example_zh": "我們在公園踢足球。"
+          },
+          {
+            "word": "divertido",
+            "pos": "adj.",
+            "zh": "有趣的、好玩的",
+            "example": "Este juego es muy divertido.",
+            "example_zh": "這個遊戲非常有趣。"
+          },
+          {
+            "word": "preferir",
+            "pos": "v.",
+            "zh": "更喜歡、偏好",
+            "example": "Prefiero el té al café.",
+            "example_zh": "比起咖啡，我更喜歡茶。"
+          },
+          {
+            "word": "canción",
+            "pos": "n.f.",
+            "zh": "歌曲",
+            "example": "Escucho canciones por la mañana.",
+            "example_zh": "我早上聽歌曲。"
+          },
+          {
+            "word": "feliz",
+            "pos": "adj.",
+            "zh": "快樂的、幸福的",
+            "example": "Estoy muy feliz hoy.",
+            "example_zh": "我今天非常快樂。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cómo se llama la chica del texto?",
+            "options": [
+              "María",
+              "Lucía",
+              "Sofía",
+              "Ana"
+            ],
+            "answer": 1,
+            "explain": "文章第一句「Me llamo Lucía」說明這位女孩的名字是 Lucía。"
+          },
+          {
+            "q": "¿Qué instrumento toca Lucía?",
+            "options": [
+              "El piano",
+              "El violín",
+              "La guitarra",
+              "La flauta"
+            ],
+            "answer": 2,
+            "explain": "文中提到「Toco la guitarra todos los días」，所以她彈的是吉他（guitarra）。"
+          },
+          {
+            "q": "¿Cuándo juega Lucía al fútbol?",
+            "options": [
+              "Todos los días",
+              "Por la mañana",
+              "Los fines de semana",
+              "Los lunes"
+            ],
+            "answer": 2,
+            "explain": "文中說「Juego al fútbol con mis amigos los fines de semana」，即她在週末踢足球。"
+          },
+          {
+            "q": "¿Qué no le gusta a Lucía?",
+            "options": [
+              "Leer libros",
+              "Escuchar canciones",
+              "Cocinar",
+              "Jugar al fútbol"
+            ],
+            "answer": 2,
+            "explain": "文中明確寫道「No me gusta cocinar」，表示她不喜歡做飯（cocinar）。"
+          },
+          {
+            "q": "¿Dónde lee novelas Lucía?",
+            "options": [
+              "En la escuela",
+              "En el parque",
+              "En la biblioteca",
+              "En casa"
+            ],
+            "answer": 3,
+            "explain": "文中說「Leo novelas en casa」，即她在家（en casa）看小說。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-08-06-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Buscar un apartamento",
+        "text": "El mes pasado, María decidió buscar un apartamento nuevo en la ciudad. Primero, buscó anuncios en internet y encontró varios pisos interesantes. Visitó tres apartamentos con su amiga Ana, pero no le gustaron porque eran muy pequeños o muy caros. Sin embargo, el tercer piso tenía dos habitaciones, una cocina moderna y un balcón bonito. El precio era razonable, así que María habló con el propietario. Mañana, va a firmar el contrato y va a pagar el primer mes. Está muy contenta porque el apartamento está cerca del trabajo y hay una panadería al lado.",
+        "translation": "上個月，瑪麗亞決定在城市裡找一間新公寓。首先，她在網路上搜尋廣告，找到了幾間有趣的房子。她和朋友安娜參觀了三間公寓，但她都不喜歡，因為它們太小或太貴。然而，第三間公寓有兩個房間、一間現代化的廚房和一個漂亮的陽台。價格合理，所以瑪麗亞和房東談了談。明天，她要去簽合約並支付第一個月的租金。她非常高興，因為這間公寓離工作地點很近，旁邊還有一家麵包店。",
+        "words": [
+          {
+            "word": "apartamento",
+            "pos": "n.",
+            "zh": "公寓",
+            "example": "Busco un apartamento cerca del centro.",
+            "example_zh": "我在市中心附近找一間公寓。"
+          },
+          {
+            "word": "anuncio",
+            "pos": "n.",
+            "zh": "廣告；公告",
+            "example": "Vi un anuncio de un piso en internet.",
+            "example_zh": "我在網路上看到一則公寓廣告。"
+          },
+          {
+            "word": "habitación",
+            "pos": "n.",
+            "zh": "房間",
+            "example": "El apartamento tiene tres habitaciones.",
+            "example_zh": "這間公寓有三個房間。"
+          },
+          {
+            "word": "propietario",
+            "pos": "n.",
+            "zh": "房東；業主",
+            "example": "Hablé con el propietario sobre el precio.",
+            "example_zh": "我和房東談了價格的事。"
+          },
+          {
+            "word": "contrato",
+            "pos": "n.",
+            "zh": "合約",
+            "example": "Mañana voy a firmar el contrato.",
+            "example_zh": "明天我要去簽合約。"
+          },
+          {
+            "word": "firmar",
+            "pos": "v.",
+            "zh": "簽名；簽署",
+            "example": "Necesito firmar el contrato hoy.",
+            "example_zh": "我今天需要簽合約。"
+          },
+          {
+            "word": "razonable",
+            "pos": "adj.",
+            "zh": "合理的",
+            "example": "El precio del alquiler es razonable.",
+            "example_zh": "租金價格是合理的。"
+          },
+          {
+            "word": "balcón",
+            "pos": "n.",
+            "zh": "陽台",
+            "example": "Me gusta el apartamento porque tiene un balcón.",
+            "example_zh": "我喜歡這間公寓，因為它有陽台。"
+          },
+          {
+            "word": "cerca de",
+            "pos": "prep.",
+            "zh": "靠近；在……附近",
+            "example": "Vivo cerca del parque.",
+            "example_zh": "我住在公園附近。"
+          },
+          {
+            "word": "sin embargo",
+            "pos": "conj.",
+            "zh": "然而；但是",
+            "example": "El piso es caro; sin embargo, es muy bonito.",
+            "example_zh": "這間房子很貴；然而，它非常漂亮。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cuándo decidió María buscar un apartamento?",
+            "options": [
+              "La semana pasada",
+              "El mes pasado",
+              "El año pasado",
+              "Ayer"
+            ],
+            "answer": 1,
+            "explain": "文中開頭說「El mes pasado, María decidió buscar un apartamento」，表示是上個月決定的。"
+          },
+          {
+            "q": "¿Cuántos apartamentos visitó María?",
+            "options": [
+              "Uno",
+              "Dos",
+              "Tres",
+              "Cuatro"
+            ],
+            "answer": 2,
+            "explain": "文中提到「Visitó tres apartamentos con su amiga Ana」，她參觀了三間公寓。"
+          },
+          {
+            "q": "¿Por qué no le gustaron los primeros pisos a María?",
+            "options": [
+              "Porque estaban lejos del trabajo",
+              "Porque no tenían balcón",
+              "Porque eran muy pequeños o muy caros",
+              "Porque el propietario era antipático"
+            ],
+            "answer": 2,
+            "explain": "文中說「no le gustaron porque eran muy pequeños o muy caros」，原因是太小或太貴。"
+          },
+          {
+            "q": "¿Qué va a hacer María mañana?",
+            "options": [
+              "Va a buscar más apartamentos",
+              "Va a hablar con el propietario",
+              "Va a firmar el contrato y pagar el primer mes",
+              "Va a visitar un piso nuevo"
+            ],
+            "answer": 2,
+            "explain": "文中使用 Futuro próximo 說「va a firmar el contrato y va a pagar el primer mes」，說明明天要簽合約並付第一個月租金。"
+          },
+          {
+            "q": "¿Por qué está contenta María con el apartamento elegido?",
+            "options": [
+              "Porque es muy grande y barato",
+              "Porque está cerca del trabajo y hay una panadería al lado",
+              "Porque tiene tres habitaciones y jardín",
+              "Porque el propietario es muy simpático"
+            ],
+            "answer": 1,
+            "explain": "文末說「el apartamento está cerca del trabajo y hay una panadería al lado」，近工作地點且旁邊有麵包店是她滿意的原因。"
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "2026-08-06-B1-1",
+        "source": "ai",
+        "level_label": "B1",
+        "title": "El problema del consumo excesivo",
+        "text": "Vivimos en una sociedad que nos anima a comprar más de lo que realmente necesitamos. Cada año, millones de personas adquieren productos nuevos aunque los anteriores todavía funcionaban perfectamente. Este comportamiento, que se conoce como consumismo, ha causado graves problemas tanto para el medio ambiente como para la economía familiar.\n\nCuando era niño, mi abuela me decía que había que cuidar las cosas porque conseguirlas había costado mucho esfuerzo. Sin embargo, hoy en día muchos jóvenes prefieren tirar un objeto roto en lugar de repararlo. Si cambiáramos esta actitud, produciríamos menos basura y ahorraríamos más dinero.\n\nAdemás, las grandes empresas utilizan la publicidad para convencernos de que necesitamos sus productos para ser felices. Esto no es verdad. Varios estudios han demostrado que las personas que consumen menos se sienten más satisfechas con su vida.\n\nSería importante que los gobiernos implementaran leyes más estrictas para reducir la producción innecesaria. También sería útil que las escuelas enseñaran a los niños a valorar lo que ya tienen. Solo así podremos construir un futuro más sostenible para todos.",
+        "translation": "我們生活在一個鼓勵我們購買超出真正需求的社會中。每年，數百萬人購買新產品，儘管舊的還能完好運作。這種被稱為消費主義的行為，已對環境和家庭經濟造成了嚴重問題。\n\n小時候，我的祖母常告訴我要好好愛惜東西，因為得到它們花費了許多心血。然而，如今許多年輕人寧願扔掉壞掉的物品，也不願意修理它。如果我們改變這種態度，就會產生更少的垃圾，也能省下更多的錢。\n\n此外，大企業利用廣告說服我們，讓我們相信需要他們的產品才能獲得幸福。這並不是真的。多項研究已經證明，消費較少的人對自己的生活感到更加滿足。\n\n政府實施更嚴格的法律以減少不必要的生產，這將會是非常重要的。同樣地，學校教導孩子珍惜他們已擁有的東西，也會很有幫助。唯有如此，我們才能為所有人建構一個更永續的未來。",
+        "words": [
+          {
+            "word": "consumismo",
+            "pos": "n.m.",
+            "zh": "消費主義",
+            "example": "El consumismo nos hace comprar cosas que no necesitamos.",
+            "example_zh": "消費主義讓我們購買不需要的東西。"
+          },
+          {
+            "word": "adquirir",
+            "pos": "v.",
+            "zh": "購買、取得",
+            "example": "Ella adquirió un teléfono nuevo la semana pasada.",
+            "example_zh": "她上週買了一支新手機。"
+          },
+          {
+            "word": "medio ambiente",
+            "pos": "n.m.",
+            "zh": "環境、自然環境",
+            "example": "Debemos proteger el medio ambiente para las generaciones futuras.",
+            "example_zh": "我們必須為後代保護自然環境。"
+          },
+          {
+            "word": "reparar",
+            "pos": "v.",
+            "zh": "修理、修繕",
+            "example": "Es mejor reparar los zapatos que comprar unos nuevos.",
+            "example_zh": "修鞋子比買新的更好。"
+          },
+          {
+            "word": "publicidad",
+            "pos": "n.f.",
+            "zh": "廣告、宣傳",
+            "example": "La publicidad influye mucho en nuestras decisiones de compra.",
+            "example_zh": "廣告對我們的購買決策影響很大。"
+          },
+          {
+            "word": "satisfecho/a",
+            "pos": "adj.",
+            "zh": "滿足的、滿意的",
+            "example": "Me siento muy satisfecha con los resultados del proyecto.",
+            "example_zh": "我對專案的成果感到非常滿意。"
+          },
+          {
+            "word": "implementar",
+            "pos": "v.",
+            "zh": "實施、執行",
+            "example": "El gobierno quiere implementar nuevas medidas económicas.",
+            "example_zh": "政府想要實施新的經济措施。"
+          },
+          {
+            "word": "innecesario/a",
+            "pos": "adj.",
+            "zh": "不必要的、多餘的",
+            "example": "Comprar cinco abrigos es completamente innecesario.",
+            "example_zh": "買五件大衣是完全不必要的。"
+          },
+          {
+            "word": "sostenible",
+            "pos": "adj.",
+            "zh": "永續的、可持續的",
+            "example": "Necesitamos un modelo de producción más sostenible.",
+            "example_zh": "我們需要一個更永續的生產模式。"
+          },
+          {
+            "word": "esfuerzo",
+            "pos": "n.m.",
+            "zh": "努力、心血",
+            "example": "Aprender un idioma requiere mucho esfuerzo y dedicación.",
+            "example_zh": "學習一門語言需要很多努力和投入。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué le decía la abuela del autor cuando era niño?",
+            "options": [
+              "Que debía comprar productos nuevos cada año.",
+              "Que había que cuidar las cosas porque conseguirlas había costado mucho esfuerzo.",
+              "Que era importante tirar los objetos viejos.",
+              "Que la publicidad era muy útil para la familia."
+            ],
+            "answer": 1,
+            "explain": "文中提到祖母告訴作者要好好愛惜東西，因為得到它們花費了許多心血（había costado mucho esfuerzo）。"
+          },
+          {
+            "q": "Según el texto, ¿qué pasaría si cambiáramos nuestra actitud hacia el consumo?",
+            "options": [
+              "Las empresas ganarían más dinero.",
+              "Habría más publicidad en televisión.",
+              "Produciríamos menos basura y ahorraríamos más dinero.",
+              "Los gobiernos tendrían menos poder."
+            ],
+            "answer": 2,
+            "explain": "文中使用條件式說明：「如果我們改變態度，就會產生更少的垃圾並省更多錢」（produciríamos menos basura y ahorraríamos más dinero）。"
+          },
+          {
+            "q": "¿Qué han demostrado varios estudios según el texto?",
+            "options": [
+              "Que comprar más productos hace más felices a las personas.",
+              "Que la publicidad es siempre honesta.",
+              "Que las personas que consumen menos se sienten más satisfechas.",
+              "Que los jóvenes prefieren reparar los objetos rotos."
+            ],
+            "answer": 2,
+            "explain": "文中明確指出多項研究證明，消費較少的人對生活感到更滿足（más satisfechas con su vida）。"
+          },
+          {
+            "q": "¿Qué recomienda el autor que hicieran los gobiernos?",
+            "options": [
+              "Que redujeran los impuestos para fomentar el consumo.",
+              "Que implementaran leyes más estrictas para reducir la producción innecesaria.",
+              "Que cerraran todas las tiendas grandes.",
+              "Que prohibieran el uso de internet."
+            ],
+            "answer": 1,
+            "explain": "作者建議政府應實施更嚴格的法律（leyes más estrictas）來減少不必要的生產，此處使用了過去虛擬式（implementaran）。"
+          },
+          {
+            "q": "¿Cuál es la idea principal de este texto?",
+            "options": [
+              "La historia del comercio internacional en Europa.",
+              "Las ventajas de comprar productos de marca.",
+              "El consumismo es un problema grave y debemos cambiar nuestros hábitos.",
+              "Cómo las empresas pueden ganar más clientes con publicidad."
+            ],
+            "answer": 2,
+            "explain": "本文主旨在說明消費主義是一個嚴重問題，並提出個人、企業與政府應採取的改善措施，呼籲改變消費習慣。"
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "2026-08-06-B2-fallback",
+        "source": "ai",
+        "level_label": "約 B2（AI 生成）",
+        "title": "El problema del consumo excesivo",
+        "text": "Hoy en día, vivimos en una sociedad que nos anima a comprar más de lo que necesitamos. Las tiendas ofrecen descuentos constantemente y la publicidad nos convence de que seremos más felices si adquirimos el último modelo de teléfono o la ropa más moderna. Sin embargo, este estilo de vida tiene consecuencias graves para el medio ambiente y para nuestra economía personal.\n\nCuando era niño, mi familia compraba solo lo esencial. Mis padres me enseñaron que era importante valorar lo que ya teníamos. Pero cuando crecí, me di cuenta de que muchas personas habían olvidado esa lección. En los últimos años, la cantidad de basura que producimos ha aumentado de manera alarmante, porque compramos productos que usamos una sola vez y luego desechamos.\n\nSi cambiáramos nuestros hábitos de consumo, podríamos reducir significativamente el impacto ambiental. Sería posible vivir bien con menos cosas si aprendiéramos a distinguir entre lo que deseamos y lo que realmente necesitamos. Algunos expertos sugieren que compremos productos de segunda mano o que reparemos los objetos en lugar de reemplazarlos. Estas pequeñas decisiones, si las tomáramos todos los días, harían una gran diferencia para el futuro del planeta.",
+        "translation": "當今，我們生活在一個鼓勵我們購買超出所需的社會中。商店不斷提供折扣，廣告說服我們，如果買了最新款手機或最流行的衣服，我們就會更快樂。然而，這種生活方式對環境和我們個人的經濟都有嚴重的後果。\n\n當我還是個孩子時，我的家人只購買必需品。父母教導我，珍視我們已擁有的東西是很重要的。但當我長大後，我意識到許多人已經忘記了那個教訓。近年來，我們產生的垃圾量以驚人的速度增加，因為我們購買只用一次就丟棄的產品。\n\n如果我們改變消費習慣，就能大幅減少對環境的衝擊。如果我們學會區分自己想要的和真正需要的，就有可能用更少的東西過上好日子。一些專家建議我們購買二手商品，或者修繕物品而不是更換它們。這些小小的決定，如果我們每天都這樣做，將會為地球的未來帶來巨大的改變。",
+        "words": [
+          {
+            "word": "consumo",
+            "pos": "n.m.",
+            "zh": "消費、消耗",
+            "example": "El consumo excesivo de plástico daña los océanos.",
+            "example_zh": "過度消耗塑膠會傷害海洋。"
+          },
+          {
+            "word": "publicidad",
+            "pos": "n.f.",
+            "zh": "廣告、宣傳",
+            "example": "La publicidad nos influye más de lo que creemos.",
+            "example_zh": "廣告對我們的影響比我們想像的更大。"
+          },
+          {
+            "word": "adquirir",
+            "pos": "v.",
+            "zh": "取得、購買",
+            "example": "Quiero adquirir nuevas habilidades este año.",
+            "example_zh": "我今年想習得新技能。"
+          },
+          {
+            "word": "desechar",
+            "pos": "v.",
+            "zh": "丟棄、廢棄",
+            "example": "No deberías desechar la ropa que todavía sirve.",
+            "example_zh": "你不應該丟棄仍然可以穿的衣服。"
+          },
+          {
+            "word": "alarmante",
+            "pos": "adj.",
+            "zh": "令人警覺的、驚人的",
+            "example": "El aumento de la temperatura es alarmante.",
+            "example_zh": "氣溫的上升令人警覺。"
+          },
+          {
+            "word": "hábito",
+            "pos": "n.m.",
+            "zh": "習慣",
+            "example": "Es difícil cambiar los hábitos de toda una vida.",
+            "example_zh": "改變一輩子的習慣是很困難的。"
+          },
+          {
+            "word": "impacto ambiental",
+            "pos": "n.m.",
+            "zh": "環境衝擊、環境影響",
+            "example": "Las empresas deben reducir su impacto ambiental.",
+            "example_zh": "企業必須減少其對環境的衝擊。"
+          },
+          {
+            "word": "segunda mano",
+            "pos": "loc.",
+            "zh": "二手（的）",
+            "example": "Compré este libro de segunda mano y estaba perfecto.",
+            "example_zh": "我買了這本二手書，它保存得很完好。"
+          },
+          {
+            "word": "reemplazar",
+            "pos": "v.",
+            "zh": "替換、取代",
+            "example": "No es necesario reemplazar el teléfono cada año.",
+            "example_zh": "沒有必要每年更換手機。"
+          },
+          {
+            "word": "esencial",
+            "pos": "adj.",
+            "zh": "必要的、基本的",
+            "example": "El agua es esencial para la vida.",
+            "example_zh": "水對生命是不可或缺的。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Según el texto, ¿qué nos convence la publicidad?",
+            "options": [
+              "Que debemos ahorrar más dinero.",
+              "Que seremos más felices si compramos cosas nuevas.",
+              "Que el medio ambiente es muy importante.",
+              "Que debemos comprar productos de segunda mano."
+            ],
+            "answer": 1,
+            "explain": "文章第一段提到，廣告說服我們如果購買最新的產品（手機或衣服），我們就會更快樂。"
+          },
+          {
+            "q": "¿Qué le enseñaron los padres del autor cuando era niño?",
+            "options": [
+              "A comprar siempre la ropa más moderna.",
+              "A gastar el dinero en descuentos.",
+              "A valorar lo que ya tenían.",
+              "A buscar productos más baratos."
+            ],
+            "answer": 2,
+            "explain": "第二段說明，作者的父母教導他珍視（valorar）已經擁有的東西，而非購買更多。"
+          },
+          {
+            "q": "¿Por qué ha aumentado tanto la basura en los últimos años, según el texto?",
+            "options": [
+              "Porque las personas no tienen dinero para reparar sus cosas.",
+              "Porque compramos productos que usamos una sola vez y luego los desechamos.",
+              "Porque los expertos recomiendan tirar los objetos viejos.",
+              "Porque las tiendas no aceptan devoluciones."
+            ],
+            "answer": 1,
+            "explain": "文章第二段明確指出，垃圾量增加是因為我們購買只使用一次就丟棄的產品。"
+          },
+          {
+            "q": "¿Qué sugieren algunos expertos para reducir el consumo excesivo?",
+            "options": [
+              "Comprar más productos en oferta.",
+              "No usar teléfonos móviles.",
+              "Comprar productos de segunda mano o reparar los objetos.",
+              "Consumir solo productos importados."
+            ],
+            "answer": 2,
+            "explain": "第三段提到，專家建議購買二手商品或修繕物品，而不是直接更換，以減少過度消費。"
+          },
+          {
+            "q": "¿Qué tiempo verbal predomina en la oración 'Si cambiáramos nuestros hábitos, podríamos reducir el impacto ambiental'?",
+            "options": [
+              "Pretérito indefinido y futuro simple.",
+              "Pretérito imperfecto de subjuntivo y condicional simple.",
+              "Pretérito perfecto y futuro compuesto.",
+              "Presente de indicativo y presente de subjuntivo."
+            ],
+            "answer": 1,
+            "explain": "這個句子使用的是條件假設句型：過去虛擬式（cambiáramos）搭配簡單條件式（podríamos），表達假設性的條件與結果。"
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-08-06-C1-fallback",
+        "source": "ai",
+        "level_label": "約 C1（AI 生成）",
+        "title": "El problema del consumo excesivo",
+        "text": "Vivimos en una sociedad donde comprar se ha convertido en una actividad cotidiana y casi automática. Cada día, millones de personas adquieren productos que no necesitan, simplemente porque estaban de oferta o porque la publicidad les convenció de que los necesitaban. Este comportamiento, que los expertos llaman «consumismo», tiene consecuencias graves para el medio ambiente y para nuestra economía personal.\n\nCuando era niña, mi abuela me decía que había que cuidar las cosas y repararlas en lugar de tirarlas. Sin embargo, hoy en día vivimos en una cultura de usar y tirar. Si redujéramos la cantidad de productos que compramos innecesariamente, generaríamos menos basura y ahorraríamos más dinero. Además, las fábricas contaminarían menos si produjeran solo lo que la gente realmente necesita.\n\nAlgunos estudios han demostrado que el exceso de compras no nos hace más felices. Al contrario, muchas personas que compraban compulsivamente confesaron que se sentían vacías después de gastar tanto dinero. Es importante que reflexionemos sobre nuestros hábitos de consumo y que tomemos decisiones más conscientes. Pequeños cambios en nuestra vida diaria pueden tener un gran impacto en el planeta.",
+        "translation": "我們生活在一個購物已成為日常且幾乎是自動行為的社會中。每天，數百萬人購買他們並不需要的商品，僅僅是因為商品在特價，或者因為廣告說服了他們以為自己需要這些東西。這種行為被專家稱為「消費主義」，對環境和我們個人的經濟都造成了嚴重的後果。\n\n當我還是小女孩的時候，我的祖母常告訴我，要愛惜東西、修繕它們，而不是把它們丟掉。然而，如今我們生活在一種用完即棄的文化中。如果我們減少購買不必要商品的數量，就會產生更少的垃圾，也能存下更多的錢。此外，如果工廠只生產人們真正需要的東西，污染也會減少。\n\n一些研究已經證明，過度購物並不會讓我們更快樂。相反地，許多曾有強迫性購物行為的人坦承，在花了那麼多錢之後，他們感到內心空虛。我們應當反思自己的消費習慣，並做出更有意識的決定。我們日常生活中的小小改變，可以對地球產生巨大的影響。",
+        "words": [
+          {
+            "word": "cotidiano/a",
+            "pos": "adj.",
+            "zh": "日常的、每天的",
+            "example": "Hacer ejercicio es una actividad cotidiana para ella.",
+            "example_zh": "運動對她來說是一項日常活動。"
+          },
+          {
+            "word": "adquirir",
+            "pos": "v.",
+            "zh": "獲得、購買、取得",
+            "example": "Adquirió un apartamento nuevo el año pasado.",
+            "example_zh": "他去年買了一間新公寓。"
+          },
+          {
+            "word": "publicidad",
+            "pos": "n. f.",
+            "zh": "廣告、宣傳",
+            "example": "La publicidad en televisión influye mucho en los niños.",
+            "example_zh": "電視廣告對兒童的影響很大。"
+          },
+          {
+            "word": "consecuencia",
+            "pos": "n. f.",
+            "zh": "後果、結果",
+            "example": "Fumar tiene consecuencias graves para la salud.",
+            "example_zh": "吸菸對健康有嚴重的後果。"
+          },
+          {
+            "word": "reparar",
+            "pos": "v.",
+            "zh": "修理、修繕",
+            "example": "Llevé el reloj a reparar porque estaba roto.",
+            "example_zh": "我把手錶拿去修，因為它壞了。"
+          },
+          {
+            "word": "generar",
+            "pos": "v.",
+            "zh": "產生、製造",
+            "example": "Las ciudades grandes generan mucha contaminación.",
+            "example_zh": "大城市會產生大量污染。"
+          },
+          {
+            "word": "contaminar",
+            "pos": "v.",
+            "zh": "污染",
+            "example": "Las fábricas contaminan el agua de los ríos.",
+            "example_zh": "工廠污染河流的水。"
+          },
+          {
+            "word": "compulsivamente",
+            "pos": "adv.",
+            "zh": "強迫性地、無法控制地",
+            "example": "Algunos jóvenes usan el móvil compulsivamente.",
+            "example_zh": "一些年輕人強迫性地使用手機。"
+          },
+          {
+            "word": "reflexionar",
+            "pos": "v.",
+            "zh": "反思、深思",
+            "example": "Es necesario reflexionar antes de tomar una decisión importante.",
+            "example_zh": "在做出重要決定之前，有必要先深思熟慮。"
+          },
+          {
+            "word": "consciente",
+            "pos": "adj.",
+            "zh": "有意識的、自覺的",
+            "example": "Debemos ser más conscientes del impacto ambiental de nuestras acciones.",
+            "example_zh": "我們應該更加意識到自身行為對環境的影響。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Por qué muchas personas compran productos que no necesitan, según el texto?",
+            "options": [
+              "Porque los productos son de muy buena calidad.",
+              "Porque estaban de oferta o la publicidad las convenció.",
+              "Porque sus amigos les recomendaron comprarlos.",
+              "Porque necesitaban reemplazar objetos rotos."
+            ],
+            "answer": 1,
+            "explain": "文章第一段明確指出，人們購買不需要的商品，是因為商品在特價（estaban de oferta）或廣告說服了他們（la publicidad les convenció）。"
+          },
+          {
+            "q": "¿Qué le enseñaba la abuela a la narradora cuando era niña?",
+            "options": [
+              "Que era importante comprar cosas nuevas cada año.",
+              "Que debía ahorrar dinero en el banco.",
+              "Que había que cuidar y reparar las cosas en lugar de tirarlas.",
+              "Que la publicidad siempre decía la verdad."
+            ],
+            "answer": 2,
+            "explain": "文章第二段提到，祖母教導她要愛惜並修繕東西，而不是丟棄它們（cuidar las cosas y repararlas en lugar de tirarlas）。"
+          },
+          {
+            "q": "¿Qué pasaría si redujéramos la cantidad de productos que compramos innecesariamente?",
+            "options": [
+              "Las tiendas tendrían que cerrar.",
+              "Generaríamos menos basura y ahorraríamos más dinero.",
+              "Los precios de los productos subirían mucho.",
+              "Las fábricas producirían más para compensar."
+            ],
+            "answer": 1,
+            "explain": "文章第二段使用條件式說明：若減少不必要的購買，我們會產生更少垃圾（generaríamos menos basura）並能省更多錢（ahorraríamos más dinero）。"
+          },
+          {
+            "q": "¿Qué demostraron algunos estudios mencionados en el texto?",
+            "options": [
+              "Que comprar más productos mejora la economía personal.",
+              "Que el consumismo protege el medio ambiente.",
+              "Que el exceso de compras no nos hace más felices.",
+              "Que las personas ricas compran menos que las pobres."
+            ],
+            "answer": 2,
+            "explain": "文章第三段提到，研究已證明過度購物並不會讓人更快樂（el exceso de compras no nos hace más felices）。"
+          },
+          {
+            "q": "¿Cómo se sentían las personas que compraban compulsivamente después de gastar dinero?",
+            "options": [
+              "Se sentían muy satisfechas y alegres.",
+              "Se sentían motivadas para trabajar más.",
+              "Se sentían vacías.",
+              "Se sentían agradecidas con las tiendas."
+            ],
+            "answer": 2,
+            "explain": "文章第三段中，那些有強迫性購物行為的人坦承，在花了那麼多錢之後感到內心空虛（se sentían vacías）。"
+          }
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "2026-08-06-C2-fallback",
+        "source": "ai",
+        "level_label": "約 C2（AI 生成）",
+        "title": "El problema del consumo excesivo",
+        "text": "Hoy en día, vivimos en una sociedad que nos anima constantemente a comprar más de lo que necesitamos. Las tiendas ofrecen descuentos irresistibles y la publicidad nos convence de que seremos más felices si adquirimos el último modelo de teléfono o la ropa más nueva. Sin embargo, este estilo de vida tiene consecuencias graves para el medio ambiente y para nuestra economía personal.\n\nCuando era niño, mi familia compraba solo lo que era necesario. Mis padres me enseñaron que el valor de las cosas no dependía de su precio, sino de su utilidad. Si hubiera seguido esos consejos desde siempre, probablemente habría ahorrado mucho dinero y habría generado menos residuos.\n\nLos expertos señalan que si cada persona redujera su consumo aunque fuera un poco, el impacto colectivo sería enorme. Es importante que tomemos conciencia de nuestros hábitos antes de que sea demasiado tarde. Podríamos, por ejemplo, reparar los objetos rotos en lugar de tirarlos, o comprar productos de segunda mano. El cambio empieza con pequeñas decisiones que, juntas, pueden transformar nuestra sociedad.",
+        "translation": "如今，我們生活在一個不斷鼓勵我們購買超出所需之物的社會。商店提供令人難以抗拒的折扣，廣告讓我們相信，只要買到最新款手機或最新潮的衣服，我們就會更快樂。然而，這種生活方式對環境和個人經濟都帶來嚴重的後果。\n\n我小時候，家人只購買必要的東西。父母教導我，物品的價值不在於它的價格，而在於它的實用性。如果我一直遵循那些建議，或許已經省下很多錢，也減少了許多廢棄物。\n\n專家指出，如果每個人哪怕只是稍微減少消費，集體的影響將會是巨大的。在為時已晚之前，我們必須對自己的消費習慣有所認識。例如，我們可以修理損壞的物品，而不是將它們丟掉，或者購買二手商品。改變從小小的決定開始，而這些決定加在一起，可以改變我們的社會。",
+        "words": [
+          {
+            "word": "consumo",
+            "pos": "n. m.",
+            "zh": "消費、消耗",
+            "example": "El consumo excesivo daña el planeta.",
+            "example_zh": "過度消費損害地球。"
+          },
+          {
+            "word": "publicidad",
+            "pos": "n. f.",
+            "zh": "廣告、宣傳",
+            "example": "La publicidad nos influye mucho en nuestras decisiones.",
+            "example_zh": "廣告對我們的決定影響很大。"
+          },
+          {
+            "word": "adquirir",
+            "pos": "v.",
+            "zh": "購得、獲得",
+            "example": "Ella adquirió un coche nuevo el año pasado.",
+            "example_zh": "她去年買了一輛新車。"
+          },
+          {
+            "word": "residuos",
+            "pos": "n. m. pl.",
+            "zh": "廢棄物、垃圾",
+            "example": "Debemos reducir la cantidad de residuos que producimos.",
+            "example_zh": "我們應該減少所產生的廢棄物量。"
+          },
+          {
+            "word": "utilidad",
+            "pos": "n. f.",
+            "zh": "實用性、用途",
+            "example": "Compra cosas según su utilidad, no su precio.",
+            "example_zh": "依據物品的實用性而非價格來購買。"
+          },
+          {
+            "word": "reducir",
+            "pos": "v.",
+            "zh": "減少、降低",
+            "example": "Es necesario reducir el uso del plástico.",
+            "example_zh": "有必要減少塑膠的使用。"
+          },
+          {
+            "word": "tomar conciencia",
+            "pos": "loc. v.",
+            "zh": "意識到、覺醒",
+            "example": "Debemos tomar conciencia del cambio climático.",
+            "example_zh": "我們必須意識到氣候變遷的問題。"
+          },
+          {
+            "word": "reparar",
+            "pos": "v.",
+            "zh": "修理、修復",
+            "example": "Él reparó la bicicleta en lugar de comprar una nueva.",
+            "example_zh": "他修理了自行車，而不是買一輛新的。"
+          },
+          {
+            "word": "segunda mano",
+            "pos": "loc. adj.",
+            "zh": "二手的",
+            "example": "Compré este libro de segunda mano y estaba en buen estado.",
+            "example_zh": "我買了這本二手書，狀態很好。"
+          },
+          {
+            "word": "irresistible",
+            "pos": "adj.",
+            "zh": "難以抗拒的",
+            "example": "La oferta era tan irresistible que compré dos.",
+            "example_zh": "那個優惠太難以抗拒，我買了兩個。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué nos convence de hacer la publicidad, según el texto?",
+            "options": [
+              "Ahorrar dinero cada mes",
+              "Comprar el último modelo de teléfono o ropa nueva para ser más felices",
+              "Reducir el consumo de energía en casa",
+              "Donar ropa a personas necesitadas"
+            ],
+            "answer": 1,
+            "explain": "文中提到廣告讓我們相信，買到最新款手機或最新潮的衣服就會更快樂。"
+          },
+          {
+            "q": "¿Qué le enseñaron los padres del narrador cuando era niño?",
+            "options": [
+              "Que debía comprar productos de marca",
+              "Que el valor de las cosas dependía de su precio",
+              "Que el valor de las cosas dependía de su utilidad",
+              "Que era importante seguir la moda"
+            ],
+            "answer": 2,
+            "explain": "文中說父母教導他，物品的價值不在於價格，而在於其實用性（utilidad）。"
+          },
+          {
+            "q": "¿Qué tiempo verbal se usa en «Si hubiera seguido esos consejos, habría ahorrado mucho dinero»?",
+            "options": [
+              "Pretérito indefinido y condicional simple",
+              "Pretérito imperfecto de subjuntivo y condicional compuesto",
+              "Pretérito pluscuamperfecto de subjuntivo y condicional compuesto",
+              "Presente de subjuntivo y futuro simple"
+            ],
+            "answer": 2,
+            "explain": "此句使用「過去完成虛擬式（hubiera seguido）」與「複合條件式（habría ahorrado）」，表達與過去事實相反的假設。"
+          },
+          {
+            "q": "Según los expertos mencionados en el texto, ¿qué pasaría si cada persona redujera su consumo?",
+            "options": [
+              "Las tiendas cerrarían inmediatamente",
+              "No habría ningún cambio visible",
+              "El impacto colectivo sería enorme",
+              "Los precios de los productos bajarían"
+            ],
+            "answer": 2,
+            "explain": "文中專家指出，若每個人減少消費，集體影響將會是巨大的（enorme）。"
+          },
+          {
+            "q": "¿Cuál de las siguientes acciones recomienda el texto para consumir menos?",
+            "options": [
+              "Comprar siempre productos nuevos de marca",
+              "Tirar los objetos rotos cuanto antes",
+              "Reparar los objetos rotos o comprar de segunda mano",
+              "Ignorar los consejos de los expertos"
+            ],
+            "answer": 2,
+            "explain": "文中建議修理損壞物品，或購買二手商品，作為減少消費的具體行動。"
+          }
+        ]
+      }
+    ]
+  }
+}

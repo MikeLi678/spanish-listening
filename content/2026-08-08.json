@@ -1,0 +1,701 @@
+{
+  "date": "2026-08-08",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-08-08-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Mi fin de semana",
+        "text": "Los sábados me levanto tarde. Desayuno con mi familia. Por la mañana, escucho música en casa. Al mediodía, como con mis amigos en un restaurante. Por la tarde, doy un paseo en el parque. Los domingos veo una película en casa. También leo un libro. El fin de semana es muy tranquilo y feliz.",
+        "translation": "週六我起床很晚。我和家人一起吃早餐。早上，我在家聽音樂。中午，我和朋友在餐廳吃飯。下午，我在公園散步。週日我在家看一部電影。我也看書。週末非常平靜又開心。",
+        "words": [
+          {
+            "word": "levantarse",
+            "pos": "v. pron.",
+            "zh": "起床",
+            "example": "Me levanto a las ocho.",
+            "example_zh": "我八點起床。"
+          },
+          {
+            "word": "desayunar",
+            "pos": "v.",
+            "zh": "吃早餐",
+            "example": "Desayuno pan y café.",
+            "example_zh": "我吃麵包和咖啡當早餐。"
+          },
+          {
+            "word": "escuchar",
+            "pos": "v.",
+            "zh": "聆聽",
+            "example": "Escucho música clásica.",
+            "example_zh": "我聽古典音樂。"
+          },
+          {
+            "word": "mediodía",
+            "pos": "n. m.",
+            "zh": "中午",
+            "example": "Como al mediodía.",
+            "example_zh": "我在中午吃飯。"
+          },
+          {
+            "word": "restaurante",
+            "pos": "n. m.",
+            "zh": "餐廳",
+            "example": "El restaurante es muy bueno.",
+            "example_zh": "這家餐廳非常好。"
+          },
+          {
+            "word": "paseo",
+            "pos": "n. m.",
+            "zh": "散步",
+            "example": "Doy un paseo por la ciudad.",
+            "example_zh": "我在城市裡散步。"
+          },
+          {
+            "word": "parque",
+            "pos": "n. m.",
+            "zh": "公園",
+            "example": "El parque está cerca de mi casa.",
+            "example_zh": "公園在我家附近。"
+          },
+          {
+            "word": "película",
+            "pos": "n. f.",
+            "zh": "電影",
+            "example": "Veo una película divertida.",
+            "example_zh": "我看一部有趣的電影。"
+          },
+          {
+            "word": "tranquilo",
+            "pos": "adj.",
+            "zh": "平靜的、安靜的",
+            "example": "Mi barrio es muy tranquilo.",
+            "example_zh": "我的社區非常安靜。"
+          },
+          {
+            "word": "feliz",
+            "pos": "adj.",
+            "zh": "開心的、幸福的",
+            "example": "Estoy muy feliz hoy.",
+            "example_zh": "我今天非常開心。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cuándo se levanta tarde la persona?",
+            "options": [
+              "Los domingos",
+              "Los viernes",
+              "Los sábados",
+              "Los lunes"
+            ],
+            "answer": 2,
+            "explain": "短文第一句說「Los sábados me levanto tarde」，表示週六起床很晚。"
+          },
+          {
+            "q": "¿Con quién desayuna la persona?",
+            "options": [
+              "Con sus amigos",
+              "Con su familia",
+              "Sola",
+              "Con sus compañeros"
+            ],
+            "answer": 1,
+            "explain": "短文提到「Desayuno con mi familia」，所以是和家人一起吃早餐。"
+          },
+          {
+            "q": "¿Qué hace la persona por la mañana en casa?",
+            "options": [
+              "Ve una película",
+              "Lee un libro",
+              "Escucha música",
+              "Come con amigos"
+            ],
+            "answer": 2,
+            "explain": "短文說「Por la mañana, escucho música en casa」，早上在家聽音樂。"
+          },
+          {
+            "q": "¿Dónde come la persona al mediodía?",
+            "options": [
+              "En casa",
+              "En el parque",
+              "En la escuela",
+              "En un restaurante"
+            ],
+            "answer": 3,
+            "explain": "短文提到「como con mis amigos en un restaurante」，中午在餐廳吃飯。"
+          },
+          {
+            "q": "¿Cómo es el fin de semana de la persona?",
+            "options": [
+              "Aburrido y cansado",
+              "Tranquilo y feliz",
+              "Ocupado y difícil",
+              "Largo y triste"
+            ],
+            "answer": 1,
+            "explain": "短文最後一句說「El fin de semana es muy tranquilo y feliz」，週末非常平靜又開心。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-08-08-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "¿Por qué estudio español?",
+        "text": "Empecé a estudiar español hace seis meses porque quiero viajar a América Latina. El año pasado vi una película en español y me pareció un idioma muy bonito. También aprendí que más de 500 millones de personas hablan español en el mundo, y eso me sorprendió mucho. Además, en mi trabajo necesito comunicarme con clientes de México y Argentina. El mes que viene voy a empezar un curso intensivo en una academia. Estoy muy emocionado porque sé que el español va a abrir muchas puertas en mi vida. ¡Es un idioma increíble!",
+        "translation": "我為什麼學西班牙語？\n\n我六個月前開始學西班牙語，因為我想去拉丁美洲旅行。去年我看了一部西班牙語電影，覺得這是一個非常美麗的語言。我也了解到全世界有超過五億人說西班牙語，這讓我非常驚訝。此外，在工作中我需要和來自墨西哥和阿根廷的客戶溝通。下個月我打算在一所語言學校開始上密集課程。我非常興奮，因為我知道西班牙語將會為我的生活開啟許多大門。這真是一個令人驚嘆的語言！",
+        "words": [
+          {
+            "word": "empezar",
+            "pos": "v.",
+            "zh": "開始",
+            "example": "Empecé a estudiar español hace seis meses.",
+            "example_zh": "我六個月前開始學西班牙語。"
+          },
+          {
+            "word": "viajar",
+            "pos": "v.",
+            "zh": "旅行",
+            "example": "Quiero viajar a América Latina el próximo año.",
+            "example_zh": "我明年想去拉丁美洲旅行。"
+          },
+          {
+            "word": "idioma",
+            "pos": "n. m.",
+            "zh": "語言",
+            "example": "El español es un idioma muy bonito.",
+            "example_zh": "西班牙語是一個非常美麗的語言。"
+          },
+          {
+            "word": "sorprender",
+            "pos": "v.",
+            "zh": "使驚訝",
+            "example": "Eso me sorprendió mucho.",
+            "example_zh": "那讓我非常驚訝。"
+          },
+          {
+            "word": "comunicarse",
+            "pos": "v. pron.",
+            "zh": "溝通、交流",
+            "example": "Necesito comunicarme con mis clientes en español.",
+            "example_zh": "我需要用西班牙語和我的客戶溝通。"
+          },
+          {
+            "word": "curso intensivo",
+            "pos": "n. m.",
+            "zh": "密集課程",
+            "example": "Voy a empezar un curso intensivo el mes que viene.",
+            "example_zh": "我下個月要開始上密集課程。"
+          },
+          {
+            "word": "academia",
+            "pos": "n. f.",
+            "zh": "語言學校、補習班",
+            "example": "Hay una buena academia de idiomas cerca de mi casa.",
+            "example_zh": "我家附近有一間很好的語言學校。"
+          },
+          {
+            "word": "emocionado/a",
+            "pos": "adj.",
+            "zh": "興奮的、激動的",
+            "example": "Estoy muy emocionado porque voy a viajar mañana.",
+            "example_zh": "我非常興奮，因為我明天要去旅行。"
+          },
+          {
+            "word": "abrir puertas",
+            "pos": "expr.",
+            "zh": "開啟大門（創造機會）",
+            "example": "Hablar inglés va a abrir muchas puertas en tu carrera.",
+            "example_zh": "說英語將會為你的職業生涯開啟許多大門。"
+          },
+          {
+            "word": "increíble",
+            "pos": "adj.",
+            "zh": "令人難以置信的、驚嘆的",
+            "example": "El paisaje de Patagonia es increíble.",
+            "example_zh": "巴塔哥尼亞的風景令人嘆為觀止。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cuánto tiempo lleva el autor estudiando español?",
+            "options": [
+              "Tres meses",
+              "Un año",
+              "Seis meses",
+              "Dos años"
+            ],
+            "answer": 2,
+            "explain": "文中提到「Empecé a estudiar español hace seis meses」，表示作者學西班牙語已有六個月。"
+          },
+          {
+            "q": "¿Por qué el autor empezó a estudiar español?",
+            "options": [
+              "Porque le gusta la música latina",
+              "Porque quiere viajar a América Latina",
+              "Porque su familia habla español",
+              "Porque estudia en una universidad española"
+            ],
+            "answer": 1,
+            "explain": "文中明確說明「porque quiero viajar a América Latina」，即因為想去拉丁美洲旅行。"
+          },
+          {
+            "q": "¿Qué le sorprendió al autor?",
+            "options": [
+              "Que el español es muy difícil",
+              "Que hay pocos países donde se habla español",
+              "Que más de 500 millones de personas hablan español",
+              "Que su academia es muy cara"
+            ],
+            "answer": 2,
+            "explain": "文中寫道「aprendí que más de 500 millones de personas hablan español en el mundo, y eso me sorprendió mucho」，令他驚訝的是全球有超過五億人說西班牙語。"
+          },
+          {
+            "q": "¿Qué va a hacer el autor el mes que viene?",
+            "options": [
+              "Va a viajar a México",
+              "Va a ver una película en español",
+              "Va a empezar un curso intensivo",
+              "Va a buscar un trabajo nuevo"
+            ],
+            "answer": 2,
+            "explain": "文中使用 Futuro próximo 說明「voy a empezar un curso intensivo en una academia」，即下個月將開始密集課程。"
+          },
+          {
+            "q": "¿Con quién necesita comunicarse el autor en su trabajo?",
+            "options": [
+              "Con clientes de España y Colombia",
+              "Con clientes de México y Argentina",
+              "Con clientes de Cuba y Chile",
+              "Con clientes de Perú y Venezuela"
+            ],
+            "answer": 1,
+            "explain": "文中說「necesito comunicarme con clientes de México y Argentina」，說明他在工作上需要和墨西哥及阿根廷的客戶溝通。"
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "2026-08-08-B1-1",
+        "source": "ai",
+        "level_label": "B1",
+        "title": "Cuidar la mente es tan importante como cuidar el cuerpo",
+        "text": "Durante mucho tiempo, hablar de salud mental fue considerado un tabú en muchas sociedades. La gente creía que si alguien sentía tristeza profunda o ansiedad constante, simplemente debería esforzarse más y seguir adelante. Sin embargo, los expertos en psicología nos explican que las enfermedades mentales son tan reales como las físicas y que merecen la misma atención médica.\n\nCuando era estudiante universitaria, Ana notó que se sentía agotada todo el tiempo y que le costaba concentrarse en sus estudios. Al principio pensó que era solo el estrés normal de la universidad. Pero cuando los síntomas empeoraron, decidió buscar ayuda profesional. Si hubiera ignorado esas señales, probablemente su situación habría sido mucho más difícil.\n\nEl psicólogo le explicó que padecía un trastorno de ansiedad y le recomendó que comenzara una terapia semanal. Aunque al principio Ana dudaba si el tratamiento funcionaría, poco a poco fue sintiendo mejoría. Hoy ella afirma que pedir ayuda fue la mejor decisión que tomó en su vida.\n\nEs fundamental que aprendamos a reconocer nuestras emociones y que no tengamos miedo de hablar con un profesional cuando lo necesitemos.",
+        "translation": "長久以來，在許多社會中談論心理健康被視為禁忌。人們認為，如果某人感到深度悲傷或持續焦慮，只需要更加努力、繼續向前就好。然而，心理學專家向我們解釋，精神疾病和身體疾病一樣真實，同樣值得獲得相同的醫療關注。\n\n當Ana還是大學生的時候，她注意到自己總是感到精疲力竭，而且很難專注在學業上。起初她以為這只是大學的正常壓力。但當症狀加重時，她決定尋求專業協助。如果她當時忽視了那些警訊，她的情況可能會變得更加困難。\n\n心理師向她解釋她患有焦慮症，並建議她開始每週一次的治療。儘管Ana起初懷疑治療是否有效，但她的狀況慢慢地逐漸改善。如今她表示，尋求幫助是她這輩子做過最好的決定。\n\n我們學會認識自己的情緒，以及在需要時不害怕與專業人士交談，這是至關重要的。",
+        "words": [
+          {
+            "word": "tabú",
+            "pos": "n.m.",
+            "zh": "禁忌",
+            "example": "Hablar de dinero todavía es un tabú en algunas familias.",
+            "example_zh": "在某些家庭中，談論金錢仍然是一個禁忌。"
+          },
+          {
+            "word": "ansiedad",
+            "pos": "n.f.",
+            "zh": "焦慮",
+            "example": "La ansiedad puede afectar la calidad de vida de una persona.",
+            "example_zh": "焦慮可能影響一個人的生活品質。"
+          },
+          {
+            "word": "agotado/a",
+            "pos": "adj.",
+            "zh": "精疲力竭的",
+            "example": "Después de trabajar doce horas, llegué a casa completamente agotado.",
+            "example_zh": "工作了十二個小時後，我到家時已完全精疲力竭。"
+          },
+          {
+            "word": "síntoma",
+            "pos": "n.m.",
+            "zh": "症狀",
+            "example": "El médico me preguntó cuáles eran mis síntomas principales.",
+            "example_zh": "醫生問我主要症狀是什麼。"
+          },
+          {
+            "word": "padecer",
+            "pos": "v.",
+            "zh": "患（病）、遭受",
+            "example": "Mi abuela padece una enfermedad crónica desde hace años.",
+            "example_zh": "我的祖母多年來患有慢性病。"
+          },
+          {
+            "word": "trastorno",
+            "pos": "n.m.",
+            "zh": "障礙、失調",
+            "example": "El trastorno del sueño es más común de lo que pensamos.",
+            "example_zh": "睡眠障礙比我們想像的更為常見。"
+          },
+          {
+            "word": "mejoría",
+            "pos": "n.f.",
+            "zh": "好轉、改善",
+            "example": "El médico notó una gran mejoría en el estado del paciente.",
+            "example_zh": "醫生注意到患者的狀況有很大的好轉。"
+          },
+          {
+            "word": "afirmar",
+            "pos": "v.",
+            "zh": "聲稱、表示、斷言",
+            "example": "El científico afirmó que los resultados eran concluyentes.",
+            "example_zh": "這位科學家表示研究結果是確鑿的。"
+          },
+          {
+            "word": "fundamental",
+            "pos": "adj.",
+            "zh": "至關重要的、基本的",
+            "example": "Es fundamental dormir bien para mantener una buena salud.",
+            "example_zh": "睡個好覺對維持良好健康是至關重要的。"
+          },
+          {
+            "word": "señal",
+            "pos": "n.f.",
+            "zh": "信號、警訊、跡象",
+            "example": "Ignorar las señales de estrés puede ser muy peligroso.",
+            "example_zh": "忽視壓力的警訊可能非常危險。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Por qué la gente antes no hablaba de salud mental?",
+            "options": [
+              "Porque no existían enfermedades mentales.",
+              "Porque era considerado un tabú en muchas sociedades.",
+              "Porque los médicos no sabían tratarlas.",
+              "Porque solo afectaba a personas mayores."
+            ],
+            "answer": 1,
+            "explain": "文章開頭指出，長久以來，在許多社會中談論心理健康被視為禁忌（tabú），因此正確答案是選項B。"
+          },
+          {
+            "q": "¿Qué le pasaba a Ana cuando era estudiante universitaria?",
+            "options": [
+              "Tenía problemas económicos graves.",
+              "No tenía amigos en la universidad.",
+              "Se sentía agotada y le costaba concentrarse.",
+              "Suspendía todos sus exámenes."
+            ],
+            "answer": 2,
+            "explain": "文章說Ana注意到自己總是感到精疲力竭（agotada），而且很難專注在學業上（le costaba concentrarse），因此正確答案是選項C。"
+          },
+          {
+            "q": "¿Qué habría pasado si Ana hubiera ignorado las señales?",
+            "options": [
+              "Habría mejorado sola con el tiempo.",
+              "Su situación probablemente habría sido mucho más difícil.",
+              "Sus profesores la habrían ayudado.",
+              "Habría dejado la universidad."
+            ],
+            "answer": 1,
+            "explain": "文章使用條件句表示，如果她忽視那些警訊，她的情況「probablemente habría sido mucho más difícil」（可能會更加困難），正確答案是選項B。"
+          },
+          {
+            "q": "¿Qué le recomendó el psicólogo a Ana?",
+            "options": [
+              "Que tomara medicamentos fuertes cada día.",
+              "Que dejara la universidad temporalmente.",
+              "Que hiciera más ejercicio físico.",
+              "Que comenzara una terapia semanal."
+            ],
+            "answer": 3,
+            "explain": "文章明確說明心理師建議Ana「comenzara una terapia semanal」（開始每週一次的治療），正確答案是選項D。"
+          },
+          {
+            "q": "¿Cuál es el mensaje principal del texto?",
+            "options": [
+              "La universidad causa enfermedades mentales en todos los estudiantes.",
+              "Solo los médicos pueden hablar sobre salud mental.",
+              "Es importante reconocer nuestras emociones y buscar ayuda profesional si es necesario.",
+              "La salud mental es menos importante que la salud física."
+            ],
+            "answer": 2,
+            "explain": "文章最後一段點出核心訊息：我們應該學會認識自己的情緒，並在需要時不害怕尋求專業協助，正確答案是選項C。"
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "2026-08-08-B2-fallback",
+        "source": "ai",
+        "level_label": "約 B2（AI 生成）",
+        "title": "Cuidar la mente es tan importante como cuidar el cuerpo",
+        "text": "Durante mucho tiempo, hablar de salud mental fue un tema tabú en muchas culturas. La gente pensaba que si alguien se sentía triste o ansioso, simplemente debería esforzarse más y seguir adelante. Sin embargo, los expertos nos dicen que las enfermedades mentales son tan reales como las físicas y que merecen la misma atención médica.\n\nCuando era adolescente, una amiga mía pasó por una etapa muy difícil. Aunque tenía familia y amigos a su alrededor, se sentía completamente sola. Si hubiera recibido ayuda profesional antes, habría superado esa crisis más rápidamente. Por suerte, al final decidió hablar con un psicólogo, quien le enseñó técnicas para manejar sus emociones.\n\nHoy en día, sabemos que cuidar la salud mental requiere hábitos cotidianos. Es recomendable que durmamos bien, que hagamos ejercicio regularmente y que busquemos apoyo cuando lo necesitemos. También es importante que aprendamos a reconocer las señales de alerta antes de que la situación empeore.\n\nNo deberíamos esperar a estar en crisis para pedir ayuda. La salud mental es parte esencial de nuestro bienestar general, y todos merecemos vivir con equilibrio emocional.",
+        "translation": "長久以來，在許多文化中，談論心理健康是一個禁忌話題。人們認為，如果某人感到悲傷或焦慮，只需更加努力、繼續向前就好。然而，專家們告訴我們，心理疾病與生理疾病同樣真實，同樣值得獲得相同的醫療關注。\n\n當我還是青少年的時候，我的一位朋友經歷了一段非常艱難的時期。雖然她身邊有家人和朋友，卻感到完全孤獨。如果她能更早獲得專業幫助，就能更快度過那段危機。幸運的是，她最終決定與心理師談談，心理師教了她管理情緒的技巧。\n\n如今，我們知道照顧心理健康需要日常習慣。建議我們好好睡眠、定期運動，並在需要時尋求支持。在情況惡化之前，學會辨識警示訊號也很重要。\n\n我們不應該等到陷入危機才去尋求幫助。心理健康是我們整體幸福的重要組成部分，每個人都值得在情緒上保持平衡地生活。",
+        "words": [
+          {
+            "word": "tabú",
+            "pos": "adj./m.",
+            "zh": "禁忌（的）",
+            "example": "Hablar de dinero sigue siendo un tabú en algunas familias.",
+            "example_zh": "在某些家庭中，談錢仍然是禁忌。"
+          },
+          {
+            "word": "ansioso/a",
+            "pos": "adj.",
+            "zh": "焦慮的",
+            "example": "Me siento ansioso cuando tengo muchos exámenes.",
+            "example_zh": "當我有很多考試時，我會感到焦慮。"
+          },
+          {
+            "word": "merecer",
+            "pos": "v.",
+            "zh": "值得、應得",
+            "example": "Todos merecemos ser tratados con respeto.",
+            "example_zh": "每個人都應該受到尊重的對待。"
+          },
+          {
+            "word": "superar",
+            "pos": "v.",
+            "zh": "克服、度過",
+            "example": "Con ayuda, pudo superar su miedo a hablar en público.",
+            "example_zh": "在幫助下，她克服了公開演講的恐懼。"
+          },
+          {
+            "word": "cotidiano/a",
+            "pos": "adj.",
+            "zh": "日常的、每天的",
+            "example": "El ejercicio físico debería ser parte de nuestra rutina cotidiana.",
+            "example_zh": "體育鍛煉應該是我們日常生活的一部分。"
+          },
+          {
+            "word": "apoyo",
+            "pos": "m.",
+            "zh": "支持、幫助",
+            "example": "El apoyo de la familia es fundamental en momentos difíciles.",
+            "example_zh": "家人的支持在困難時期至關重要。"
+          },
+          {
+            "word": "señal de alerta",
+            "pos": "f.",
+            "zh": "警示訊號",
+            "example": "El insomnio puede ser una señal de alerta de problemas emocionales.",
+            "example_zh": "失眠可能是情緒問題的警示訊號。"
+          },
+          {
+            "word": "empeorar",
+            "pos": "v.",
+            "zh": "惡化、變得更糟",
+            "example": "Si no descansas, tu salud podría empeorar.",
+            "example_zh": "如果不休息，你的健康可能會惡化。"
+          },
+          {
+            "word": "bienestar",
+            "pos": "m.",
+            "zh": "幸福、健康、福祉",
+            "example": "Dormir bien contribuye a nuestro bienestar general.",
+            "example_zh": "好好睡眠有助於我們的整體福祉。"
+          },
+          {
+            "word": "equilibrio emocional",
+            "pos": "m.",
+            "zh": "情緒平衡",
+            "example": "La meditación ayuda a mantener el equilibrio emocional.",
+            "example_zh": "冥想有助於維持情緒平衡。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Por qué la gente antes no hablaba de salud mental?",
+            "options": [
+              "Porque no existían psicólogos en esa época.",
+              "Porque era considerada un tema tabú.",
+              "Porque todo el mundo estaba muy bien de salud.",
+              "Porque los médicos no sabían tratarla."
+            ],
+            "answer": 1,
+            "explain": "文章開頭明確說明，談論心理健康在許多文化中長期以來是「禁忌話題」（tema tabú）。"
+          },
+          {
+            "q": "¿Qué pensaba la gente sobre la tristeza o la ansiedad?",
+            "options": [
+              "Que era necesario visitar al médico inmediatamente.",
+              "Que eran enfermedades muy graves.",
+              "Que la persona debería esforzarse más y seguir adelante.",
+              "Que solo les pasaba a los jóvenes."
+            ],
+            "answer": 2,
+            "explain": "文章指出，過去人們認為感到悲傷或焦慮的人「只需更加努力、繼續向前」（esforzarse más y seguir adelante）。"
+          },
+          {
+            "q": "¿Qué le ayudó a la amiga del narrador a superar su crisis?",
+            "options": [
+              "Mudarse a otra ciudad.",
+              "Hablar con un psicólogo que le enseñó técnicas emocionales.",
+              "Tomar medicamentos durante varios años.",
+              "Hacer mucho ejercicio físico."
+            ],
+            "answer": 1,
+            "explain": "文章說她決定與心理師談談，心理師教了她管理情緒的技巧（técnicas para manejar sus emociones）。"
+          },
+          {
+            "q": "Según el texto, ¿cuál de las siguientes es una recomendación para cuidar la salud mental?",
+            "options": [
+              "Evitar hablar con otras personas.",
+              "Trabajar lo máximo posible sin descansar.",
+              "Dormir bien y hacer ejercicio regularmente.",
+              "Ignorar las emociones negativas."
+            ],
+            "answer": 2,
+            "explain": "文章建議「好好睡眠、定期運動，並在需要時尋求支持」（dormir bien, hacer ejercicio regularmente y buscar apoyo）。"
+          },
+          {
+            "q": "¿Cuál es el mensaje principal del último párrafo?",
+            "options": [
+              "Solo los médicos pueden cuidar nuestra salud mental.",
+              "No hay que esperar a estar en crisis para buscar ayuda.",
+              "La salud física es más importante que la salud mental.",
+              "El equilibrio emocional es imposible de alcanzar."
+            ],
+            "answer": 1,
+            "explain": "最後一段的核心訊息是「不應該等到陷入危機才去尋求幫助」（No deberíamos esperar a estar en crisis para pedir ayuda）。"
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-08-08-C1-fallback",
+        "source": "ai",
+        "level_label": "約 C1（AI 生成）",
+        "title": "Cuidar la mente es tan importante como cuidar el cuerpo",
+        "text": "Durante muchos años, la salud mental fue un tema del que pocas personas se atrevían a hablar abiertamente. Se pensaba que admitir que uno estaba triste o ansioso era una señal de debilidad. Sin embargo, hoy sabemos que esto no es así.\n\nCuando una persona siente que no puede manejar el estrés cotidiano, sería recomendable que buscara ayuda profesional. Un psicólogo puede ofrecer herramientas que nos ayuden a entender nuestras emociones y a reaccionar de manera más saludable ante los problemas.\n\nMuchos estudios han demostrado que el ejercicio físico, el sueño suficiente y las relaciones sociales positivas influyen directamente en nuestro bienestar emocional. Si las personas durmieran bien y dedicaran tiempo a actividades que les gustaran, probablemente se sentirían menos agotadas y más equilibradas.\n\nEn la sociedad actual, el ritmo de vida es tan acelerado que a veces olvidamos escucharnos a nosotros mismos. Por eso, es fundamental que aprendamos a reconocer cuándo necesitamos descansar. Cuidar la mente no es un lujo; es una necesidad que todos merecemos.",
+        "translation": "多年來，心理健康是一個很少有人敢於公開談論的話題。人們認為，承認自己感到悲傷或焦慮是軟弱的表現。然而，今天我們知道事實並非如此。\n\n當一個人感到無法應對日常壓力時，最好尋求專業協助。心理師能夠提供工具，幫助我們理解自己的情緒，並以更健康的方式回應問題。\n\n許多研究已證明，體能運動、充足的睡眠和正向的社交關係直接影響我們的情緒健康。如果人們能睡得好，並將時間投入自己喜愛的活動，或許會感到不那麼疲憊，也更加平衡。\n\n在當今社會，生活節奏如此急促，以至於我們有時忘記傾聽自己內心的聲音。因此，學會辨識自己何時需要休息是非常重要的。照顧心靈不是奢侈品；而是我們每個人都值得擁有的必需品。",
+        "words": [
+          {
+            "word": "atreverse",
+            "pos": "v. prnl.",
+            "zh": "敢於、鼓起勇氣",
+            "example": "Pocos estudiantes se atrevieron a hablar en público.",
+            "example_zh": "很少有學生敢在公開場合發言。"
+          },
+          {
+            "word": "ansioso/a",
+            "pos": "adj.",
+            "zh": "焦慮的、不安的",
+            "example": "Me siento ansioso antes de los exámenes.",
+            "example_zh": "我在考試前感到焦慮。"
+          },
+          {
+            "word": "debilidad",
+            "pos": "n. f.",
+            "zh": "軟弱、弱點",
+            "example": "Pedir ayuda no es una señal de debilidad.",
+            "example_zh": "尋求幫助並不是軟弱的表現。"
+          },
+          {
+            "word": "manejar",
+            "pos": "v. tr.",
+            "zh": "處理、應對、駕駛",
+            "example": "Es difícil manejar el estrés sin descanso.",
+            "example_zh": "沒有休息的話，很難應對壓力。"
+          },
+          {
+            "word": "herramienta",
+            "pos": "n. f.",
+            "zh": "工具、手段",
+            "example": "La meditación es una herramienta útil para la mente.",
+            "example_zh": "冥想是對心靈有益的工具。"
+          },
+          {
+            "word": "bienestar",
+            "pos": "n. m.",
+            "zh": "幸福感、健康狀態、福祉",
+            "example": "El deporte contribuye al bienestar emocional.",
+            "example_zh": "運動有助於情緒上的幸福感。"
+          },
+          {
+            "word": "agotado/a",
+            "pos": "adj.",
+            "zh": "筋疲力盡的、耗盡的",
+            "example": "Después de trabajar doce horas, me sentía completamente agotado.",
+            "example_zh": "工作了十二個小時後，我感到筋疲力盡。"
+          },
+          {
+            "word": "equilibrado/a",
+            "pos": "adj.",
+            "zh": "平衡的、均衡的",
+            "example": "Una dieta equilibrada mejora el estado de ánimo.",
+            "example_zh": "均衡的飲食能改善心情。"
+          },
+          {
+            "word": "acelerado/a",
+            "pos": "adj.",
+            "zh": "快速的、加速的",
+            "example": "El ritmo de vida acelerado puede causar ansiedad.",
+            "example_zh": "快節奏的生活可能導致焦慮。"
+          },
+          {
+            "word": "lujo",
+            "pos": "n. m.",
+            "zh": "奢侈、奢華",
+            "example": "Dormir ocho horas no debería ser un lujo.",
+            "example_zh": "睡滿八小時不應該是一種奢侈。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Según el texto, ¿qué se pensaba antes sobre admitir que uno estaba triste?",
+            "options": [
+              "Era una señal de valentía.",
+              "Era una señal de debilidad.",
+              "Era algo muy común y aceptado.",
+              "Era necesario para pedir ayuda."
+            ],
+            "answer": 1,
+            "explain": "文章第一段明確指出，過去人們認為承認自己悲傷或焦慮是「軟弱的表現（señal de debilidad）」。"
+          },
+          {
+            "q": "¿Qué recomienda el texto cuando alguien no puede manejar el estrés cotidiano?",
+            "options": [
+              "Hacer más ejercicio físico inmediatamente.",
+              "Ignorar los problemas y seguir adelante.",
+              "Buscar ayuda de un profesional.",
+              "Hablar con amigos en lugar de descansar."
+            ],
+            "answer": 2,
+            "explain": "文章第二段使用條件式表達，建議感到無法應對日常壓力的人「尋求專業協助（buscar ayuda profesional）」。"
+          },
+          {
+            "q": "Según el texto, ¿cuáles son tres factores que influyen en el bienestar emocional?",
+            "options": [
+              "La dieta, el trabajo y el dinero.",
+              "El ejercicio, el sueño y las relaciones sociales positivas.",
+              "La música, el silencio y la soledad.",
+              "El estudio, la familia y las vacaciones."
+            ],
+            "answer": 1,
+            "explain": "文章第三段列舉了直接影響情緒健康的三個因素：體能運動（ejercicio físico）、充足的睡眠（sueño suficiente）以及正向的社交關係（relaciones sociales positivas）。"
+          },
+          {
+            "q": "¿Qué problema menciona el texto sobre la sociedad actual?",
+            "options": [
+              "La gente duerme demasiado y no trabaja.",
+              "Las personas no tienen acceso a psicólogos.",
+              "El ritmo de vida es tan acelerado que olvidamos escucharnos.",
+              "No existen estudios sobre salud mental."
+            ],
+            "answer": 2,
+            "explain": "文章第四段指出當今社會的問題：生活節奏如此急促，以至於人們有時忘記傾聽自己的內心。"
+          },
+          {
+            "q": "¿Cuál es la idea principal del último párrafo?",
+            "options": [
+              "Que el descanso es menos importante que el trabajo.",
+              "Que cuidar la mente es una necesidad, no un lujo.",
+              "Que solo los psicólogos pueden tener buena salud mental.",
+              "Que es imposible estar equilibrado en la sociedad moderna."
+            ],
+            "answer": 1,
+            "explain": "文章最後一段的核心概念為：照顧心靈不是奢侈品（lujo），而是每個人都值得擁有的必需品（necesidad）。"
+          }
+        ]
+      }
+    ],
+    "C2": []
+  }
+}

@@ -1,0 +1,839 @@
+{
+  "date": "2026-08-07",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-08-07-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Mi mañana",
+        "text": "Cada mañana me despierto a las siete. Me levanto y voy al baño. Me lavo la cara y los dientes. Después, desayuno en la cocina. Como pan con mantequilla y bebo un vaso de leche. Me visto rápido. Cojo mi mochila y salgo de casa. Camino hasta la parada del autobús. ¡Me gusta mucho la mañana!",
+        "translation": "每天早上我七點醒來。我起床然後去浴室。我洗臉並刷牙。之後，我在廚房吃早餐。我吃塗奶油的麵包，喝一杯牛奶。我很快穿好衣服。我拿起背包然後出門。我走到公車站。我非常喜歡早晨！",
+        "words": [
+          {
+            "word": "despertarse",
+            "pos": "v. pron.",
+            "zh": "醒來",
+            "example": "Me despierto a las siete cada día.",
+            "example_zh": "我每天七點醒來。"
+          },
+          {
+            "word": "levantarse",
+            "pos": "v. pron.",
+            "zh": "起床",
+            "example": "Ella se levanta muy temprano.",
+            "example_zh": "她起床起得很早。"
+          },
+          {
+            "word": "lavarse",
+            "pos": "v. pron.",
+            "zh": "洗（臉／手等）",
+            "example": "Me lavo las manos antes de comer.",
+            "example_zh": "我吃飯前洗手。"
+          },
+          {
+            "word": "desayunar",
+            "pos": "v.",
+            "zh": "吃早餐",
+            "example": "Desayuno con mi familia los domingos.",
+            "example_zh": "我週日和家人一起吃早餐。"
+          },
+          {
+            "word": "mantequilla",
+            "pos": "n. f.",
+            "zh": "奶油",
+            "example": "Pongo mantequilla en el pan.",
+            "example_zh": "我在麵包上塗奶油。"
+          },
+          {
+            "word": "vaso",
+            "pos": "n. m.",
+            "zh": "（玻璃）杯",
+            "example": "Bebo un vaso de agua.",
+            "example_zh": "我喝一杯水。"
+          },
+          {
+            "word": "vestirse",
+            "pos": "v. pron.",
+            "zh": "穿衣服",
+            "example": "Los niños se visten solos.",
+            "example_zh": "孩子們自己穿衣服。"
+          },
+          {
+            "word": "mochila",
+            "pos": "n. f.",
+            "zh": "背包",
+            "example": "Mi mochila es azul y grande.",
+            "example_zh": "我的背包是藍色的而且很大。"
+          },
+          {
+            "word": "parada",
+            "pos": "n. f.",
+            "zh": "（公車）站",
+            "example": "La parada del autobús está cerca.",
+            "example_zh": "公車站很近。"
+          },
+          {
+            "word": "caminar",
+            "pos": "v.",
+            "zh": "走路、步行",
+            "example": "Camino al colegio cada mañana.",
+            "example_zh": "我每天早上走路去學校。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿A qué hora se despierta la persona?",
+            "options": [
+              "A las seis",
+              "A las siete",
+              "A las ocho",
+              "A las nueve"
+            ],
+            "answer": 1,
+            "explain": "文章第一句明確提到「me despierto a las siete」，即七點醒來。"
+          },
+          {
+            "q": "¿Qué come en el desayuno?",
+            "options": [
+              "Fruta y yogur",
+              "Huevos y jamón",
+              "Pan con mantequilla",
+              "Cereales con leche"
+            ],
+            "answer": 2,
+            "explain": "文章提到「Como pan con mantequilla」，早餐吃的是塗奶油的麵包。"
+          },
+          {
+            "q": "¿Qué bebe por la mañana?",
+            "options": [
+              "Un vaso de zumo",
+              "Una taza de café",
+              "Un vaso de leche",
+              "Una taza de té"
+            ],
+            "answer": 2,
+            "explain": "文章寫道「bebo un vaso de leche」，喝的是一杯牛奶。"
+          },
+          {
+            "q": "¿Adónde camina la persona?",
+            "options": [
+              "Al supermercado",
+              "Al colegio",
+              "A la parada del autobús",
+              "Al parque"
+            ],
+            "answer": 2,
+            "explain": "文章最後提到「Camino hasta la parada del autobús」，走到公車站。"
+          },
+          {
+            "q": "¿Cómo se viste la persona?",
+            "options": [
+              "Con calma",
+              "Muy despacio",
+              "Rápido",
+              "Con ayuda"
+            ],
+            "answer": 2,
+            "explain": "文章寫「Me visto rápido」，表示她／他穿衣服穿得很快。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-08-07-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Un día en el aeropuerto",
+        "text": "Ayer llegué al aeropuerto muy temprano porque mi vuelo salía a las ocho de la mañana. Primero, facturé mi maleta en el mostrador y recibí mi tarjeta de embarque. Después, pasé por el control de seguridad sin problemas. En la sala de espera, compré un café y leí una revista. El vuelo tuvo un pequeño retraso, pero no me preocupé mucho. Ahora estoy sentado cerca de la puerta de embarque. Voy a viajar a Madrid para visitar a mi familia. ¡Va a ser un viaje muy emocionante!",
+        "translation": "昨天我很早就到了機場，因為我的班機早上八點出發。首先，我在櫃檯托運了行李，並拿到了登機證。之後，我順利通過了安全檢查。在候機室裡，我買了一杯咖啡，讀了一本雜誌。班機稍微誤點了，但我沒有太擔心。現在我坐在登機門附近。我即將前往馬德里探望家人。這將會是一趟非常令人興奮的旅程！",
+        "words": [
+          {
+            "word": "aeropuerto",
+            "pos": "n.m.",
+            "zh": "機場",
+            "example": "El aeropuerto está muy lejos del centro.",
+            "example_zh": "機場離市中心很遠。"
+          },
+          {
+            "word": "vuelo",
+            "pos": "n.m.",
+            "zh": "班機、飛行",
+            "example": "Mi vuelo sale a las diez de la noche.",
+            "example_zh": "我的班機晚上十點出發。"
+          },
+          {
+            "word": "facturar",
+            "pos": "v.",
+            "zh": "托運（行李）；辦理報到",
+            "example": "Necesito facturar esta maleta grande.",
+            "example_zh": "我需要托運這個大行李箱。"
+          },
+          {
+            "word": "maleta",
+            "pos": "n.f.",
+            "zh": "行李箱",
+            "example": "Mi maleta es de color azul.",
+            "example_zh": "我的行李箱是藍色的。"
+          },
+          {
+            "word": "tarjeta de embarque",
+            "pos": "n.f.",
+            "zh": "登機證",
+            "example": "Por favor, muestre su tarjeta de embarque.",
+            "example_zh": "請出示您的登機證。"
+          },
+          {
+            "word": "control de seguridad",
+            "pos": "n.m.",
+            "zh": "安全檢查",
+            "example": "El control de seguridad fue rápido hoy.",
+            "example_zh": "今天的安全檢查很快速。"
+          },
+          {
+            "word": "sala de espera",
+            "pos": "n.f.",
+            "zh": "候機室、等候室",
+            "example": "Hay muchas personas en la sala de espera.",
+            "example_zh": "候機室裡有很多人。"
+          },
+          {
+            "word": "retraso",
+            "pos": "n.m.",
+            "zh": "誤點、延誤",
+            "example": "El tren tiene un retraso de veinte minutos.",
+            "example_zh": "這班火車誤點了二十分鐘。"
+          },
+          {
+            "word": "puerta de embarque",
+            "pos": "n.f.",
+            "zh": "登機門",
+            "example": "La puerta de embarque es la número quince.",
+            "example_zh": "登機門是第十五號。"
+          },
+          {
+            "word": "emocionante",
+            "pos": "adj.",
+            "zh": "令人興奮的、激動人心的",
+            "example": "El partido de fútbol fue muy emocionante.",
+            "example_zh": "這場足球比賽非常令人興奮。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿A qué hora salía el vuelo de la persona?",
+            "options": [
+              "A las siete de la mañana.",
+              "A las ocho de la mañana.",
+              "A las nueve de la noche.",
+              "A las diez de la noche."
+            ],
+            "answer": 1,
+            "explain": "短文中提到「mi vuelo salía a las ocho de la mañana」，班機早上八點出發。"
+          },
+          {
+            "q": "¿Qué recibió la persona en el mostrador?",
+            "options": [
+              "Un café y una revista.",
+              "Su pasaporte y su visado.",
+              "Su tarjeta de embarque.",
+              "Una maleta nueva."
+            ],
+            "answer": 2,
+            "explain": "短文中提到在櫃檯「recibí mi tarjeta de embarque」，拿到了登機證。"
+          },
+          {
+            "q": "¿Qué hizo la persona en la sala de espera?",
+            "options": [
+              "Facturó su maleta y durmió.",
+              "Compró un café y leyó una revista.",
+              "Habló por teléfono con su familia.",
+              "Pasó el control de seguridad."
+            ],
+            "answer": 1,
+            "explain": "短文中提到在候機室「compré un café y leí una revista」，買了咖啡並讀了雜誌。"
+          },
+          {
+            "q": "¿Adónde va a viajar la persona?",
+            "options": [
+              "A Barcelona.",
+              "A Buenos Aires.",
+              "A México.",
+              "A Madrid."
+            ],
+            "answer": 3,
+            "explain": "短文中提到「Voy a viajar a Madrid」，即將前往馬德里。"
+          },
+          {
+            "q": "¿Cómo reaccionó la persona cuando supo del retraso del vuelo?",
+            "options": [
+              "Se preocupó mucho y llamó a la aerolínea.",
+              "No se preocupó mucho.",
+              "Se enojó con el personal del aeropuerto.",
+              "Decidió cancelar el viaje."
+            ],
+            "answer": 1,
+            "explain": "短文中提到「no me preocupé mucho」，表示沒有太擔心誤點的情況。"
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "2026-08-07-B1-1",
+        "source": "ai",
+        "level_label": "B1",
+        "title": "El caos del tráfico urbano",
+        "text": "Cada mañana, millones de personas se enfrentan al mismo problema: el tráfico en las grandes ciudades. Cuando salí de casa ayer a las ocho, ya había una fila enorme de coches que bloqueaba toda la avenida principal. Tardé casi una hora en llegar a la oficina, aunque normalmente el trayecto solo dura veinte minutos.\n\nMuchos expertos creen que, si los gobiernos invirtieran más en el transporte público, la situación mejoraría considerablemente. Sería necesario construir más líneas de metro y ampliar las rutas de autobús para que los ciudadanos pudieran desplazarse con mayor comodidad. Además, si hubiera más carriles exclusivos para bicicletas, muchas personas preferirían ese medio de transporte.\n\nEl problema es que las autoridades no han tomado medidas suficientes hasta ahora. Aunque se anunciaron varios proyectos el año pasado, pocos se han llevado a cabo. Los vecinos están hartos de perder tiempo en los atascos y exigen soluciones urgentes. Si seguimos ignorando este problema, la calidad de vida en nuestras ciudades empeorará cada vez más. Es imprescindible que actuemos antes de que la situación se vuelva completamente insostenible.",
+        "translation": "每天早晨，數百萬人面臨同樣的問題：大城市的交通。昨天我八點出門時，大街上已經有一條長長的車龍，堵住了整條主幹道。我花了將近一個小時才到達辦公室，但平常這段路只需要二十分鐘。\n\n許多專家認為，如果政府在大眾運輸上投入更多資金，情況將會大幅改善。有必要建造更多地鐵路線，並擴充公車路線，讓市民能夠更舒適地移動。此外，如果有更多專用自行車道，許多人會更願意選擇這種交通方式。\n\n問題在於，當局到目前為止尚未採取足夠的措施。雖然去年宣布了幾項計畫，但付諸實施的寥寥無幾。居民們受夠了在塞車中浪費時間，並要求緊急解決方案。如果我們繼續忽視這個問題，我們城市的生活品質將每況愈下。在情況變得完全無法持續之前，我們必須採取行動。",
+        "words": [
+          {
+            "word": "enfrentarse a",
+            "pos": "v. prnl.",
+            "zh": "面對、面臨",
+            "example": "Cada día me enfrento a muchos desafíos en el trabajo.",
+            "example_zh": "我每天在工作中都面臨許多挑戰。"
+          },
+          {
+            "word": "trayecto",
+            "pos": "m. n.",
+            "zh": "路程、行程",
+            "example": "El trayecto entre mi casa y la escuela dura media hora.",
+            "example_zh": "從我家到學校的路程需要半小時。"
+          },
+          {
+            "word": "invertir",
+            "pos": "v. tr.",
+            "zh": "投資、投入",
+            "example": "El gobierno decidió invertir más dinero en educación.",
+            "example_zh": "政府決定在教育上投入更多資金。"
+          },
+          {
+            "word": "desplazarse",
+            "pos": "v. prnl.",
+            "zh": "移動、通勤",
+            "example": "Muchos trabajadores se desplazan en tren todos los días.",
+            "example_zh": "許多上班族每天搭火車通勤。"
+          },
+          {
+            "word": "carril",
+            "pos": "m. n.",
+            "zh": "車道、行車道",
+            "example": "En esta calle hay un carril exclusivo para autobuses.",
+            "example_zh": "這條街上有一條公車專用道。"
+          },
+          {
+            "word": "atasco",
+            "pos": "m. n.",
+            "zh": "塞車、交通堵塞",
+            "example": "Hubo un atasco enorme en la autopista esta mañana.",
+            "example_zh": "今天早上高速公路上發生了嚴重的塞車。"
+          },
+          {
+            "word": "llevar a cabo",
+            "pos": "loc. v.",
+            "zh": "實施、執行、完成",
+            "example": "El ayuntamiento llevó a cabo un nuevo plan de transporte.",
+            "example_zh": "市政府實施了一項新的交通計畫。"
+          },
+          {
+            "word": "harto/a",
+            "pos": "adj.",
+            "zh": "厭倦的、受夠了的",
+            "example": "Estoy harto de esperar el autobús bajo la lluvia.",
+            "example_zh": "我受夠了在雨中等公車。"
+          },
+          {
+            "word": "insostenible",
+            "pos": "adj.",
+            "zh": "無法持續的、難以為繼的",
+            "example": "La situación económica se ha vuelto insostenible para muchas familias.",
+            "example_zh": "這種經濟狀況對許多家庭來說已變得難以為繼。"
+          },
+          {
+            "word": "imprescindible",
+            "pos": "adj.",
+            "zh": "不可或缺的、必要的",
+            "example": "Es imprescindible respetar las normas de tráfico.",
+            "example_zh": "遵守交通規則是不可或缺的。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cuánto tiempo tardó el autor en llegar a la oficina el día mencionado en el texto?",
+            "options": [
+              "Veinte minutos.",
+              "Casi una hora.",
+              "Más de dos horas.",
+              "Media hora."
+            ],
+            "answer": 1,
+            "explain": "文中提到「Tardé casi una hora en llegar a la oficina」，表示作者花了將近一個小時才抵達辦公室，故選第二項。"
+          },
+          {
+            "q": "Según el texto, ¿qué pasaría si los gobiernos invirtieran más en el transporte público?",
+            "options": [
+              "Habría más atascos en las calles.",
+              "Los ciudadanos comprarían más coches.",
+              "La situación del tráfico mejoraría considerablemente.",
+              "Se construirían más autopistas."
+            ],
+            "answer": 2,
+            "explain": "文中使用條件句「si los gobiernos invirtieran más en el transporte público, la situación mejoraría considerablemente」，說明交通狀況將大幅改善，故選第三項。"
+          },
+          {
+            "q": "¿Qué opinan los vecinos sobre la situación del tráfico?",
+            "options": [
+              "Están satisfechos con las medidas actuales.",
+              "Prefieren usar el coche particular.",
+              "Creen que el problema no es tan grave.",
+              "Están hartos y exigen soluciones urgentes."
+            ],
+            "answer": 3,
+            "explain": "文中明確寫道「Los vecinos están hartos de perder tiempo en los atascos y exigen soluciones urgentes」，居民厭倦塞車並要求緊急解決方案，故選第四項。"
+          },
+          {
+            "q": "Según el texto, ¿qué ocurrió con los proyectos anunciados el año pasado?",
+            "options": [
+              "Todos se llevaron a cabo con éxito.",
+              "Pocos se han llevado a cabo.",
+              "Fueron cancelados por falta de dinero.",
+              "Todavía están en fase de planificación."
+            ],
+            "answer": 1,
+            "explain": "文中提到「Aunque se anunciaron varios proyectos el año pasado, pocos se han llevado a cabo」，表示很少計畫付諸實行，故選第二項。"
+          },
+          {
+            "q": "¿Qué medio de transporte usarían más personas si hubiera más carriles exclusivos para ello?",
+            "options": [
+              "El metro.",
+              "El autobús.",
+              "La bicicleta.",
+              "El tren de cercanías."
+            ],
+            "answer": 2,
+            "explain": "文中提到「si hubiera más carriles exclusivos para bicicletas, muchas personas preferirían ese medio de transporte」，指的是自行車（bicicleta），故選第三項。"
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "2026-08-07-B2-fallback",
+        "source": "ai",
+        "level_label": "約 B2（AI 生成）",
+        "title": "El caos del tráfico urbano",
+        "text": "Cada mañana, millones de personas se enfrentan al mismo problema: el tráfico en las grandes ciudades. Cuando yo vivía en Madrid, tardaba más de una hora en llegar al trabajo, aunque la distancia no era tan grande. Era frustrante porque perdía tiempo que podría haber dedicado a mi familia o a mis aficiones.\n\nLos expertos señalan que el número de coches privados ha aumentado considerablemente en las últimas décadas. Si los gobiernos hubieran invertido más en transporte público hace años, la situación actual sería diferente. Sin embargo, muchas ciudades siguen dependiendo del automóvil privado, lo cual genera contaminación y estrés entre los ciudadanos.\n\nAfortunadamente, algunas ciudades han comenzado a tomar medidas. Por ejemplo, han creado carriles exclusivos para bicicletas y han mejorado las redes de metro y autobús. También se han establecido zonas de bajas emisiones donde los coches más contaminantes no pueden circular.\n\nSería necesario que los ciudadanos cambiaran sus hábitos de movilidad. Si más personas usaran el transporte público o la bicicleta, habría menos atascos y el aire sería más limpio. El cambio depende tanto de las autoridades como de cada uno de nosotros.",
+        "translation": "每天早上，數百萬人面臨同樣的問題：大城市的交通壅塞。當我住在馬德里時，即使距離並不遠，通勤卻要花超過一個小時。這令人沮喪，因為我失去了原本可以陪伴家人或從事嗜好的時間。\n\n專家指出，私家車的數量在過去幾十年間大幅增加。如果政府多年前就在大眾運輸上投入更多資源，現在的情況將會有所不同。然而，許多城市仍然依賴私家車，這造成了污染，也讓市民感到壓力。\n\n幸運的是，一些城市已經開始採取措施。例如，他們建設了專用自行車道，並改善了地鐵和公車網絡。此外，也設立了低排放區，污染最嚴重的車輛不得在該區域行駛。\n\n市民有必要改變自己的出行習慣。如果更多人使用大眾運輸或騎自行車，交通阻塞將會減少，空氣也會更清新。改變取決於當局，也取決於我們每一個人。",
+        "words": [
+          {
+            "word": "enfrentarse a",
+            "pos": "v. prnl.",
+            "zh": "面對、面臨",
+            "example": "Cada día nos enfrentamos a nuevos desafíos en el trabajo.",
+            "example_zh": "我們每天在工作中面臨新的挑戰。"
+          },
+          {
+            "word": "frustrante",
+            "pos": "adj.",
+            "zh": "令人沮喪的、令人挫折的",
+            "example": "Es muy frustrante esperar el autobús bajo la lluvia.",
+            "example_zh": "在雨中等公車非常令人沮喪。"
+          },
+          {
+            "word": "invertir",
+            "pos": "v.",
+            "zh": "投資、投入",
+            "example": "El ayuntamiento decidió invertir en nuevas líneas de metro.",
+            "example_zh": "市政府決定投資興建新的地鐵線路。"
+          },
+          {
+            "word": "depender de",
+            "pos": "v.",
+            "zh": "依賴、取決於",
+            "example": "El éxito del proyecto depende de la colaboración de todos.",
+            "example_zh": "專案的成功取決於所有人的合作。"
+          },
+          {
+            "word": "contaminación",
+            "pos": "n. f.",
+            "zh": "污染",
+            "example": "La contaminación del aire es un grave problema en muchas ciudades.",
+            "example_zh": "空氣污染是許多城市的嚴重問題。"
+          },
+          {
+            "word": "carril",
+            "pos": "n. m.",
+            "zh": "車道、軌道",
+            "example": "Han creado un carril exclusivo para bicicletas en el centro.",
+            "example_zh": "他們在市中心建立了專用自行車道。"
+          },
+          {
+            "word": "emisión",
+            "pos": "n. f.",
+            "zh": "排放（廢氣等）",
+            "example": "Las zonas de bajas emisiones ayudan a mejorar la calidad del aire.",
+            "example_zh": "低排放區有助於改善空氣品質。"
+          },
+          {
+            "word": "atasco",
+            "pos": "n. m.",
+            "zh": "交通堵塞、塞車",
+            "example": "Hay un atasco enorme en la autopista por un accidente.",
+            "example_zh": "高速公路因為一場事故而嚴重塞車。"
+          },
+          {
+            "word": "movilidad",
+            "pos": "n. f.",
+            "zh": "移動性、流動性、出行方式",
+            "example": "Es importante promover una movilidad sostenible en las ciudades.",
+            "example_zh": "在城市中推廣永續的出行方式非常重要。"
+          },
+          {
+            "word": "circular",
+            "pos": "v.",
+            "zh": "行駛、通行、流通",
+            "example": "Los camiones no pueden circular por el centro histórico.",
+            "example_zh": "卡車不得在歷史中心區行駛。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Por qué era frustrante la situación del autor cuando vivía en Madrid?",
+            "options": [
+              "Porque el transporte público era muy caro.",
+              "Porque tardaba más de una hora en llegar al trabajo.",
+              "Porque no había metro en la ciudad.",
+              "Porque su oficina estaba muy lejos de su casa."
+            ],
+            "answer": 1,
+            "explain": "文中提到作者住在馬德里時，雖然距離不遠，但通勤卻要花超過一個小時，這讓他感到沮喪，因為浪費了可陪伴家人的時間。"
+          },
+          {
+            "q": "Según el texto, ¿qué habría pasado si los gobiernos hubieran invertido más en transporte público?",
+            "options": [
+              "Habría más coches en las calles.",
+              "La contaminación habría aumentado.",
+              "La situación actual sería diferente.",
+              "Los ciudadanos estarían más estresados."
+            ],
+            "answer": 2,
+            "explain": "文中使用條件式表示：若政府早年就投入更多資源在大眾運輸，現在的情況將會有所不同（la situación actual sería diferente）。"
+          },
+          {
+            "q": "¿Qué medidas han tomado algunas ciudades para mejorar el tráfico?",
+            "options": [
+              "Han prohibido todos los coches en la ciudad.",
+              "Han creado carriles para bicicletas y mejorado el metro y el autobús.",
+              "Han aumentado el número de aparcamientos.",
+              "Han reducido el precio de la gasolina."
+            ],
+            "answer": 1,
+            "explain": "文中明確提到，部分城市建設了專用自行車道，並改善了地鐵和公車網絡，這些都是所採取的具體措施。"
+          },
+          {
+            "q": "¿Qué son las 'zonas de bajas emisiones' mencionadas en el texto?",
+            "options": [
+              "Zonas donde los coches pueden aparcar gratis.",
+              "Zonas donde solo circulan autobuses eléctricos.",
+              "Zonas donde los coches más contaminantes no pueden circular.",
+              "Zonas destinadas exclusivamente a peatones."
+            ],
+            "answer": 2,
+            "explain": "文中說明低排放區（zonas de bajas emisiones）是指污染最嚴重的車輛不得在該區域行駛的地區。"
+          },
+          {
+            "q": "Según el autor, ¿de quién depende el cambio en los hábitos de movilidad?",
+            "options": [
+              "Solo de los gobiernos locales.",
+              "Solo de las empresas de transporte.",
+              "Únicamente de los ciudadanos jóvenes.",
+              "Tanto de las autoridades como de cada ciudadano."
+            ],
+            "answer": 3,
+            "explain": "文章最後一句明確指出，改變取決於當局，也取決於我們每一個人（tanto de las autoridades como de cada uno de nosotros）。"
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-08-07-C1-fallback",
+        "source": "ai",
+        "level_label": "約 C1（AI 生成）",
+        "title": "El caos del tráfico urbano",
+        "text": "En muchas ciudades del mundo, el tráfico se ha convertido en uno de los problemas más graves de la vida cotidiana. Cuando era pequeño, mi padre me contaba que antes podía llegar al trabajo en veinte minutos. Ahora, ese mismo trayecto tarda más de una hora debido a la congestión vial.\n\nEl año pasado, el ayuntamiento prometió que construiría nuevas líneas de metro y ampliaría los carriles para bicicletas. Muchos ciudadanos esperaban que estas medidas redujeran la contaminación y mejoraran la calidad del aire. Sin embargo, las obras comenzaron con retraso y todavía no han terminado.\n\nSi el gobierno invirtiera más dinero en el transporte público, menos personas usarían el coche privado. Además, sería necesario que las empresas permitieran el teletrabajo con mayor frecuencia, ya que esto disminuiría considerablemente el número de vehículos en las calles.\n\nAunque la situación es complicada, existen soluciones que ya han funcionado en otras ciudades europeas. Lo importante es que los ciudadanos y las autoridades trabajen juntos para encontrar un modelo de movilidad más sostenible y eficiente para todos.",
+        "translation": "在世界上許多城市，交通已成為日常生活中最嚴重的問題之一。小時候，我父親常告訴我，他以前可以在二十分鐘內到達工作地點。如今，同樣的路程因為道路壅塞而需要超過一個小時。\n\n去年，市政府承諾將興建新的捷運路線，並拓寬自行車道。許多市民期待這些措施能夠減少污染並改善空氣品質。然而，工程延遲開工，至今仍未完成。\n\n如果政府在大眾運輸上投入更多資金，使用私家車的人就會減少。此外，企業也有必要更頻繁地允許遠距工作，因為這將大幅減少街道上的車輛數量。\n\n儘管情況複雜，但在其他歐洲城市已有可行的解決方案。重要的是市民與政府當局共同努力，為所有人找到更永續且高效的交通模式。",
+        "words": [
+          {
+            "word": "congestión",
+            "pos": "n.f.",
+            "zh": "壅塞、擁擠",
+            "example": "La congestión vial hace que muchos lleguen tarde a sus trabajos.",
+            "example_zh": "道路壅塞使許多人上班遲到。"
+          },
+          {
+            "word": "trayecto",
+            "pos": "n.m.",
+            "zh": "路程、行程",
+            "example": "El trayecto entre mi casa y la oficina es de diez kilómetros.",
+            "example_zh": "我家到辦公室的路程是十公里。"
+          },
+          {
+            "word": "ampliar",
+            "pos": "v.",
+            "zh": "拓寬、擴大",
+            "example": "El municipio decidió ampliar la avenida principal.",
+            "example_zh": "市政府決定拓寬主要大道。"
+          },
+          {
+            "word": "carril",
+            "pos": "n.m.",
+            "zh": "車道、跑道",
+            "example": "En esta ciudad hay carriles exclusivos para autobuses.",
+            "example_zh": "這座城市有專用的公車道。"
+          },
+          {
+            "word": "contaminación",
+            "pos": "n.f.",
+            "zh": "污染",
+            "example": "La contaminación del aire afecta la salud de los habitantes.",
+            "example_zh": "空氣污染影響居民的健康。"
+          },
+          {
+            "word": "retraso",
+            "pos": "n.m.",
+            "zh": "延誤、遲延",
+            "example": "El tren llegó con dos horas de retraso.",
+            "example_zh": "火車晚了兩個小時才到。"
+          },
+          {
+            "word": "teletrabajo",
+            "pos": "n.m.",
+            "zh": "遠距工作、居家辦公",
+            "example": "El teletrabajo aumentó mucho durante la pandemia.",
+            "example_zh": "疫情期間遠距工作大幅增加。"
+          },
+          {
+            "word": "sostenible",
+            "pos": "adj.",
+            "zh": "永續的、可持續的",
+            "example": "Necesitamos un sistema de transporte más sostenible.",
+            "example_zh": "我們需要一個更永續的交通系統。"
+          },
+          {
+            "word": "movilidad",
+            "pos": "n.f.",
+            "zh": "交通移動性、流動性",
+            "example": "La movilidad urbana es un tema clave para las ciudades modernas.",
+            "example_zh": "城市交通移動性是現代城市的關鍵議題。"
+          },
+          {
+            "word": "invertir",
+            "pos": "v.",
+            "zh": "投資、投入",
+            "example": "El gobierno debe invertir más en infraestructura pública.",
+            "example_zh": "政府應在公共基礎設施上投入更多資金。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cuánto tiempo tardaba el padre del narrador en llegar al trabajo cuando era joven?",
+            "options": [
+              "Más de una hora",
+              "Veinte minutos",
+              "Media hora",
+              "Cuarenta y cinco minutos"
+            ],
+            "answer": 1,
+            "explain": "文中提到父親以前可以在二十分鐘內到達工作地點（podía llegar al trabajo en veinte minutos）。"
+          },
+          {
+            "q": "¿Qué prometió el ayuntamiento el año pasado?",
+            "options": [
+              "Reducir el precio de los autobuses",
+              "Prohibir los coches en el centro",
+              "Construir nuevas líneas de metro y ampliar los carriles para bicicletas",
+              "Cerrar las carreteras principales"
+            ],
+            "answer": 2,
+            "explain": "文中明確指出市政府承諾興建新捷運路線並拓寬自行車道（construiría nuevas líneas de metro y ampliaría los carriles para bicicletas）。"
+          },
+          {
+            "q": "¿Por qué los ciudadanos esperaban que se tomaran medidas de transporte?",
+            "options": [
+              "Para que hubiera más aparcamientos",
+              "Para reducir la contaminación y mejorar la calidad del aire",
+              "Para aumentar el número de coches en la ciudad",
+              "Para construir más autopistas"
+            ],
+            "answer": 1,
+            "explain": "市民期待這些措施能減少污染並改善空氣品質（redujeran la contaminación y mejoraran la calidad del aire）。"
+          },
+          {
+            "q": "Según el texto, ¿qué pasaría si el gobierno invirtiera más en transporte público?",
+            "options": [
+              "Habría más atascos en la ciudad",
+              "Los ciudadanos comprarían más coches",
+              "Menos personas usarían el coche privado",
+              "Las empresas cerrarían sus oficinas"
+            ],
+            "answer": 2,
+            "explain": "文中使用條件句說明，若政府投入更多資金在大眾運輸，使用私家車的人就會減少（menos personas usarían el coche privado）。"
+          },
+          {
+            "q": "¿Cuál es la conclusión principal del texto?",
+            "options": [
+              "El tráfico urbano no tiene solución posible",
+              "Solo el gobierno puede resolver el problema sin ayuda ciudadana",
+              "Es mejor vivir en el campo que en la ciudad",
+              "Ciudadanos y autoridades deben colaborar para lograr una movilidad más sostenible"
+            ],
+            "answer": 3,
+            "explain": "文章最後強調市民與政府當局需要共同合作（trabajen juntos），為所有人找到更永續的交通模式。"
+          }
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "2026-08-07-C2-fallback",
+        "source": "ai",
+        "level_label": "約 C2（AI 生成）",
+        "title": "El caos del tráfico urbano",
+        "text": "Cada mañana, millones de personas se enfrentan al mismo problema: el tráfico en las grandes ciudades. Cuando yo vivía en Madrid, tardaba casi dos horas en llegar al trabajo, aunque la distancia no era tan grande. Los atascos se habían convertido en parte de la vida cotidiana, y nadie parecía encontrar una solución definitiva.\n\nLos expertos aseguran que si los gobiernos invirtieran más en el transporte público, muchos ciudadanos dejarían el coche en casa. Sin embargo, en muchas ciudades el metro y los autobuses están tan saturados que la gente prefiere conducir, aunque sepa que va a perder tiempo en la carretera.\n\nAdemás, la contaminación que produce el tráfico excesivo ha causado graves problemas de salud en zonas urbanas. Sería necesario crear más carriles exclusivos para bicicletas y ampliar las zonas peatonales. Algunas ciudades europeas ya lo han hecho, y los resultados han sido muy positivos.\n\nSi quisiéramos tener ciudades más habitables, tendríamos que cambiar nuestros hábitos de transporte. No es fácil, pero tampoco es imposible si existe la voluntad política y la cooperación de los ciudadanos.",
+        "translation": "每天早上，數百萬人面臨同樣的問題：大城市的交通。當我住在馬德里時，雖然距離並不那麼遠，但上班通勤幾乎要花兩個小時。交通堵塞已成為日常生活的一部分，而且似乎沒有人能找到一個明確的解決方案。\n\n專家們保證，如果政府在大眾運輸上投入更多資金，許多市民就會把車留在家裡。然而，在許多城市，地鐵和公共汽車已經非常擁擠，人們寧願開車，即使他們知道會在路上浪費時間。\n\n此外，過度交通造成的污染已在城市地區引發嚴重的健康問題。有必要設立更多專用自行車道並擴大步行區。一些歐洲城市已經這樣做了，而且成果非常正面。\n\n如果我們想要擁有更宜居的城市，就必須改變我們的交通習慣。這並不容易，但如果有政治意願和市民的合作，也並非不可能。",
+        "words": [
+          {
+            "word": "atasco",
+            "pos": "n. m.",
+            "zh": "交通堵塞",
+            "example": "Hubo un atasco enorme en la autopista esta mañana.",
+            "example_zh": "今天早上高速公路上出現了嚴重的交通堵塞。"
+          },
+          {
+            "word": "cotidiano/a",
+            "pos": "adj.",
+            "zh": "日常的",
+            "example": "El ruido del tráfico es parte de su vida cotidiana.",
+            "example_zh": "交通噪音是他日常生活的一部分。"
+          },
+          {
+            "word": "invertir",
+            "pos": "v.",
+            "zh": "投資；投入",
+            "example": "El ayuntamiento decidió invertir en nuevas líneas de metro.",
+            "example_zh": "市政府決定投資興建新的地鐵線路。"
+          },
+          {
+            "word": "saturado/a",
+            "pos": "adj.",
+            "zh": "飽和的；過於擁擠的",
+            "example": "Las carreteras están saturadas durante las horas punta.",
+            "example_zh": "道路在尖峰時段非常擁擠。"
+          },
+          {
+            "word": "contaminación",
+            "pos": "n. f.",
+            "zh": "污染",
+            "example": "La contaminación del aire afecta la salud de los niños.",
+            "example_zh": "空氣污染影響兒童的健康。"
+          },
+          {
+            "word": "carril",
+            "pos": "n. m.",
+            "zh": "車道；（自行車）專用道",
+            "example": "La ciudad construyó nuevos carriles para bicicletas.",
+            "example_zh": "這座城市建造了新的自行車專用道。"
+          },
+          {
+            "word": "peatonal",
+            "pos": "adj.",
+            "zh": "行人的；步行的",
+            "example": "Convirtieron el centro histórico en una zona peatonal.",
+            "example_zh": "他們將歷史中心改建為步行區。"
+          },
+          {
+            "word": "habitable",
+            "pos": "adj.",
+            "zh": "宜居的；適合居住的",
+            "example": "Queremos hacer nuestra ciudad más habitable y sostenible.",
+            "example_zh": "我們希望讓我們的城市更宜居且更永續。"
+          },
+          {
+            "word": "voluntad",
+            "pos": "n. f.",
+            "zh": "意願；意志",
+            "example": "Se necesita voluntad política para mejorar el transporte.",
+            "example_zh": "改善交通需要政治意願。"
+          },
+          {
+            "word": "definitivo/a",
+            "pos": "adj.",
+            "zh": "最終的；明確的",
+            "example": "Todavía no hay una solución definitiva para el problema del tráfico.",
+            "example_zh": "對於交通問題，目前仍沒有明確的解決方案。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cuánto tiempo tardaba el autor en llegar al trabajo cuando vivía en Madrid?",
+            "options": [
+              "Menos de treinta minutos.",
+              "Aproximadamente una hora.",
+              "Casi dos horas.",
+              "Más de tres horas."
+            ],
+            "answer": 2,
+            "explain": "文中提到「tardaba casi dos horas en llegar al trabajo」，因此答案是「將近兩個小時」。"
+          },
+          {
+            "q": "Según los expertos, ¿qué pasaría si los gobiernos invirtieran más en el transporte público?",
+            "options": [
+              "La gente compraría más coches.",
+              "Muchos ciudadanos dejarían el coche en casa.",
+              "Los autobuses estarían más saturados.",
+              "La contaminación aumentaría considerablemente."
+            ],
+            "answer": 1,
+            "explain": "文中使用條件句說明：「si los gobiernos invirtieran más en el transporte público, muchos ciudadanos dejarían el coche en casa」。"
+          },
+          {
+            "q": "¿Por qué mucha gente prefiere conducir en lugar de usar el transporte público?",
+            "options": [
+              "Porque el transporte público es muy caro.",
+              "Porque los horarios del metro son muy limitados.",
+              "Porque el metro y los autobuses están muy saturados.",
+              "Porque conducir es más rápido que el metro."
+            ],
+            "answer": 2,
+            "explain": "文章指出「el metro y los autobuses están tan saturados que la gente prefiere conducir」，原因是大眾運輸過於擁擠。"
+          },
+          {
+            "q": "¿Qué medidas propone el texto para mejorar la situación del tráfico?",
+            "options": [
+              "Prohibir todos los coches en la ciudad.",
+              "Crear más autopistas y ampliar las carreteras.",
+              "Crear carriles para bicicletas y ampliar zonas peatonales.",
+              "Reducir el número de autobuses en circulación."
+            ],
+            "answer": 2,
+            "explain": "文中提到「crear más carriles exclusivos para bicicletas y ampliar las zonas peatonales」作為改善措施。"
+          },
+          {
+            "q": "¿Qué condición señala el texto como necesaria para mejorar la movilidad urbana?",
+            "options": [
+              "La tecnología avanzada y los coches eléctricos.",
+              "La voluntad política y la cooperación de los ciudadanos.",
+              "La construcción de nuevos aeropuertos.",
+              "La reducción de los impuestos sobre los vehículos."
+            ],
+            "answer": 1,
+            "explain": "文末提到要改善城市交通，需要「la voluntad política y la cooperación de los ciudadanos」（政治意願與市民合作）。"
+          }
+        ]
+      }
+    ]
+  }
+}

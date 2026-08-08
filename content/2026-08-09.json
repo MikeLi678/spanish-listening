@@ -1,0 +1,839 @@
+{
+  "date": "2026-08-09",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-08-09-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Mi casa",
+        "text": "Mi casa es pequeña pero bonita. Hay una sala, una cocina y dos habitaciones. La sala tiene un sofá y una televisión. La cocina es blanca. Mi habitación es azul. Tengo una cama y una mesa. Me gusta mi casa. Es tranquila y cómoda. Vivo aquí con mi familia. Somos muy felices.",
+        "translation": "我的家又小又漂亮。有一間客廳、一間廚房和兩間臥室。客廳裡有一張沙發和一台電視。廚房是白色的。我的臥室是藍色的。我有一張床和一張桌子。我喜歡我的家。這裡安靜又舒適。我和家人住在這裡。我們非常幸福。",
+        "words": [
+          {
+            "word": "pequeño/a",
+            "pos": "adj.",
+            "zh": "小的",
+            "example": "Mi apartamento es muy pequeño.",
+            "example_zh": "我的公寓非常小。"
+          },
+          {
+            "word": "bonito/a",
+            "pos": "adj.",
+            "zh": "漂亮的、好看的",
+            "example": "El jardín es muy bonito.",
+            "example_zh": "這個花園非常漂亮。"
+          },
+          {
+            "word": "sala",
+            "pos": "n.f.",
+            "zh": "客廳",
+            "example": "La sala tiene dos ventanas.",
+            "example_zh": "客廳有兩扇窗戶。"
+          },
+          {
+            "word": "cocina",
+            "pos": "n.f.",
+            "zh": "廚房",
+            "example": "Mi madre cocina en la cocina.",
+            "example_zh": "我媽媽在廚房做飯。"
+          },
+          {
+            "word": "habitación",
+            "pos": "n.f.",
+            "zh": "臥室、房間",
+            "example": "Tengo una habitación grande.",
+            "example_zh": "我有一間大臥室。"
+          },
+          {
+            "word": "sofá",
+            "pos": "n.m.",
+            "zh": "沙發",
+            "example": "El sofá es marrón y cómodo.",
+            "example_zh": "這張沙發是棕色的而且很舒適。"
+          },
+          {
+            "word": "cama",
+            "pos": "n.f.",
+            "zh": "床",
+            "example": "La cama es grande y suave.",
+            "example_zh": "這張床又大又柔軟。"
+          },
+          {
+            "word": "tranquilo/a",
+            "pos": "adj.",
+            "zh": "安靜的、平靜的",
+            "example": "El barrio es muy tranquilo.",
+            "example_zh": "這個社區非常安靜。"
+          },
+          {
+            "word": "cómodo/a",
+            "pos": "adj.",
+            "zh": "舒適的",
+            "example": "Este sofá es muy cómodo.",
+            "example_zh": "這張沙發非常舒適。"
+          },
+          {
+            "word": "familia",
+            "pos": "n.f.",
+            "zh": "家人、家庭",
+            "example": "Mi familia es grande.",
+            "example_zh": "我的家庭很大。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cómo es la casa?",
+            "options": [
+              "Grande y moderna",
+              "Pequeña pero bonita",
+              "Fea y vieja",
+              "Grande y cómoda"
+            ],
+            "answer": 1,
+            "explain": "文中第一句說「Mi casa es pequeña pero bonita」，即「又小又漂亮」，故選第二項。"
+          },
+          {
+            "q": "¿Cuántas habitaciones hay en la casa?",
+            "options": [
+              "Una",
+              "Tres",
+              "Dos",
+              "Cuatro"
+            ],
+            "answer": 2,
+            "explain": "文中提到「dos habitaciones」，即兩間臥室，故選第三項（索引2）。"
+          },
+          {
+            "q": "¿Qué color es la habitación de la persona?",
+            "options": [
+              "Blanca",
+              "Verde",
+              "Roja",
+              "Azul"
+            ],
+            "answer": 3,
+            "explain": "文中說「Mi habitación es azul」，我的臥室是藍色的，故選第四項（索引3）。"
+          },
+          {
+            "q": "¿Qué hay en la sala?",
+            "options": [
+              "Una cama y una mesa",
+              "Un sofá y una televisión",
+              "Una cocina y un sofá",
+              "Una mesa y una silla"
+            ],
+            "answer": 1,
+            "explain": "文中說「La sala tiene un sofá y una televisión」，客廳有沙發和電視，故選第二項（索引1）。"
+          },
+          {
+            "q": "¿Con quién vive la persona?",
+            "options": [
+              "Con sus amigos",
+              "Con sus compañeros",
+              "Sola",
+              "Con su familia"
+            ],
+            "answer": 3,
+            "explain": "文中說「Vivo aquí con mi familia」，和家人一起住，故選第四項（索引3）。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-08-09-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Una cena inolvidable",
+        "text": "El mes pasado, mi familia y yo fuimos a un restaurante especial para celebrar el cumpleaños de mi madre. El lugar era muy bonito y la música era suave y romántica. Pedimos una sopa deliciosa y también comimos paella por primera vez. Mi madre estuvo muy contenta y sonrió toda la noche. Después del postre, el camarero trajo una tarta con velas y todos cantamos «Feliz cumpleaños». Mi madre lloró un poco porque estaba muy emocionada. Esta cena fue perfecta y nunca la voy a olvidar. El próximo año, vamos a volver al mismo restaurante para celebrar juntos otra vez.",
+        "translation": "上個月，我和家人去了一家特別的餐廳，慶祝我媽媽的生日。那個地方非常漂亮，音樂輕柔而浪漫。我們點了一道美味的湯，也是第一次吃了海鮮飯。我媽媽非常開心，整個晚上都面帶微笑。甜點之後，服務生端來了一個插著蠟燭的蛋糕，大家一起唱了《生日快樂》。我媽媽哭了一點，因為她非常感動。這頓晚餐非常完美，我永遠不會忘記。明年，我們打算再回到同一家餐廳一起慶祝。",
+        "words": [
+          {
+            "word": "inolvidable",
+            "pos": "adj.",
+            "zh": "難忘的",
+            "example": "Esa noche fue inolvidable para todos.",
+            "example_zh": "那個夜晚對所有人來說都是難忘的。"
+          },
+          {
+            "word": "celebrar",
+            "pos": "v.",
+            "zh": "慶祝",
+            "example": "Vamos a celebrar el cumpleaños de Juan mañana.",
+            "example_zh": "我們明天要慶祝胡安的生日。"
+          },
+          {
+            "word": "pedir",
+            "pos": "v.",
+            "zh": "點餐；請求",
+            "example": "Pedimos dos cafés y un pastel.",
+            "example_zh": "我們點了兩杯咖啡和一個蛋糕。"
+          },
+          {
+            "word": "paella",
+            "pos": "n. f.",
+            "zh": "西班牙海鮮飯",
+            "example": "La paella valenciana es muy famosa en España.",
+            "example_zh": "瓦倫西亞海鮮飯在西班牙非常有名。"
+          },
+          {
+            "word": "camarero",
+            "pos": "n. m.",
+            "zh": "服務生（男）",
+            "example": "El camarero nos recomendó el plato del día.",
+            "example_zh": "服務生向我們推薦了當日特餐。"
+          },
+          {
+            "word": "tarta",
+            "pos": "n. f.",
+            "zh": "蛋糕；塔",
+            "example": "Compramos una tarta de chocolate para la fiesta.",
+            "example_zh": "我們為派對買了一個巧克力蛋糕。"
+          },
+          {
+            "word": "vela",
+            "pos": "n. f.",
+            "zh": "蠟燭",
+            "example": "Soplaste las velas y pediste un deseo.",
+            "example_zh": "你吹滅了蠟燭並許了一個願望。"
+          },
+          {
+            "word": "emocionado/a",
+            "pos": "adj.",
+            "zh": "感動的；激動的",
+            "example": "Estaba muy emocionada cuando recibió el premio.",
+            "example_zh": "她獲獎時非常感動。"
+          },
+          {
+            "word": "olvidar",
+            "pos": "v.",
+            "zh": "忘記",
+            "example": "No voy a olvidar este viaje nunca.",
+            "example_zh": "我永遠不會忘記這次旅行。"
+          },
+          {
+            "word": "volver",
+            "pos": "v.",
+            "zh": "回去；再度",
+            "example": "Vamos a volver a ese café el domingo.",
+            "example_zh": "我們星期天要再回到那家咖啡廳。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Por qué fue la familia al restaurante?",
+            "options": [
+              "Para celebrar el cumpleaños de la madre",
+              "Para celebrar el cumpleaños del padre",
+              "Para una reunión de trabajo",
+              "Para conocer a unos amigos"
+            ],
+            "answer": 0,
+            "explain": "短文第一句說「para celebrar el cumpleaños de mi madre（慶祝媽媽的生日）」，故選第0項。"
+          },
+          {
+            "q": "¿Qué comieron por primera vez?",
+            "options": [
+              "Una tarta de chocolate",
+              "Una sopa deliciosa",
+              "Paella",
+              "Un postre especial"
+            ],
+            "answer": 2,
+            "explain": "短文提到「comimos paella por primera vez（第一次吃了海鮮飯）」，故正解為paella。"
+          },
+          {
+            "q": "¿Qué hizo el camarero después del postre?",
+            "options": [
+              "Cantó una canción para la madre",
+              "Trajo la cuenta",
+              "Trajo una tarta con velas",
+              "Recomendó otro restaurante"
+            ],
+            "answer": 2,
+            "explain": "短文寫「el camarero trajo una tarta con velas（服務生端來了插著蠟燭的蛋糕）」，故選第2項。"
+          },
+          {
+            "q": "¿Por qué lloró un poco la madre?",
+            "options": [
+              "Porque la comida estaba mala",
+              "Porque estaba muy emocionada",
+              "Porque estaba enferma",
+              "Porque el restaurante era muy caro"
+            ],
+            "answer": 1,
+            "explain": "短文說「lloró un poco porque estaba muy emocionada（因為她非常感動而哭了一點）」，故正解為第1項。"
+          },
+          {
+            "q": "¿Qué van a hacer el próximo año?",
+            "options": [
+              "Van a cocinar en casa",
+              "Van a ir a otro restaurante diferente",
+              "Van a volver al mismo restaurante",
+              "Van a viajar a España"
+            ],
+            "answer": 2,
+            "explain": "短文結尾使用Futuro próximo：「vamos a volver al mismo restaurante（我們打算回到同一家餐廳）」，故選第2項。"
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "2026-08-09-B1-1",
+        "source": "ai",
+        "level_label": "B1",
+        "title": "Entre la tradición y la modernidad",
+        "text": "Cuando era niña, mi abuela me contaba historias sobre cómo se celebraban las fiestas del pueblo. Todos los vecinos se reunían en la plaza, cocinaban platos tradicionales y bailaban hasta el amanecer. Aquellas noches tenían algo especial que nunca he olvidado.\n\nSin embargo, el mundo ha cambiado mucho desde entonces. Hoy en día, muchos jóvenes prefieren quedarse en casa mirando sus teléfonos en lugar de participar en las celebraciones comunitarias. Si pudiéramos recuperar esas costumbres, creo que seríamos más felices y estaríamos más conectados con nuestra identidad cultural.\n\nNo obstante, tampoco creo que debamos rechazar completamente la modernidad. La tecnología nos ha traído muchas ventajas que antes no existían. El reto está en encontrar un equilibrio: mantener las tradiciones que nos unen como comunidad mientras aprovechamos las herramientas que el mundo moderno nos ofrece.\n\nMi abuela siempre decía que las raíces de un árbol no le impiden crecer hacia el cielo. Quizás tenía razón. Para avanzar, necesitamos saber de dónde venimos, porque las tradiciones no son cadenas que nos limitan, sino puentes que nos conectan con quienes fuimos.",
+        "translation": "當我還是小女孩的時候，祖母會跟我講述村子裡慶典是如何舉辦的故事。所有鄰居聚集在廣場上，烹煮傳統料理，一路跳舞到天亮。那些夜晚擁有某種特別的東西，是我從未忘懷的。\n\n然而，從那時起世界已改變了許多。如今，許多年輕人寧願待在家裡盯著手機，也不參與社區慶典活動。如果我們能夠找回那些習俗，我相信我們會更快樂，也能與我們的文化認同有更深的連結。\n\n儘管如此，我也不認為我們應該完全拒絕現代性。科技為我們帶來了許多過去所沒有的優點。挑戰在於找到一個平衡：在善用現代世界提供給我們的工具的同時，保留那些將我們凝聚為一個社群的傳統。\n\n祖母總是說，樹的根並不會阻礙它向天空生長。或許她說得對。為了向前邁進，我們需要知道自己從哪裡來，因為傳統不是限制我們的枷鎖，而是將我們與過去的自己相連的橋樑。",
+        "words": [
+          {
+            "word": "amanecer",
+            "pos": "n.m.",
+            "zh": "黎明、天亮",
+            "example": "Llegamos al pueblo antes del amanecer.",
+            "example_zh": "我們在天亮之前抵達了村子。"
+          },
+          {
+            "word": "comunitario",
+            "pos": "adj.",
+            "zh": "社區的、共同體的",
+            "example": "Es importante participar en las actividades comunitarias.",
+            "example_zh": "參與社區活動是很重要的。"
+          },
+          {
+            "word": "costumbre",
+            "pos": "n.f.",
+            "zh": "習俗、習慣",
+            "example": "Es costumbre comer doce uvas en Nochevieja.",
+            "example_zh": "在除夕夜吃十二顆葡萄是一種習俗。"
+          },
+          {
+            "word": "equilibrio",
+            "pos": "n.m.",
+            "zh": "平衡、均衡",
+            "example": "Necesito encontrar un equilibrio entre el trabajo y el descanso.",
+            "example_zh": "我需要在工作與休息之間找到平衡。"
+          },
+          {
+            "word": "aprovechar",
+            "pos": "v.",
+            "zh": "善用、充分利用",
+            "example": "Debemos aprovechar las oportunidades que se nos presentan.",
+            "example_zh": "我們應該好好把握呈現在我們面前的機會。"
+          },
+          {
+            "word": "raíz",
+            "pos": "n.f.",
+            "zh": "根、根源",
+            "example": "Las raíces de ese árbol son muy profundas.",
+            "example_zh": "那棵樹的根非常深。"
+          },
+          {
+            "word": "cadena",
+            "pos": "n.f.",
+            "zh": "鎖鏈、枷鎖",
+            "example": "La ignorancia es una cadena que nos impide avanzar.",
+            "example_zh": "無知是阻礙我們前進的枷鎖。"
+          },
+          {
+            "word": "rechazar",
+            "pos": "v.",
+            "zh": "拒絕、排斥",
+            "example": "No debemos rechazar las ideas nuevas sin escucharlas.",
+            "example_zh": "我們不應該在聆聽之前就排斥新的想法。"
+          },
+          {
+            "word": "reto",
+            "pos": "n.m.",
+            "zh": "挑戰",
+            "example": "Aprender un idioma nuevo es un gran reto.",
+            "example_zh": "學習一門新語言是一大挑戰。"
+          },
+          {
+            "word": "identidad",
+            "pos": "n.f.",
+            "zh": "認同、身份",
+            "example": "La música forma parte de nuestra identidad cultural.",
+            "example_zh": "音樂是我們文化認同的一部分。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué hacían los vecinos del pueblo durante las fiestas tradicionales?",
+            "options": [
+              "Miraban televisión en sus casas.",
+              "Se reunían, cocinaban y bailaban en la plaza.",
+              "Viajaban a la ciudad para celebrar.",
+              "Usaban sus teléfonos para comunicarse."
+            ],
+            "answer": 1,
+            "explain": "文章開頭提到，鄰居們聚集在廣場上、烹煮傳統料理並跳舞到天亮，因此正確答案為選項B。"
+          },
+          {
+            "q": "Según el texto, ¿qué prefieren hacer muchos jóvenes hoy en día?",
+            "options": [
+              "Aprender las tradiciones de sus abuelos.",
+              "Participar activamente en las fiestas del pueblo.",
+              "Quedarse en casa mirando sus teléfonos.",
+              "Cocinar platos tradicionales con sus familias."
+            ],
+            "answer": 2,
+            "explain": "文章明確指出，現今許多年輕人寧願待在家裡盯著手機，而不參與社區慶典，故正確答案為選項C。"
+          },
+          {
+            "q": "¿Cuál es el mensaje principal del texto?",
+            "options": [
+              "La modernidad es superior a las tradiciones.",
+              "Debemos abandonar las tradiciones para progresar.",
+              "Es necesario encontrar un equilibrio entre tradición y modernidad.",
+              "La tecnología destruye completamente la cultura."
+            ],
+            "answer": 2,
+            "explain": "文章的核心論點是要在傳統與現代之間尋找平衡，並非完全偏向任何一方，因此正確答案為選項C。"
+          },
+          {
+            "q": "¿Qué decía siempre la abuela sobre las raíces de un árbol?",
+            "options": [
+              "Que las raíces impiden que el árbol crezca.",
+              "Que las raíces no le impiden al árbol crecer hacia el cielo.",
+              "Que las raíces son más importantes que las ramas.",
+              "Que los árboles sin raíces son más libres."
+            ],
+            "answer": 1,
+            "explain": "祖母的話是「樹的根並不會阻礙它向天空生長」，這是文中明確引用的話，正確答案為選項B。"
+          },
+          {
+            "q": "Según el texto, ¿qué representan las tradiciones?",
+            "options": [
+              "Cadenas que nos limitan y nos impiden avanzar.",
+              "Problemas que la modernidad ha resuelto.",
+              "Puentes que nos conectan con quienes fuimos.",
+              "Reglas antiguas que ya no tienen valor."
+            ],
+            "answer": 2,
+            "explain": "文章結尾明確說明，傳統不是限制我們的枷鎖，而是「將我們與過去的自己相連的橋樑」，正確答案為選項C。"
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "2026-08-09-B2-fallback",
+        "source": "ai",
+        "level_label": "約 B2（AI 生成）",
+        "title": "Entre la tradición y el mundo moderno",
+        "text": "Cuando era niña, mi abuela me contaba historias sobre cómo se celebraban las fiestas del pueblo. Todos los vecinos se reunían en la plaza, cocinaban juntos platos tradicionales y bailaban hasta el amanecer. Era una época en que la comunidad lo era todo.\n\nSin embargo, el mundo ha cambiado mucho desde entonces. Hoy en día, la mayoría de los jóvenes prefieren quedarse en casa mirando el móvil en lugar de participar en esas celebraciones. Si mi abuela viera esto, se pondría muy triste, porque ella siempre decía que las tradiciones eran el alma de un pueblo.\n\nYo creo que es posible encontrar un equilibrio. No es necesario que abandonemos las costumbres antiguas para que podamos disfrutar de las ventajas de la tecnología. Por ejemplo, algunos jóvenes de mi ciudad han creado redes sociales donde comparten recetas tradicionales y organizan eventos culturales que antes estaban desapareciendo.\n\nQuizás si nos esforzáramos más por valorar nuestras raíces, podríamos construir una sociedad que respetara tanto el pasado como el futuro. La tradición y la modernidad no tienen que ser enemigas; pueden caminar juntas si nosotros lo decidimos.",
+        "translation": "當我還是小女孩的時候，我的祖母會跟我講述村子裡如何慶祝節日的故事。所有鄰居聚集在廣場上，一起烹煮傳統料理，跳舞直到黎明。那是一個社群就是一切的年代。\n\n然而，從那時起世界改變了很多。如今，大多數年輕人寧願待在家裡滑手機，也不願意參加那些慶典活動。如果我的祖母看到這一切，她會非常難過，因為她總是說傳統是一個民族的靈魂。\n\n我認為找到平衡是可能的。我們沒有必要放棄古老的習俗，才能享受科技帶來的好處。例如，我城市裡有些年輕人建立了社群網路，在那裡分享傳統食譜，並舉辦以前正在消失的文化活動。\n\n也許如果我們更努力地去珍視我們的根源，就能建立一個既尊重過去也尊重未來的社會。傳統與現代不必成為敵人；如果我們願意，它們可以一同前行。",
+        "words": [
+          {
+            "word": "amanecer",
+            "pos": "n.m.",
+            "zh": "黎明、破曉",
+            "example": "Los músicos tocaron hasta el amanecer.",
+            "example_zh": "樂手們演奏到黎明。"
+          },
+          {
+            "word": "comunidad",
+            "pos": "n.f.",
+            "zh": "社群、社區",
+            "example": "La comunidad organizó una fiesta para todos.",
+            "example_zh": "社區為所有人籌辦了一場慶典。"
+          },
+          {
+            "word": "equilibrio",
+            "pos": "n.m.",
+            "zh": "平衡、均衡",
+            "example": "Es importante mantener un equilibrio entre el trabajo y el descanso.",
+            "example_zh": "在工作與休息之間保持平衡很重要。"
+          },
+          {
+            "word": "costumbre",
+            "pos": "n.f.",
+            "zh": "習俗、習慣",
+            "example": "Es costumbre saludar a los vecinos por la mañana.",
+            "example_zh": "早上向鄰居打招呼是一種習慣。"
+          },
+          {
+            "word": "alma",
+            "pos": "n.f.",
+            "zh": "靈魂、精神",
+            "example": "La música es el alma de esa cultura.",
+            "example_zh": "音樂是那個文化的靈魂。"
+          },
+          {
+            "word": "esforzarse",
+            "pos": "v. pron.",
+            "zh": "努力、盡力",
+            "example": "Si te esfuerzas más, podrás aprobar el examen.",
+            "example_zh": "如果你更努力，就能通過考試。"
+          },
+          {
+            "word": "raíces",
+            "pos": "n.f. pl.",
+            "zh": "根源、根基",
+            "example": "Ella nunca olvidó las raíces de su familia.",
+            "example_zh": "她從未忘記家族的根源。"
+          },
+          {
+            "word": "desaparecer",
+            "pos": "v.",
+            "zh": "消失、消亡",
+            "example": "Muchas lenguas antiguas están desapareciendo.",
+            "example_zh": "許多古老語言正在消失。"
+          },
+          {
+            "word": "valorar",
+            "pos": "v.",
+            "zh": "珍視、重視",
+            "example": "Debemos valorar el esfuerzo de los demás.",
+            "example_zh": "我們應該重視他人的努力。"
+          },
+          {
+            "word": "moderno/a",
+            "pos": "adj.",
+            "zh": "現代的、當代的",
+            "example": "Este edificio tiene un diseño muy moderno.",
+            "example_zh": "這棟建築有非常現代的設計。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué hacían los vecinos del pueblo durante las fiestas tradicionales, según la abuela?",
+            "options": [
+              "Miraban la televisión juntos en casa.",
+              "Se reunían en la plaza, cocinaban y bailaban.",
+              "Viajaban a otras ciudades a celebrar.",
+              "Usaban las redes sociales para comunicarse."
+            ],
+            "answer": 1,
+            "explain": "文章開頭提到，鄰居們聚集在廣場、一起烹煮並跳舞，這是祖母描述的傳統節慶情景。"
+          },
+          {
+            "q": "¿Qué haría la abuela si viera el comportamiento de los jóvenes hoy en día?",
+            "options": [
+              "Se alegraría mucho.",
+              "Empezaría a usar el móvil también.",
+              "Se pondría muy triste.",
+              "Organizaría una fiesta moderna."
+            ],
+            "answer": 2,
+            "explain": "文中使用條件式說明「如果祖母看到這一切，她會非常難過（se pondría muy triste）」。"
+          },
+          {
+            "q": "¿Qué han hecho algunos jóvenes de la ciudad de la narradora?",
+            "options": [
+              "Han decidido abandonar todas las tradiciones.",
+              "Han creado redes sociales para compartir recetas y organizar eventos culturales.",
+              "Han viajado al extranjero para aprender nuevas costumbres.",
+              "Han protestado contra el uso de la tecnología."
+            ],
+            "answer": 1,
+            "explain": "文中提到有些年輕人建立了社群網路，在那裡分享傳統食譜並舉辦文化活動。"
+          },
+          {
+            "q": "Según el texto, ¿qué decía siempre la abuela sobre las tradiciones?",
+            "options": [
+              "Que las tradiciones eran aburridas y anticuadas.",
+              "Que las tradiciones debían desaparecer con el tiempo.",
+              "Que las tradiciones eran el alma de un pueblo.",
+              "Que las tradiciones solo eran importantes para los ancianos."
+            ],
+            "answer": 2,
+            "explain": "文中明確引用祖母的話：「las tradiciones eran el alma de un pueblo（傳統是一個民族的靈魂）」。"
+          },
+          {
+            "q": "¿Cuál es la idea principal de este texto?",
+            "options": [
+              "La tecnología moderna es completamente negativa para la sociedad.",
+              "Las tradiciones antiguas son más importantes que la modernidad.",
+              "Es posible encontrar un equilibrio entre la tradición y la modernidad.",
+              "Los jóvenes de hoy no se interesan por nada cultural."
+            ],
+            "answer": 2,
+            "explain": "全文的核心論點是傳統與現代可以找到平衡並共存，而非互相對立。"
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-08-09-C1-fallback",
+        "source": "ai",
+        "level_label": "約 C1（AI 生成）",
+        "title": "Entre la tradición y la modernidad",
+        "text": "Cuando era pequeña, mi abuela me contaba historias sobre la vida en su pueblo. Me decía que la gente se conocía, que los vecinos se ayudaban y que las fiestas tradicionales duraban varios días. Aquellos tiempos parecían más sencillos, aunque también eran más difíciles en muchos aspectos.\n\nHoy en día, vivimos en un mundo que cambia constantemente. Los jóvenes prefieren usar el teléfono en lugar de hablar cara a cara, y muchas costumbres antiguas han desaparecido porque nadie las practica. Mi madre siempre decía que si perdiéramos nuestras tradiciones, perderíamos también una parte importante de nuestra identidad.\n\nSin embargo, creo que no es necesario elegir entre el pasado y el futuro. Podríamos mantener las tradiciones que nos unen como comunidad y, al mismo tiempo, aprovechar las ventajas que ofrece la tecnología moderna. Por ejemplo, gracias a las redes sociales, algunos jóvenes han redescubierto bailes y músicas tradicionales que casi habían olvidado.\n\nQuizás el verdadero reto consiste en encontrar un equilibrio: respetar lo que nos dejaron nuestros antepasados sin tener miedo a los cambios que trae el futuro.",
+        "translation": "小時候，我的祖母常常跟我說她村子裡的生活故事。她告訴我，那時候人們彼此認識，鄰居互相幫助，傳統節慶可以持續好幾天。那些日子看起來更簡單，儘管在許多方面其實也更艱難。\n\n如今，我們生活在一個不斷變化的世界裡。年輕人寧願用手機，也不願意面對面交談，許多古老的習俗已經消失，因為沒有人再去實踐它們了。我的母親總是說，如果我們失去了傳統，我們也會失去自身認同中很重要的一部分。\n\n然而，我認為沒有必要在過去和未來之間做出選擇。我們可以保留那些將我們凝聚為一個社群的傳統，同時也善用現代科技所帶來的優勢。例如，多虧了社群媒體，一些年輕人重新發現了幾乎已被遺忘的傳統舞蹈和音樂。\n\n也許真正的挑戰在於找到一種平衡：尊重祖先留給我們的事物，同時不畏懼未來帶來的變化。",
+        "words": [
+          {
+            "word": "costumbre",
+            "pos": "n.f.",
+            "zh": "習俗、習慣",
+            "example": "Es una costumbre antigua celebrar esta fiesta en invierno.",
+            "example_zh": "在冬天慶祝這個節日是一個古老的習俗。"
+          },
+          {
+            "word": "desaparecer",
+            "pos": "v.",
+            "zh": "消失",
+            "example": "Muchas lenguas han desaparecido en los últimos siglos.",
+            "example_zh": "許多語言在過去幾個世紀裡已經消失了。"
+          },
+          {
+            "word": "identidad",
+            "pos": "n.f.",
+            "zh": "認同、身份",
+            "example": "La música forma parte de la identidad cultural de un pueblo.",
+            "example_zh": "音樂是一個民族文化認同的一部分。"
+          },
+          {
+            "word": "aprovechar",
+            "pos": "v.",
+            "zh": "善用、利用",
+            "example": "Deberíamos aprovechar esta oportunidad para aprender.",
+            "example_zh": "我們應該善用這個機會來學習。"
+          },
+          {
+            "word": "antepasado",
+            "pos": "n.m.",
+            "zh": "祖先",
+            "example": "Los antepasados de esta familia llegaron de España hace cien años.",
+            "example_zh": "這個家族的祖先一百年前從西班牙來到這裡。"
+          },
+          {
+            "word": "equilibrio",
+            "pos": "n.m.",
+            "zh": "平衡",
+            "example": "Es importante mantener un equilibrio entre el trabajo y el descanso.",
+            "example_zh": "在工作與休息之間保持平衡是很重要的。"
+          },
+          {
+            "word": "redescubrir",
+            "pos": "v.",
+            "zh": "重新發現",
+            "example": "Gracias al viaje, redescubrí el valor de las cosas simples.",
+            "example_zh": "多虧了那次旅行，我重新發現了簡單事物的價值。"
+          },
+          {
+            "word": "reto",
+            "pos": "n.m.",
+            "zh": "挑戰",
+            "example": "Aprender un idioma nuevo siempre es un gran reto.",
+            "example_zh": "學習一門新語言始終是一大挑戰。"
+          },
+          {
+            "word": "constantemente",
+            "pos": "adv.",
+            "zh": "不斷地、持續地",
+            "example": "El mundo cambia constantemente y debemos adaptarnos.",
+            "example_zh": "世界不斷地變化，我們必須適應。"
+          },
+          {
+            "word": "comunidad",
+            "pos": "n.f.",
+            "zh": "社群、社區",
+            "example": "Toda la comunidad participó en la celebración del festival.",
+            "example_zh": "整個社區都參與了節慶的慶祝活動。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué le contaba la abuela a la narradora cuando era pequeña?",
+            "options": [
+              "Historias sobre ciudades modernas",
+              "Historias sobre la vida en su pueblo",
+              "Historias sobre otros países",
+              "Historias sobre la tecnología"
+            ],
+            "answer": 1,
+            "explain": "文章開頭明確說明「我的祖母跟我說她村子裡的生活故事（historias sobre la vida en su pueblo）」。"
+          },
+          {
+            "q": "Según el texto, ¿por qué han desaparecido muchas costumbres antiguas?",
+            "options": [
+              "Porque el gobierno las prohibió",
+              "Porque son muy caras",
+              "Porque nadie las practica",
+              "Porque la gente las olvidó intencionalmente"
+            ],
+            "answer": 2,
+            "explain": "文章中說「許多古老習俗已消失，因為沒有人再去實踐它們（porque nadie las practica）」。"
+          },
+          {
+            "q": "¿Qué decía la madre de la narradora sobre las tradiciones?",
+            "options": [
+              "Que las tradiciones son aburridas y hay que cambiarlas",
+              "Que si perdiéramos las tradiciones, perderíamos parte de nuestra identidad",
+              "Que la tecnología es más importante que las tradiciones",
+              "Que las tradiciones solo son importantes para los ancianos"
+            ],
+            "answer": 1,
+            "explain": "文章使用條件式說「如果我們失去傳統，也會失去認同的重要一部分」，這是母親的說法。"
+          },
+          {
+            "q": "Según la narradora, ¿cómo han ayudado las redes sociales a los jóvenes?",
+            "options": [
+              "Les han ayudado a encontrar trabajo",
+              "Les han permitido viajar a otros países",
+              "Les han ayudado a redescubrir bailes y músicas tradicionales",
+              "Les han enseñado idiomas nuevos"
+            ],
+            "answer": 2,
+            "explain": "文章提到「多虧了社群媒體，一些年輕人重新發現了傳統舞蹈和音樂（bailes y músicas tradicionales）」。"
+          },
+          {
+            "q": "¿Cuál es la idea principal del último párrafo?",
+            "options": [
+              "El pasado es siempre mejor que el futuro",
+              "La tecnología destruye todas las tradiciones",
+              "Es necesario encontrar un equilibrio entre tradición y modernidad",
+              "Los jóvenes deben olvidar las costumbres antiguas"
+            ],
+            "answer": 2,
+            "explain": "最後一段的核心概念是「找到平衡（encontrar un equilibrio）」：尊重傳統的同時不畏懼未來的變化。"
+          }
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "2026-08-09-C2-fallback",
+        "source": "ai",
+        "level_label": "約 C2（AI 生成）",
+        "title": "Entre la tradición y la modernidad",
+        "text": "Cuando era niña, mi abuela me contaba historias sobre cómo se celebraban las fiestas del pueblo. Decía que todos los vecinos participaban en la preparación de los platos típicos y que nadie se quedaba en casa. Aquellos momentos eran especiales porque unían a la comunidad entera.\n\nSin embargo, hoy en día muchas de esas costumbres han desaparecido o han cambiado mucho. La gente prefiere quedarse en casa viendo las redes sociales en lugar de salir a compartir con los demás. Si pudiéramos recuperar esas tradiciones, nuestras ciudades serían más humanas y cálidas.\n\nAunque entiendo que la tecnología nos ofrece comodidades que antes no existían, creo que es importante encontrar un equilibrio. No tendríamos que elegir entre lo antiguo y lo nuevo; podríamos usar las herramientas modernas para preservar y difundir nuestras tradiciones culturales.\n\nEl año pasado, un grupo de jóvenes organizó un festival en el que combinaron música tradicional con elementos contemporáneos. Fue una experiencia maravillosa que demostró que la tradición y la modernidad no son enemigas, sino que pueden convivir si las personas lo desean.",
+        "translation": "當我還是個小女孩時，祖母常常向我訴說村子裡慶典的故事。她說所有鄰居都會參與準備傳統菜餚，沒有人待在家裡。那些時光之所以特別，是因為凝聚了整個社區。\n\n然而，如今許多這樣的習俗已經消失，或改變了很多。人們寧願待在家裡瀏覽社群網路，也不願出門與他人分享交流。如果我們能夠找回那些傳統，我們的城市將會更加人性化、更加溫暖。\n\n雖然我理解科技為我們帶來了過去所沒有的便利，但我認為找到一個平衡點非常重要。我們不必在舊與新之間做出選擇；我們可以運用現代工具來保存並傳播我們的文化傳統。\n\n去年，一群年輕人舉辦了一個節慶，將傳統音樂與當代元素融合在一起。那是一次美妙的體驗，證明了傳統與現代並非敵對，而是只要人們願意，就能夠和平共存。",
+        "words": [
+          {
+            "word": "costumbre",
+            "pos": "n.f.",
+            "zh": "習俗、習慣",
+            "example": "Es una costumbre muy antigua en nuestra familia.",
+            "example_zh": "這是我們家非常古老的習俗。"
+          },
+          {
+            "word": "desaparecer",
+            "pos": "v.",
+            "zh": "消失",
+            "example": "Muchas tradiciones han desaparecido con el tiempo.",
+            "example_zh": "許多傳統隨著時間流逝而消失了。"
+          },
+          {
+            "word": "equilibrio",
+            "pos": "n.m.",
+            "zh": "平衡",
+            "example": "Debemos encontrar un equilibrio entre trabajo y descanso.",
+            "example_zh": "我們必須在工作與休息之間找到平衡。"
+          },
+          {
+            "word": "preservar",
+            "pos": "v.",
+            "zh": "保存、維護",
+            "example": "Es necesario preservar los idiomas en peligro de extinción.",
+            "example_zh": "保存瀕危語言是必要的。"
+          },
+          {
+            "word": "difundir",
+            "pos": "v.",
+            "zh": "傳播、散播",
+            "example": "Las redes sociales ayudan a difundir la cultura.",
+            "example_zh": "社群網路有助於傳播文化。"
+          },
+          {
+            "word": "contemporáneo",
+            "pos": "adj.",
+            "zh": "當代的、現代的",
+            "example": "Le gusta el arte contemporáneo más que el clásico.",
+            "example_zh": "他喜歡當代藝術勝過古典藝術。"
+          },
+          {
+            "word": "convivir",
+            "pos": "v.",
+            "zh": "共同生活、共存",
+            "example": "Aprendimos a convivir con personas de culturas diferentes.",
+            "example_zh": "我們學會了與不同文化的人共處。"
+          },
+          {
+            "word": "comodidad",
+            "pos": "n.f.",
+            "zh": "舒適、便利",
+            "example": "La tecnología moderna nos ofrece muchas comodidades.",
+            "example_zh": "現代科技為我們提供了許多便利。"
+          },
+          {
+            "word": "combinar",
+            "pos": "v.",
+            "zh": "結合、混合",
+            "example": "El chef combinó ingredientes tradicionales con técnicas modernas.",
+            "example_zh": "那位主廚將傳統食材與現代技術結合起來。"
+          },
+          {
+            "word": "demostrar",
+            "pos": "v.",
+            "zh": "證明、展示",
+            "example": "El experimento demostró que la teoría era correcta.",
+            "example_zh": "這個實驗證明了該理論是正確的。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué hacían los vecinos del pueblo cuando la narradora era niña?",
+            "options": [
+              "Se quedaban en casa viendo televisión.",
+              "Participaban juntos en la preparación de las fiestas.",
+              "Usaban las redes sociales para comunicarse.",
+              "Organizaban festivales de música contemporánea."
+            ],
+            "answer": 1,
+            "explain": "文章開頭提到祖母說所有鄰居都會一起參與節慶的準備，沒有人待在家裡，故選第二項。"
+          },
+          {
+            "q": "Según el texto, ¿qué prefiere hacer la gente hoy en día?",
+            "options": [
+              "Preparar platos típicos con los vecinos.",
+              "Organizar festivales tradicionales.",
+              "Quedarse en casa usando las redes sociales.",
+              "Recuperar las antiguas costumbres del pueblo."
+            ],
+            "answer": 2,
+            "explain": "文章第二段明確指出現代人寧願待在家裡瀏覽社群網路，而非外出與他人交流。"
+          },
+          {
+            "q": "¿Qué modo verbal se usa en la frase «Si pudiéramos recuperar esas tradiciones, nuestras ciudades serían más humanas»?",
+            "options": [
+              "Presente de indicativo y futuro simple.",
+              "Pretérito imperfecto de subjuntivo y condicional simple.",
+              "Pretérito indefinido y pretérito imperfecto.",
+              "Imperativo y presente de subjuntivo."
+            ],
+            "answer": 1,
+            "explain": "這個句子使用了「非真實條件句」結構：條件子句用過去虛擬式（pudiéramos），主要子句用條件式（serían）。"
+          },
+          {
+            "q": "¿Qué demostró el festival organizado por los jóvenes el año pasado?",
+            "options": [
+              "Que la tradición es superior a la modernidad.",
+              "Que la tecnología puede reemplazar las fiestas.",
+              "Que la tradición y la modernidad pueden convivir.",
+              "Que los jóvenes no respetan las costumbres antiguas."
+            ],
+            "answer": 2,
+            "explain": "文章最後一段說明那個節慶證明了傳統與現代並非敵對關係，而是可以共存的。"
+          },
+          {
+            "q": "¿Cuál es la idea principal del texto?",
+            "options": [
+              "La tecnología es perjudicial para la sociedad moderna.",
+              "Las tradiciones antiguas son mejores que las costumbres modernas.",
+              "Es posible encontrar un equilibrio entre tradición y modernidad.",
+              "Los jóvenes de hoy no se interesan por su cultura."
+            ],
+            "answer": 2,
+            "explain": "全文的核心論點是：我們不需要在傳統與現代之間二擇一，而是可以找到兩者兼顧的平衡點，第三項最符合文章主旨。"
+          }
+        ]
+      }
+    ]
+  }
+}

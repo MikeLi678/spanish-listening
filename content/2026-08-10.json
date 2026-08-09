@@ -1,0 +1,839 @@
+{
+  "date": "2026-08-10",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-08-10-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Las cuatro estaciones",
+        "text": "El año tiene cuatro estaciones. En primavera, hace calor y hay flores bonitas. En verano, el sol brilla mucho y la gente va a la playa. En otoño, los árboles tienen hojas rojas y amarillas. En invierno, hace frío y a veces nieva. Me gustan todas las estaciones porque son diferentes y especiales.",
+        "translation": "一年有四個季節。春天時，天氣溫暖，有美麗的花朵。夏天時，陽光燦爛，人們去海邊。秋天時，樹木有紅色和黃色的葉子。冬天時，天氣寒冷，有時會下雪。我喜歡所有的季節，因為它們各不相同，都很特別。",
+        "words": [
+          {
+            "word": "estación",
+            "pos": "n.f.",
+            "zh": "季節",
+            "example": "La primavera es mi estación favorita.",
+            "example_zh": "春天是我最喜歡的季節。"
+          },
+          {
+            "word": "primavera",
+            "pos": "n.f.",
+            "zh": "春天",
+            "example": "En primavera hay muchas flores.",
+            "example_zh": "春天有很多花。"
+          },
+          {
+            "word": "verano",
+            "pos": "n.m.",
+            "zh": "夏天",
+            "example": "En verano hace mucho calor.",
+            "example_zh": "夏天非常熱。"
+          },
+          {
+            "word": "otoño",
+            "pos": "n.m.",
+            "zh": "秋天",
+            "example": "En otoño las hojas caen.",
+            "example_zh": "秋天樹葉會落下。"
+          },
+          {
+            "word": "invierno",
+            "pos": "n.m.",
+            "zh": "冬天",
+            "example": "En invierno llevo un abrigo.",
+            "example_zh": "冬天我穿大衣。"
+          },
+          {
+            "word": "sol",
+            "pos": "n.m.",
+            "zh": "太陽",
+            "example": "El sol brilla hoy.",
+            "example_zh": "今天太陽很亮。"
+          },
+          {
+            "word": "árbol",
+            "pos": "n.m.",
+            "zh": "樹",
+            "example": "El árbol es muy grande.",
+            "example_zh": "那棵樹非常大。"
+          },
+          {
+            "word": "hoja",
+            "pos": "n.f.",
+            "zh": "葉子",
+            "example": "Las hojas son verdes en verano.",
+            "example_zh": "夏天葉子是綠色的。"
+          },
+          {
+            "word": "nevar",
+            "pos": "v.",
+            "zh": "下雪",
+            "example": "A veces nieva en diciembre.",
+            "example_zh": "十二月有時會下雪。"
+          },
+          {
+            "word": "diferente",
+            "pos": "adj.",
+            "zh": "不同的",
+            "example": "Cada estación es diferente.",
+            "example_zh": "每個季節都不一樣。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cuántas estaciones tiene el año?",
+            "options": [
+              "Dos",
+              "Tres",
+              "Cuatro",
+              "Cinco"
+            ],
+            "answer": 2,
+            "explain": "文章第一句說「El año tiene cuatro estaciones（一年有四個季節）」，答案是四（cuatro）。"
+          },
+          {
+            "q": "¿Qué hay en primavera?",
+            "options": [
+              "Nieve",
+              "Flores bonitas",
+              "Hojas rojas",
+              "Mucho frío"
+            ],
+            "answer": 1,
+            "explain": "文章提到「en primavera hay flores bonitas（春天有美麗的花朵）」，答案是flores bonitas。"
+          },
+          {
+            "q": "¿Adónde va la gente en verano?",
+            "options": [
+              "Al parque",
+              "A la montaña",
+              "A la playa",
+              "A la escuela"
+            ],
+            "answer": 2,
+            "explain": "文章說「la gente va a la playa（人們去海邊）」，發生在夏天（verano）。"
+          },
+          {
+            "q": "¿De qué color son las hojas en otoño?",
+            "options": [
+              "Verdes y azules",
+              "Blancas y negras",
+              "Rojas y amarillas",
+              "Rosas y moradas"
+            ],
+            "answer": 2,
+            "explain": "文章說「los árboles tienen hojas rojas y amarillas（樹木有紅色和黃色的葉子）」，發生在秋天（otoño）。"
+          },
+          {
+            "q": "¿Qué pasa a veces en invierno?",
+            "options": [
+              "Llueve mucho",
+              "Nieva",
+              "Hace calor",
+              "Hay flores"
+            ],
+            "answer": 1,
+            "explain": "文章說「en invierno hace frío y a veces nieva（冬天寒冷，有時下雪）」，答案是nieva（下雪）。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-08-10-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Un fin de semana al aire libre",
+        "text": "El sábado pasado, el tiempo estuvo muy bonito. Hizo sol y no llovió nada. Por eso, mis amigos y yo decidimos ir al parque por la mañana. Caminamos por el lago y comimos un picnic bajo los árboles. El viento fue suave y agradable. Sin embargo, por la tarde el cielo se puso nublado y empezó a llover un poco. Volvimos a casa rápidamente. Este fin de semana, vamos a ir a la montaña si hace buen tiempo. Esperamos ver un paisaje muy hermoso y caminar por los senderos del bosque.",
+        "translation": "上個星期六，天氣非常好。陽光普照，完全沒有下雨。因此，我的朋友們和我決定早上去公園。我們沿著湖邊散步，並在樹下野餐。風很輕柔舒適。然而，下午天空變得多雲，開始下起小雨。我們迅速回到家裡。這個週末，如果天氣好的話，我們打算去山上。我們希望欣賞非常美麗的景色，並在森林小徑上健行。",
+        "words": [
+          {
+            "word": "tiempo",
+            "pos": "n.m.",
+            "zh": "天氣；時間",
+            "example": "El tiempo estuvo muy bonito ayer.",
+            "example_zh": "昨天天氣非常好。"
+          },
+          {
+            "word": "llover",
+            "pos": "v.",
+            "zh": "下雨",
+            "example": "No llovió durante todo el día.",
+            "example_zh": "整天都沒有下雨。"
+          },
+          {
+            "word": "decidir",
+            "pos": "v.",
+            "zh": "決定",
+            "example": "Decidimos ir a la playa el domingo.",
+            "example_zh": "我們決定星期日去海灘。"
+          },
+          {
+            "word": "nublado",
+            "pos": "adj.",
+            "zh": "多雲的",
+            "example": "El cielo está muy nublado hoy.",
+            "example_zh": "今天天空非常多雲。"
+          },
+          {
+            "word": "suave",
+            "pos": "adj.",
+            "zh": "輕柔的；溫和的",
+            "example": "El viento es suave en primavera.",
+            "example_zh": "春天的風很輕柔。"
+          },
+          {
+            "word": "rápidamente",
+            "pos": "adv.",
+            "zh": "迅速地",
+            "example": "Corrimos rápidamente porque llovía.",
+            "example_zh": "因為在下雨，我們迅速地跑了起來。"
+          },
+          {
+            "word": "montaña",
+            "pos": "n.f.",
+            "zh": "山；山脈",
+            "example": "Vamos a ir a la montaña este fin de semana.",
+            "example_zh": "我們這個週末要去山上。"
+          },
+          {
+            "word": "paisaje",
+            "pos": "n.m.",
+            "zh": "景色；風景",
+            "example": "El paisaje del bosque es muy hermoso.",
+            "example_zh": "森林的景色非常美麗。"
+          },
+          {
+            "word": "sendero",
+            "pos": "n.m.",
+            "zh": "小徑；步道",
+            "example": "Caminamos por los senderos del parque.",
+            "example_zh": "我們沿著公園的小徑散步。"
+          },
+          {
+            "word": "picnic",
+            "pos": "n.m.",
+            "zh": "野餐",
+            "example": "Comimos un picnic bajo los árboles.",
+            "example_zh": "我們在樹下野餐。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué tiempo hizo el sábado pasado por la mañana?",
+            "options": [
+              "Llovió mucho y hizo frío.",
+              "Hizo sol y no llovió nada.",
+              "Hubo tormenta toda la mañana.",
+              "El cielo estuvo nublado todo el día."
+            ],
+            "answer": 1,
+            "explain": "文中提到「Hizo sol y no llovió nada」，上午陽光普照且完全沒有下雨。"
+          },
+          {
+            "q": "¿Adónde fueron el sábado por la mañana?",
+            "options": [
+              "Fueron a la montaña.",
+              "Fueron a la playa.",
+              "Fueron al parque.",
+              "Fueron al bosque."
+            ],
+            "answer": 2,
+            "explain": "文中提到「decidimos ir al parque por la mañana」，他們早上去了公園。"
+          },
+          {
+            "q": "¿Qué pasó por la tarde del sábado?",
+            "options": [
+              "El sol brilló mucho.",
+              "Hizo mucho viento y frío.",
+              "El cielo se puso nublado y empezó a llover.",
+              "Fueron a caminar por el bosque."
+            ],
+            "answer": 2,
+            "explain": "文中提到「el cielo se puso nublado y empezó a llover un poco」，下午天空變得多雲並開始下雨。"
+          },
+          {
+            "q": "¿Qué van a hacer este fin de semana?",
+            "options": [
+              "Van a quedarse en casa.",
+              "Van a ir a la montaña.",
+              "Van a nadar en el lago.",
+              "Van a comer en un restaurante."
+            ],
+            "answer": 1,
+            "explain": "文中提到「vamos a ir a la montaña si hace buen tiempo」，他們打算去山上，這是 futuro próximo 的用法。"
+          },
+          {
+            "q": "¿Por qué volvieron a casa rápidamente el sábado?",
+            "options": [
+              "Porque tenían hambre.",
+              "Porque empezó a llover.",
+              "Porque hacía mucho calor.",
+              "Porque el parque estaba cerrado."
+            ],
+            "answer": 1,
+            "explain": "文中提到下午開始下雨（「empezó a llover un poco」），所以他們迅速回家。"
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "2026-08-10-B1-1",
+        "source": "ai",
+        "level_label": "B1",
+        "title": "Una sociedad de muchas culturas",
+        "text": "Hoy en día, muchas ciudades del mundo se han convertido en lugares donde conviven personas de diferentes orígenes, idiomas y tradiciones. Esta diversidad cultural enriquece a la sociedad de maneras que antes no imaginábamos.\n\nCuando era niño, mi barrio era bastante homogéneo. Sin embargo, hace unos años llegaron familias de distintos países, y el vecindario cambió completamente. Al principio, algunos residentes pensaron que sería difícil adaptarse a los nuevos cambios. Pero con el tiempo, todos aprendimos que las diferencias pueden ser una fuente de aprendizaje y respeto mutuo.\n\nSi pudiéramos escuchar más las experiencias de las personas migrantes, entenderíamos mejor los desafíos que enfrentan cada día. Muchos dejaron atrás sus hogares porque querían una vida más segura para sus familias. Es importante que la sociedad les ofrezca oportunidades reales de integración.\n\nLa convivencia no siempre es fácil, pero cuando existe voluntad y diálogo, es posible construir comunidades más justas e inclusivas. Una sociedad multicultural, aunque compleja, es también más creativa y solidaria. Aprender del otro es, sin duda, uno de los mayores regalos que nos ofrece la diversidad.",
+        "translation": "如今，世界上許多城市已成為來自不同背景、語言和傳統的人們共同生活的地方。這種文化多樣性以我們以前難以想像的方式豐富著社會。\n\n當我還是個孩子的時候，我的社區相當同質化。然而，幾年前，來自不同國家的家庭相繼遷入，整個街區徹底改變了。起初，一些居民認為適應這些新變化將會很困難。但隨著時間的推移，我們都學到了差異可以成為學習與相互尊重的來源。\n\n如果我們能夠更多地聆聽移民者的經歷，我們就能更好地理解他們每天所面臨的挑戰。許多人離開了自己的家園，因為他們想為家人尋求更安全的生活。社會為他們提供真正的融合機會是非常重要的。\n\n共同生活並不總是容易的，但當存在意願與對話時，建立更公正、更具包容性的社區是可能的。一個多元文化的社會，儘管複雜，同時也更具創造力和團結精神。向他人學習，無疑是多樣性給予我們的最大禮物之一。",
+        "words": [
+          {
+            "word": "convivir",
+            "pos": "v.",
+            "zh": "共同生活、共存",
+            "example": "Es posible convivir en paz con personas de otras culturas.",
+            "example_zh": "與來自其他文化的人和平共存是可能的。"
+          },
+          {
+            "word": "diversidad",
+            "pos": "n.f.",
+            "zh": "多樣性",
+            "example": "La diversidad cultural enriquece a toda la sociedad.",
+            "example_zh": "文化多樣性豐富了整個社會。"
+          },
+          {
+            "word": "homogéneo/a",
+            "pos": "adj.",
+            "zh": "同質的、單一的",
+            "example": "Antes, este barrio era completamente homogéneo.",
+            "example_zh": "以前，這個社區是完全同質化的。"
+          },
+          {
+            "word": "adaptarse",
+            "pos": "v. pron.",
+            "zh": "適應",
+            "example": "Los estudiantes tuvieron que adaptarse a un nuevo sistema educativo.",
+            "example_zh": "學生們必須適應新的教育體系。"
+          },
+          {
+            "word": "migrante",
+            "pos": "n.m./f.",
+            "zh": "移民者",
+            "example": "Muchos migrantes trabajan muy duro para construir una nueva vida.",
+            "example_zh": "許多移民者非常努力地建立新生活。"
+          },
+          {
+            "word": "desafío",
+            "pos": "n.m.",
+            "zh": "挑戰",
+            "example": "Aprender un nuevo idioma es un gran desafío.",
+            "example_zh": "學習一門新語言是一個巨大的挑戰。"
+          },
+          {
+            "word": "integración",
+            "pos": "n.f.",
+            "zh": "融合、整合",
+            "example": "El gobierno promueve programas de integración para nuevos residentes.",
+            "example_zh": "政府為新居民推廣融合計畫。"
+          },
+          {
+            "word": "solidario/a",
+            "pos": "adj.",
+            "zh": "團結的、互助的",
+            "example": "Queremos vivir en una comunidad más solidaria.",
+            "example_zh": "我們希望生活在一個更具團結精神的社區。"
+          },
+          {
+            "word": "inclusivo/a",
+            "pos": "adj.",
+            "zh": "包容的、包含在內的",
+            "example": "Las escuelas deben ser espacios inclusivos para todos los niños.",
+            "example_zh": "學校應該成為對所有孩子具有包容性的空間。"
+          },
+          {
+            "word": "voluntad",
+            "pos": "n.f.",
+            "zh": "意願、意志",
+            "example": "Sin voluntad de diálogo, no es posible resolver los conflictos.",
+            "example_zh": "沒有對話的意願，就不可能解決衝突。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cómo era el barrio del narrador cuando era niño?",
+            "options": [
+              "Era muy diverso y multicultural.",
+              "Era bastante homogéneo.",
+              "Era peligroso y ruidoso.",
+              "Era un barrio de migrantes."
+            ],
+            "answer": 1,
+            "explain": "文中提到「cuando era niño, mi barrio era bastante homogéneo」，說明敘述者小時候社區相當同質化。"
+          },
+          {
+            "q": "¿Qué pensaron algunos residentes al principio cuando llegaron las nuevas familias?",
+            "options": [
+              "Que la situación sería muy beneficiosa.",
+              "Que debían aprender otros idiomas.",
+              "Que sería difícil adaptarse a los nuevos cambios.",
+              "Que tenían que mudarse a otro barrio."
+            ],
+            "answer": 2,
+            "explain": "文中說「algunos residentes pensaron que sería difícil adaptarse a los nuevos cambios」，表示部分居民起初認為適應新變化會很困難。"
+          },
+          {
+            "q": "Según el texto, ¿por qué dejaron sus hogares muchas personas migrantes?",
+            "options": [
+              "Porque querían conocer nuevas culturas.",
+              "Porque buscaban trabajo en otros países.",
+              "Porque querían una vida más segura para sus familias.",
+              "Porque sus gobiernos los obligaron a salir."
+            ],
+            "answer": 2,
+            "explain": "文中明確指出「querían una vida más segura para sus familias」，即移民者離開家園是為了讓家人擁有更安全的生活。"
+          },
+          {
+            "q": "¿Qué condición señala el texto para construir comunidades más justas?",
+            "options": [
+              "Que todos hablen el mismo idioma.",
+              "Que exista voluntad y diálogo.",
+              "Que haya leyes muy estrictas.",
+              "Que los migrantes se adapten solos."
+            ],
+            "answer": 1,
+            "explain": "文中提到「cuando existe voluntad y diálogo, es posible construir comunidades más justas e inclusivas」，強調意願與對話是建立公正社區的條件。"
+          },
+          {
+            "q": "¿Cuál es la idea principal del último párrafo?",
+            "options": [
+              "La convivencia multicultural es imposible.",
+              "Las diferencias culturales causan muchos problemas.",
+              "La diversidad nos ofrece creatividad y la posibilidad de aprender del otro.",
+              "Es mejor vivir en una sociedad homogénea."
+            ],
+            "answer": 2,
+            "explain": "最後一段強調多元文化社會雖然複雜，但更具創造力與團結精神，並以「aprender del otro es uno de los mayores regalos que nos ofrece la diversidad」作結，說明多樣性帶來的學習機會是最大的禮物。"
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "2026-08-10-B2-fallback",
+        "source": "ai",
+        "level_label": "約 B2（AI 生成）",
+        "title": "Vivir juntos en la diversidad",
+        "text": "Hoy en día, muchas ciudades del mundo se han convertido en espacios donde conviven personas de distintas culturas, lenguas y tradiciones. Este fenómeno, que algunos llaman multiculturalismo, ha transformado profundamente la manera en que nos relacionamos con los demás.\n\nCuando era pequeña, mi vecindario era bastante homogéneo. Sin embargo, hace unos años llegaron familias de diferentes países, y poco a poco el barrio cambió. Aprendí que si escucháramos más a quienes piensan distinto, comprenderíamos mejor el mundo. Mi vecina Fatima, que vino de Marruecos cuando tenía veinte años, me enseñó recetas tradicionales y me habló de sus costumbres. Gracias a ella, me di cuenta de que la diversidad puede enriquecer nuestra vida cotidiana.\n\nClaro que también hay desafíos. Muchos inmigrantes han sufrido discriminación porque sus hábitos o creencias eran diferentes. Si las sociedades invirtieran más en educación intercultural, sería más fácil construir comunidades respetuosas e inclusivas.\n\nEn definitiva, aprender a valorar lo diferente no siempre es sencillo, pero vale la pena intentarlo. Una sociedad diversa, cuando funciona bien, se vuelve más creativa, más justa y más humana.",
+        "translation": "如今，世界上許多城市已成為不同文化、語言和傳統的人們共同生活的空間。這種現象，有些人稱之為多元文化主義，深刻地改變了我們與他人相處的方式。\n\n我小時候，我所在的社區相當同質化。然而，幾年前，來自不同國家的家庭陸續遷入，社區也逐漸改變了面貌。我體會到，如果我們多聆聽那些想法不同的人，就能更加理解這個世界。我的鄰居法蒂瑪二十歲時從摩洛哥來到這裡，她教我做傳統料理，也向我介紹她的風俗習慣。因為她，我意識到多元性可以豐富我們的日常生活。\n\n當然，也有挑戰。許多移民因為生活習慣或信仰不同而遭受歧視。如果社會在跨文化教育上投入更多資源，建立互相尊重、具有包容性的社區就會更加容易。\n\n總之，學會珍視差異並不總是輕而易舉的，但值得去嘗試。一個多元的社會，若運作良好，將變得更有創造力、更公正、也更具人文關懷。",
+        "words": [
+          {
+            "word": "convivir",
+            "pos": "v.",
+            "zh": "共同生活、共處",
+            "example": "En nuestra ciudad conviven personas de muchas nacionalidades.",
+            "example_zh": "我們城市裡有來自許多國籍的人共同生活。"
+          },
+          {
+            "word": "multiculturalismo",
+            "pos": "n. m.",
+            "zh": "多元文化主義",
+            "example": "El multiculturalismo enriquece las sociedades modernas.",
+            "example_zh": "多元文化主義豐富了現代社會。"
+          },
+          {
+            "word": "homogéneo/a",
+            "pos": "adj.",
+            "zh": "同質的、均一的",
+            "example": "Antes, el pueblo era muy homogéneo culturalmente.",
+            "example_zh": "以前，這個村子在文化上非常同質化。"
+          },
+          {
+            "word": "enriquecer",
+            "pos": "v.",
+            "zh": "豐富、充實",
+            "example": "Viajar puede enriquecer tu perspectiva del mundo.",
+            "example_zh": "旅行可以豐富你對世界的視野。"
+          },
+          {
+            "word": "desafío",
+            "pos": "n. m.",
+            "zh": "挑戰",
+            "example": "La integración cultural presenta varios desafíos.",
+            "example_zh": "文化融合帶來了各種挑戰。"
+          },
+          {
+            "word": "discriminación",
+            "pos": "n. f.",
+            "zh": "歧視",
+            "example": "Nadie debería sufrir discriminación por su origen.",
+            "example_zh": "任何人都不應因其出身而遭受歧視。"
+          },
+          {
+            "word": "intercultural",
+            "pos": "adj.",
+            "zh": "跨文化的",
+            "example": "Los programas interculturales ayudan a reducir los prejuicios.",
+            "example_zh": "跨文化計畫有助於減少偏見。"
+          },
+          {
+            "word": "inclusivo/a",
+            "pos": "adj.",
+            "zh": "包容的、共融的",
+            "example": "Queremos construir una escuela más inclusiva.",
+            "example_zh": "我們希望打造一所更具包容性的學校。"
+          },
+          {
+            "word": "costumbre",
+            "pos": "n. f.",
+            "zh": "習俗、習慣",
+            "example": "Me gusta aprender las costumbres de otros países.",
+            "example_zh": "我喜歡了解其他國家的習俗。"
+          },
+          {
+            "word": "darse cuenta de",
+            "pos": "loc. v.",
+            "zh": "意識到、察覺到",
+            "example": "Me di cuenta de que había cometido un error.",
+            "example_zh": "我意識到自己犯了一個錯誤。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cómo era el vecindario de la narradora cuando era pequeña?",
+            "options": [
+              "Era muy diverso culturalmente.",
+              "Era bastante homogéneo.",
+              "Tenía muchos inmigrantes de Marruecos.",
+              "Era una ciudad grande e internacional."
+            ],
+            "answer": 1,
+            "explain": "文中提到「当era pequeña, mi vecindario era bastante homogéneo」，說明敘述者小時候的社區相當同質化。"
+          },
+          {
+            "q": "¿De dónde vino la vecina Fatima?",
+            "options": [
+              "De Francia",
+              "De México",
+              "De Marruecos",
+              "De Egipto"
+            ],
+            "answer": 2,
+            "explain": "文中明確寫道「Mi vecina Fatima, que vino de Marruecos」，她來自摩洛哥。"
+          },
+          {
+            "q": "¿Qué le enseñó Fatima a la narradora?",
+            "options": [
+              "A hablar árabe y francés.",
+              "Recetas tradicionales y sus costumbres.",
+              "A trabajar en un restaurante.",
+              "La historia de Marruecos."
+            ],
+            "answer": 1,
+            "explain": "文中提到Fatima教了她傳統食譜並介紹了自己的習俗：「me enseñó recetas tradicionales y me habló de sus costumbres」。"
+          },
+          {
+            "q": "Según el texto, ¿qué solución propone la narradora para los problemas de discriminación?",
+            "options": [
+              "Que los inmigrantes aprendan la cultura local.",
+              "Que se prohíba la inmigración.",
+              "Que las sociedades inviertan más en educación intercultural.",
+              "Que se creen leyes más estrictas."
+            ],
+            "answer": 2,
+            "explain": "文中使用條件式表達：「Si las sociedades invirtieran más en educación intercultural, sería más fácil construir comunidades respetuosas」，提出加強跨文化教育的建議。"
+          },
+          {
+            "q": "¿Cuál es la idea principal del último párrafo?",
+            "options": [
+              "La diversidad cultural siempre causa problemas graves.",
+              "Es imposible integrar culturas diferentes.",
+              "Una sociedad diversa bien gestionada puede ser más creativa y justa.",
+              "Solo las ciudades grandes pueden ser multiculturales."
+            ],
+            "answer": 2,
+            "explain": "最後一段總結指出，一個運作良好的多元社會可以變得更有創造力、更公正也更人性化，呼應全文主旨。"
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-08-10-C1-fallback",
+        "source": "ai",
+        "level_label": "約 C1（AI 生成）",
+        "title": "Una sociedad de muchos colores",
+        "text": "Hoy en día, muchas ciudades del mundo se han convertido en espacios donde conviven personas de diferentes culturas, idiomas y tradiciones. Este fenómeno, que algunos llaman multiculturalismo, ha transformado profundamente la manera en que vivimos y nos relacionamos con los demás.\n\nCuando era niño, mi barrio era bastante homogéneo. Sin embargo, con el paso de los años, llegaron familias de distintos países que trajeron consigo sus costumbres, su gastronomía y su música. Al principio, algunos vecinos pensaban que estos cambios serían difíciles de aceptar, pero poco a poco todos fuimos aprendiendo a valorar lo que cada cultura aportaba.\n\nSi pudiéramos elegir entre vivir en una sociedad uniforme o en una diversa, creo que la mayoría preferiría la segunda opción. La diversidad cultural nos enriquece porque nos permite conocer otras formas de ver el mundo. Aunque a veces surgen malentendidos debido a las diferencias, el diálogo y el respeto mutuo son herramientas fundamentales para construir una convivencia armoniosa.\n\nEn definitiva, una sociedad multicultural no es perfecta, pero ofrece una riqueza humana que sería imposible encontrar en otro lugar.",
+        "translation": "如今，世界上許多城市已經成為來自不同文化、語言和傳統的人們共同生活的空間。這個現象，有些人稱之為多元文化主義，深刻地改變了我們的生活方式以及與他人相處的方式。\n\n我小時候，我的街區相當同質化。然而，隨著歲月流逝，來自不同國家的家庭陸續到來，帶來了他們的習俗、飲食文化和音樂。起初，有些鄰居認為這些改變將很難被接受，但漸漸地，大家都學會了珍視每種文化所帶來的貢獻。\n\n如果我們可以選擇生活在一個單一文化社會還是多元文化社會，我認為大多數人會偏好後者。文化多樣性豐富了我們，因為它讓我們得以了解其他看待世界的方式。雖然有時因為差異而產生誤解，但對話與相互尊重是建構和諧共處的基本工具。\n\n總而言之，一個多元文化社會並不完美，但它提供了一種在其他地方無從尋覓的人文豐富性。",
+        "words": [
+          {
+            "word": "convivir",
+            "pos": "v.",
+            "zh": "共同生活、共處",
+            "example": "Es importante aprender a convivir con personas de otras culturas.",
+            "example_zh": "學習與來自其他文化的人共處是很重要的。"
+          },
+          {
+            "word": "multiculturalismo",
+            "pos": "m.",
+            "zh": "多元文化主義",
+            "example": "El multiculturalismo enriquece a las sociedades modernas.",
+            "example_zh": "多元文化主義豐富了現代社會。"
+          },
+          {
+            "word": "homogéneo/a",
+            "pos": "adj.",
+            "zh": "同質的、均一的",
+            "example": "Antes, ese pueblo era muy homogéneo y todos hablaban el mismo idioma.",
+            "example_zh": "以前，那個小鎮非常同質，大家都說同一種語言。"
+          },
+          {
+            "word": "costumbre",
+            "pos": "f.",
+            "zh": "習俗、習慣",
+            "example": "Cada país tiene sus propias costumbres y tradiciones.",
+            "example_zh": "每個國家都有自己的習俗和傳統。"
+          },
+          {
+            "word": "valorar",
+            "pos": "v.",
+            "zh": "珍視、評價",
+            "example": "Debemos valorar las aportaciones de cada cultura.",
+            "example_zh": "我們應該珍視每種文化的貢獻。"
+          },
+          {
+            "word": "enriquecer",
+            "pos": "v.",
+            "zh": "豐富、使富裕",
+            "example": "Viajar al extranjero enriquece nuestra visión del mundo.",
+            "example_zh": "出國旅行豐富了我們對世界的視野。"
+          },
+          {
+            "word": "malentendido",
+            "pos": "m.",
+            "zh": "誤解、誤會",
+            "example": "Un malentendido cultural puede causar conflictos innecesarios.",
+            "example_zh": "文化上的誤解可能造成不必要的衝突。"
+          },
+          {
+            "word": "mutuo/a",
+            "pos": "adj.",
+            "zh": "相互的",
+            "example": "El respeto mutuo es la base de cualquier buena relación.",
+            "example_zh": "相互尊重是任何良好關係的基礎。"
+          },
+          {
+            "word": "convivencia",
+            "pos": "f.",
+            "zh": "共處、共同生活",
+            "example": "La convivencia entre diferentes grupos requiere tolerancia.",
+            "example_zh": "不同群體之間的共處需要包容。"
+          },
+          {
+            "word": "armoniosa",
+            "pos": "adj.",
+            "zh": "和諧的",
+            "example": "Buscamos construir una sociedad armoniosa y justa.",
+            "example_zh": "我們致力於建構一個和諧且公平的社會。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cómo era el barrio del autor cuando era niño?",
+            "options": [
+              "Era muy diverso y multicultural.",
+              "Era bastante homogéneo.",
+              "Era ruidoso y conflictivo.",
+              "Era un barrio de inmigrantes."
+            ],
+            "answer": 1,
+            "explain": "文中提到「cuando era niño, mi barrio era bastante homogéneo」，說明作者小時候的街區相當同質化，故選第二項。"
+          },
+          {
+            "q": "¿Qué trajeron consigo las familias que llegaron al barrio?",
+            "options": [
+              "Problemas económicos y conflictos.",
+              "Solo su idioma extranjero.",
+              "Sus costumbres, gastronomía y música.",
+              "Nuevas leyes y normas sociales."
+            ],
+            "answer": 2,
+            "explain": "文中明確指出這些家庭帶來了「sus costumbres, su gastronomía y su música」，即他們的習俗、飲食和音樂，故選第三項。"
+          },
+          {
+            "q": "Según el texto, ¿qué pensaban algunos vecinos al principio sobre los cambios?",
+            "options": [
+              "Que serían muy beneficiosos para todos.",
+              "Que serían difíciles de aceptar.",
+              "Que no afectarían a su vida diaria.",
+              "Que mejorarían la economía local."
+            ],
+            "answer": 1,
+            "explain": "文中寫道「algunos vecinos pensaban que estos cambios serían difíciles de aceptar」，意即部分鄰居起初認為這些改變將難以被接受，故選第二項。"
+          },
+          {
+            "q": "¿Qué herramientas menciona el texto para lograr una convivencia armoniosa?",
+            "options": [
+              "Las leyes estrictas y las sanciones.",
+              "El dinero y el desarrollo económico.",
+              "El diálogo y el respeto mutuo.",
+              "La educación universitaria y la ciencia."
+            ],
+            "answer": 2,
+            "explain": "文章提到「el diálogo y el respeto mutuo son herramientas fundamentales para construir una convivencia armoniosa」，強調對話與相互尊重，故選第三項。"
+          },
+          {
+            "q": "¿Cuál es la conclusión principal del texto?",
+            "options": [
+              "La sociedad multicultural es perfecta y no tiene problemas.",
+              "Es mejor vivir en una sociedad uniforme y tranquila.",
+              "La diversidad cultural no tiene ningún valor real.",
+              "La sociedad multicultural ofrece una riqueza humana única."
+            ],
+            "answer": 3,
+            "explain": "文章最後結論為「una sociedad multicultural no es perfecta, pero ofrece una riqueza humana que sería imposible encontrar en otro lugar」，指出多元文化社會雖不完美，但提供獨特的人文豐富性，故選第四項。"
+          }
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "2026-08-10-C2-fallback",
+        "source": "ai",
+        "level_label": "約 C2（AI 生成）",
+        "title": "Vivir juntos en la diversidad",
+        "text": "Hoy en día, muchas ciudades del mundo se han convertido en espacios donde conviven personas de diferentes culturas, idiomas y tradiciones. Este fenómeno, que se conoce como multiculturalismo, ha transformado profundamente la manera en que nos relacionamos con los demás.\n\nCuando era niño, mi barrio era bastante homogéneo, pero con el paso de los años llegaron familias de distintos países. Al principio, algunos vecinos pensaban que sería difícil adaptarse a tantos cambios. Sin embargo, poco a poco fuimos descubriendo que la diversidad nos enriquecía.\n\nAprendimos recetas de cocina que nunca habíamos probado, celebramos festividades que desconocíamos y escuchamos músicas que nos sorprendieron. Si todos hubiéramos permanecido cerrados a lo diferente, nos habríamos perdido experiencias extraordinarias.\n\nClaro que también surgieron malentendidos, porque no siempre es fácil comprender costumbres ajenas. No obstante, el diálogo y el respeto mutuo fueron las herramientas más importantes para resolver esos conflictos.\n\nEn una sociedad multicultural, es fundamental que cada persona sienta que su identidad es valorada. Solo así podremos construir comunidades donde la diferencia no sea un obstáculo, sino una fuente de riqueza compartida.",
+        "translation": "共同生活在多元之中\n\n如今，世界上許多城市已成為不同文化、語言和傳統的人們共同生活的空間。這種被稱為多元文化主義的現象，深刻地改變了我們與他人相處的方式。\n\n當我還是孩子的時候，我的街區相當同質化，但隨著歲月流逝，來自不同國家的家庭陸續遷入。起初，一些鄰居認為要適應這麼多的變化會很困難。然而，漸漸地我們發現多元性使我們更加豐富。\n\n我們學習了從未嘗試過的烹飪食譜，慶祝了我們不熟悉的節日，也聆聽了令我們驚喜的音樂。如果我們都對不同的事物保持封閉，我們將會錯過非凡的體驗。\n\n當然，誤解也隨之而來，因為理解陌生的習俗並不總是容易的事。儘管如此，對話與相互尊重是解決這些衝突最重要的工具。\n\n在一個多元文化的社會中，讓每個人感到自己的身份被重視是至關重要的。唯有如此，我們才能建立一個讓差異不再是障礙，而是共同財富來源的社群。",
+        "words": [
+          {
+            "word": "convivir",
+            "pos": "v.",
+            "zh": "共同生活、共處",
+            "example": "En nuestra ciudad conviven personas de más de veinte nacionalidades.",
+            "example_zh": "在我們的城市裡，來自二十多個國籍的人共同生活。"
+          },
+          {
+            "word": "multiculturalismo",
+            "pos": "m.",
+            "zh": "多元文化主義",
+            "example": "El multiculturalismo es una realidad en muchos países europeos.",
+            "example_zh": "多元文化主義是許多歐洲國家的現實。"
+          },
+          {
+            "word": "homogéneo/a",
+            "pos": "adj.",
+            "zh": "同質的、均一的",
+            "example": "La población del pueblo era muy homogénea hace cincuenta años.",
+            "example_zh": "五十年前，這個小鎮的居民非常同質化。"
+          },
+          {
+            "word": "enriquecer",
+            "pos": "v.",
+            "zh": "使豐富、充實",
+            "example": "Viajar al extranjero enriquece nuestra visión del mundo.",
+            "example_zh": "出國旅行豐富了我們對世界的視野。"
+          },
+          {
+            "word": "malentendido",
+            "pos": "m.",
+            "zh": "誤解、誤會",
+            "example": "Hubo un malentendido entre los dos vecinos por las diferentes costumbres.",
+            "example_zh": "兩位鄰居之間因不同的習俗產生了一場誤會。"
+          },
+          {
+            "word": "costumbre",
+            "pos": "f.",
+            "zh": "習俗、習慣",
+            "example": "Es importante respetar las costumbres de otras culturas.",
+            "example_zh": "尊重其他文化的習俗非常重要。"
+          },
+          {
+            "word": "mutuo/a",
+            "pos": "adj.",
+            "zh": "相互的、彼此的",
+            "example": "El respeto mutuo es la base de cualquier buena relación.",
+            "example_zh": "相互尊重是任何良好關係的基礎。"
+          },
+          {
+            "word": "identidad",
+            "pos": "f.",
+            "zh": "身份、認同",
+            "example": "Cada persona tiene derecho a expresar su identidad cultural.",
+            "example_zh": "每個人都有權利表達自己的文化身份。"
+          },
+          {
+            "word": "obstáculo",
+            "pos": "m.",
+            "zh": "障礙、阻礙",
+            "example": "El idioma no debería ser un obstáculo para hacer amigos.",
+            "example_zh": "語言不應該成為交朋友的障礙。"
+          },
+          {
+            "word": "riqueza",
+            "pos": "f.",
+            "zh": "財富、豐富性",
+            "example": "La diversidad cultural es una gran riqueza para la sociedad.",
+            "example_zh": "文化多樣性是社會的一大財富。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cómo era el barrio del narrador cuando era niño?",
+            "options": [
+              "Era muy diverso y multicultural.",
+              "Era bastante homogéneo.",
+              "Era un barrio muy conflictivo.",
+              "Era un barrio sin vecinos."
+            ],
+            "answer": 1,
+            "explain": "文中提到「cuando era niño, mi barrio era bastante homogéneo」，說明敘述者小時候的街區相當同質化。"
+          },
+          {
+            "q": "¿Qué pensaban algunos vecinos al principio sobre los cambios?",
+            "options": [
+              "Que sería muy fácil adaptarse.",
+              "Que los cambios eran innecesarios.",
+              "Que sería difícil adaptarse a tantos cambios.",
+              "Que debían mudarse a otra ciudad."
+            ],
+            "answer": 2,
+            "explain": "文中寫道「algunos vecinos pensaban que sería difícil adaptarse a tantos cambios」，部分鄰居認為適應這些變化會很困難。"
+          },
+          {
+            "q": "Según el texto, ¿qué habrían perdido si se hubieran cerrado a lo diferente?",
+            "options": [
+              "Su idioma natal.",
+              "Sus trabajos y empleos.",
+              "Experiencias extraordinarias.",
+              "Sus tradiciones familiares."
+            ],
+            "answer": 2,
+            "explain": "文中使用條件式過去完成時態說明「nos habríamos perdido experiencias extraordinarias」，若對不同事物保持封閉，將會錯過非凡的體驗。"
+          },
+          {
+            "q": "¿Cuáles fueron las herramientas más importantes para resolver los conflictos?",
+            "options": [
+              "Las leyes y los abogados.",
+              "El diálogo y el respeto mutuo.",
+              "La policía y las autoridades.",
+              "El dinero y los recursos."
+            ],
+            "answer": 1,
+            "explain": "文中明確指出「el diálogo y el respeto mutuo fueron las herramientas más importantes para resolver esos conflictos」。"
+          },
+          {
+            "q": "¿Cuál es la idea principal del último párrafo?",
+            "options": [
+              "Que la diversidad cultural crea demasiados problemas.",
+              "Que es mejor vivir en sociedades homogéneas.",
+              "Que cada identidad debe ser valorada para construir comunidades ricas.",
+              "Que los idiomas extranjeros son difíciles de aprender."
+            ],
+            "answer": 2,
+            "explain": "最後一段強調每個人的身份都應被重視（「es fundamental que cada persona sienta que su identidad es valorada」），如此才能建立差異成為共同財富的社群。"
+          }
+        ]
+      }
+    ]
+  }
+}

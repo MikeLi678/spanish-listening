@@ -1,0 +1,843 @@
+{
+  "date": "2026-08-11",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-08-11-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Mis bebidas favoritas",
+        "text": "Cada mañana bebo un café con leche. Es rico y caliente. También me gusta el agua. Bebo mucha agua todos los días. A veces tomo un zumo de naranja. Es dulce y fresco. Por la noche bebo una taza de té. No me gusta la leche sola. Las bebidas son importantes para la salud.",
+        "translation": "每天早上我喝一杯牛奶咖啡。它很好喝又熱乎。我也喜歡喝水。我每天喝很多水。有時候我喝一杯柳橙汁。它甜甜的又清爽。晚上我喝一杯茶。我不喜歡單喝牛奶。飲料對健康很重要。",
+        "words": [
+          {
+            "word": "beber",
+            "pos": "v.",
+            "zh": "喝、飲用",
+            "example": "Yo bebo agua todos los días.",
+            "example_zh": "我每天喝水。"
+          },
+          {
+            "word": "café",
+            "pos": "n. m.",
+            "zh": "咖啡",
+            "example": "El café está caliente.",
+            "example_zh": "咖啡是熱的。"
+          },
+          {
+            "word": "leche",
+            "pos": "n. f.",
+            "zh": "牛奶",
+            "example": "Me gusta la leche con azúcar.",
+            "example_zh": "我喜歡加糖的牛奶。"
+          },
+          {
+            "word": "agua",
+            "pos": "n. f.",
+            "zh": "水",
+            "example": "Bebo mucha agua por la tarde.",
+            "example_zh": "我下午喝很多水。"
+          },
+          {
+            "word": "zumo",
+            "pos": "n. m.",
+            "zh": "果汁",
+            "example": "El zumo de naranja es delicioso.",
+            "example_zh": "柳橙汁很美味。"
+          },
+          {
+            "word": "dulce",
+            "pos": "adj.",
+            "zh": "甜的",
+            "example": "Esta bebida es muy dulce.",
+            "example_zh": "這個飲料非常甜。"
+          },
+          {
+            "word": "fresco",
+            "pos": "adj.",
+            "zh": "清涼的、新鮮的",
+            "example": "El zumo está fresco.",
+            "example_zh": "果汁是清涼的。"
+          },
+          {
+            "word": "taza",
+            "pos": "n. f.",
+            "zh": "杯子、一杯（的量）",
+            "example": "Tomo una taza de té por la noche.",
+            "example_zh": "我晚上喝一杯茶。"
+          },
+          {
+            "word": "salud",
+            "pos": "n. f.",
+            "zh": "健康",
+            "example": "El agua es buena para la salud.",
+            "example_zh": "水對健康有益。"
+          },
+          {
+            "word": "a veces",
+            "pos": "adv.",
+            "zh": "有時候",
+            "example": "A veces bebo leche por la mañana.",
+            "example_zh": "我有時候早上喝牛奶。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué bebe la persona cada mañana?",
+            "options": [
+              "Un zumo de naranja",
+              "Un café con leche",
+              "Una taza de té",
+              "Agua fría"
+            ],
+            "answer": 1,
+            "explain": "文章第一句說「每天早上喝牛奶咖啡（café con leche）」，故答案為選項B。"
+          },
+          {
+            "q": "¿Cómo es el zumo de naranja?",
+            "options": [
+              "Caliente y amargo",
+              "Salado y fresco",
+              "Dulce y fresco",
+              "Rico y caliente"
+            ],
+            "answer": 2,
+            "explain": "文章描述柳橙汁「Es dulce y fresco（甜且清涼）」，故答案為選項C。"
+          },
+          {
+            "q": "¿Cuándo toma la persona una taza de té?",
+            "options": [
+              "Por la mañana",
+              "A mediodía",
+              "A veces por la tarde",
+              "Por la noche"
+            ],
+            "answer": 3,
+            "explain": "文章說「Por la noche bebo una taza de té（晚上喝一杯茶）」，故答案為選項D。"
+          },
+          {
+            "q": "¿Le gusta a la persona la leche sola?",
+            "options": [
+              "Sí, le gusta mucho.",
+              "No, no le gusta.",
+              "Sí, la bebe cada mañana.",
+              "No sabe si le gusta."
+            ],
+            "answer": 1,
+            "explain": "文章明確說「No me gusta la leche sola（我不喜歡單喝牛奶）」，故答案為選項B。"
+          },
+          {
+            "q": "Según el texto, ¿por qué son importantes las bebidas?",
+            "options": [
+              "Porque son baratas",
+              "Porque son dulces",
+              "Porque son importantes para la salud",
+              "Porque son calientes"
+            ],
+            "answer": 2,
+            "explain": "文章最後一句說「Las bebidas son importantes para la salud（飲料對健康很重要）」，故答案為選項C。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-08-11-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Mi día normal",
+        "text": "Todos los días me despierto a las siete de la mañana. Primero, me ducho y luego desayuno con mi familia. Generalmente como pan con mantequilla y bebo un café con leche. Después, voy al trabajo en autobús porque vivo lejos de la oficina. Por la tarde, almuerzo con mis compañeros en un restaurante cerca del trabajo. Ayer, cené en casa y vi una película muy interesante en la televisión. Esta noche voy a leer un libro antes de dormir. Me gusta mi rutina porque es tranquila y ordenada.",
+        "translation": "每天我在早上七點醒來。首先，我沖澡，然後和家人一起吃早餐。我通常吃塗了奶油的麵包，喝一杯牛奶咖啡。之後，我搭公車去上班，因為我住得離辦公室很遠。下午，我和同事在公司附近的餐廳吃午餐。昨天，我在家吃晚飯，並看了一部非常有趣的電影。今晚我打算在睡前讀一本書。我喜歡我的日常作息，因為它平靜而有條理。",
+        "words": [
+          {
+            "word": "despertarse",
+            "pos": "v. prnl.",
+            "zh": "醒來（反身動詞）",
+            "example": "Me despierto a las siete todos los días.",
+            "example_zh": "我每天七點醒來。"
+          },
+          {
+            "word": "ducharse",
+            "pos": "v. prnl.",
+            "zh": "沖澡（反身動詞）",
+            "example": "Me ducho por la mañana antes del desayuno.",
+            "example_zh": "我在早餐前的早上沖澡。"
+          },
+          {
+            "word": "mantequilla",
+            "pos": "s. f.",
+            "zh": "奶油、牛油",
+            "example": "Me gusta el pan con mantequilla en el desayuno.",
+            "example_zh": "我喜歡早餐吃塗了奶油的麵包。"
+          },
+          {
+            "word": "autobús",
+            "pos": "s. m.",
+            "zh": "公車、巴士",
+            "example": "Voy al colegio en autobús cada mañana.",
+            "example_zh": "我每天早上搭公車去學校。"
+          },
+          {
+            "word": "compañero/a",
+            "pos": "s. m./f.",
+            "zh": "同事、同學、夥伴",
+            "example": "Almuerzo con mis compañeros de trabajo.",
+            "example_zh": "我和我的工作同事一起吃午餐。"
+          },
+          {
+            "word": "cenar",
+            "pos": "v.",
+            "zh": "吃晚餐",
+            "example": "Ayer cené arroz con pollo en casa.",
+            "example_zh": "昨天我在家吃了雞肉飯當晚餐。"
+          },
+          {
+            "word": "película",
+            "pos": "s. f.",
+            "zh": "電影",
+            "example": "Vi una película muy divertida anoche.",
+            "example_zh": "昨晚我看了一部很好笑的電影。"
+          },
+          {
+            "word": "tranquilo/a",
+            "pos": "adj.",
+            "zh": "平靜的、安靜的",
+            "example": "Me gusta vivir en un barrio tranquilo.",
+            "example_zh": "我喜歡住在一個安靜的街區。"
+          },
+          {
+            "word": "ordenado/a",
+            "pos": "adj.",
+            "zh": "有條理的、整齊的",
+            "example": "Mi hermana es muy ordenada con sus cosas.",
+            "example_zh": "我姐姐對她的東西非常有條理。"
+          },
+          {
+            "word": "rutina",
+            "pos": "s. f.",
+            "zh": "日常作息、慣例",
+            "example": "Tener una buena rutina es importante para la salud.",
+            "example_zh": "有良好的日常作息對健康很重要。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿A qué hora se despierta el autor todos los días?",
+            "options": [
+              "A las seis de la mañana.",
+              "A las siete de la mañana.",
+              "A las ocho de la mañana.",
+              "A las nueve de la mañana."
+            ],
+            "answer": 1,
+            "explain": "文章第一句提到「me despierto a las siete de la mañana」，即每天早上七點醒來。"
+          },
+          {
+            "q": "¿Cómo va el autor al trabajo?",
+            "options": [
+              "En coche.",
+              "A pie.",
+              "En autobús.",
+              "En metro."
+            ],
+            "answer": 2,
+            "explain": "文章提到「voy al trabajo en autobús」，作者搭公車去上班。"
+          },
+          {
+            "q": "¿Qué hizo el autor ayer por la noche?",
+            "options": [
+              "Leyó un libro interesante.",
+              "Cenó en un restaurante.",
+              "Cenó en casa y vio una película.",
+              "Salió con sus compañeros."
+            ],
+            "answer": 2,
+            "explain": "文章中的過去式句子「Ayer, cené en casa y vi una película」說明作者昨晚在家吃晚飯並看了電影。"
+          },
+          {
+            "q": "¿Qué va a hacer el autor esta noche?",
+            "options": [
+              "Va a ver una película.",
+              "Va a leer un libro.",
+              "Va a cenar en un restaurante.",
+              "Va a llamar a su familia."
+            ],
+            "answer": 1,
+            "explain": "文章使用 Futuro próximo「voy a leer un libro antes de dormir」，表示今晚打算睡前讀書。"
+          },
+          {
+            "q": "¿Por qué le gusta su rutina al autor?",
+            "options": [
+              "Porque es muy emocionante y divertida.",
+              "Porque tiene muchos amigos en el trabajo.",
+              "Porque es tranquila y ordenada.",
+              "Porque vive cerca de la oficina."
+            ],
+            "answer": 2,
+            "explain": "文章最後一句說「Me gusta mi rutina porque es tranquila y ordenada」，喜歡日常作息因為它平靜而有條理。"
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "2026-08-11-B1-1",
+        "source": "ai",
+        "level_label": "B1",
+        "title": "Las ciudades del futuro",
+        "text": "Cuando era niño, imaginaba que las ciudades del futuro serían lugares llenos de robots y coches voladores. Aunque algunas de esas ideas parecían imposibles, hoy sabemos que muchas podrían convertirse en realidad antes de lo que pensábamos.\n\nLos expertos dicen que las ciudades inteligentes utilizarán la tecnología para mejorar la vida de sus habitantes. Por ejemplo, los semáforos cambiarían automáticamente según el tráfico, y los edificios consumirían menos energía gracias a sistemas solares avanzados. Además, habría más espacios verdes para que la gente pudiera descansar y respirar aire limpio.\n\nSin embargo, también existen desafíos importantes. Muchas personas temen que la automatización destruya empleos tradicionales, lo que causaría graves problemas sociales. Por eso, sería necesario que los gobiernos invirtieran en educación y formación profesional para preparar a los ciudadanos.\n\nCuando visité una exposición sobre urbanismo el año pasado, me sorprendió ver proyectos donde los vecinos participaban activamente en el diseño de su barrio. Creo que las mejores ciudades del futuro serán aquellas que combinen la tecnología moderna con las necesidades humanas reales, porque una ciudad sin personas felices no tendría ningún valor.",
+        "translation": "當我還是個孩子的時候，我想像未來的城市將會是充滿機器人和飛行汽車的地方。雖然其中一些想法看似不可能，但今天我們知道，許多想法可能在我們所以為的更早之前就成為現實。\n\n專家們說，智慧城市將利用科技來改善居民的生活。例如，交通號誌會根據交通流量自動變換，建築物也會透過先進的太陽能系統消耗更少的能源。此外，將會有更多綠色空間，讓人們可以休息並呼吸新鮮空氣。\n\n然而，也存在重要的挑戰。許多人擔心自動化會摧毀傳統就業機會，這將造成嚴重的社會問題。因此，政府有必要投資教育和職業培訓，以準備好公民們面對未來。\n\n當我去年參觀一個關於都市規劃的展覽時，我驚訝地看到一些項目，其中居民積極參與了自己社區的設計。我認為，未來最好的城市將是那些將現代科技與真實人類需求相結合的城市，因為一個沒有快樂居民的城市將毫無價值。",
+        "words": [
+          {
+            "word": "inteligente",
+            "pos": "adj.",
+            "zh": "智慧的、聰明的",
+            "example": "Las ciudades inteligentes usan datos para funcionar mejor.",
+            "example_zh": "智慧城市使用數據來運作得更好。"
+          },
+          {
+            "word": "habitante",
+            "pos": "n.m./f.",
+            "zh": "居民、居住者",
+            "example": "Los habitantes de esta ciudad están muy orgullosos de su barrio.",
+            "example_zh": "這座城市的居民對自己的社區感到非常自豪。"
+          },
+          {
+            "word": "semáforo",
+            "pos": "n.m.",
+            "zh": "交通號誌、紅綠燈",
+            "example": "El semáforo cambió a rojo y todos los coches se detuvieron.",
+            "example_zh": "交通號誌變成紅色，所有車輛都停了下來。"
+          },
+          {
+            "word": "automatización",
+            "pos": "n.f.",
+            "zh": "自動化",
+            "example": "La automatización ha cambiado muchos sectores industriales.",
+            "example_zh": "自動化改變了許多工業部門。"
+          },
+          {
+            "word": "desafío",
+            "pos": "n.m.",
+            "zh": "挑戰、考驗",
+            "example": "El cambio climático es uno de los mayores desafíos de nuestro tiempo.",
+            "example_zh": "氣候變遷是我們這個時代最大的挑戰之一。"
+          },
+          {
+            "word": "invertir",
+            "pos": "v.",
+            "zh": "投資、投入",
+            "example": "Es importante invertir en educación desde una edad temprana.",
+            "example_zh": "從小就投資於教育是很重要的。"
+          },
+          {
+            "word": "urbanismo",
+            "pos": "n.m.",
+            "zh": "都市規劃、城市學",
+            "example": "Estudió urbanismo para diseñar mejores ciudades.",
+            "example_zh": "他學習都市規劃，以便設計更好的城市。"
+          },
+          {
+            "word": "barrio",
+            "pos": "n.m.",
+            "zh": "社區、街區",
+            "example": "Nació en un barrio pequeño al norte de la ciudad.",
+            "example_zh": "他出生在城市北部的一個小社區。"
+          },
+          {
+            "word": "combinar",
+            "pos": "v.",
+            "zh": "結合、組合",
+            "example": "Este proyecto combina arte y tecnología de forma creativa.",
+            "example_zh": "這個項目以創意的方式結合了藝術與科技。"
+          },
+          {
+            "word": "formación",
+            "pos": "n.f.",
+            "zh": "培訓、教育養成",
+            "example": "Recibió formación profesional antes de comenzar a trabajar.",
+            "example_zh": "她在開始工作之前接受了職業培訓。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué imaginaba el autor cuando era niño?",
+            "options": [
+              "Que las ciudades estarían llenas de árboles y jardines.",
+              "Que las ciudades del futuro tendrían robots y coches voladores.",
+              "Que la gente viviría en el campo y no en ciudades.",
+              "Que los gobiernos controlarían toda la tecnología."
+            ],
+            "answer": 1,
+            "explain": "文章開頭明確說明作者小時候想像未來城市充滿機器人和飛行汽車（robots y coches voladores）。"
+          },
+          {
+            "q": "Según el texto, ¿para qué servirían los semáforos inteligentes?",
+            "options": [
+              "Para decorar las calles de la ciudad.",
+              "Para identificar a los conductores peligrosos.",
+              "Para cambiar automáticamente según el tráfico.",
+              "Para reemplazar a los policías de tránsito."
+            ],
+            "answer": 2,
+            "explain": "文章中提到交通號誌會「根據交通流量自動變換」（cambiarían automáticamente según el tráfico）。"
+          },
+          {
+            "q": "¿Por qué algunas personas temen la automatización?",
+            "options": [
+              "Porque haría las ciudades demasiado ruidosas.",
+              "Porque destruiría empleos tradicionales.",
+              "Porque costaría demasiado dinero construirla.",
+              "Porque reduciría los espacios verdes en las ciudades."
+            ],
+            "answer": 1,
+            "explain": "文章說明許多人擔心自動化會「摧毀傳統就業機會」（destruya empleos tradicionales）。"
+          },
+          {
+            "q": "¿Qué vio el autor en la exposición sobre urbanismo?",
+            "options": [
+              "Robots que construían edificios de forma autónoma.",
+              "Proyectos donde los vecinos participaban en el diseño de su barrio.",
+              "Coches voladores que sobrevolaban la ciudad.",
+              "Edificios completamente construidos con materiales reciclados."
+            ],
+            "answer": 1,
+            "explain": "作者在展覽中看到居民積極參與自己社區設計的項目（vecinos participaban activamente en el diseño de su barrio）。"
+          },
+          {
+            "q": "Según el autor, ¿cuáles serán las mejores ciudades del futuro?",
+            "options": [
+              "Las que tengan más tecnología y menos espacios naturales.",
+              "Las que sean completamente administradas por inteligencia artificial.",
+              "Las que combinen tecnología moderna con necesidades humanas reales.",
+              "Las que prohíban el uso de vehículos de combustión."
+            ],
+            "answer": 2,
+            "explain": "文章結尾作者表達觀點：最好的未來城市將是那些「結合現代科技與真實人類需求」的城市（combinen la tecnología moderna con las necesidades humanas reales）。"
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "2026-08-11-real-1",
+        "source": "real",
+        "level_label": "約 B2–C1",
+        "origin_url": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
+        "origin_name": "BBC Mundo",
+        "title": "Tragedia en Bahía Solano: el hijo del alcalde muere tras el terremoto en el Chocó",
+        "text": "La alcaldía de Bahía Solano, municipio del departamento del Chocó, informó que el hijo del alcalde Leonel Valencia falleció este lunes a causa del terremoto que sacudió la región. La víctima, Mateo Valencia, tenía apenas 6 años y se encontraba en su colegio en el momento en que se desató el sismo.\n\n\"La partida de Mateo enluta profundamente a nuestra institucionalidad y a todo el municipio de Bahía Solano\", se leía en un comunicado publicado en redes sociales por la alcaldía. Las palabras reflejan el dolor colectivo de una comunidad golpeada por la tragedia.\n\nBahía Solano es un municipio costero ubicado en medio de la espesa selva chocoana, en el litoral Pacífico colombiano. Como ocurre con muchos otros municipios del departamento del Chocó, no cuenta con conexión vial con el resto del país, lo que dificulta enormemente las labores de rescate y la llegada de ayuda humanitaria tras desastres naturales de esta magnitud.\n\nLa tragedia no se limitó a Bahía Solano. La gobernadora del Valle del Cauca informó anteriormente sobre la muerte de tres niños en el municipio de Zarzal, fallecidos por el colapso de un muro durante el mismo sismo. Estas pérdidas humanas, especialmente de menores de edad, subrayan la vulnerabilidad de las comunidades ante los fenómenos naturales y la urgente necesidad de reforzar la infraestructura escolar en zonas de alto riesgo sísmico en Colombia.",
+        "translation": "喬科省巴伊亞索拉諾市政府宣布，市長萊昂內爾·巴倫西亞的兒子於本週一因地震罹難。遇難者馬泰奧·巴倫西亞年僅六歲，地震發生時正身處學校。\n\n市政府在社群媒體發布的公告中寫道：「馬泰奧的離世令我們的政府機構及巴伊亞索拉諾全體市民深陷哀慟。」這些文字道出了一個遭受悲劇重創的社區的集體悲痛。\n\n巴伊亞索拉諾是一個沿海市鎮，位於哥倫比亞太平洋岸喬科濃密叢林的深處。如同喬科省其他許多市鎮一樣，該地與全國其他地區之間沒有公路連接，這使得災難發生後的搜救工作及人道主義援助的抵達極為困難。\n\n悲劇並不僅限於巴伊亞索拉諾。卡利山谷省省長早些時候通報，薩爾薩爾市有三名兒童在同一地震中因一面牆壁倒塌而喪生。這些生命的逝去，尤其是未成年人的犧牲，凸顯了社區在自然災害面前的脆弱性，以及緊迫需要加強哥倫比亞高地震風險地區學校基礎設施的必要性。",
+        "words": [
+          {
+            "word": "fallecer",
+            "pos": "動詞",
+            "zh": "逝世、死亡（較正式用語）",
+            "example": "El niño falleció a causa del colapso del edificio durante el sismo.",
+            "example_zh": "這名男孩在地震中因建築物倒塌而罹難。"
+          },
+          {
+            "word": "desatarse",
+            "pos": "代動詞",
+            "zh": "（災害、風暴等）爆發、突然發生",
+            "example": "Nadie esperaba que se desatara un terremoto de tal magnitud.",
+            "example_zh": "沒有人預料到會爆發如此規模的地震。"
+          },
+          {
+            "word": "enlutarse / enlutar",
+            "pos": "動詞",
+            "zh": "使陷入哀慟、令……披喪",
+            "example": "La muerte del niño enlutó a toda la comunidad escolar.",
+            "example_zh": "這名孩子的死讓整個學校社群陷入哀慟。"
+          },
+          {
+            "word": "comunicado",
+            "pos": "名詞（陽性）",
+            "zh": "公告、聲明、通報",
+            "example": "La alcaldía publicó un comunicado oficial sobre las víctimas del desastre.",
+            "example_zh": "市政府就災難遇難者發布了一份官方公告。"
+          },
+          {
+            "word": "espesa selva",
+            "pos": "名詞片語",
+            "zh": "茂密的叢林、濃密的熱帶雨林",
+            "example": "El pueblo estaba rodeado por la espesa selva amazónica.",
+            "example_zh": "這個村子四周被茂密的亞馬遜叢林所環繞。"
+          },
+          {
+            "word": "conexión vial",
+            "pos": "名詞片語",
+            "zh": "公路連接、道路聯繫",
+            "example": "La falta de conexión vial aisló a los habitantes tras el huracán.",
+            "example_zh": "颶風過後，公路連接的缺失使居民陷入孤立。"
+          },
+          {
+            "word": "colapso",
+            "pos": "名詞（陽性）",
+            "zh": "倒塌、崩潰、垮塌",
+            "example": "El colapso del puente dejó incomunicadas a varias comunidades.",
+            "example_zh": "橋樑的倒塌使好幾個社區失去對外聯繫。"
+          },
+          {
+            "word": "ayuda humanitaria",
+            "pos": "名詞片語",
+            "zh": "人道主義援助",
+            "example": "Las organizaciones internacionales enviaron ayuda humanitaria a las zonas afectadas.",
+            "example_zh": "各國際組織向受災地區派送了人道主義援助。"
+          },
+          {
+            "word": "riesgo sísmico",
+            "pos": "名詞片語",
+            "zh": "地震風險",
+            "example": "Las autoridades deben evaluar el riesgo sísmico antes de construir escuelas.",
+            "example_zh": "當局在建設學校之前必須評估地震風險。"
+          },
+          {
+            "word": "subrayar",
+            "pos": "動詞",
+            "zh": "強調、凸顯",
+            "example": "Esta tragedia subraya la necesidad de mejorar los sistemas de alerta temprana.",
+            "example_zh": "這場悲劇凸顯了改善早期預警系統的必要性。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Dónde se encontraba Mateo Valencia cuando ocurrió el terremoto?",
+            "options": [
+              "En su casa con su familia",
+              "En su colegio",
+              "En la alcaldía con su padre",
+              "En la selva chocoana"
+            ],
+            "answer": 1,
+            "explain": "根據文章，馬泰奧·巴倫西亞在地震發生時正身處學校（colegio）。"
+          },
+          {
+            "q": "¿Cuántos años tenía Mateo Valencia al momento de su muerte?",
+            "options": [
+              "3 años",
+              "8 años",
+              "6 años",
+              "10 años"
+            ],
+            "answer": 2,
+            "explain": "文章明確指出馬泰奧年僅六歲（apenas 6 años）。"
+          },
+          {
+            "q": "¿Por qué resulta especialmente difícil brindar ayuda a Bahía Solano tras el desastre?",
+            "options": [
+              "Porque el municipio está en el extranjero",
+              "Porque no tiene aeropuerto internacional",
+              "Porque no está conectado por tierra con el resto del país",
+              "Porque las autoridades locales se negaron a pedir ayuda"
+            ],
+            "answer": 2,
+            "explain": "文章說明巴伊亞索拉諾與全國其他地區之間沒有公路連接（no está conectado por tierra con el resto del país），這使救援工作極為困難。"
+          },
+          {
+            "q": "¿Qué causó la muerte de los tres niños en Zarzal?",
+            "options": [
+              "Un incendio en una escuela",
+              "La caída de un árbol",
+              "Una inundación repentina",
+              "El colapso de un muro"
+            ],
+            "answer": 3,
+            "explain": "文章提到薩爾薩爾的三名兒童是因一面牆壁倒塌（colapso de un muro）而罹難。"
+          },
+          {
+            "q": "¿Qué significa la expresión \"enluta profundamente\" en el comunicado de la alcaldía?",
+            "options": [
+              "Causa una gran alegría en la comunidad",
+              "Genera confusión entre las autoridades",
+              "Sume en un profundo dolor y luto a la comunidad",
+              "Obliga a cerrar las instituciones públicas temporalmente"
+            ],
+            "answer": 2,
+            "explain": "「enluta profundamente」意指「令……深陷哀慟與悲痛」，表達社區因這一失去而承受的深重悲傷與哀悼之情。"
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-08-11-real-2",
+        "source": "real",
+        "level_label": "約 B2–C1",
+        "origin_url": "https://www.bbc.com/mundo/articles/c86ne3y198qo?at_medium=RSS&at_campaign=rss",
+        "origin_name": "BBC Mundo",
+        "title": "Un sismo de magnitud 7,4 sacude el occidente de Colombia",
+        "text": "El occidente de Colombia registró este lunes un potente sismo con epicentro en el municipio de San José del Palmar, en el departamento del Chocó, que se sintió en gran parte del país. El terremoto de magnitud 7,4, según el Servicio Geológico de Estados Unidos (USGS), tuvo una profundidad de 107 km y se produjo a las 7:34 de la mañana, hora local.\n\nEl sismo provocó importantes daños materiales y humanos en ciudades como Cali, Pereira y Manizales, causando la muerte de decenas de personas. Las imágenes que circularon en los medios de comunicación mostraban edificios derrumbados, calles agrietadas y ciudadanos en estado de shock buscando refugio tras el violento movimiento telúrico.\n\nEl director general del Servicio Geológico Colombiano, Julio Fierro Morales, aseguró que se trata del sismo más fuerte que se ha sentido en la última década en el país. Las autoridades activaron de inmediato los protocolos de emergencia y desplegaron equipos de rescate en las zonas más afectadas, mientras que los hospitales de las ciudades cercanas declararon alerta máxima para atender a los heridos.\n\nLa magnitud del desastre generó una respuesta inmediata tanto a nivel nacional como internacional, con varios países y organismos humanitarios ofreciendo asistencia. Los expertos advirtieron a la población sobre la posibilidad de réplicas sísmicas en las horas y días siguientes, instando a los ciudadanos a mantenerse alejados de estructuras dañadas y a seguir las indicaciones de la Defensa Civil.",
+        "translation": "週一，哥倫比亞西部發生了一場強烈地震，震央位於喬科省聖荷西德爾帕爾馬市，震感遍及全國大部分地區。根據美國地質調查局（USGS）的數據，這場規模7.4的地震震源深度達107公里，發生於當地時間早上7時34分。\n\n此次地震在卡利、佩雷拉和馬尼薩萊斯等城市造成重大人員傷亡與財產損失，導致數十人罹難。在各媒體流傳的影像中，可以看到倒塌的建築、龜裂的街道，以及驚魂未定、四處尋找避難所的市民。\n\n哥倫比亞地質調查局局長胡利奧·費耶羅·莫拉萊斯表示，這是該國近十年來所感受到的最強烈地震。當局立即啟動緊急應變機制，並在受災最嚴重的地區部署救援隊伍，同時附近城市的醫院也宣布進入最高警戒狀態，以救治傷患。\n\n這場災難的規模引發了國內外的即時回應，多個國家和人道主義組織紛紛提供援助。專家警告民眾，在接下來數小時乃至數天內，餘震發生的可能性仍然存在，並敦促市民遠離受損建築，遵從民防部門的指示。",
+        "words": [
+          {
+            "word": "registrar",
+            "pos": "動詞",
+            "zh": "記錄；發生（用於事件）",
+            "example": "La región registró las temperaturas más bajas del año.",
+            "example_zh": "該地區記錄到今年最低氣溫。"
+          },
+          {
+            "word": "epicentro",
+            "pos": "名詞（陽性）",
+            "zh": "震央；事件核心",
+            "example": "El epicentro del terremoto se localizó a 50 km de la costa.",
+            "example_zh": "地震的震央位於距海岸50公里處。"
+          },
+          {
+            "word": "profundidad",
+            "pos": "名詞（陰性）",
+            "zh": "深度；深淺",
+            "example": "El sismo tuvo una profundidad de 30 km bajo la superficie terrestre.",
+            "example_zh": "這場地震發生在地表以下30公里的深度。"
+          },
+          {
+            "word": "daños materiales y humanos",
+            "pos": "慣用語（名詞短語）",
+            "zh": "財物損失與人員傷亡",
+            "example": "El huracán causó cuantiosos daños materiales y humanos en la isla.",
+            "example_zh": "颶風在島上造成大量財物損失與人員傷亡。"
+          },
+          {
+            "word": "movimiento telúrico",
+            "pos": "名詞短語（陽性）",
+            "zh": "地震（地殼運動的正式說法）",
+            "example": "El movimiento telúrico fue percibido por miles de habitantes.",
+            "example_zh": "這場地震被數千名居民所感受到。"
+          },
+          {
+            "word": "desplegar",
+            "pos": "動詞",
+            "zh": "部署；展開（人員或資源）",
+            "example": "El ejército desplegó tropas en la zona afectada por las inundaciones.",
+            "example_zh": "軍隊在洪災受災區部署了部隊。"
+          },
+          {
+            "word": "réplica sísmica",
+            "pos": "名詞短語（陰性）",
+            "zh": "餘震",
+            "example": "Tras el terremoto principal, se registraron varias réplicas sísmicas de menor intensidad.",
+            "example_zh": "主震過後，記錄到數次強度較低的餘震。"
+          },
+          {
+            "word": "instar a",
+            "pos": "動詞片語",
+            "zh": "敦促；催促（某人做某事）",
+            "example": "Las autoridades instaron a la población a evacuar la zona costera.",
+            "example_zh": "當局敦促民眾撤離沿海地區。"
+          },
+          {
+            "word": "alerta máxima",
+            "pos": "名詞短語（陰性）",
+            "zh": "最高警戒狀態",
+            "example": "Los bomberos declararon alerta máxima ante el rápido avance del incendio.",
+            "example_zh": "消防員面對迅速蔓延的火勢宣布進入最高警戒狀態。"
+          },
+          {
+            "word": "se trata de",
+            "pos": "慣用語（動詞短語）",
+            "zh": "這是……；涉及……（用於說明或定性）",
+            "example": "Se trata de la crisis económica más grave de los últimos veinte años.",
+            "example_zh": "這是近二十年來最嚴重的經濟危機。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿En qué departamento de Colombia se ubicó el epicentro del sismo?",
+            "options": [
+              "En el departamento de Antioquia",
+              "En el departamento del Chocó",
+              "En el departamento del Valle del Cauca",
+              "En el departamento de Risaralda"
+            ],
+            "answer": 1,
+            "explain": "文章明確指出震央位於喬科省（departamento del Chocó）的聖荷西德爾帕爾馬市，故答案為選項B。"
+          },
+          {
+            "q": "Según el USGS, ¿cuál fue la profundidad del terremoto?",
+            "options": [
+              "30 kilómetros",
+              "74 kilómetros",
+              "107 kilómetros",
+              "150 kilómetros"
+            ],
+            "answer": 2,
+            "explain": "文章提到地震震源深度為107公里（una profundidad de 107 km），故答案為選項C。"
+          },
+          {
+            "q": "¿Qué afirmó el director del Servicio Geológico Colombiano sobre el sismo?",
+            "options": [
+              "Que fue el sismo más fuerte registrado en toda la historia del país",
+              "Que la magnitud fue inferior a lo esperado para la región",
+              "Que fue el sismo más fuerte sentido en Colombia en la última década",
+              "Que el sismo no generaría réplicas significativas"
+            ],
+            "answer": 2,
+            "explain": "胡利奧·費耶羅·莫拉萊斯表示，這是「該國近十年來所感受到的最強烈地震」（el sismo más fuerte que se ha sentido en la última década en el país），注意是「近十年」而非「有史以來」，故答案為選項C。"
+          },
+          {
+            "q": "¿Qué medida tomaron los hospitales de las ciudades cercanas tras el sismo?",
+            "options": [
+              "Evacuaron a todos sus pacientes hacia zonas seguras",
+              "Declararon alerta máxima para atender a los heridos",
+              "Solicitaron ayuda exclusivamente a organismos internacionales",
+              "Cerraron temporalmente sus instalaciones por daños estructurales"
+            ],
+            "answer": 1,
+            "explain": "文章指出附近城市的醫院「宣布進入最高警戒狀態，以救治傷患」（declararon alerta máxima para atender a los heridos），故答案為選項B。"
+          },
+          {
+            "q": "¿Qué recomendaron los expertos a la población tras el sismo?",
+            "options": [
+              "Regresar a sus hogares lo antes posible para evaluar los daños",
+              "Ignorar las advertencias oficiales y actuar de forma independiente",
+              "Mantenerse alejados de estructuras dañadas y seguir las indicaciones de la Defensa Civil",
+              "Abandonar el país hasta que cesaran completamente las réplicas"
+            ],
+            "answer": 2,
+            "explain": "文章提到專家「敦促市民遠離受損建築，遵從民防部門的指示」（instando a los ciudadanos a mantenerse alejados de estructuras dañadas y a seguir las indicaciones de la Defensa Civil），故答案為選項C。"
+          }
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "2026-08-11-C2-fallback",
+        "source": "ai",
+        "level_label": "約 C2（AI 生成）",
+        "title": "Las ciudades del futuro",
+        "text": "Cuando era niño, imaginaba que las ciudades del futuro serían lugares llenos de robots y coches voladores. Aunque esa visión parecía imposible, hoy en día muchos expertos creen que algunas de esas ideas podrían hacerse realidad en las próximas décadas.\n\nSe espera que las ciudades futuras sean más sostenibles y ecológicas. Si los gobiernos invirtieran más en energías renovables, la contaminación del aire disminuiría considerablemente. Además, muchos arquitectos diseñan edificios que producen su propia electricidad gracias a paneles solares instalados en los tejados.\n\nOtro cambio importante sería el transporte. Los especialistas afirman que los vehículos eléctricos y autónomos reemplazarían a los coches tradicionales, lo cual reduciría el número de accidentes y mejoraría la calidad del aire. También se construirían más carriles para bicicletas y zonas peatonales para que los ciudadanos pudieran moverse con mayor libertad.\n\nSin embargo, no todo sería perfecto. Muchas personas temen que la tecnología avanzada creara desigualdades sociales, ya que no todos tendrían acceso a los mismos recursos. Por eso, sería fundamental que las autoridades trabajaran juntas para garantizar que los beneficios del progreso llegaran a toda la población.",
+        "translation": "當我還是個孩子的時候，我想像未來的城市將是充滿機器人和飛行汽車的地方。儘管那樣的願景看起來不可能實現，但如今許多專家相信，其中一些想法可能在未來幾十年內成真。\n\n預計未來的城市將更加永續環保。如果各國政府在可再生能源上投入更多資金，空氣污染將會大幅減少。此外，許多建築師正在設計能夠自行發電的建築，這要歸功於安裝在屋頂上的太陽能板。\n\n另一個重要的改變將是交通運輸。專家們表示，電動和自動駕駛車輛將取代傳統汽車，這將減少事故數量並改善空氣品質。此外，還會建造更多自行車道和步行區，讓市民能夠更自由地移動。\n\n然而，並非一切都會是完美的。許多人擔心先進技術會造成社會不平等，因為並非所有人都能獲得相同的資源。因此，當局共同合作以確保進步的利益惠及全體民眾，將是至關重要的。",
+        "words": [
+          {
+            "word": "sostenible",
+            "pos": "adj.",
+            "zh": "永續的、可持續的",
+            "example": "Es importante construir ciudades más sostenibles para el medio ambiente.",
+            "example_zh": "為了環境，建造更永續的城市是很重要的。"
+          },
+          {
+            "word": "renovable",
+            "pos": "adj.",
+            "zh": "可再生的、再生的",
+            "example": "La energía renovable incluye la solar y la eólica.",
+            "example_zh": "可再生能源包括太陽能和風能。"
+          },
+          {
+            "word": "disminuir",
+            "pos": "v.",
+            "zh": "減少、降低",
+            "example": "Si usamos menos plástico, la contaminación disminuiría.",
+            "example_zh": "如果我們少用塑膠，污染就會減少。"
+          },
+          {
+            "word": "tejado",
+            "pos": "n. m.",
+            "zh": "屋頂",
+            "example": "Los paneles solares están instalados en el tejado del edificio.",
+            "example_zh": "太陽能板安裝在建築物的屋頂上。"
+          },
+          {
+            "word": "autónomo",
+            "pos": "adj.",
+            "zh": "自動的、自主的",
+            "example": "Los vehículos autónomos pueden conducirse sin conductor.",
+            "example_zh": "自動駕駛車輛可以在沒有駕駛員的情況下行駛。"
+          },
+          {
+            "word": "reemplazar",
+            "pos": "v.",
+            "zh": "取代、替換",
+            "example": "Las computadoras reemplazaron a las máquinas de escribir.",
+            "example_zh": "電腦取代了打字機。"
+          },
+          {
+            "word": "carril",
+            "pos": "n. m.",
+            "zh": "車道、行車道",
+            "example": "La ciudad construyó nuevos carriles para bicicletas.",
+            "example_zh": "這座城市建造了新的自行車道。"
+          },
+          {
+            "word": "peatonal",
+            "pos": "adj.",
+            "zh": "步行的、行人的",
+            "example": "Hay muchas zonas peatonales en el centro de la ciudad.",
+            "example_zh": "市中心有許多步行區。"
+          },
+          {
+            "word": "desigualdad",
+            "pos": "n. f.",
+            "zh": "不平等、不均",
+            "example": "La desigualdad social es un problema grave en muchos países.",
+            "example_zh": "社會不平等在許多國家是個嚴重的問題。"
+          },
+          {
+            "word": "garantizar",
+            "pos": "v.",
+            "zh": "保證、確保",
+            "example": "El gobierno debe garantizar el acceso a la educación para todos.",
+            "example_zh": "政府必須確保所有人都能接受教育。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué imaginaba el autor cuando era niño?",
+            "options": [
+              "Que las ciudades estarían llenas de árboles y jardines.",
+              "Que las ciudades del futuro tendrían robots y coches voladores.",
+              "Que la gente viviría en el campo.",
+              "Que los edificios serían muy pequeños."
+            ],
+            "answer": 1,
+            "explain": "文章開頭明確指出，作者小時候想像未來城市會充滿機器人和飛行汽車（robots y coches voladores）。"
+          },
+          {
+            "q": "Según el texto, ¿qué pasaría si los gobiernos invirtieran más en energías renovables?",
+            "options": [
+              "Habría más coches en las calles.",
+              "La contaminación del aire disminuiría.",
+              "Los edificios producirían más basura.",
+              "Los ciudadanos pagarían más impuestos."
+            ],
+            "answer": 1,
+            "explain": "文章使用條件式說明，若政府增加對可再生能源的投資，空氣污染（contaminación del aire）將會減少（disminuiría）。"
+          },
+          {
+            "q": "¿Para qué sirven los paneles solares mencionados en el texto?",
+            "options": [
+              "Para calentar el agua de los edificios.",
+              "Para decorar los tejados de las casas.",
+              "Para que los edificios produzcan su propia electricidad.",
+              "Para reducir el ruido de la ciudad."
+            ],
+            "answer": 2,
+            "explain": "文章提到建築師設計能透過屋頂太陽能板自行生產電力（producen su propia electricidad）的建築物。"
+          },
+          {
+            "q": "¿Cuál sería una ventaja de los vehículos autónomos según el texto?",
+            "options": [
+              "Serían más baratos que los coches actuales.",
+              "Reducirían el número de accidentes y mejorarían la calidad del aire.",
+              "Podrían volar sobre los edificios.",
+              "Funcionarían con gasolina especial."
+            ],
+            "answer": 1,
+            "explain": "文章明確說明，自動駕駛車輛將減少事故數量（reduciría el número de accidentes）並改善空氣品質（mejoraría la calidad del aire）。"
+          },
+          {
+            "q": "¿Cuál es la principal preocupación que menciona el texto sobre el futuro tecnológico?",
+            "options": [
+              "Que haya demasiados robots en las ciudades.",
+              "Que los coches eléctricos sean muy lentos.",
+              "Que la tecnología avanzada creara desigualdades sociales.",
+              "Que los edificios sean demasiado altos."
+            ],
+            "answer": 2,
+            "explain": "文章最後提到，許多人擔心先進技術會造成社會不平等（desigualdades sociales），因為不是所有人都能獲得相同的資源。"
+          }
+        ]
+      }
+    ]
+  }
+}

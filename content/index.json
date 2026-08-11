@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-12",
     "2026-08-11",
     "2026-08-10",
     "2026-08-09",
@@ -26,6 +27,59 @@
     "2026-07-18"
   ],
   "days": [
+    {
+      "date": "2026-08-12",
+      "articles": [
+        {
+          "id": "2026-08-12-A1-1",
+          "level": "A1",
+          "title": "Mi familia",
+          "source": "ai",
+          "level_label": "A1",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-08-12-A2-1",
+          "level": "A2",
+          "title": "Un viaje inolvidable",
+          "source": "ai",
+          "level_label": "A2",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-08-12-B1-1",
+          "level": "B1",
+          "title": "El trabajo ideal",
+          "source": "ai",
+          "level_label": "B1",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-08-12-B2-fallback",
+          "level": "B2",
+          "title": "El trabajo ideal",
+          "source": "ai",
+          "level_label": "約 B2（AI 生成）",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-08-12-real-2",
+          "level": "C1",
+          "title": "El terremoto derrumbó un muro y desató una tragedia en la cárcel de Buenaventura",
+          "source": "real",
+          "level_label": "約 B2–C1",
+          "origin_name": "BBC Mundo"
+        },
+        {
+          "id": "2026-08-12-C2-fallback",
+          "level": "C2",
+          "title": "El trabajo ideal",
+          "source": "ai",
+          "level_label": "約 C2（AI 生成）",
+          "origin_name": ""
+        }
+      ]
+    },
     {
       "date": "2026-08-11",
       "articles": [

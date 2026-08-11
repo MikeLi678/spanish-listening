@@ -1,0 +1,841 @@
+{
+  "date": "2026-08-12",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-08-12-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Mi familia",
+        "text": "Me llamo Sofía. Tengo una familia pequeña. Mi padre se llama Carlos y trabaja en una oficina. Mi madre se llama Ana y cocina muy bien. Tengo un hermano. Se llama Luis y tiene diez años. Mi abuela vive con nosotros. Ella es muy simpática. Yo quiero mucho a mi familia.",
+        "translation": "我叫索菲亞。我有一個小家庭。我的父親叫卡洛斯，在辦公室工作。我的母親叫安娜，做菜做得很好。我有一個兄弟。他叫路易斯，今年十歲。我的祖母和我們住在一起。她非常和善。我非常愛我的家人。",
+        "words": [
+          {
+            "word": "familia",
+            "pos": "n.f.",
+            "zh": "家庭",
+            "example": "Tengo una familia grande.",
+            "example_zh": "我有一個大家庭。"
+          },
+          {
+            "word": "padre",
+            "pos": "n.m.",
+            "zh": "父親",
+            "example": "Mi padre trabaja mucho.",
+            "example_zh": "我的父親工作很努力。"
+          },
+          {
+            "word": "madre",
+            "pos": "n.m.",
+            "zh": "母親",
+            "example": "Mi madre es doctora.",
+            "example_zh": "我的母親是醫生。"
+          },
+          {
+            "word": "hermano",
+            "pos": "n.m.",
+            "zh": "兄弟",
+            "example": "Tengo un hermano y una hermana.",
+            "example_zh": "我有一個兄弟和一個姊妹。"
+          },
+          {
+            "word": "abuela",
+            "pos": "n.f.",
+            "zh": "祖母／外祖母",
+            "example": "Mi abuela tiene setenta años.",
+            "example_zh": "我的祖母七十歲。"
+          },
+          {
+            "word": "pequeño/a",
+            "pos": "adj.",
+            "zh": "小的",
+            "example": "Vivo en una casa pequeña.",
+            "example_zh": "我住在一間小房子裡。"
+          },
+          {
+            "word": "trabajar",
+            "pos": "v.",
+            "zh": "工作",
+            "example": "Ella trabaja en un hospital.",
+            "example_zh": "她在醫院工作。"
+          },
+          {
+            "word": "vivir",
+            "pos": "v.",
+            "zh": "居住；生活",
+            "example": "Nosotros vivimos en Madrid.",
+            "example_zh": "我們住在馬德里。"
+          },
+          {
+            "word": "simpático/a",
+            "pos": "adj.",
+            "zh": "和善的；友善的",
+            "example": "Mi profesor es muy simpático.",
+            "example_zh": "我的老師非常和善。"
+          },
+          {
+            "word": "querer",
+            "pos": "v.",
+            "zh": "愛；想要",
+            "example": "Quiero mucho a mis amigos.",
+            "example_zh": "我非常愛我的朋友們。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cómo se llama la chica del texto?",
+            "options": [
+              "Ana",
+              "Sofía",
+              "Luis",
+              "Carmen"
+            ],
+            "answer": 1,
+            "explain": "文章開頭寫道「Me llamo Sofía」，因此主角的名字是 Sofía。"
+          },
+          {
+            "q": "¿Dónde trabaja el padre de Sofía?",
+            "options": [
+              "En un hospital",
+              "En una escuela",
+              "En una oficina",
+              "En una tienda"
+            ],
+            "answer": 2,
+            "explain": "文中提到「trabaja en una oficina」，父親在辦公室工作。"
+          },
+          {
+            "q": "¿Cuántos años tiene Luis?",
+            "options": [
+              "Ocho años",
+              "Nueve años",
+              "Once años",
+              "Diez años"
+            ],
+            "answer": 3,
+            "explain": "文中寫道「tiene diez años」，路易斯今年十歲。"
+          },
+          {
+            "q": "¿Quién vive con la familia de Sofía?",
+            "options": [
+              "Su abuelo",
+              "Su tío",
+              "Su abuela",
+              "Su prima"
+            ],
+            "answer": 2,
+            "explain": "文中提到「Mi abuela vive con nosotros」，祖母和他們住在一起。"
+          },
+          {
+            "q": "¿Cómo es la familia de Sofía?",
+            "options": [
+              "Grande",
+              "Pequeña",
+              "Aburrida",
+              "Difícil"
+            ],
+            "answer": 1,
+            "explain": "文章第二句寫道「Tengo una familia pequeña」，索菲亞的家庭是小家庭。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-08-12-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Un viaje inolvidable",
+        "text": "El verano pasado, viajé a Barcelona con mi familia. Primero, visitamos la Sagrada Familia y sacamos muchas fotos. Después, caminamos por las Ramblas y comimos tapas deliciosas en un restaurante pequeño. El tiempo fue muy bueno y el mar estaba precioso. También fuimos a la playa y nadamos en el agua fría pero refrescante. Me gustó mucho la ciudad porque es muy animada y bonita. Aprendí algunas palabras en catalán y hablé con personas simpáticas. El viaje duró una semana. El próximo verano, voy a volver a España y voy a visitar Madrid y Sevilla.",
+        "translation": "去年夏天，我和家人一起去了巴塞隆納。首先，我們參觀了聖家堂，拍了很多照片。之後，我們沿著蘭布拉大道散步，在一家小餐廳裡吃了美味的小吃。天氣非常好，大海美極了。我們也去了海灘，在清涼但令人神清氣爽的海水裡游泳。我非常喜歡這座城市，因為它非常熱鬧又美麗。我學了一些加泰隆尼亞語的單字，也和友善的人們交談。旅程持續了一個星期。明年夏天，我打算回到西班牙，去參觀馬德里和塞維亞。",
+        "words": [
+          {
+            "word": "verano",
+            "pos": "n.m.",
+            "zh": "夏天",
+            "example": "En verano hace mucho calor en España.",
+            "example_zh": "西班牙的夏天非常熱。"
+          },
+          {
+            "word": "visitar",
+            "pos": "v.",
+            "zh": "參觀；拜訪",
+            "example": "Quiero visitar el museo mañana.",
+            "example_zh": "我想明天去參觀博物館。"
+          },
+          {
+            "word": "sacar fotos",
+            "pos": "loc.v.",
+            "zh": "拍照",
+            "example": "Sacamos fotos en la playa.",
+            "example_zh": "我們在海灘拍了照片。"
+          },
+          {
+            "word": "delicioso/a",
+            "pos": "adj.",
+            "zh": "美味的",
+            "example": "Las tapas estaban muy deliciosas.",
+            "example_zh": "那些小吃非常美味。"
+          },
+          {
+            "word": "precioso/a",
+            "pos": "adj.",
+            "zh": "美麗的；漂亮的",
+            "example": "El paisaje es precioso en primavera.",
+            "example_zh": "春天的風景很美麗。"
+          },
+          {
+            "word": "animado/a",
+            "pos": "adj.",
+            "zh": "熱鬧的；生氣勃勃的",
+            "example": "El mercado es muy animado los fines de semana.",
+            "example_zh": "市場在週末非常熱鬧。"
+          },
+          {
+            "word": "simpático/a",
+            "pos": "adj.",
+            "zh": "友善的；和藹的",
+            "example": "Los vecinos son muy simpáticos.",
+            "example_zh": "鄰居們非常友善。"
+          },
+          {
+            "word": "durar",
+            "pos": "v.",
+            "zh": "持續；維持",
+            "example": "La película duró dos horas.",
+            "example_zh": "這部電影持續了兩個小時。"
+          },
+          {
+            "word": "volver",
+            "pos": "v.",
+            "zh": "回去；返回",
+            "example": "Voy a volver a casa esta tarde.",
+            "example_zh": "我今天下午打算回家。"
+          },
+          {
+            "word": "próximo/a",
+            "pos": "adj.",
+            "zh": "下一個的；即將來臨的",
+            "example": "El próximo mes voy a empezar un curso nuevo.",
+            "example_zh": "下個月我要開始一門新課程。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Adónde viajó el autor el verano pasado?",
+            "options": [
+              "A Madrid",
+              "A Barcelona",
+              "A Sevilla",
+              "A Valencia"
+            ],
+            "answer": 1,
+            "explain": "文章開頭明確說明「viajé a Barcelona」，作者去年夏天前往巴塞隆納旅行。"
+          },
+          {
+            "q": "¿Qué hicieron en las Ramblas?",
+            "options": [
+              "Nadaron en el mar",
+              "Visitaron un museo",
+              "Caminaron y comieron tapas",
+              "Aprendieron catalán"
+            ],
+            "answer": 2,
+            "explain": "文中提到「caminamos por las Ramblas y comimos tapas」，他們在蘭布拉大道散步並吃了小吃。"
+          },
+          {
+            "q": "¿Cómo describe el autor el agua del mar?",
+            "options": [
+              "Caliente y sucia",
+              "Fría pero refrescante",
+              "Muy profunda y peligrosa",
+              "Cálida y tranquila"
+            ],
+            "answer": 1,
+            "explain": "文中描述海水為「fría pero refrescante」（清涼但令人神清氣爽），為正確答案。"
+          },
+          {
+            "q": "¿Cuánto tiempo duró el viaje?",
+            "options": [
+              "Tres días",
+              "Dos semanas",
+              "Una semana",
+              "Un mes"
+            ],
+            "answer": 2,
+            "explain": "文中明確寫道「El viaje duró una semana」，旅程共持續了一個星期。"
+          },
+          {
+            "q": "¿Qué va a hacer el autor el próximo verano?",
+            "options": [
+              "Va a ir a Barcelona otra vez",
+              "Va a visitar Madrid y Sevilla",
+              "Va a aprender catalán en casa",
+              "Va a viajar a Francia"
+            ],
+            "answer": 1,
+            "explain": "文章結尾使用 Futuro próximo 說明計畫：「voy a volver a España y voy a visitar Madrid y Sevilla」，他打算去馬德里和塞維亞。"
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "2026-08-12-B1-1",
+        "source": "ai",
+        "level_label": "B1",
+        "title": "El trabajo ideal",
+        "text": "Cuando era niño, siempre soñaba con ser astronauta o futbolista famoso. Sin embargo, a medida que fui creciendo, me di cuenta de que lo más importante en un trabajo no era la fama ni el dinero, sino la satisfacción personal.\n\nSi pudiera elegir libremente mi trabajo ideal, escogería una profesión que me permitiera ayudar a los demás y, al mismo tiempo, desarrollar mis habilidades creativas. Me gustaría trabajar en un ambiente donde los compañeros se respetaran mutuamente y donde existiera un equilibrio entre la vida laboral y la personal.\n\nHace unos años, tuve la oportunidad de hacer prácticas en una organización sin fines de lucro. Aunque el salario era bajo, me sentí muy satisfecho porque comprendí que mi trabajo tenía un impacto real en la comunidad. Esa experiencia me enseñó que el trabajo ideal no es el que mejor paga, sino el que te hace sentir que estás contribuyendo a algo más grande que tú mismo.\n\nAhora entiendo que, si uno trabaja con pasión y dedicación, los resultados llegan solos. Por eso, seguiré buscando una carrera que combine mis valores con mis talentos.",
+        "translation": "小時候，我總是夢想成為太空人或著名的足球員。然而，隨著我逐漸成長，我意識到工作中最重要的不是名聲也不是金錢，而是個人的滿足感。\n\n如果我能自由選擇我的理想工作，我會選擇一份能讓我幫助他人、同時發展我創造力的職業。我希望在一個同事互相尊重、工作與個人生活之間取得平衡的環境中工作。\n\n幾年前，我有機會在一個非營利組織實習。雖然薪水很低，但我感到非常滿足，因為我明白我的工作對社區有真實的影響。那段經歷教導我，理想的工作不是薪酬最高的那份，而是讓你感到自己正在為比自身更偉大的事物做出貢獻的那份。\n\n現在我明白，如果一個人懷著熱情與奉獻精神工作，結果自然會到來。因此，我將繼續尋找一份能將我的價值觀與才能結合起來的職業。",
+        "words": [
+          {
+            "word": "satisfacción",
+            "pos": "n.f.",
+            "zh": "滿足感；滿意",
+            "example": "Encontrar satisfacción en el trabajo es muy importante para la felicidad.",
+            "example_zh": "在工作中找到滿足感對幸福非常重要。"
+          },
+          {
+            "word": "elegir",
+            "pos": "v.",
+            "zh": "選擇",
+            "example": "Si pudieras elegir cualquier profesión, ¿cuál escogerías?",
+            "example_zh": "如果你能選擇任何職業，你會選哪一個？"
+          },
+          {
+            "word": "habilidad",
+            "pos": "n.f.",
+            "zh": "能力；技能",
+            "example": "Ella tiene muchas habilidades creativas que la ayudan en su trabajo.",
+            "example_zh": "她擁有許多創造性技能，這些技能在工作上幫助了她。"
+          },
+          {
+            "word": "equilibrio",
+            "pos": "n.m.",
+            "zh": "平衡",
+            "example": "Es difícil mantener un equilibrio entre el trabajo y la familia.",
+            "example_zh": "在工作和家庭之間保持平衡是很困難的。"
+          },
+          {
+            "word": "prácticas",
+            "pos": "n.f.pl.",
+            "zh": "實習",
+            "example": "Hice prácticas en una empresa internacional durante tres meses.",
+            "example_zh": "我在一家國際公司實習了三個月。"
+          },
+          {
+            "word": "sin fines de lucro",
+            "pos": "loc.adj.",
+            "zh": "非營利的",
+            "example": "Trabaja voluntariamente para una organización sin fines de lucro.",
+            "example_zh": "他自願為一個非營利組織工作。"
+          },
+          {
+            "word": "impacto",
+            "pos": "n.m.",
+            "zh": "影響；衝擊",
+            "example": "Ese proyecto tuvo un gran impacto positivo en la sociedad.",
+            "example_zh": "那個計畫對社會產生了巨大的正面影響。"
+          },
+          {
+            "word": "contribuir",
+            "pos": "v.",
+            "zh": "貢獻；有助於",
+            "example": "Todos podemos contribuir a mejorar nuestro entorno.",
+            "example_zh": "我們所有人都能為改善我們的環境做出貢獻。"
+          },
+          {
+            "word": "dedicación",
+            "pos": "n.f.",
+            "zh": "奉獻；專注",
+            "example": "Gracias a su dedicación, terminó el proyecto antes del plazo.",
+            "example_zh": "由於他的奉獻精神，他在截止日期前完成了該計畫。"
+          },
+          {
+            "word": "carrera",
+            "pos": "n.f.",
+            "zh": "職業生涯；學科",
+            "example": "Ella decidió cambiar de carrera después de diez años en la misma empresa.",
+            "example_zh": "在同一家公司工作十年後，她決定轉換職業跑道。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué quería ser el autor cuando era niño?",
+            "options": [
+              "Médico o profesor",
+              "Astronauta o futbolista",
+              "Artista o músico",
+              "Empresario o abogado"
+            ],
+            "answer": 1,
+            "explain": "文章開頭明確提到「siempre soñaba con ser astronauta o futbolista famoso（總是夢想成為太空人或著名的足球員）」。"
+          },
+          {
+            "q": "Según el autor, ¿qué es lo más importante en un trabajo?",
+            "options": [
+              "El salario alto",
+              "La fama internacional",
+              "La satisfacción personal",
+              "El horario flexible"
+            ],
+            "answer": 2,
+            "explain": "文中說「lo más importante en un trabajo no era la fama ni el dinero, sino la satisfacción personal（最重要的不是名聲也不是金錢，而是個人的滿足感）」。"
+          },
+          {
+            "q": "¿Cómo describe el autor el ambiente de trabajo ideal?",
+            "options": [
+              "Un lugar donde se gana mucho dinero",
+              "Un lugar donde los compañeros se respetan y hay equilibrio entre vida laboral y personal",
+              "Una oficina grande en el centro de la ciudad",
+              "Un trabajo que permite viajar constantemente"
+            ],
+            "answer": 1,
+            "explain": "文中描述理想工作環境為「donde los compañeros se respetaran mutuamente y donde existiera un equilibrio entre la vida laboral y la personal」。"
+          },
+          {
+            "q": "¿Por qué se sintió satisfecho el autor durante sus prácticas?",
+            "options": [
+              "Porque el salario era muy alto",
+              "Porque conoció a personas famosas",
+              "Porque su trabajo tenía un impacto real en la comunidad",
+              "Porque aprendió muchos idiomas"
+            ],
+            "answer": 2,
+            "explain": "文中說「me sentí muy satisfecho porque comprendí que mi trabajo tenía un impacto real en la comunidad（我感到非常滿足，因為我明白我的工作對社區有真實的影響）」。"
+          },
+          {
+            "q": "¿Qué conclusión saca el autor al final del texto?",
+            "options": [
+              "Que es mejor trabajar para empresas grandes",
+              "Que si uno trabaja con pasión y dedicación, los resultados llegan solos",
+              "Que el dinero es el factor más importante al elegir un trabajo",
+              "Que es imposible encontrar el trabajo ideal"
+            ],
+            "answer": 1,
+            "explain": "文章結尾明確指出「si uno trabaja con pasión y dedicación, los resultados llegan solos（如果一個人懷著熱情與奉獻精神工作，結果自然會到來）」。"
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "2026-08-12-B2-fallback",
+        "source": "ai",
+        "level_label": "約 B2（AI 生成）",
+        "title": "El trabajo ideal",
+        "text": "Desde pequeño, siempre soñé con tener un trabajo que me apasionara y que me permitiera ayudar a los demás. Cuando era estudiante, pensaba que lo más importante era ganar mucho dinero, pero con el tiempo me di cuenta de que la satisfacción personal vale más que un buen salario.\n\nSi pudiera elegir libremente, trabajaría como médico en una comunidad rural, donde la gente necesita atención médica con urgencia. Sé que sería un trabajo difícil y que habría momentos muy duros, pero creo que también traería grandes recompensas emocionales.\n\nMi trabajo ideal sería aquel en el que pudiera aprender algo nuevo cada día. Además, me gustaría tener compañeros con quienes pudiera colaborar y compartir ideas, porque pienso que el trabajo en equipo produce mejores resultados que el trabajo individual.\n\nAunque todavía no he encontrado ese trabajo perfecto, sigo buscándolo con optimismo. Estoy convencido de que, si uno trabaja con dedicación y pasión, tarde o temprano encontrará su camino. El trabajo ideal no es solo una fuente de ingresos, sino también una forma de realizarse como persona.",
+        "translation": "從小，我就一直夢想擁有一份讓我充滿熱情、並能幫助他人的工作。當我還是學生的時候，我認為最重要的是賺很多錢，但隨著時間的推移，我意識到個人的滿足感比高薪更有價值。\n\n如果我能自由選擇，我會在一個農村社區擔任醫生，那裡的人們迫切需要醫療照護。我知道這將是一份艱難的工作，會有非常艱辛的時刻，但我相信它也會帶來巨大的情感回報。\n\n我理想的工作是那種每天都能讓我學到新東西的工作。此外，我希望有能夠與我合作、分享想法的同事，因為我認為團隊合作比個人作業能產生更好的成果。\n\n雖然我還沒有找到那份完美的工作，但我仍然樂觀地繼續尋找。我堅信，如果一個人帶著投入與熱情工作，遲早會找到自己的道路。理想的工作不僅是收入來源，也是作為一個人實現自我的方式。",
+        "words": [
+          {
+            "word": "apasionar",
+            "pos": "v.",
+            "zh": "使充滿熱情、令人著迷",
+            "example": "Este proyecto me apasiona muchísimo.",
+            "example_zh": "這個專案讓我非常著迷。"
+          },
+          {
+            "word": "darse cuenta de",
+            "pos": "loc. v.",
+            "zh": "意識到、察覺到",
+            "example": "Me di cuenta de que había cometido un error.",
+            "example_zh": "我意識到自己犯了一個錯誤。"
+          },
+          {
+            "word": "salario",
+            "pos": "m.",
+            "zh": "薪資、工資",
+            "example": "El salario mínimo ha subido este año.",
+            "example_zh": "今年最低薪資已經上漲了。"
+          },
+          {
+            "word": "rural",
+            "pos": "adj.",
+            "zh": "農村的、鄉村的",
+            "example": "Muchos jóvenes abandonan las zonas rurales para buscar trabajo en la ciudad.",
+            "example_zh": "許多年輕人離開農村地區到城市尋找工作。"
+          },
+          {
+            "word": "recompensa",
+            "pos": "f.",
+            "zh": "回報、獎勵",
+            "example": "El esfuerzo siempre tiene su recompensa.",
+            "example_zh": "努力總會有其回報。"
+          },
+          {
+            "word": "colaborar",
+            "pos": "v.",
+            "zh": "合作、協作",
+            "example": "Es importante colaborar con los compañeros de trabajo.",
+            "example_zh": "與同事合作是很重要的。"
+          },
+          {
+            "word": "dedicación",
+            "pos": "f.",
+            "zh": "投入、奉獻、專注",
+            "example": "Logró su meta gracias a su dedicación y esfuerzo.",
+            "example_zh": "他靠著投入與努力達成了目標。"
+          },
+          {
+            "word": "ingresos",
+            "pos": "m. pl.",
+            "zh": "收入、所得",
+            "example": "Sus ingresos mensuales no son suficientes para vivir en la capital.",
+            "example_zh": "他的月收入不足以在首都生活。"
+          },
+          {
+            "word": "realizarse",
+            "pos": "v. pron.",
+            "zh": "實現自我、自我實現",
+            "example": "Quiero realizarme tanto en el trabajo como en la vida personal.",
+            "example_zh": "我希望在工作和個人生活中都能實現自我。"
+          },
+          {
+            "word": "convencido/a",
+            "pos": "adj.",
+            "zh": "確信的、深信的",
+            "example": "Estoy convencida de que tomaremos la decisión correcta.",
+            "example_zh": "我確信我們會做出正確的決定。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué pensaba el autor cuando era estudiante?",
+            "options": [
+              "Que lo más importante era ayudar a los demás.",
+              "Que lo más importante era ganar mucho dinero.",
+              "Que lo más importante era tener tiempo libre.",
+              "Que lo más importante era trabajar en equipo."
+            ],
+            "answer": 1,
+            "explain": "文中提到「cuando era estudiante, pensaba que lo más importante era ganar mucho dinero」，當他還是學生時，認為最重要的是賺很多錢，故答案為選項1。"
+          },
+          {
+            "q": "¿Qué trabajo elegiría el autor si pudiera elegir libremente?",
+            "options": [
+              "Trabajaría como profesor en una ciudad grande.",
+              "Trabajaría como ingeniero en una empresa internacional.",
+              "Trabajaría como médico en una comunidad rural.",
+              "Trabajaría como periodista en un periódico famoso."
+            ],
+            "answer": 2,
+            "explain": "文中使用條件式說明「trabajaría como médico en una comunidad rural」，若能自由選擇，他會在農村社區當醫生，故答案為選項2。"
+          },
+          {
+            "q": "Según el texto, ¿qué produce mejores resultados?",
+            "options": [
+              "El trabajo individual.",
+              "Trabajar sin descanso.",
+              "Ganar un salario alto.",
+              "El trabajo en equipo."
+            ],
+            "answer": 3,
+            "explain": "文中明確指出「el trabajo en equipo produce mejores resultados que el trabajo individual」，團隊合作比個人作業產生更好的成果，故答案為選項3。"
+          },
+          {
+            "q": "¿Cómo describe el autor su actitud mientras busca el trabajo ideal?",
+            "options": [
+              "Con tristeza y resignación.",
+              "Con optimismo.",
+              "Con indiferencia.",
+              "Con impaciencia y enojo."
+            ],
+            "answer": 1,
+            "explain": "文中說「sigo buscándolo con optimismo」，他仍然樂觀地繼續尋找，故答案為選項1。"
+          },
+          {
+            "q": "Según el autor, ¿qué es el trabajo ideal además de una fuente de ingresos?",
+            "options": [
+              "Una forma de volverse famoso.",
+              "Una manera de viajar por el mundo.",
+              "Una forma de realizarse como persona.",
+              "Una oportunidad de conocer a personas importantes."
+            ],
+            "answer": 2,
+            "explain": "文章最後一句提到「El trabajo ideal no es solo una fuente de ingresos, sino también una forma de realizarse como persona」，理想工作也是實現自我的方式，故答案為選項2。"
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-08-12-real-2",
+        "source": "real",
+        "level_label": "約 B2–C1",
+        "origin_url": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
+        "origin_name": "BBC Mundo",
+        "title": "El terremoto derrumbó un muro y desató una tragedia en la cárcel de Buenaventura",
+        "text": "En Buenaventura, Colombia, dos bandas criminales rivales —los shottas y los espartanos— llevan años enfrentadas en una sangrienta guerra territorial. Cerca de 366 miembros de ambas estructuras se encontraban recluidos en el Centro de Detención Transitorio Marte cuando un terremoto sacudió la región.\n\nEl sismo tuvo consecuencias fatales dentro del penal: según informó la brigadier general de la Policía, Liliana Rodríguez, el movimiento telúrico derribó uno de los muros que separaba físicamente a los dos grupos rivales. Esto permitió que, alrededor de las 9:30 de la noche, se desatara una violenta confrontación entre los reclusos, la cual derivó rápidamente en una conflagración que consumió las instalaciones.\n\nLos bomberos y las autoridades trabajaron durante horas para controlar el incendio, que finalmente fue extinguido a la 1:30 de la madrugada del martes. Sin embargo, el saldo fue devastador: seis personas perdieron la vida y el establecimiento carcelario quedó completamente destruido, según declaró Dilian Francisca Toro, gobernadora del Valle del Cauca.\n\nAnte la inhabilitación total del centro penitenciario, las autoridades iniciaron el traslado de los detenidos a otros establecimientos de la región. El incidente pone de manifiesto la vulnerabilidad de las infraestructuras carcelarias frente a los desastres naturales, así como los riesgos extremos que genera el hacinamiento de grupos antagónicos en un mismo recinto.",
+        "translation": "在哥倫比亞的布埃納文圖拉市，兩個對立的犯罪幫派——肖塔斯幫與斯巴達人幫——多年來持續進行著血腥的地盤爭奪戰。當地震撼動該地區時，這兩個幫派約366名成員正被關押在馬爾特臨時拘留中心。\n\n這場地震在監獄內造成了致命後果：根據警察准將莉莉亞娜·羅德里格斯的說法，地震震倒了在實體上將兩個對立群體隔開的一堵牆。這使得晚間約9點30分爆發了一場激烈的囚犯衝突，事態迅速演變為一場將設施吞噬殆盡的大火。\n\n消防員與當局奮力工作數小時後，火勢終於在週二凌晨1點30分被撲滅。然而，代價極為慘重：瓦耶德爾考卡省省長迪利安·弗朗西斯卡·托羅宣布，共有6人罹難，監獄設施已徹底被毀。\n\n由於該拘留中心完全喪失功能，當局開始將被拘留者轉移至該地區的其他設施。這一事件揭示了監獄基礎設施在面對自然災害時的脆弱性，以及將敵對群體關押在同一場所所帶來的極端風險。",
+        "words": [
+          {
+            "word": "desatarse",
+            "pos": "v. prnl.",
+            "zh": "爆發、引發（事件突然發生）",
+            "example": "Con la caída del muro, se desató un violento enfrentamiento entre los reclusos.",
+            "example_zh": "隨著牆壁倒塌，囚犯之間爆發了激烈衝突。"
+          },
+          {
+            "word": "conflagración",
+            "pos": "n. f.",
+            "zh": "大火；（比喻）激烈衝突",
+            "example": "La pelea entre los presos derivó en una conflagración que destruyó el edificio.",
+            "example_zh": "囚犯之間的打鬥演變成一場摧毀了建築的大火。"
+          },
+          {
+            "word": "recluido/a",
+            "pos": "adj. / part.",
+            "zh": "被關押的、被拘禁的",
+            "example": "Los más de trescientos detenidos estaban recluidos en condiciones precarias.",
+            "example_zh": "三百多名被拘留者在惡劣的條件下被關押著。"
+          },
+          {
+            "word": "movimiento telúrico",
+            "pos": "loc. n. m.",
+            "zh": "地震（地殼活動）",
+            "example": "El movimiento telúrico fue de magnitud 6.2 y se sintió en toda la región.",
+            "example_zh": "這場6.2級地震在整個地區都有震感。"
+          },
+          {
+            "word": "penal",
+            "pos": "n. m.",
+            "zh": "監獄、刑事場所",
+            "example": "El penal fue evacuado tras el incendio provocado por los reclusos.",
+            "example_zh": "監獄在囚犯引發火災後被疏散。"
+          },
+          {
+            "word": "hacinamiento",
+            "pos": "n. m.",
+            "zh": "過度擁擠、堆積（尤指監獄人口過剩）",
+            "example": "El hacinamiento en las cárceles aumenta el riesgo de violencia entre internos.",
+            "example_zh": "監獄中的過度擁擠增加了囚犯之間暴力事件的風險。"
+          },
+          {
+            "word": "saldo",
+            "pos": "n. m.",
+            "zh": "（事件的）結果、代價；傷亡人數",
+            "example": "El saldo del accidente fue de tres muertos y diez heridos.",
+            "example_zh": "這場事故造成三人死亡、十人受傷。"
+          },
+          {
+            "word": "poner de manifiesto",
+            "pos": "loc. v.",
+            "zh": "揭示、顯示、凸顯",
+            "example": "El desastre puso de manifiesto las deficiencias del sistema de emergencia.",
+            "example_zh": "這場災難凸顯了緊急應對系統的缺陷。"
+          },
+          {
+            "word": "recinto",
+            "pos": "n. m.",
+            "zh": "場所、圍起的空間、場地",
+            "example": "Está prohibido fumar dentro del recinto del hospital.",
+            "example_zh": "醫院場所內禁止吸菸。"
+          },
+          {
+            "word": "traslado",
+            "pos": "n. m.",
+            "zh": "轉移、調動、遷移",
+            "example": "Las autoridades ordenaron el traslado inmediato de los presos a otra instalación.",
+            "example_zh": "當局下令立即將囚犯轉移至另一設施。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué provocó directamente el enfrentamiento entre los dos grupos en la cárcel?",
+            "options": [
+              "Una pelea espontánea entre los líderes de las bandas",
+              "La caída de un muro divisorio causada por el terremoto",
+              "Un intento de fuga masiva organizado por los reclusos",
+              "La llegada de nuevos detenidos al centro penitenciario"
+            ],
+            "answer": 1,
+            "explain": "根據文章，地震震倒了隔開兩個幫派的牆壁，這才使兩群人得以接觸並爆發衝突。"
+          },
+          {
+            "q": "¿Cuántas personas fallecieron a causa de los disturbios e incendio?",
+            "options": [
+              "Tres",
+              "Doce",
+              "Seis",
+              "Dieciséis"
+            ],
+            "answer": 2,
+            "explain": "文章明確指出「Seis personas fallecieron」（六人死亡），這是由省長迪利安·弗朗西斯卡·托羅宣布的數字。"
+          },
+          {
+            "q": "¿A qué hora fue controlado el incendio en el centro de detención?",
+            "options": [
+              "A las 9:30 pm del lunes",
+              "A las 12:00 am del martes",
+              "A las 1:30 am del martes",
+              "A las 6:00 am del martes"
+            ],
+            "answer": 2,
+            "explain": "文章說明火災在「la 1:30 am del martes」（週二凌晨1點30分）被成功撲滅。"
+          },
+          {
+            "q": "¿Qué cargo ocupa Dilian Francisca Toro, mencionada en el texto?",
+            "options": [
+              "Brigadier general de la Policía Nacional",
+              "Directora del Centro de Detención Marte",
+              "Gobernadora del Valle del Cauca",
+              "Ministra de Justicia de Colombia"
+            ],
+            "answer": 2,
+            "explain": "文章清楚說明迪利安·弗朗西斯卡·托羅是「gobernadora del Valle del Cauca」（瓦耶德爾考卡省省長）。"
+          },
+          {
+            "q": "Según el texto, ¿qué reflexión final se plantea sobre el incidente?",
+            "options": [
+              "Que es necesario aumentar las penas para los miembros de bandas criminales",
+              "Que las infraestructuras carcelarias son vulnerables ante desastres naturales y el hacinamiento de grupos antagónicos es un riesgo extremo",
+              "Que los terremotos en Colombia son cada vez más frecuentes e impredecibles",
+              "Que las autoridades actuaron con negligencia al no separar a los grupos desde el principio"
+            ],
+            "answer": 1,
+            "explain": "文章最後一段強調這一事件「揭示了監獄基礎設施在面對自然災害時的脆弱性，以及將敵對群體關押在同一場所的極端風險」，這是文章提出的核心反思。"
+          }
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "2026-08-12-C2-fallback",
+        "source": "ai",
+        "level_label": "約 C2（AI 生成）",
+        "title": "El trabajo ideal",
+        "text": "Desde pequeño, siempre soñé con encontrar un trabajo que me apasionara de verdad. Cuando era estudiante, pensaba que lo más importante era ganar mucho dinero, pero con el tiempo me di cuenta de que eso no era suficiente. Ahora creo que el trabajo ideal sería aquel en el que pudiera combinar mis intereses personales con una contribución positiva a la sociedad.\n\nSi pudiera elegir libremente, trabajaría en el campo de la educación o del medio ambiente, porque son sectores que me parecen fundamentales para el futuro. Me gustaría tener un horario flexible que me permitiera disfrutar de tiempo libre con mi familia. Además, sería maravilloso trabajar en un equipo donde todos se respetaran y colaboraran con entusiasmo.\n\nHe conocido a personas que dejaron empleos bien pagados porque no se sentían realizadas. Sus experiencias me enseñaron que la satisfacción personal vale más que un salario alto. Por eso, aunque todavía no he encontrado mi trabajo perfecto, seguiré buscando una profesión que me haga feliz cada mañana cuando me levante.",
+        "translation": "從小，我就一直夢想找到一份真正令我熱愛的工作。還是學生的時候，我以為最重要的是賺很多錢，但隨著時間流逝，我意識到那並不夠。現在我認為，理想的工作應該是那種能讓我將個人興趣與對社會的正面貢獻結合起來的工作。\n\n如果我能自由選擇，我會在教育或環境領域工作，因為我認為這些是對未來至關重要的領域。我希望擁有彈性的工作時間，讓我能夠享受與家人共處的閒暇時光。此外，能在一個大家互相尊重、熱情合作的團隊中工作，那將會是美好的事。\n\n我認識過一些人，他們離開了薪水優渥的工作，因為他們感覺不到自我實現。他們的經歷讓我明白，個人的滿足感比高薪更有價值。因此，儘管我還沒找到我完美的工作，我仍會繼續尋找一份每天早上讓我起床時感到快樂的職業。",
+        "words": [
+          {
+            "word": "apasionar",
+            "pos": "v.",
+            "zh": "使充滿熱情、令人著迷",
+            "example": "Este proyecto me apasiona mucho.",
+            "example_zh": "這個專案讓我非常著迷。"
+          },
+          {
+            "word": "darse cuenta",
+            "pos": "loc. v.",
+            "zh": "意識到、察覺到",
+            "example": "Me di cuenta de que había cometido un error.",
+            "example_zh": "我意識到我犯了一個錯誤。"
+          },
+          {
+            "word": "combinar",
+            "pos": "v.",
+            "zh": "結合、搭配",
+            "example": "Es difícil combinar el trabajo con los estudios.",
+            "example_zh": "要同時兼顧工作和學業是很困難的。"
+          },
+          {
+            "word": "contribución",
+            "pos": "n. f.",
+            "zh": "貢獻",
+            "example": "Su contribución al proyecto fue muy valiosa.",
+            "example_zh": "她對這個專案的貢獻非常寶貴。"
+          },
+          {
+            "word": "horario flexible",
+            "pos": "loc. n.",
+            "zh": "彈性工時、彈性時間表",
+            "example": "Muchos empleados prefieren tener un horario flexible.",
+            "example_zh": "很多員工偏好擁有彈性工時。"
+          },
+          {
+            "word": "realizado/a",
+            "pos": "adj.",
+            "zh": "有成就感的、自我實現的",
+            "example": "Se siente muy realizada en su nuevo empleo.",
+            "example_zh": "她在新工作中感到非常有成就感。"
+          },
+          {
+            "word": "satisfacción",
+            "pos": "n. f.",
+            "zh": "滿足感、滿意",
+            "example": "La satisfacción personal es esencial para ser feliz.",
+            "example_zh": "個人的滿足感對於幸福至關重要。"
+          },
+          {
+            "word": "salario",
+            "pos": "n. m.",
+            "zh": "薪資、薪水",
+            "example": "El salario mínimo ha subido este año.",
+            "example_zh": "今年最低工資上漲了。"
+          },
+          {
+            "word": "fundamental",
+            "pos": "adj.",
+            "zh": "基本的、至關重要的",
+            "example": "La educación es fundamental para el desarrollo del país.",
+            "example_zh": "教育對於國家的發展至關重要。"
+          },
+          {
+            "word": "profesión",
+            "pos": "n. f.",
+            "zh": "職業、專業",
+            "example": "La medicina es una profesión muy exigente.",
+            "example_zh": "醫學是一個要求很高的職業。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué pensaba el autor cuando era estudiante?",
+            "options": [
+              "Que lo más importante era ayudar a la sociedad.",
+              "Que lo más importante era ganar mucho dinero.",
+              "Que lo más importante era tener un horario flexible.",
+              "Que lo más importante era trabajar en educación."
+            ],
+            "answer": 1,
+            "explain": "文中提到「cuando era estudiante, pensaba que lo más importante era ganar mucho dinero」，表示作者學生時代認為最重要的是賺很多錢。"
+          },
+          {
+            "q": "¿En qué campos trabajaría el autor si pudiera elegir libremente?",
+            "options": [
+              "En medicina o en tecnología.",
+              "En arte o en música.",
+              "En educación o en medio ambiente.",
+              "En economía o en política."
+            ],
+            "answer": 2,
+            "explain": "文中明確指出「trabajaría en el campo de la educación o del medio ambiente」，即教育或環境領域。"
+          },
+          {
+            "q": "¿Por qué algunas personas dejaron sus empleos bien pagados?",
+            "options": [
+              "Porque querían ganar más dinero.",
+              "Porque no se sentían realizadas.",
+              "Porque el horario era muy rígido.",
+              "Porque no tenían compañeros simpáticos."
+            ],
+            "answer": 1,
+            "explain": "文中說「dejaron empleos bien pagados porque no se sentían realizadas」，原因是她們感覺不到自我實現。"
+          },
+          {
+            "q": "Según el autor, ¿qué vale más que un salario alto?",
+            "options": [
+              "Un puesto de trabajo prestigioso.",
+              "Un equipo de trabajo grande.",
+              "La satisfacción personal.",
+              "Un contrato de trabajo estable."
+            ],
+            "answer": 2,
+            "explain": "作者在文末表示「la satisfacción personal vale más que un salario alto」，個人滿足感比高薪更有價值。"
+          },
+          {
+            "q": "¿Cuál sería una característica del trabajo ideal según el autor?",
+            "options": [
+              "Que ofreciera un salario muy alto.",
+              "Que permitiera trabajar solo sin compañeros.",
+              "Que estuviera ubicado en el extranjero.",
+              "Que permitiera disfrutar de tiempo libre con la familia."
+            ],
+            "answer": 3,
+            "explain": "文中提到「Me gustaría tener un horario flexible que me permitiera disfrutar de tiempo libre con mi familia」，理想工作的特點之一是能讓他享受與家人的休閒時光。"
+          }
+        ]
+      }
+    ]
+  }
+}

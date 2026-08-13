@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-14",
     "2026-08-13",
     "2026-08-12",
     "2026-08-11",
@@ -28,6 +29,59 @@
     "2026-07-18"
   ],
   "days": [
+    {
+      "date": "2026-08-14",
+      "articles": [
+        {
+          "id": "2026-08-14-A1-1",
+          "level": "A1",
+          "title": "El tiempo hoy",
+          "source": "ai",
+          "level_label": "A1",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-08-14-A2-1",
+          "level": "A2",
+          "title": "Una noche en el restaurante",
+          "source": "ai",
+          "level_label": "A2",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-08-14-B1-1",
+          "level": "B1",
+          "title": "El futuro del planeta está en nuestras manos",
+          "source": "ai",
+          "level_label": "B1",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-08-14-B2-fallback",
+          "level": "B2",
+          "title": "El futuro de nuestro planeta",
+          "source": "ai",
+          "level_label": "約 B2（AI 生成）",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-08-14-C1-fallback",
+          "level": "C1",
+          "title": "El futuro del planeta está en nuestras manos",
+          "source": "ai",
+          "level_label": "約 C1（AI 生成）",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-08-14-C2-fallback",
+          "level": "C2",
+          "title": "El futuro de nuestro planeta",
+          "source": "ai",
+          "level_label": "約 C2（AI 生成）",
+          "origin_name": ""
+        }
+      ]
+    },
     {
       "date": "2026-08-13",
       "articles": [

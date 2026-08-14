@@ -1,0 +1,839 @@
+{
+  "date": "2026-08-15",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-08-15-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "La ropa y los colores",
+        "text": "Hoy me pongo una camiseta roja y unos pantalones azules. Mi chaqueta es blanca. Los zapatos son negros. A mi amiga le gusta la ropa verde. Ella lleva un vestido verde muy bonito. El sombrero de mi madre es amarillo. Los colores son importantes. Me gustan mucho los colores vivos.",
+        "translation": "今天我穿一件紅色T恤和一條藍色褲子。我的夾克是白色的。鞋子是黑色的。我的女性朋友喜歡綠色的衣服。她穿著一件非常漂亮的綠色洋裝。我媽媽的帽子是黃色的。顏色很重要。我非常喜歡鮮豔的顏色。",
+        "words": [
+          {
+            "word": "camiseta",
+            "pos": "n.f.",
+            "zh": "T恤、短袖上衣",
+            "example": "Llevo una camiseta azul.",
+            "example_zh": "我穿著一件藍色T恤。"
+          },
+          {
+            "word": "pantalones",
+            "pos": "n.m.pl.",
+            "zh": "褲子",
+            "example": "Los pantalones son grises.",
+            "example_zh": "褲子是灰色的。"
+          },
+          {
+            "word": "chaqueta",
+            "pos": "n.f.",
+            "zh": "夾克、外套",
+            "example": "Mi chaqueta es negra.",
+            "example_zh": "我的夾克是黑色的。"
+          },
+          {
+            "word": "zapatos",
+            "pos": "n.m.pl.",
+            "zh": "鞋子",
+            "example": "Los zapatos son marrones.",
+            "example_zh": "鞋子是棕色的。"
+          },
+          {
+            "word": "vestido",
+            "pos": "n.m.",
+            "zh": "洋裝、連衣裙",
+            "example": "Ella lleva un vestido rojo.",
+            "example_zh": "她穿著一件紅色洋裝。"
+          },
+          {
+            "word": "sombrero",
+            "pos": "n.m.",
+            "zh": "帽子",
+            "example": "El sombrero es azul.",
+            "example_zh": "帽子是藍色的。"
+          },
+          {
+            "word": "llevar",
+            "pos": "v.",
+            "zh": "穿戴、攜帶",
+            "example": "Llevo una chaqueta verde.",
+            "example_zh": "我穿著一件綠色夾克。"
+          },
+          {
+            "word": "ponerse",
+            "pos": "v.pron.",
+            "zh": "穿上（衣物）",
+            "example": "Me pongo los zapatos negros.",
+            "example_zh": "我穿上黑色的鞋子。"
+          },
+          {
+            "word": "bonito/a",
+            "pos": "adj.",
+            "zh": "漂亮的、好看的",
+            "example": "El vestido es muy bonito.",
+            "example_zh": "這件洋裝非常漂亮。"
+          },
+          {
+            "word": "vivo/a",
+            "pos": "adj.",
+            "zh": "鮮豔的（指顏色）",
+            "example": "Me gustan los colores vivos.",
+            "example_zh": "我喜歡鮮豔的顏色。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿De qué color es la camiseta?",
+            "options": [
+              "Azul",
+              "Verde",
+              "Roja",
+              "Amarilla"
+            ],
+            "answer": 2,
+            "explain": "文中提到「una camiseta roja」，T恤是紅色的。"
+          },
+          {
+            "q": "¿De qué color son los zapatos?",
+            "options": [
+              "Blancos",
+              "Negros",
+              "Azules",
+              "Verdes"
+            ],
+            "answer": 1,
+            "explain": "文中提到「Los zapatos son negros」，鞋子是黑色的。"
+          },
+          {
+            "q": "¿Qué ropa lleva la amiga?",
+            "options": [
+              "Una chaqueta",
+              "Unos pantalones",
+              "Un vestido",
+              "Un sombrero"
+            ],
+            "answer": 2,
+            "explain": "文中提到「Ella lleva un vestido verde」，她穿著一件洋裝。"
+          },
+          {
+            "q": "¿De qué color es el sombrero de la madre?",
+            "options": [
+              "Rojo",
+              "Blanco",
+              "Verde",
+              "Amarillo"
+            ],
+            "answer": 3,
+            "explain": "文中提到「El sombrero de mi madre es amarillo」，帽子是黃色的。"
+          },
+          {
+            "q": "¿Qué tipo de colores le gustan al narrador?",
+            "options": [
+              "Los colores oscuros",
+              "Los colores vivos",
+              "Los colores pastel",
+              "Los colores fríos"
+            ],
+            "answer": 1,
+            "explain": "文中最後提到「Me gustan mucho los colores vivos」，敘述者喜歡鮮豔的顏色。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-08-15-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Mis planes para las vacaciones",
+        "text": "El año pasado, fui a la playa con mi familia y lo pasamos muy bien. Nadamos en el mar y comimos mariscos deliciosos. Este verano, voy a viajar a México con mis amigos. Primero, vamos a visitar las ruinas mayas porque son muy interesantes. También vamos a probar la comida típica y vamos a sacar muchas fotos. El viaje va a durar dos semanas. Estoy muy emocionada porque nunca fui a México antes. Ya compré los billetes de avión y reservé el hotel. ¡Va a ser una experiencia increíble!",
+        "translation": "去年，我和家人去了海灘，我們玩得非常開心。我們在海裡游泳，吃了美味的海鮮。今年夏天，我要和朋友們去墨西哥旅行。首先，我們要去參觀馬雅遺址，因為它們非常有趣。我們也要嚐嚐當地的特色料理，還要拍很多照片。這趟旅行將持續兩個星期。我非常興奮，因為我從來沒去過墨西哥。我已經買了機票，也訂好了飯店。這將會是一次難以置信的體驗！",
+        "words": [
+          {
+            "word": "vacaciones",
+            "pos": "n. f. pl.",
+            "zh": "假期、假日",
+            "example": "Voy a descansar durante las vacaciones.",
+            "example_zh": "我要在假期期間好好休息。"
+          },
+          {
+            "word": "viajar",
+            "pos": "v.",
+            "zh": "旅行",
+            "example": "Me gusta viajar a países nuevos.",
+            "example_zh": "我喜歡去新的國家旅行。"
+          },
+          {
+            "word": "ruinas",
+            "pos": "n. f. pl.",
+            "zh": "遺址、廢墟",
+            "example": "Las ruinas mayas son muy antiguas.",
+            "example_zh": "馬雅遺址非常古老。"
+          },
+          {
+            "word": "típica",
+            "pos": "adj. f.",
+            "zh": "典型的、傳統的",
+            "example": "La paella es una comida típica de España.",
+            "example_zh": "海鮮燉飯是西班牙的傳統料理。"
+          },
+          {
+            "word": "durar",
+            "pos": "v.",
+            "zh": "持續、持久",
+            "example": "La película va a durar dos horas.",
+            "example_zh": "這部電影將持續兩個小時。"
+          },
+          {
+            "word": "emocionada",
+            "pos": "adj. f.",
+            "zh": "興奮的、激動的",
+            "example": "Estoy muy emocionada por el concierto.",
+            "example_zh": "我對這場音樂會感到非常興奮。"
+          },
+          {
+            "word": "billete",
+            "pos": "n. m.",
+            "zh": "票、鈔票",
+            "example": "Compré un billete de tren para mañana.",
+            "example_zh": "我買了一張明天的火車票。"
+          },
+          {
+            "word": "reservar",
+            "pos": "v.",
+            "zh": "預訂、保留",
+            "example": "Necesito reservar una mesa en el restaurante.",
+            "example_zh": "我需要在餐廳預訂一張桌子。"
+          },
+          {
+            "word": "increíble",
+            "pos": "adj.",
+            "zh": "難以置信的、極好的",
+            "example": "El paisaje de la montaña es increíble.",
+            "example_zh": "山上的景色令人難以置信。"
+          },
+          {
+            "word": "mariscos",
+            "pos": "n. m. pl.",
+            "zh": "海鮮、貝類",
+            "example": "En el restaurante comimos mariscos frescos.",
+            "example_zh": "在餐廳我們吃了新鮮的海鮮。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Adónde fue la persona el año pasado?",
+            "options": [
+              "A las montañas",
+              "A la playa",
+              "A México",
+              "A las ruinas mayas"
+            ],
+            "answer": 1,
+            "explain": "文章開頭提到「El año pasado, fui a la playa」，表示去年去了海灘。"
+          },
+          {
+            "q": "¿Con quién va a viajar a México este verano?",
+            "options": [
+              "Con su familia",
+              "Con sus padres",
+              "Con sus amigos",
+              "Sola"
+            ],
+            "answer": 2,
+            "explain": "文中寫道「voy a viajar a México con mis amigos」，表示要和朋友一起去。"
+          },
+          {
+            "q": "¿Cuánto tiempo va a durar el viaje?",
+            "options": [
+              "Una semana",
+              "Tres semanas",
+              "Un mes",
+              "Dos semanas"
+            ],
+            "answer": 3,
+            "explain": "文中提到「El viaje va a durar dos semanas」，行程將持續兩週。"
+          },
+          {
+            "q": "¿Por qué están emocionada la persona?",
+            "options": [
+              "Porque va a ver el mar",
+              "Porque nunca fue a México antes",
+              "Porque le gustan los mariscos",
+              "Porque va a comprar ropa"
+            ],
+            "answer": 1,
+            "explain": "文中說「Estoy muy emocionada porque nunca fui a México antes」，興奮的原因是從未去過墨西哥。"
+          },
+          {
+            "q": "¿Qué hizo la persona antes del viaje?",
+            "options": [
+              "Aprendió español",
+              "Compró ropa nueva",
+              "Compró los billetes y reservó el hotel",
+              "Visitó las ruinas mayas"
+            ],
+            "answer": 2,
+            "explain": "文章結尾提到「Ya compré los billetes de avión y reservé el hotel」，說明已購買機票並訂好飯店。"
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "2026-08-15-B1-1",
+        "source": "ai",
+        "level_label": "B1",
+        "title": "La importancia de la educación",
+        "text": "Desde pequeños, nos enseñan que la educación es una de las herramientas más valiosas que una persona puede tener. Sin embargo, no todos comprenden por qué estudiar tanto esfuerzo vale la pena.\n\nCuando era niño, mi abuelo me decía que, si yo estudiaba con dedicación, podría alcanzar mis sueños. En aquel entonces, no entendía bien sus palabras, pero con el tiempo me di cuenta de que tenía razón. Gracias a la educación, aprendí a pensar de manera crítica, a resolver problemas y a comunicarme mejor con los demás.\n\nLa educación no solo proporciona conocimientos académicos, sino que también forma el carácter de las personas. Si todos tuviéramos acceso a una educación de calidad, el mundo sería un lugar más justo e igualitario. Lamentablemente, hay millones de niños que no pueden ir a la escuela debido a la pobreza o a los conflictos armados.\n\nPor eso, es fundamental que los gobiernos inviertan en sistemas educativos accesibles y de calidad. Como dijo Nelson Mandela, la educación es el arma más poderosa que puedes usar para cambiar el mundo. Creo firmemente que, si valoramos la educación, construiremos sociedades más libres y prósperas para las generaciones futuras.",
+        "translation": "從小，我們就被教導說，教育是一個人所能擁有的最寶貴的工具之一。然而，並非所有人都理解為什麼花費如此多的努力去學習是值得的。\n\n當我還是個孩子的時候，我的祖父常對我說，如果我用心學習，就能實現我的夢想。那時候，我不太明白他的話，但隨著時間的流逝，我意識到他是對的。多虧了教育，我學會了批判性地思考、解決問題，以及更好地與他人溝通。\n\n教育不僅提供學術知識，還塑造人的品格。如果我們每個人都能獲得優質教育，世界將會是一個更公平、更平等的地方。遺憾的是，有數百萬兒童因為貧困或武裝衝突而無法上學。\n\n因此，各國政府必須投資於可及且優質的教育體系。正如納爾遜·曼德拉所說，教育是你可以用來改變世界的最強大武器。我堅信，如果我們重視教育，就能為未來的世代建立更自由、更繁榮的社會。",
+        "words": [
+          {
+            "word": "herramienta",
+            "pos": "n.f.",
+            "zh": "工具",
+            "example": "El idioma es una herramienta importante para comunicarse.",
+            "example_zh": "語言是溝通的重要工具。"
+          },
+          {
+            "word": "valer la pena",
+            "pos": "loc.v.",
+            "zh": "值得",
+            "example": "Estudiar mucho vale la pena al final.",
+            "example_zh": "努力學習最終是值得的。"
+          },
+          {
+            "word": "dedicación",
+            "pos": "n.f.",
+            "zh": "專注；投入",
+            "example": "Logró su meta gracias a su dedicación al trabajo.",
+            "example_zh": "他因對工作的投入而達成了目標。"
+          },
+          {
+            "word": "darse cuenta",
+            "pos": "loc.v.",
+            "zh": "意識到；發覺",
+            "example": "Me di cuenta de que había cometido un error.",
+            "example_zh": "我意識到自己犯了一個錯誤。"
+          },
+          {
+            "word": "crítico/a",
+            "pos": "adj.",
+            "zh": "批判性的；關鍵的",
+            "example": "Es importante desarrollar un pensamiento crítico.",
+            "example_zh": "培養批判性思維是很重要的。"
+          },
+          {
+            "word": "proporcionar",
+            "pos": "v.",
+            "zh": "提供；給予",
+            "example": "La biblioteca proporciona libros a todos los estudiantes.",
+            "example_zh": "圖書館為所有學生提供書籍。"
+          },
+          {
+            "word": "igualitario/a",
+            "pos": "adj.",
+            "zh": "平等的",
+            "example": "Necesitamos una sociedad más igualitaria.",
+            "example_zh": "我們需要一個更平等的社會。"
+          },
+          {
+            "word": "invertir",
+            "pos": "v.",
+            "zh": "投資；投入",
+            "example": "El gobierno debe invertir más en educación pública.",
+            "example_zh": "政府應該在公共教育上投入更多資金。"
+          },
+          {
+            "word": "próspero/a",
+            "pos": "adj.",
+            "zh": "繁榮的；富裕的",
+            "example": "Queremos un futuro próspero para nuestros hijos.",
+            "example_zh": "我們希望為我們的孩子創造一個繁榮的未來。"
+          },
+          {
+            "word": "generación",
+            "pos": "n.f.",
+            "zh": "世代；一代人",
+            "example": "Las nuevas generaciones crecen con la tecnología.",
+            "example_zh": "新世代伴隨著科技成長。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué le decía el abuelo del autor cuando era niño?",
+            "options": [
+              "Que la educación no era necesaria para triunfar.",
+              "Que si estudiaba con dedicación, podría alcanzar sus sueños.",
+              "Que debería trabajar en lugar de estudiar.",
+              "Que el dinero era más importante que el estudio."
+            ],
+            "answer": 1,
+            "explain": "文中提到祖父告訴作者，如果他用心學習，就能實現他的夢想（si yo estudiaba con dedicación, podría alcanzar mis sueños）。"
+          },
+          {
+            "q": "Según el texto, ¿qué aprendió el autor gracias a la educación?",
+            "options": [
+              "A ganar mucho dinero y ser famoso.",
+              "A obedecer las reglas sin cuestionarlas.",
+              "A pensar críticamente, resolver problemas y comunicarse mejor.",
+              "A memorizar información sin comprenderla."
+            ],
+            "answer": 2,
+            "explain": "文中明確列出作者透過教育學到的三件事：批判性思考、解決問題，以及更好地與他人溝通。"
+          },
+          {
+            "q": "¿Qué pasaría si todos tuviéramos acceso a una educación de calidad, según el texto?",
+            "options": [
+              "El mundo sería más competitivo y difícil.",
+              "No habría diferencia en la sociedad.",
+              "Habría más conflictos entre las personas.",
+              "El mundo sería un lugar más justo e igualitario."
+            ],
+            "answer": 3,
+            "explain": "文中使用條件式表達：「Si todos tuviéramos acceso a una educación de calidad, el mundo sería un lugar más justo e igualitario.」"
+          },
+          {
+            "q": "¿Por qué hay niños que no pueden ir a la escuela, según el texto?",
+            "options": [
+              "Porque no les gusta estudiar.",
+              "Porque sus padres prefieren que trabajen.",
+              "Debido a la pobreza o a los conflictos armados.",
+              "Porque no hay suficientes maestros en el mundo."
+            ],
+            "answer": 2,
+            "explain": "文中提到兒童無法上學的原因是貧困（la pobreza）或武裝衝突（los conflictos armados）。"
+          },
+          {
+            "q": "¿Qué frase del texto es una cita de Nelson Mandela?",
+            "options": [
+              "\"La educación forma el carácter de las personas.\"",
+              "\"La educación es el arma más poderosa que puedes usar para cambiar el mundo.\"",
+              "\"Si estudias con dedicación, podrás alcanzar tus sueños.\"",
+              "\"Los gobiernos deben invertir en sistemas educativos.\""
+            ],
+            "answer": 1,
+            "explain": "文中明確標注「Como dijo Nelson Mandela」，接著引用的是「la educación es el arma más poderosa que puedes usar para cambiar el mundo」這句話。"
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "2026-08-15-B2-fallback",
+        "source": "ai",
+        "level_label": "約 B2（AI 生成）",
+        "title": "La importancia de la educación",
+        "text": "Desde pequeños, nos enseñan que la educación es la base del futuro. Sin embargo, no siempre comprendemos por qué es tan fundamental hasta que crecemos y enfrentamos los desafíos de la vida adulta.\n\nCuando era niño, pensaba que ir a la escuela era solo una obligación aburrida. No entendía que cada lección que aprendía me estaba preparando para el mundo real. Si hubiera prestado más atención en clase, habría aprovechado mejor esas oportunidades tan valiosas.\n\nLa educación no solo nos proporciona conocimientos técnicos, sino que también nos ayuda a desarrollar el pensamiento crítico. Gracias a ella, podemos analizar situaciones complejas y tomar decisiones más informadas. Además, las personas que tienen acceso a una buena educación suelen encontrar mejores oportunidades laborales y contribuyen de manera más activa a la sociedad.\n\nEs importante que los gobiernos inviertan en sistemas educativos de calidad, porque una sociedad bien educada es capaz de resolver problemas que afectan a todos. Si cada persona valorara más la educación, el mundo sería un lugar más justo e igualitario.\n\nEn conclusión, la educación es un derecho fundamental que debería estar al alcance de todos, independientemente de su origen o condición económica.",
+        "translation": "從小，我們就被教導教育是未來的基石。然而，我們並不總是能理解為什麼它如此重要，直到我們長大並面對成人生活的挑戰。\n\n小時候，我以為上學只是一種無聊的義務。我不明白，我所學的每一堂課都在為真實世界做準備。如果我在課堂上更加專注，就能更好地把握那些寶貴的機會。\n\n教育不僅為我們提供技術知識，也幫助我們發展批判性思維。透過教育，我們能夠分析複雜的情況並做出更明智的決定。此外，擁有良好教育的人通常能找到更好的工作機會，並更積極地貢獻於社會。\n\n各國政府應當投資高品質的教育體系，因為一個受過良好教育的社會有能力解決影響所有人的問題。如果每個人都更加重視教育，世界將會是一個更公平、更平等的地方。\n\n總而言之，教育是一項基本權利，無論一個人的出身或經濟狀況如何，都應該讓每個人都能獲得。",
+        "words": [
+          {
+            "word": "desafío",
+            "pos": "n.m.",
+            "zh": "挑戰",
+            "example": "Los desafíos de la vida adulta son muchos y variados.",
+            "example_zh": "成人生活的挑戰既多且多樣。"
+          },
+          {
+            "word": "obligación",
+            "pos": "n.f.",
+            "zh": "義務、責任",
+            "example": "Pagar impuestos es una obligación de todos los ciudadanos.",
+            "example_zh": "繳稅是所有公民的義務。"
+          },
+          {
+            "word": "aprovechar",
+            "pos": "v.",
+            "zh": "充分利用、把握",
+            "example": "Debes aprovechar todas las oportunidades que se te presenten.",
+            "example_zh": "你應該把握所有出現在你面前的機會。"
+          },
+          {
+            "word": "proporcionar",
+            "pos": "v.",
+            "zh": "提供、給予",
+            "example": "El gobierno debe proporcionar servicios básicos a la población.",
+            "example_zh": "政府必須向民眾提供基本服務。"
+          },
+          {
+            "word": "pensamiento crítico",
+            "pos": "n.m.",
+            "zh": "批判性思維",
+            "example": "La filosofía nos ayuda a desarrollar el pensamiento crítico.",
+            "example_zh": "哲學幫助我們發展批判性思維。"
+          },
+          {
+            "word": "invertir",
+            "pos": "v.",
+            "zh": "投資、投入",
+            "example": "Es necesario invertir más recursos en la educación pública.",
+            "example_zh": "有必要在公共教育上投入更多資源。"
+          },
+          {
+            "word": "igualitario",
+            "pos": "adj.",
+            "zh": "平等的、均等的",
+            "example": "Queremos construir una sociedad más igualitaria para todos.",
+            "example_zh": "我們希望為所有人建立一個更平等的社會。"
+          },
+          {
+            "word": "alcance",
+            "pos": "n.m.",
+            "zh": "範圍、可及之處",
+            "example": "La tecnología moderna está al alcance de muchas personas.",
+            "example_zh": "現代科技是許多人觸手可及的。"
+          },
+          {
+            "word": "independientemente",
+            "pos": "adv.",
+            "zh": "無論、不論、獨立地",
+            "example": "Todos merecen respeto, independientemente de su cultura.",
+            "example_zh": "每個人都值得被尊重，無論其文化為何。"
+          },
+          {
+            "word": "contribuir",
+            "pos": "v.",
+            "zh": "貢獻、有助於",
+            "example": "Los voluntarios contribuyen al bienestar de la comunidad.",
+            "example_zh": "志工們為社區的福祉做出貢獻。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué pensaba el autor sobre ir a la escuela cuando era niño?",
+            "options": [
+              "Que era una actividad muy divertida y emocionante.",
+              "Que era solo una obligación aburrida.",
+              "Que era la parte más importante de su vida.",
+              "Que era innecesaria para su futuro."
+            ],
+            "answer": 1,
+            "explain": "文中提到作者小時候認為上學只是一種無聊的義務（una obligación aburrida），故選第二項。"
+          },
+          {
+            "q": "Según el texto, ¿qué nos ayuda a desarrollar la educación, además de conocimientos técnicos?",
+            "options": [
+              "La habilidad para ganar dinero rápidamente.",
+              "La capacidad de hablar muchos idiomas.",
+              "El pensamiento crítico.",
+              "La fama y el reconocimiento social."
+            ],
+            "answer": 2,
+            "explain": "文中明確指出教育不只提供技術知識，還幫助我們發展「批判性思維」（pensamiento crítico），故選第三項。"
+          },
+          {
+            "q": "¿Qué habría hecho el autor si hubiera prestado más atención en clase?",
+            "options": [
+              "Habría sacado mejores notas en los exámenes.",
+              "Habría aprovechado mejor las oportunidades valiosas.",
+              "Habría conseguido un trabajo inmediatamente.",
+              "Habría viajado por todo el mundo."
+            ],
+            "answer": 1,
+            "explain": "文中使用條件完成式表示：「如果我更加專注，就能更好地把握那些寶貴的機會」，故選第二項。"
+          },
+          {
+            "q": "Según el autor, ¿qué debería hacer el gobierno en relación con la educación?",
+            "options": [
+              "Reducir el número de escuelas públicas.",
+              "Obligar a todos los niños a estudiar en el extranjero.",
+              "Invertir en sistemas educativos de calidad.",
+              "Dejar la educación solo en manos de empresas privadas."
+            ],
+            "answer": 2,
+            "explain": "文中提到政府應當「投資高品質的教育體系」（invertir en sistemas educativos de calidad），故選第三項。"
+          },
+          {
+            "q": "¿Cuál es la idea principal del último párrafo?",
+            "options": [
+              "La educación es un privilegio solo para las personas ricas.",
+              "La educación es un derecho que debería estar disponible para todos.",
+              "La educación pública es inferior a la privada.",
+              "Solo los gobiernos pueden garantizar una buena educación."
+            ],
+            "answer": 1,
+            "explain": "最後一段的核心觀念是：教育是一項基本權利，無論出身或經濟狀況，每個人都應該能夠獲得，故選第二項。"
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-08-15-C1-fallback",
+        "source": "ai",
+        "level_label": "約 C1（AI 生成）",
+        "title": "La importancia de la educación",
+        "text": "Desde pequeños, nos enseñan que la educación es la base del futuro. Sin embargo, no fue hasta que crecí que comprendí verdaderamente por qué esto es tan importante.\n\nCuando era niño, pensaba que ir a la escuela era una obligación aburrida. No me imaginaba que los conocimientos que adquiría allí me ayudarían tanto en la vida adulta. Mi maestra siempre decía que, si estudiábamos con dedicación, podríamos alcanzar cualquier meta que nos propusiéramos.\n\nLa educación no solo nos proporciona conocimientos académicos, sino que también nos enseña a pensar de manera crítica y a resolver problemas. Si todos tuviéramos acceso igualitario a una buena educación, la sociedad sería más justa y equitativa.\n\nAdemás, estudios recientes han demostrado que las personas que completaron sus estudios universitarios ganan, en promedio, el doble que quienes no lo hicieron. Aunque el dinero no lo es todo, este dato refleja que la educación abre puertas que de otra manera permanecerían cerradas.\n\nPor eso, creo firmemente que invertir en educación es invertir en el futuro de toda una generación.",
+        "translation": "从小，人们就教导我们教育是未来的基石。然而，直到我长大之后，我才真正明白为什么这一点如此重要。\n\n小时候，我以为上学是一种无聊的义务。我无法想象在那里获得的知识日后会在成人生活中给我带来如此大的帮助。我的老师总是说，如果我们用心学习，就能实现我们为自己设定的任何目标。\n\n教育不仅为我们提供学术知识，也教会我们批判性地思考以及解决问题。如果每个人都能平等地接受良好的教育，社会将会更加公平公正。\n\n此外，近期研究表明，完成大学学业的人平均收入是未完成者的两倍。虽然金钱并非一切，但这项数据说明教育能为我们打开原本可能永远紧闭的大门。\n\n因此，我坚定地相信，投资教育就是投资整整一个世代的未来。",
+        "words": [
+          {
+            "word": "obligación",
+            "pos": "n.f.",
+            "zh": "義務、責任",
+            "example": "Pagar impuestos es una obligación de todos los ciudadanos.",
+            "example_zh": "繳稅是所有公民的義務。"
+          },
+          {
+            "word": "adquirir",
+            "pos": "v.",
+            "zh": "獲得、習得",
+            "example": "En la universidad, adquirí muchos conocimientos útiles.",
+            "example_zh": "在大學裡，我獲得了許多有用的知識。"
+          },
+          {
+            "word": "dedicación",
+            "pos": "n.f.",
+            "zh": "投入、專心、奉獻",
+            "example": "Gracias a su dedicación, aprobó todos los exámenes.",
+            "example_zh": "由於她的投入，她通過了所有考試。"
+          },
+          {
+            "word": "alcanzar",
+            "pos": "v.",
+            "zh": "達到、實現",
+            "example": "Con esfuerzo, puedes alcanzar tus sueños.",
+            "example_zh": "只要努力，你就能實現你的夢想。"
+          },
+          {
+            "word": "proporcionar",
+            "pos": "v.",
+            "zh": "提供、給予",
+            "example": "El gobierno debe proporcionar servicios de salud a todos.",
+            "example_zh": "政府應為所有人提供醫療服務。"
+          },
+          {
+            "word": "crítico/a",
+            "pos": "adj.",
+            "zh": "批判的、關鍵的",
+            "example": "Es importante desarrollar un pensamiento crítico desde joven.",
+            "example_zh": "從年輕時就培養批判性思維非常重要。"
+          },
+          {
+            "word": "igualitario/a",
+            "pos": "adj.",
+            "zh": "平等的",
+            "example": "Queremos una sociedad más igualitaria para todos.",
+            "example_zh": "我們希望建立一個對所有人更平等的社會。"
+          },
+          {
+            "word": "equitativo/a",
+            "pos": "adj.",
+            "zh": "公平的、公正的",
+            "example": "La distribución de recursos debe ser equitativa.",
+            "example_zh": "資源的分配應該是公平的。"
+          },
+          {
+            "word": "reflejar",
+            "pos": "v.",
+            "zh": "反映、顯示",
+            "example": "Sus notas reflejan el esfuerzo que puso en estudiar.",
+            "example_zh": "他的成績反映了他在學習上付出的努力。"
+          },
+          {
+            "word": "invertir",
+            "pos": "v.",
+            "zh": "投資、投入",
+            "example": "Es sabio invertir tiempo en aprender nuevos idiomas.",
+            "example_zh": "投入時間學習新語言是明智之舉。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué pensaba el autor sobre ir a la escuela cuando era niño?",
+            "options": [
+              "Que era una aventura emocionante.",
+              "Que era una obligación aburrida.",
+              "Que era la mejor parte de su día.",
+              "Que era innecesario estudiar."
+            ],
+            "answer": 1,
+            "explain": "文中提到「pensaba que ir a la escuela era una obligación aburrida」，作者小時候認為上學是一種無聊的義務。"
+          },
+          {
+            "q": "¿Qué decía la maestra del autor?",
+            "options": [
+              "Que solo los inteligentes podrían tener éxito.",
+              "Que era mejor trabajar que estudiar.",
+              "Que estudiando con dedicación podrían alcanzar cualquier meta.",
+              "Que la educación no garantizaba nada."
+            ],
+            "answer": 2,
+            "explain": "老師說的是「si estudiábamos con dedicación, podríamos alcanzar cualquier meta」，意思是若用心學習就能實現任何目標。"
+          },
+          {
+            "q": "Según el texto, ¿qué nos enseña la educación además de conocimientos académicos?",
+            "options": [
+              "A ganar mucho dinero rápidamente.",
+              "A pensar de manera crítica y a resolver problemas.",
+              "A obedecer siempre a la autoridad.",
+              "A memorizar información sin comprenderla."
+            ],
+            "answer": 1,
+            "explain": "文中指出教育「nos enseña a pensar de manera crítica y a resolver problemas」，即教我們批判性思考與解決問題。"
+          },
+          {
+            "q": "¿Qué demuestran los estudios recientes mencionados en el texto?",
+            "options": [
+              "Que estudiar no influye en el salario.",
+              "Que los universitarios ganan el doble que quienes no completaron sus estudios.",
+              "Que tener un título garantiza la felicidad.",
+              "Que solo los ricos pueden acceder a la universidad."
+            ],
+            "answer": 1,
+            "explain": "文中提到研究顯示「las personas que completaron sus estudios universitarios ganan, en promedio, el doble que quienes no lo hicieron」，完成大學學業者的收入平均是未完成者的兩倍。"
+          },
+          {
+            "q": "¿Cuál es la idea principal del último párrafo?",
+            "options": [
+              "Que la educación es cara y difícil de obtener.",
+              "Que solo los jóvenes deben preocuparse por la educación.",
+              "Que invertir en educación es invertir en el futuro de una generación.",
+              "Que el dinero es más importante que la educación."
+            ],
+            "answer": 2,
+            "explain": "最後一段的核心觀點是「invertir en educación es invertir en el futuro de toda una generación」，強調教育投資即是對整個世代未來的投資。"
+          }
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "2026-08-15-C2-fallback",
+        "source": "ai",
+        "level_label": "約 C2（AI 生成）",
+        "title": "La importancia de la educación",
+        "text": "Desde pequeños, nos enseñan que la educación es la base del futuro. Sin embargo, no todos comprenden por qué es tan fundamental hasta que crecen y enfrentan los desafíos de la vida adulta.\n\nCuando era niño, mi abuelo siempre me decía que si estudiaba con dedicación, podría alcanzar cualquier meta que me propusiera. En aquel entonces, no le prestaba mucha atención, pero ahora entiendo que tenía razón.\n\nLa educación no solo nos proporciona conocimientos técnicos, sino que también nos enseña a pensar de manera crítica, a resolver problemas y a convivir con personas de culturas diferentes. Si hubiera más acceso a una educación de calidad en el mundo, habría menos desigualdad y más oportunidades para todos.\n\nAdemás, los estudios han demostrado que las personas que completaron su formación académica tienden a tener mejor salud, mayor estabilidad económica y una participación más activa en la sociedad.\n\nPor eso, es importante que los gobiernos inviertan en escuelas, universidades y programas de becas. Si todos tuviéramos acceso igual a la educación, el mundo sería sin duda un lugar más justo y próspero.",
+        "translation": "從小，人們就教導我們，教育是未來的基礎。然而，並非所有人都能理解它為何如此重要，直到長大並面對成人生活的挑戰時才明白。\n\n當我還是孩子的時候，祖父總是告訴我，如果我用心讀書，就能達成任何我為自己設定的目標。那時候，我並不太在意他的話，但現在我明白他是對的。\n\n教育不僅為我們提供專業知識，也教導我們批判性地思考、解決問題，以及與來自不同文化的人們和諧相處。如果世界上有更多人能接受優質教育，就會有更少的不平等，也會有更多機會讓所有人受益。\n\n此外，研究已經證明，完成學業的人往往擁有更好的健康狀況、更高的經濟穩定性，以及更積極地參與社會的能力。\n\n因此，政府投資學校、大學和獎學金計畫是很重要的。如果我們所有人都能平等地接受教育，這個世界無疑將會是一個更公正、更繁榮的地方。",
+        "words": [
+          {
+            "word": "fundamental",
+            "pos": "adj.",
+            "zh": "基本的；根本的",
+            "example": "El respeto es fundamental en cualquier relación.",
+            "example_zh": "尊重在任何關係中都是根本的。"
+          },
+          {
+            "word": "dedicación",
+            "pos": "n.f.",
+            "zh": "投入；奉獻；專注",
+            "example": "Aprendió a tocar el piano con mucha dedicación.",
+            "example_zh": "她非常投入地學習彈鋼琴。"
+          },
+          {
+            "word": "alcanzar",
+            "pos": "v.",
+            "zh": "達到；達成",
+            "example": "Con esfuerzo, puedes alcanzar tus sueños.",
+            "example_zh": "只要努力，你就能實現你的夢想。"
+          },
+          {
+            "word": "proporcionar",
+            "pos": "v.",
+            "zh": "提供；給予",
+            "example": "Este programa proporciona ayuda a las familias necesitadas.",
+            "example_zh": "這個計畫為有需要的家庭提供幫助。"
+          },
+          {
+            "word": "crítico/a",
+            "pos": "adj.",
+            "zh": "批判性的；關鍵的",
+            "example": "Es importante desarrollar un pensamiento crítico.",
+            "example_zh": "培養批判性思維是很重要的。"
+          },
+          {
+            "word": "desigualdad",
+            "pos": "n.f.",
+            "zh": "不平等；不均",
+            "example": "La desigualdad económica es un problema global.",
+            "example_zh": "經濟不平等是一個全球性的問題。"
+          },
+          {
+            "word": "formación",
+            "pos": "n.f.",
+            "zh": "學業；培訓；養成",
+            "example": "Necesita más formación para ese trabajo.",
+            "example_zh": "他需要更多培訓才能勝任那份工作。"
+          },
+          {
+            "word": "invertir",
+            "pos": "v.",
+            "zh": "投資；投入",
+            "example": "El gobierno decidió invertir más en sanidad.",
+            "example_zh": "政府決定在醫療衛生方面投入更多資金。"
+          },
+          {
+            "word": "beca",
+            "pos": "n.f.",
+            "zh": "獎學金",
+            "example": "Ella recibió una beca para estudiar en el extranjero.",
+            "example_zh": "她獲得了一筆獎學金去國外留學。"
+          },
+          {
+            "word": "próspero/a",
+            "pos": "adj.",
+            "zh": "繁榮的；富裕的",
+            "example": "Queremos construir una sociedad más próspera.",
+            "example_zh": "我們希望建立一個更繁榮的社會。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué le decía el abuelo al narrador cuando era niño?",
+            "options": [
+              "Que la educación no era necesaria para triunfar.",
+              "Que si estudiaba con dedicación, podría alcanzar cualquier meta.",
+              "Que debería trabajar en lugar de estudiar.",
+              "Que la vida adulta era muy fácil."
+            ],
+            "answer": 1,
+            "explain": "文中提到祖父告訴他，如果用心讀書，就能達成任何目標（「si estudiaba con dedicación, podría alcanzar cualquier meta»），故選項1正確。"
+          },
+          {
+            "q": "Según el texto, ¿qué nos enseña la educación además de conocimientos técnicos?",
+            "options": [
+              "A ganar mucho dinero rápidamente.",
+              "A evitar el contacto con otras culturas.",
+              "A pensar de manera crítica y a convivir con personas de culturas diferentes.",
+              "A obedecer siempre a las autoridades."
+            ],
+            "answer": 2,
+            "explain": "文章明確指出教育也教我們批判性思考並與不同文化的人共處（«pensar de manera crítica... convivir con personas de culturas diferentes»），故選項2正確。"
+          },
+          {
+            "q": "¿Qué consecuencia tendría haber más acceso a la educación de calidad, según el texto?",
+            "options": [
+              "Habría más desigualdad en el mundo.",
+              "Las personas trabajarían menos.",
+              "Habría menos desigualdad y más oportunidades para todos.",
+              "Los gobiernos gastarían menos dinero."
+            ],
+            "answer": 2,
+            "explain": "文中使用假設句型表示，若有更多人接受優質教育，「habría menos desigualdad y más oportunidades para todos」，故選項2正確。"
+          },
+          {
+            "q": "¿Qué han demostrado los estudios sobre las personas con formación académica completa?",
+            "options": [
+              "Que viven más aisladas de la sociedad.",
+              "Que tienden a tener mejor salud y mayor estabilidad económica.",
+              "Que no participan en la política.",
+              "Que ganan siempre más dinero que los demás."
+            ],
+            "answer": 1,
+            "explain": "文章中提到研究顯示完成學業的人往往擁有更好的健康狀況和更高的經濟穩定性（«mejor salud, mayor estabilidad económica»），故選項1正確。"
+          },
+          {
+            "q": "¿Qué pide el narrador al final del texto?",
+            "options": [
+              "Que los estudiantes paguen más por su educación.",
+              "Que se cierren las universidades privadas.",
+              "Que los gobiernos inviertan en escuelas, universidades y becas.",
+              "Que los niños empiecen a trabajar antes."
+            ],
+            "answer": 2,
+            "explain": "文章最後呼籲政府投資學校、大學和獎學金計畫（«que los gobiernos inviertan en escuelas, universidades y programas de becas»），故選項2正確。"
+          }
+        ]
+      }
+    ]
+  }
+}

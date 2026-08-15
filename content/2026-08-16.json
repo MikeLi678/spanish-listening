@@ -1,0 +1,701 @@
+{
+  "date": "2026-08-16",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-08-16-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Mi habitación",
+        "text": "Mi habitación es pequeña pero bonita. Hay una cama, una mesa y una silla. La cama es azul. La mesa es de madera. Tengo muchos libros en la estantería. La ventana es grande y entra mucha luz. Mi habitación es tranquila. Me gusta mucho mi habitación.",
+        "translation": "我的房間又小又漂亮。裡面有一張床、一張桌子和一把椅子。床是藍色的。桌子是木製的。書架上有很多書。窗戶很大，採光充足。我的房間很安靜。我非常喜歡我的房間。",
+        "words": [
+          {
+            "word": "habitación",
+            "pos": "n.",
+            "zh": "房間",
+            "example": "Mi habitación es pequeña.",
+            "example_zh": "我的房間很小。"
+          },
+          {
+            "word": "pequeña",
+            "pos": "adj.",
+            "zh": "小的（陰性）",
+            "example": "La mesa es pequeña.",
+            "example_zh": "桌子很小。"
+          },
+          {
+            "word": "cama",
+            "pos": "n.",
+            "zh": "床",
+            "example": "La cama es muy cómoda.",
+            "example_zh": "床非常舒適。"
+          },
+          {
+            "word": "mesa",
+            "pos": "n.",
+            "zh": "桌子",
+            "example": "Hay una mesa en la habitación.",
+            "example_zh": "房間裡有一張桌子。"
+          },
+          {
+            "word": "silla",
+            "pos": "n.",
+            "zh": "椅子",
+            "example": "La silla es roja.",
+            "example_zh": "椅子是紅色的。"
+          },
+          {
+            "word": "estantería",
+            "pos": "n.",
+            "zh": "書架",
+            "example": "Tengo libros en la estantería.",
+            "example_zh": "書架上有我的書。"
+          },
+          {
+            "word": "ventana",
+            "pos": "n.",
+            "zh": "窗戶",
+            "example": "La ventana es grande.",
+            "example_zh": "窗戶很大。"
+          },
+          {
+            "word": "luz",
+            "pos": "n.",
+            "zh": "光、採光",
+            "example": "Entra mucha luz por la ventana.",
+            "example_zh": "窗戶透進很多光。"
+          },
+          {
+            "word": "tranquila",
+            "pos": "adj.",
+            "zh": "安靜的、平靜的（陰性）",
+            "example": "Mi casa es tranquila.",
+            "example_zh": "我的家很安靜。"
+          },
+          {
+            "word": "madera",
+            "pos": "n.",
+            "zh": "木頭、木材",
+            "example": "La silla es de madera.",
+            "example_zh": "椅子是木製的。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cómo es la habitación?",
+            "options": [
+              "Grande y fea",
+              "Pequeña pero bonita",
+              "Grande y bonita",
+              "Pequeña y fea"
+            ],
+            "answer": 1,
+            "explain": "短文第一句說「Mi habitación es pequeña pero bonita」，房間又小又漂亮，故選第二項。"
+          },
+          {
+            "q": "¿De qué color es la cama?",
+            "options": [
+              "Verde",
+              "Roja",
+              "Azul",
+              "Blanca"
+            ],
+            "answer": 2,
+            "explain": "短文中說「La cama es azul」，床是藍色的，故選第三項。"
+          },
+          {
+            "q": "¿Qué hay en la estantería?",
+            "options": [
+              "Ropa",
+              "Libros",
+              "Zapatos",
+              "Fotos"
+            ],
+            "answer": 1,
+            "explain": "短文說「Tengo muchos libros en la estantería」，書架上有很多書，故選第二項。"
+          },
+          {
+            "q": "¿Cómo es la ventana?",
+            "options": [
+              "Pequeña",
+              "Azul",
+              "Grande",
+              "De madera"
+            ],
+            "answer": 2,
+            "explain": "短文說「La ventana es grande」，窗戶很大，故選第三項。"
+          },
+          {
+            "q": "¿De qué material es la mesa?",
+            "options": [
+              "De metal",
+              "De plástico",
+              "De cristal",
+              "De madera"
+            ],
+            "answer": 3,
+            "explain": "短文說「La mesa es de madera」，桌子是木製的，故選第四項。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-08-16-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Una visita al médico",
+        "text": "Ayer me desperté con mucho dolor de cabeza y fiebre alta. También tuve tos y me sentí muy cansado. Por eso, decidí ir al médico por la mañana. El médico me examinó y me preguntó sobre mis síntomas. Me dijo que tenía una infección leve y me recetó unos medicamentos. Fui a la farmacia y compré las pastillas. Esta tarde voy a descansar en casa y voy a tomar el medicamento tres veces al día. Espero sentirme mejor mañana. La próxima semana voy a volver al médico para otra revisión.",
+        "translation": "昨天我醒來時頭很痛，而且發高燒。我也咳嗽，感覺非常疲倦。因此，我決定早上去看醫生。醫生幫我檢查，並詢問我的症狀。他告訴我我有輕微的感染，並開了一些藥給我。我去了藥局買了藥錠。今天下午我要在家休息，並且每天服藥三次。我希望明天感覺好一些。下週我要再回去看醫生做複診。",
+        "words": [
+          {
+            "word": "despertar(se)",
+            "pos": "v. pron.",
+            "zh": "醒來",
+            "example": "Me desperté muy tarde esta mañana.",
+            "example_zh": "我今天早上很晚才醒來。"
+          },
+          {
+            "word": "fiebre",
+            "pos": "n. f.",
+            "zh": "發燒、發熱",
+            "example": "El niño tiene fiebre alta y necesita descansar.",
+            "example_zh": "這個孩子發高燒，需要休息。"
+          },
+          {
+            "word": "tos",
+            "pos": "n. f.",
+            "zh": "咳嗽",
+            "example": "Tengo tos desde hace tres días.",
+            "example_zh": "我咳嗽已經三天了。"
+          },
+          {
+            "word": "síntoma",
+            "pos": "n. m.",
+            "zh": "症狀",
+            "example": "El médico preguntó sobre mis síntomas.",
+            "example_zh": "醫生詢問我的症狀。"
+          },
+          {
+            "word": "infección",
+            "pos": "n. f.",
+            "zh": "感染",
+            "example": "Tengo una infección en la garganta.",
+            "example_zh": "我的喉嚨有感染。"
+          },
+          {
+            "word": "recetar",
+            "pos": "v.",
+            "zh": "開藥、開處方",
+            "example": "El médico me recetó antibióticos.",
+            "example_zh": "醫生開了抗生素給我。"
+          },
+          {
+            "word": "farmacia",
+            "pos": "n. f.",
+            "zh": "藥局",
+            "example": "Compré las pastillas en la farmacia.",
+            "example_zh": "我在藥局買了藥錠。"
+          },
+          {
+            "word": "pastilla",
+            "pos": "n. f.",
+            "zh": "藥錠、藥片",
+            "example": "Tengo que tomar dos pastillas cada mañana.",
+            "example_zh": "我每天早上必須服用兩顆藥錠。"
+          },
+          {
+            "word": "descansar",
+            "pos": "v.",
+            "zh": "休息",
+            "example": "Voy a descansar toda la tarde en casa.",
+            "example_zh": "我今天下午要在家休息一整個下午。"
+          },
+          {
+            "word": "revisión",
+            "pos": "n. f.",
+            "zh": "複診、檢查",
+            "example": "Tengo una revisión médica la próxima semana.",
+            "example_zh": "我下週有一個醫療複診。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Por qué fue el narrador al médico?",
+            "options": [
+              "Porque tenía dolor de estómago.",
+              "Porque tenía fiebre, dolor de cabeza y tos.",
+              "Porque su amigo estaba enfermo.",
+              "Porque necesitaba comprar medicamentos."
+            ],
+            "answer": 1,
+            "explain": "文中提到他頭痛、發高燒並且咳嗽，因此去看醫生。"
+          },
+          {
+            "q": "¿Qué le dijo el médico al narrador?",
+            "options": [
+              "Que tenía que ir al hospital inmediatamente.",
+              "Que estaba completamente sano.",
+              "Que tenía una infección leve.",
+              "Que tenía que operarse."
+            ],
+            "answer": 2,
+            "explain": "文中明確寫道醫生告訴他有「輕微的感染（infección leve）」。"
+          },
+          {
+            "q": "¿Cuántas veces al día va a tomar el medicamento?",
+            "options": [
+              "Una vez al día.",
+              "Dos veces al día.",
+              "Tres veces al día.",
+              "Cuatro veces al día."
+            ],
+            "answer": 2,
+            "explain": "文中寫到「voy a tomar el medicamento tres veces al día」，即每天三次。"
+          },
+          {
+            "q": "¿Adónde fue el narrador después de visitar al médico?",
+            "options": [
+              "Fue a su trabajo.",
+              "Fue a la farmacia.",
+              "Fue al hospital.",
+              "Fue a casa de un amigo."
+            ],
+            "answer": 1,
+            "explain": "文中提到他去了藥局（farmacia）買藥。"
+          },
+          {
+            "q": "¿Cuándo va a volver el narrador al médico?",
+            "options": [
+              "Mañana por la mañana.",
+              "Esta tarde.",
+              "La próxima semana.",
+              "En dos semanas."
+            ],
+            "answer": 2,
+            "explain": "文章最後寫道「La próxima semana voy a volver al médico」，即下週要回診。"
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "2026-08-16-B1-1",
+        "source": "ai",
+        "level_label": "B1",
+        "title": "Las redes sociales: ventajas y desventajas",
+        "text": "Hoy en día, las redes sociales forman parte de la vida cotidiana de millones de personas. Gracias a estas plataformas, es posible que nos comuniquemos con amigos y familiares que viven lejos, aunque no los veamos con frecuencia. Además, cuando yo era estudiante, me resultaba difícil encontrar información rápidamente, pero ahora las redes sociales permiten que la gente comparta noticias y conocimientos en pocos segundos.\n\nSin embargo, también existen desventajas importantes. Muchos jóvenes que utilizan estas aplicaciones durante horas al día han reconocido que se sentían solos o ansiosos después de compararse con otras personas. Si usáramos las redes sociales con más moderación, probablemente tendríamos una vida más equilibrada y saludable.\n\nPor otro lado, hay quienes creen que estas plataformas son una herramienta poderosa para la educación y los negocios. Cuando el mundo sufrió la pandemia, las redes sociales fueron esenciales para que muchas empresas pudieran seguir funcionando.\n\nEn conclusión, las redes sociales serían más beneficiosas si las utilizáramos de manera consciente y responsable. Lo importante es que cada persona encuentre un equilibrio adecuado entre el mundo digital y el mundo real.",
+        "translation": "如今，社群媒體已成為數百萬人日常生活的一部分。多虧了這些平台，我們得以與住在遠方的朋友和家人保持聯繫，即使不常見面也無妨。此外，當我還是學生的時候，要快速找到資訊相當困難，但現在社群媒體讓人們能在幾秒鐘內分享新聞與知識。\n\n然而，也存在一些重要的缺點。許多每天使用這些應用程式數小時的年輕人坦承，在與他人比較之後，感到孤獨或焦慮。如果我們更節制地使用社群媒體，生活或許會更均衡、更健康。\n\n另一方面，有些人認為這些平台是教育和商業的強大工具。當全世界遭受疫情侵襲時，社群媒體對許多企業得以繼續運營而言至關重要。\n\n總而言之，如果我們有意識且負責任地使用社群媒體，它將會更加有益。重要的是，每個人都能在數位世界與真實世界之間找到適當的平衡。",
+        "words": [
+          {
+            "word": "cotidiano/a",
+            "pos": "adj.",
+            "zh": "日常的、每天的",
+            "example": "El desayuno es parte de mi rutina cotidiana.",
+            "example_zh": "早餐是我日常例行公事的一部分。"
+          },
+          {
+            "word": "plataforma",
+            "pos": "f.n.",
+            "zh": "平台",
+            "example": "Esta plataforma permite compartir videos y fotos.",
+            "example_zh": "這個平台允許分享影片和照片。"
+          },
+          {
+            "word": "ansioso/a",
+            "pos": "adj.",
+            "zh": "焦慮的、渴望的",
+            "example": "Me sentía ansioso antes del examen.",
+            "example_zh": "考試前我感到很焦慮。"
+          },
+          {
+            "word": "moderación",
+            "pos": "f.n.",
+            "zh": "節制、適度",
+            "example": "Es importante comer con moderación.",
+            "example_zh": "飲食節制非常重要。"
+          },
+          {
+            "word": "equilibrado/a",
+            "pos": "adj.",
+            "zh": "均衡的、平衡的",
+            "example": "Llevar una dieta equilibrada es fundamental para la salud.",
+            "example_zh": "均衡飲食對健康至關重要。"
+          },
+          {
+            "word": "herramienta",
+            "pos": "f.n.",
+            "zh": "工具",
+            "example": "El diccionario es una herramienta útil para aprender idiomas.",
+            "example_zh": "字典是學習語言的實用工具。"
+          },
+          {
+            "word": "pandemia",
+            "pos": "f.n.",
+            "zh": "全球大流行病、疫情",
+            "example": "Durante la pandemia, mucha gente trabajó desde casa.",
+            "example_zh": "疫情期間，許多人在家工作。"
+          },
+          {
+            "word": "consciente",
+            "pos": "adj.",
+            "zh": "有意識的、自覺的",
+            "example": "Debemos ser conscientes del impacto de nuestras acciones.",
+            "example_zh": "我們應該意識到自身行為所帶來的影響。"
+          },
+          {
+            "word": "beneficioso/a",
+            "pos": "adj.",
+            "zh": "有益的、有利的",
+            "example": "El ejercicio regular es muy beneficioso para la salud.",
+            "example_zh": "規律運動對健康非常有益。"
+          },
+          {
+            "word": "equilibrio",
+            "pos": "m.n.",
+            "zh": "平衡、均衡",
+            "example": "Hay que mantener un equilibrio entre el trabajo y el descanso.",
+            "example_zh": "必須在工作與休息之間保持平衡。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Según el texto, ¿cuál es una ventaja de las redes sociales?",
+            "options": [
+              "Nos hacen sentir ansiosos y solos.",
+              "Nos permiten comunicarnos con personas que viven lejos.",
+              "Nos obligan a trabajar más horas.",
+              "Nos impiden encontrar información rápidamente."
+            ],
+            "answer": 1,
+            "explain": "文章第一段提到，社群媒體讓我們得以與住在遠方的朋友和家人溝通，這是其優點之一。"
+          },
+          {
+            "q": "¿Cómo se sentían algunos jóvenes después de usar las redes sociales durante mucho tiempo?",
+            "options": [
+              "Felices y motivados.",
+              "Descansados y tranquilos.",
+              "Solos o ansiosos.",
+              "Informados y seguros."
+            ],
+            "answer": 2,
+            "explain": "文章第二段指出，許多年輕人在與他人比較後，感到孤獨或焦慮（solos o ansiosos）。"
+          },
+          {
+            "q": "¿Qué pasaría si usáramos las redes sociales con más moderación?",
+            "options": [
+              "Tendríamos más seguidores en internet.",
+              "Probablemente tendríamos una vida más equilibrada y saludable.",
+              "Ganaríamos más dinero con los negocios.",
+              "Aprenderíamos menos sobre el mundo."
+            ],
+            "answer": 1,
+            "explain": "文章使用條件式表達：若更節制地使用社群媒體，生活可能會更均衡健康（tendríamos una vida más equilibrada y saludable）。"
+          },
+          {
+            "q": "Según el texto, ¿para qué fueron esenciales las redes sociales durante la pandemia?",
+            "options": [
+              "Para que la gente pudiera ver películas en casa.",
+              "Para que los estudiantes aprendieran a cocinar.",
+              "Para que muchas empresas pudieran seguir funcionando.",
+              "Para que los médicos descansaran más."
+            ],
+            "answer": 2,
+            "explain": "文章第三段說明，疫情期間社群媒體對許多企業得以繼續運營（seguir funcionando）至關重要。"
+          },
+          {
+            "q": "¿Cuál es la conclusión principal del texto?",
+            "options": [
+              "Las redes sociales son completamente negativas y debemos evitarlas.",
+              "Solo los jóvenes deben usar las redes sociales.",
+              "Es necesario usar las redes sociales de manera consciente y encontrar un equilibrio.",
+              "Las redes sociales no tienen ninguna desventaja."
+            ],
+            "answer": 2,
+            "explain": "文章結尾總結，應有意識且負責任地使用社群媒體，並在數位世界與真實世界間找到平衡，這是全文的核心結論。"
+          }
+        ]
+      }
+    ],
+    "B2": [],
+    "C1": [
+      {
+        "id": "2026-08-16-C1-fallback",
+        "source": "ai",
+        "level_label": "約 C1（AI 生成）",
+        "title": "Las redes sociales: ventajas y desventajas",
+        "text": "Hoy en día, las redes sociales forman parte de nuestra vida cotidiana. Aunque ofrecen muchas ventajas, también presentan ciertos riesgos que no podemos ignorar.\n\nPor un lado, las redes sociales nos permiten mantenernos en contacto con amigos y familiares que viven lejos. Además, si quisiéramos aprender algo nuevo, podríamos encontrar miles de tutoriales y recursos educativos en plataformas como YouTube o Instagram. Cuando era estudiante, usaba estas herramientas constantemente para mejorar mis conocimientos.\n\nPor otro lado, existen problemas serios que preocupan a muchos expertos. Varios estudios han demostrado que el uso excesivo de estas plataformas podría causar ansiedad y baja autoestima, especialmente entre los jóvenes. También es posible que la gente comparta información falsa sin verificarla antes, lo cual resulta muy peligroso para la sociedad.\n\nPersonalmente, creo que si las personas usaran las redes sociales con más responsabilidad, los beneficios superarían los problemas. Sería ideal que los colegios enseñaran a los estudiantes cómo utilizarlas de manera crítica y segura. En conclusión, las redes sociales son una herramienta poderosa, pero necesitamos aprender a usarlas bien.",
+        "translation": "如今，社群媒體已成為我們日常生活的一部分。儘管它們提供了許多優點，但也存在一些我們無法忽視的風險。\n\n一方面，社群媒體讓我們能夠與住在遠方的朋友和家人保持聯繫。此外，如果我們想學習新事物，可以在 YouTube 或 Instagram 等平台上找到數千個教學影片和教育資源。當我還是學生的時候，我經常使用這些工具來增進自己的知識。\n\n另一方面，有一些嚴重的問題令許多專家感到憂慮。多項研究已證明，過度使用這些平台可能會導致焦慮和低自尊，尤其是在年輕人之間。人們也可能在未經核實的情況下分享假訊息，這對社會來說非常危險。\n\n就我個人而言，我認為如果人們更有責任感地使用社群媒體，其好處將會超越問題。理想情況下，學校應該教導學生如何以批判性且安全的方式使用它們。總而言之，社群媒體是一種強大的工具，但我們需要學會善用它。",
+        "words": [
+          {
+            "word": "cotidiana",
+            "pos": "adj.",
+            "zh": "日常的",
+            "example": "El desayuno es una parte de mi rutina cotidiana.",
+            "example_zh": "早餐是我日常生活的一部分。"
+          },
+          {
+            "word": "mantenerse en contacto",
+            "pos": "loc. v.",
+            "zh": "保持聯繫",
+            "example": "Es importante mantenerse en contacto con los viejos amigos.",
+            "example_zh": "與老朋友保持聯繫是很重要的。"
+          },
+          {
+            "word": "herramienta",
+            "pos": "n. f.",
+            "zh": "工具",
+            "example": "El diccionario es una herramienta útil para los estudiantes.",
+            "example_zh": "字典對學生來說是一個有用的工具。"
+          },
+          {
+            "word": "excesivo",
+            "pos": "adj.",
+            "zh": "過度的、過量的",
+            "example": "El trabajo excesivo puede dañar la salud.",
+            "example_zh": "過度工作可能會損害健康。"
+          },
+          {
+            "word": "autoestima",
+            "pos": "n. f.",
+            "zh": "自尊、自我評價",
+            "example": "Es fundamental tener una buena autoestima para ser feliz.",
+            "example_zh": "擁有良好的自尊對於快樂生活至關重要。"
+          },
+          {
+            "word": "verificar",
+            "pos": "v.",
+            "zh": "核實、確認",
+            "example": "Debes verificar la información antes de publicarla.",
+            "example_zh": "在發布資訊之前，你應該先核實。"
+          },
+          {
+            "word": "superar",
+            "pos": "v.",
+            "zh": "超越、克服",
+            "example": "Con esfuerzo, puedes superar cualquier obstáculo.",
+            "example_zh": "只要努力，你可以克服任何障礙。"
+          },
+          {
+            "word": "responsabilidad",
+            "pos": "n. f.",
+            "zh": "責任、責任感",
+            "example": "Tienes la responsabilidad de cuidar el medio ambiente.",
+            "example_zh": "你有責任保護環境。"
+          },
+          {
+            "word": "peligroso",
+            "pos": "adj.",
+            "zh": "危險的",
+            "example": "Conducir a alta velocidad es muy peligroso.",
+            "example_zh": "高速駕駛是非常危險的。"
+          },
+          {
+            "word": "poderoso",
+            "pos": "adj.",
+            "zh": "強大的、有力的",
+            "example": "El lenguaje es un instrumento poderoso para comunicarse.",
+            "example_zh": "語言是溝通的強大工具。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Según el texto, ¿cuál es una ventaja de las redes sociales?",
+            "options": [
+              "Causan ansiedad entre los jóvenes.",
+              "Permiten mantenernos en contacto con personas que viven lejos.",
+              "Difunden información falsa fácilmente.",
+              "Reducen el tiempo libre de los estudiantes."
+            ],
+            "answer": 1,
+            "explain": "文章提到社群媒體讓我們能夠與住在遠方的朋友和家人保持聯繫，這是其優點之一。"
+          },
+          {
+            "q": "¿Qué problema mencionan los estudios sobre el uso excesivo de las redes sociales?",
+            "options": [
+              "Mejora la autoestima de los jóvenes.",
+              "Hace que la gente lea más libros.",
+              "Podría causar ansiedad y baja autoestima.",
+              "Aumenta la productividad en el trabajo."
+            ],
+            "answer": 2,
+            "explain": "文章明確指出，多項研究證明過度使用社群媒體可能導致焦慮和低自尊，尤其影響年輕人。"
+          },
+          {
+            "q": "¿Qué dice el autor sobre compartir información en las redes sociales?",
+            "options": [
+              "Es bueno compartir noticias sin leerlas.",
+              "La gente podría compartir información falsa sin verificarla.",
+              "Toda la información en internet es confiable.",
+              "Los jóvenes siempre verifican la información antes de compartirla."
+            ],
+            "answer": 1,
+            "explain": "文章警告說，人們可能在未經核實的情況下分享假訊息，這對社會很危險。"
+          },
+          {
+            "q": "¿Qué solución propone el autor para mejorar el uso de las redes sociales?",
+            "options": [
+              "Prohibir las redes sociales en todos los países.",
+              "Que solo los adultos puedan usarlas.",
+              "Que los colegios enseñen a usarlas de manera crítica y segura.",
+              "Que las empresas tecnológicas cierren sus plataformas."
+            ],
+            "answer": 2,
+            "explain": "作者建議學校應教導學生如何以批判性且安全的方式使用社群媒體，這是文中提出的解決方案。"
+          },
+          {
+            "q": "¿Qué tiempo verbal se usa en la frase 'si quisiéramos aprender algo nuevo, podríamos encontrar miles de tutoriales'?",
+            "options": [
+              "Presente de indicativo y futuro simple.",
+              "Pretérito indefinido y pretérito imperfecto.",
+              "Imperfecto de subjuntivo y condicional simple.",
+              "Pretérito perfecto y futuro compuesto."
+            ],
+            "answer": 2,
+            "explain": "這個句子使用了條件句結構：「quisiéramos」是過去虛擬式（imperfecto de subjuntivo），「podríamos」是簡單條件式（condicional simple），表示假設情境。"
+          }
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "2026-08-16-C2-fallback",
+        "source": "ai",
+        "level_label": "約 C2（AI 生成）",
+        "title": "Las redes sociales: ¿ventaja o problema?",
+        "text": "Hoy en día, las redes sociales forman parte de la vida cotidiana de millones de personas. Aunque muchos expertos afirman que estas plataformas han transformado la manera en que nos comunicamos, también existen opiniones que señalan sus riesgos.\n\nPor un lado, las redes sociales permiten que la gente se conecte con amigos y familiares que viven lejos. Antes de que existieran estas tecnologías, era mucho más difícil mantener el contacto con personas de otros países. Además, si quisiéramos aprender algo nuevo, podríamos encontrar fácilmente cursos, tutoriales y comunidades en línea.\n\nPor otro lado, varios estudios han demostrado que el uso excesivo de estas plataformas causaba problemas de ansiedad, especialmente entre los jóvenes. Muchas personas pasaban horas comparando su vida con la de otros, lo cual les producía sentimientos de insatisfacción. Si los usuarios fueran más conscientes de este efecto, quizás usarían las redes de una forma más saludable.\n\nEn conclusión, las redes sociales son herramientas poderosas que, si se usaran con moderación, podrían mejorar nuestra vida significativamente. Sin embargo, es importante que cada persona reflexione sobre sus hábitos digitales y tome decisiones responsables.",
+        "translation": "社群媒體：優勢還是問題？\n\n如今，社群媒體已成為數百萬人日常生活的一部分。雖然許多專家表示這些平台已經改變了我們溝通的方式，但也有意見指出其潛在風險。\n\n一方面，社群媒體讓人們能夠與住在遠方的朋友和家人保持聯繫。在這些科技出現之前，與其他國家的人維持聯絡要困難得多。此外，如果我們想學習新事物，可以輕鬆地在網路上找到課程、教學影片和社群。\n\n另一方面，多項研究已證明，過度使用這些平台會導致焦慮問題，尤其是在年輕人之間。許多人花好幾個小時將自己的生活與他人相比，這讓他們產生了不滿足的感受。如果使用者更加意識到這種影響，也許他們會以更健康的方式使用社群媒體。\n\n總而言之，社群媒體是強大的工具，如果適度使用，可以大幅改善我們的生活。然而，重要的是每個人都要反思自己的數位習慣，並做出負責任的決定。",
+        "words": [
+          {
+            "word": "cotidiano/a",
+            "pos": "adj.",
+            "zh": "日常的",
+            "example": "El ejercicio es parte de su vida cotidiana.",
+            "example_zh": "運動是他日常生活的一部分。"
+          },
+          {
+            "word": "señalar",
+            "pos": "v.",
+            "zh": "指出、標示",
+            "example": "El informe señala los principales problemas del sistema.",
+            "example_zh": "這份報告指出了該制度的主要問題。"
+          },
+          {
+            "word": "mantener",
+            "pos": "v.",
+            "zh": "維持、保持",
+            "example": "Es difícil mantener el contacto cuando vives lejos.",
+            "example_zh": "住得遠的時候很難維持聯絡。"
+          },
+          {
+            "word": "excesivo/a",
+            "pos": "adj.",
+            "zh": "過度的、過量的",
+            "example": "El consumo excesivo de azúcar es malo para la salud.",
+            "example_zh": "過量攝取糖分對健康有害。"
+          },
+          {
+            "word": "ansiedad",
+            "pos": "n. f.",
+            "zh": "焦慮",
+            "example": "Muchos estudiantes sienten ansiedad antes de los exámenes.",
+            "example_zh": "許多學生在考試前會感到焦慮。"
+          },
+          {
+            "word": "insatisfacción",
+            "pos": "n. f.",
+            "zh": "不滿足、不滿意",
+            "example": "La insatisfacción laboral puede afectar la salud mental.",
+            "example_zh": "工作上的不滿足感可能影響心理健康。"
+          },
+          {
+            "word": "consciente",
+            "pos": "adj.",
+            "zh": "有意識的、清醒的",
+            "example": "Debemos ser conscientes de nuestro impacto en el medio ambiente.",
+            "example_zh": "我們必須意識到自己對環境的影響。"
+          },
+          {
+            "word": "moderación",
+            "pos": "n. f.",
+            "zh": "適度、節制",
+            "example": "Comer con moderación es clave para una dieta equilibrada.",
+            "example_zh": "適度飲食是均衡飲食的關鍵。"
+          },
+          {
+            "word": "reflexionar",
+            "pos": "v.",
+            "zh": "反思、思考",
+            "example": "Es bueno reflexionar sobre nuestras decisiones pasadas.",
+            "example_zh": "對過去的決定加以反思是有益的。"
+          },
+          {
+            "word": "poderoso/a",
+            "pos": "adj.",
+            "zh": "強大的、有力的",
+            "example": "El lenguaje es una herramienta poderosa para conectar culturas.",
+            "example_zh": "語言是連結不同文化的強大工具。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Según el texto, ¿qué permitían hacer las redes sociales?",
+            "options": [
+              "Viajar a otros países fácilmente.",
+              "Conectarse con personas que viven lejos.",
+              "Aprender idiomas en universidades.",
+              "Trabajar sin usar el internet."
+            ],
+            "answer": 1,
+            "explain": "文章提到社群媒體讓人們能與住在遠方的朋友和家人保持聯繫，故選第二項。"
+          },
+          {
+            "q": "¿Qué problema causaba el uso excesivo de las redes sociales, según varios estudios?",
+            "options": [
+              "Problemas de memoria.",
+              "Dificultades para dormir.",
+              "Problemas de ansiedad.",
+              "Enfermedades físicas graves."
+            ],
+            "answer": 2,
+            "explain": "文中明確指出多項研究證明過度使用平台會導致焦慮（ansiedad）問題，故選第三項。"
+          },
+          {
+            "q": "¿Por qué muchas personas sentían insatisfacción?",
+            "options": [
+              "Porque no tenían acceso a internet.",
+              "Porque comparaban su vida con la de otros.",
+              "Porque no podían encontrar cursos en línea.",
+              "Porque sus amigos vivían en otros países."
+            ],
+            "answer": 1,
+            "explain": "文章說許多人花時間將自己的生活與他人相比，因而產生不滿足感，故選第二項。"
+          },
+          {
+            "q": "¿Qué tiempo verbal se usa en la oración: 'Si los usuarios fueran más conscientes... quizás usarían las redes de una forma más saludable'?",
+            "options": [
+              "Presente de indicativo y futuro simple.",
+              "Pretérito indefinido y condicional.",
+              "Imperfecto de subjuntivo y condicional simple.",
+              "Presente de subjuntivo y futuro simple."
+            ],
+            "answer": 2,
+            "explain": "這是一個假設性條件句，使用虛擬式過去未完成時（fueran）和條件式（usarían），故選第三項。"
+          },
+          {
+            "q": "¿Cuál es la conclusión del texto sobre las redes sociales?",
+            "options": [
+              "Son completamente negativas y deben eliminarse.",
+              "Son útiles solo para los jóvenes.",
+              "Son herramientas poderosas si se usan con moderación.",
+              "No tienen ningún efecto en la salud mental."
+            ],
+            "answer": 2,
+            "explain": "結論段落指出，社群媒體若適度使用可以改善生活，是強大的工具，故選第三項。"
+          }
+        ]
+      }
+    ]
+  }
+}

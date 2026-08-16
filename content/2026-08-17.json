@@ -1,0 +1,839 @@
+{
+  "date": "2026-08-17",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-08-17-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Mi mascota",
+        "text": "Tengo un perro. Se llama Coco. Coco es pequeño y blanco. Le gusta jugar y correr. Come mucho todos los días. Bebe agua fría. Duerme en mi cama. Coco es muy simpático. Yo lo quiero mucho. Él es mi mejor amigo.",
+        "translation": "我有一隻狗。牠叫可可。可可又小又白。牠喜歡玩耍和跑步。牠每天吃很多。牠喝冷水。牠睡在我的床上。可可非常可愛友善。我非常愛牠。牠是我最好的朋友。",
+        "words": [
+          {
+            "word": "mascota",
+            "pos": "n.f.",
+            "zh": "寵物",
+            "example": "Mi mascota es un gato.",
+            "example_zh": "我的寵物是一隻貓。"
+          },
+          {
+            "word": "perro",
+            "pos": "n.m.",
+            "zh": "狗",
+            "example": "El perro es grande.",
+            "example_zh": "那隻狗很大。"
+          },
+          {
+            "word": "pequeño",
+            "pos": "adj.",
+            "zh": "小的",
+            "example": "El gato es pequeño.",
+            "example_zh": "那隻貓很小。"
+          },
+          {
+            "word": "jugar",
+            "pos": "v.",
+            "zh": "玩耍",
+            "example": "Los niños juegan en el parque.",
+            "example_zh": "孩子們在公園玩耍。"
+          },
+          {
+            "word": "correr",
+            "pos": "v.",
+            "zh": "跑步",
+            "example": "Yo corro todos los días.",
+            "example_zh": "我每天跑步。"
+          },
+          {
+            "word": "comer",
+            "pos": "v.",
+            "zh": "吃",
+            "example": "Ella come una manzana.",
+            "example_zh": "她吃一顆蘋果。"
+          },
+          {
+            "word": "beber",
+            "pos": "v.",
+            "zh": "喝",
+            "example": "Él bebe leche.",
+            "example_zh": "他喝牛奶。"
+          },
+          {
+            "word": "dormir",
+            "pos": "v.",
+            "zh": "睡覺",
+            "example": "El bebé duerme mucho.",
+            "example_zh": "嬰兒睡很多。"
+          },
+          {
+            "word": "simpático",
+            "pos": "adj.",
+            "zh": "友善的、可愛的",
+            "example": "Mi profesor es muy simpático.",
+            "example_zh": "我的老師非常友善。"
+          },
+          {
+            "word": "querer",
+            "pos": "v.",
+            "zh": "愛、喜愛",
+            "example": "Yo quiero a mi familia.",
+            "example_zh": "我愛我的家人。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cómo se llama el perro?",
+            "options": [
+              "Lolo",
+              "Coco",
+              "Pepe",
+              "Toto"
+            ],
+            "answer": 1,
+            "explain": "文中提到「Se llama Coco」，所以狗的名字是 Coco。"
+          },
+          {
+            "q": "¿De qué color es Coco?",
+            "options": [
+              "Negro",
+              "Marrón",
+              "Blanco",
+              "Gris"
+            ],
+            "answer": 2,
+            "explain": "文中說「Coco es pequeño y blanco」，所以可可是白色的。"
+          },
+          {
+            "q": "¿Qué le gusta hacer a Coco?",
+            "options": [
+              "Nadar y dormir",
+              "Comer y beber",
+              "Jugar y correr",
+              "Leer y cantar"
+            ],
+            "answer": 2,
+            "explain": "文中說「Le gusta jugar y correr」，可可喜歡玩耍和跑步。"
+          },
+          {
+            "q": "¿Dónde duerme Coco?",
+            "options": [
+              "En el sofá",
+              "En el suelo",
+              "En el jardín",
+              "En la cama"
+            ],
+            "answer": 3,
+            "explain": "文中說「Duerme en mi cama」，可可睡在我的床上。"
+          },
+          {
+            "q": "¿Cómo es Coco según el texto?",
+            "options": [
+              "Antipático y triste",
+              "Simpático y querido",
+              "Grande y rápido",
+              "Viejo y cansado"
+            ],
+            "answer": 1,
+            "explain": "文中說「Coco es muy simpático」且「Yo lo quiero mucho」，所以可可既友善又受人喜愛。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-08-17-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "¿Cómo llego al museo?",
+        "text": "Ayer me perdí en el centro de la ciudad porque no conocía bien las calles. Pregunté a una señora muy amable: «Perdone, ¿sabe dónde está el museo de arte?» Ella me explicó el camino con paciencia. «Primero, gire a la derecha en la esquina. Luego, siga todo recto por la calle Mayor hasta el semáforo. El museo está al lado del parque.» Le di las gracias y seguí sus instrucciones. Mañana voy a volver al mismo lugar porque quiero visitar también la catedral. Espero no perderme otra vez.",
+        "translation": "昨天我在市中心迷路了，因為我對街道不太熟悉。我詢問了一位非常親切的女士：「對不起，請問您知道藝術博物館在哪裡嗎？」她耐心地為我說明了路線。「首先，在路口向右轉。然後，沿著市長街一直走到紅綠燈。博物館就在公園旁邊。」我向她道謝，並按照她的指示走。明天我打算回到同一個地方，因為我也想參觀大教堂。希望這次不要再迷路了。",
+        "words": [
+          {
+            "word": "perderse",
+            "pos": "v. pron.",
+            "zh": "迷路",
+            "example": "Me perdí porque no tenía un mapa.",
+            "example_zh": "我迷路了，因為我沒有地圖。"
+          },
+          {
+            "word": "preguntar",
+            "pos": "v.",
+            "zh": "詢問、發問",
+            "example": "Pregunté a un policía cómo llegar a la estación.",
+            "example_zh": "我詢問一位警察如何到達車站。"
+          },
+          {
+            "word": "amable",
+            "pos": "adj.",
+            "zh": "親切的、友善的",
+            "example": "El señor fue muy amable y nos ayudó.",
+            "example_zh": "那位先生非常親切，幫助了我們。"
+          },
+          {
+            "word": "el camino",
+            "pos": "n. m.",
+            "zh": "路線、道路",
+            "example": "Ella me explicó el camino hasta el hotel.",
+            "example_zh": "她向我說明了前往飯店的路線。"
+          },
+          {
+            "word": "girar",
+            "pos": "v.",
+            "zh": "轉彎",
+            "example": "Gire a la izquierda en la próxima calle.",
+            "example_zh": "在下一條街向左轉。"
+          },
+          {
+            "word": "la esquina",
+            "pos": "n. f.",
+            "zh": "路口、轉角",
+            "example": "La farmacia está en la esquina.",
+            "example_zh": "藥局在轉角處。"
+          },
+          {
+            "word": "todo recto",
+            "pos": "adv.",
+            "zh": "一直走、直行",
+            "example": "Siga todo recto y verá el banco.",
+            "example_zh": "一直走就會看到銀行。"
+          },
+          {
+            "word": "el semáforo",
+            "pos": "n. m.",
+            "zh": "紅綠燈",
+            "example": "Para en el semáforo y gira a la derecha.",
+            "example_zh": "在紅綠燈停下來，然後向右轉。"
+          },
+          {
+            "word": "al lado de",
+            "pos": "prep. loc.",
+            "zh": "在……旁邊",
+            "example": "El supermercado está al lado de la iglesia.",
+            "example_zh": "超市在教堂旁邊。"
+          },
+          {
+            "word": "la catedral",
+            "pos": "n. f.",
+            "zh": "大教堂",
+            "example": "Vamos a visitar la catedral esta tarde.",
+            "example_zh": "我們今天下午要去參觀大教堂。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Por qué se perdió la persona en el centro?",
+            "options": [
+              "Porque no tenía dinero.",
+              "Porque no conocía bien las calles.",
+              "Porque el museo estaba cerrado.",
+              "Porque llovía mucho."
+            ],
+            "answer": 1,
+            "explain": "文中說「porque no conocía bien las calles」（因為對街道不熟悉），所以迷路了。"
+          },
+          {
+            "q": "¿A quién le preguntó el camino?",
+            "options": [
+              "A un policía.",
+              "A un niño.",
+              "A una señora amable.",
+              "A un taxista."
+            ],
+            "answer": 2,
+            "explain": "文中提到「Pregunté a una señora muy amable」，問路對象是一位親切的女士。"
+          },
+          {
+            "q": "Según las instrucciones, ¿dónde está el museo?",
+            "options": [
+              "Enfrente del semáforo.",
+              "Al lado del parque.",
+              "Detrás de la catedral.",
+              "En la esquina de la calle Mayor."
+            ],
+            "answer": 1,
+            "explain": "文中說「El museo está al lado del parque」，博物館在公園旁邊。"
+          },
+          {
+            "q": "¿Qué va a hacer la persona mañana?",
+            "options": [
+              "Va a descansar en casa.",
+              "Va a volver al museo y visitar la catedral.",
+              "Va a preguntar a otra señora.",
+              "Va a comprar un mapa de la ciudad."
+            ],
+            "answer": 1,
+            "explain": "文中用 Futuro próximo 說「voy a volver al mismo lugar porque quiero visitar también la catedral」，明天打算回去並參觀大教堂。"
+          },
+          {
+            "q": "¿Cuál es la primera instrucción que da la señora?",
+            "options": [
+              "Seguir todo recto.",
+              "Cruzar el parque.",
+              "Girar a la derecha en la esquina.",
+              "Parar en el semáforo."
+            ],
+            "answer": 2,
+            "explain": "女士的第一個指示是「Primero, gire a la derecha en la esquina」，先在路口向右轉。"
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "2026-08-17-B1-1",
+        "source": "ai",
+        "level_label": "B1",
+        "title": "Un estilo de vida saludable",
+        "text": "Hoy en día, muchas personas se preocupan por llevar una vida más sana. Cuando era joven, yo no prestaba atención a lo que comía ni hacía ejercicio con regularidad. Sin embargo, todo cambió cuando el médico me dijo que tenía el colesterol alto.\n\nDesde ese momento, decidí modificar mis hábitos. Empecé a comer más frutas y verduras, y reduje el consumo de alimentos procesados que contenían demasiada grasa y azúcar. Además, comencé a caminar treinta minutos cada día, algo que antes me parecía imposible.\n\nSi pudiera darle un consejo a alguien que quiere mejorar su salud, le diría que los cambios pequeños son los más efectivos. No es necesario que hagas una dieta estricta desde el primer día. Lo importante es que seas constante y que disfrutes del proceso.\n\nTambién descubrí que dormir bien era fundamental para sentirme con energía. Antes me acostaba muy tarde porque pensaba que dormir poco no importaba. Ahora sé que el descanso es tan importante como la alimentación y el ejercicio. Vivir de manera saludable no es tan difícil como creía.",
+        "translation": "如今，許多人都很注重過更健康的生活。我年輕的時候，既不在意自己吃什麼，也沒有規律運動的習慣。然而，當醫生告訴我膽固醇過高時，一切都改變了。\n\n從那一刻起，我決定改變自己的習慣。我開始吃更多水果和蔬菜，並減少攝取含有過多脂肪和糖分的加工食品。此外，我開始每天散步三十分鐘，這在以前對我來說似乎是不可能的事。\n\n如果我能給想要改善健康的人一個建議，我會告訴他們：小改變才是最有效的。沒有必要從第一天就進行嚴格的飲食控制。重要的是要持之以恆，並享受這個過程。\n\n我也發現睡眠充足對於保持精力充沛至關重要。以前我總是很晚才睡，因為我以為少睡沒什麼關係。現在我知道休息和飲食、運動一樣重要。健康地生活並不像我以為的那麼困難。",
+        "words": [
+          {
+            "word": "saludable",
+            "pos": "adj.",
+            "zh": "健康的",
+            "example": "Es importante llevar una dieta saludable.",
+            "example_zh": "保持健康的飲食習慣很重要。"
+          },
+          {
+            "word": "hábito",
+            "pos": "m. n.",
+            "zh": "習慣",
+            "example": "Tengo el hábito de leer antes de dormir.",
+            "example_zh": "我有睡前閱讀的習慣。"
+          },
+          {
+            "word": "colesterol",
+            "pos": "m. n.",
+            "zh": "膽固醇",
+            "example": "El médico me dijo que tenía el colesterol alto.",
+            "example_zh": "醫生告訴我膽固醇過高。"
+          },
+          {
+            "word": "reducir",
+            "pos": "v.",
+            "zh": "減少、降低",
+            "example": "Debes reducir el consumo de sal.",
+            "example_zh": "你應該減少鹽的攝取。"
+          },
+          {
+            "word": "procesado",
+            "pos": "adj.",
+            "zh": "加工的",
+            "example": "Los alimentos procesados no son buenos para la salud.",
+            "example_zh": "加工食品對健康不好。"
+          },
+          {
+            "word": "constante",
+            "pos": "adj.",
+            "zh": "持之以恆的、持續的",
+            "example": "Para aprender un idioma, hay que ser constante.",
+            "example_zh": "學一門語言必須持之以恆。"
+          },
+          {
+            "word": "fundamental",
+            "pos": "adj.",
+            "zh": "基本的、至關重要的",
+            "example": "Dormir bien es fundamental para la salud.",
+            "example_zh": "睡眠充足對健康至關重要。"
+          },
+          {
+            "word": "descanso",
+            "pos": "m. n.",
+            "zh": "休息",
+            "example": "Necesito un descanso después de trabajar tanto.",
+            "example_zh": "工作了這麼久之後，我需要休息一下。"
+          },
+          {
+            "word": "alimentación",
+            "pos": "f. n.",
+            "zh": "飲食、營養攝取",
+            "example": "Una buena alimentación previene muchas enfermedades.",
+            "example_zh": "良好的飲食可以預防許多疾病。"
+          },
+          {
+            "word": "efectivo",
+            "pos": "adj.",
+            "zh": "有效的",
+            "example": "Este medicamento es muy efectivo contra el dolor.",
+            "example_zh": "這種藥對疼痛非常有效。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Por qué decidió el narrador cambiar sus hábitos?",
+            "options": [
+              "Porque quería adelgazar rápidamente.",
+              "Porque el médico le dijo que tenía el colesterol alto.",
+              "Porque su familia le pidió que hiciera ejercicio.",
+              "Porque empezó a sentirse muy cansado."
+            ],
+            "answer": 1,
+            "explain": "文中提到「當醫生告訴我膽固醇過高時，一切都改變了」，所以他改變習慣的原因是醫生的診斷結果。"
+          },
+          {
+            "q": "¿Qué cambio físico hizo el narrador en su rutina diaria?",
+            "options": [
+              "Fue al gimnasio tres veces por semana.",
+              "Empezó a nadar todos los días.",
+              "Caminó treinta minutos cada día.",
+              "Corrió diez kilómetros cada mañana."
+            ],
+            "answer": 2,
+            "explain": "文中明確提到他開始每天散步三十分鐘（caminar treinta minutos cada día）。"
+          },
+          {
+            "q": "Según el narrador, ¿cuál es el consejo más importante para mejorar la salud?",
+            "options": [
+              "Hacer una dieta estricta desde el primer día.",
+              "Ir al médico cada semana.",
+              "Ser constante y disfrutar del proceso con cambios pequeños.",
+              "Eliminar completamente el azúcar y la grasa."
+            ],
+            "answer": 2,
+            "explain": "文中以條件式說明：如果能給一個建議，就是「小改變最有效、要持之以恆並享受過程」。"
+          },
+          {
+            "q": "¿Por qué se acostaba tarde el narrador antes de cambiar sus hábitos?",
+            "options": [
+              "Porque trabajaba de noche.",
+              "Porque pensaba que dormir poco no importaba.",
+              "Porque tenía insomnio.",
+              "Porque salía con amigos hasta tarde."
+            ],
+            "answer": 1,
+            "explain": "文中以過去式說明：「以前我總是很晚才睡，因為我以為少睡沒什麼關係（pensaba que dormir poco no importaba）」。"
+          },
+          {
+            "q": "¿Qué conclusión saca el narrador al final del texto?",
+            "options": [
+              "Que vivir de manera saludable es imposible para la mayoría.",
+              "Que solo el ejercicio es suficiente para estar sano.",
+              "Que vivir de manera saludable no es tan difícil como creía.",
+              "Que es necesario seguir una dieta muy estricta."
+            ],
+            "answer": 2,
+            "explain": "文章結尾明確說：「健康地生活並不像我以為的那麼困難（no es tan difícil como creía）」，呼應全文主旨。"
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "2026-08-17-B2-fallback",
+        "source": "ai",
+        "level_label": "約 B2（AI 生成）",
+        "title": "Una vida saludable",
+        "text": "Hoy en día, muchas personas se preocupan por llevar una vida más saludable. Cuando era joven, yo nunca pensaba en lo que comía ni en la cantidad de ejercicio que hacía. Sin embargo, hace dos años decidí cambiar mis hábitos porque me sentía cansado todo el tiempo y el médico me dijo que debería mejorar mi alimentación.\n\nEmpecé a comer más frutas y verduras, y reduje el consumo de alimentos procesados que contenían demasiada azúcar y sal. Además, comencé a caminar treinta minutos cada día, aunque al principio me costaba mucho esfuerzo. Si hubiera sabido antes los beneficios de una dieta equilibrada, habría cambiado mis costumbres mucho antes.\n\nAhora me siento mucho mejor que antes. Duermo más profundamente, tengo más energía y mi estado de ánimo ha mejorado bastante. Los médicos siempre recomiendan que los pacientes eviten el estrés y que descansen lo suficiente, porque el descanso es tan importante como la alimentación. Si quieres vivir bien, es fundamental que adoptes hábitos saludables desde joven y que no esperes a que aparezcan los problemas de salud.",
+        "translation": "如今，許多人開始注重過更健康的生活。當我年輕的時候，我從來不思考自己吃什麼，也不在意運動量多少。然而，兩年前我決定改變自己的習慣，因為我一直感到疲憊，而且醫生告訴我應該改善飲食。\n\n我開始多吃蔬菜水果，並減少食用含有過多糖分和鹽分的加工食品。此外，我開始每天散步三十分鐘，雖然一開始對我來說非常費力。如果我早點知道均衡飲食的好處，我早就改變習慣了。\n\n現在我感覺比以前好多了。我睡得更深沉、精力更充沛，心情也改善了不少。醫生總是建議病患避免壓力並充分休息，因為休息和飲食同樣重要。如果你想活得好，從年輕時就養成健康的習慣、不要等到健康問題出現才行動，這一點至關重要。",
+        "words": [
+          {
+            "word": "saludable",
+            "pos": "adj.",
+            "zh": "健康的",
+            "example": "Es importante llevar una dieta saludable.",
+            "example_zh": "保持健康的飲食是很重要的。"
+          },
+          {
+            "word": "hábito",
+            "pos": "m. n.",
+            "zh": "習慣",
+            "example": "Tengo el hábito de caminar después de cenar.",
+            "example_zh": "我有晚飯後散步的習慣。"
+          },
+          {
+            "word": "alimentación",
+            "pos": "f. n.",
+            "zh": "飲食、營養",
+            "example": "Una buena alimentación ayuda a prevenir enfermedades.",
+            "example_zh": "良好的飲食有助於預防疾病。"
+          },
+          {
+            "word": "reducir",
+            "pos": "v.",
+            "zh": "減少、降低",
+            "example": "Debes reducir el consumo de sal.",
+            "example_zh": "你應該減少鹽的攝取量。"
+          },
+          {
+            "word": "procesado",
+            "pos": "adj.",
+            "zh": "加工的",
+            "example": "Los alimentos procesados tienen muchos conservantes.",
+            "example_zh": "加工食品含有許多防腐劑。"
+          },
+          {
+            "word": "equilibrado",
+            "pos": "adj.",
+            "zh": "均衡的",
+            "example": "Una dieta equilibrada incluye proteínas, verduras y carbohidratos.",
+            "example_zh": "均衡的飲食包含蛋白質、蔬菜和碳水化合物。"
+          },
+          {
+            "word": "estrés",
+            "pos": "m. n.",
+            "zh": "壓力",
+            "example": "El trabajo me causa mucho estrés.",
+            "example_zh": "工作讓我承受很大的壓力。"
+          },
+          {
+            "word": "estado de ánimo",
+            "pos": "m. n.",
+            "zh": "心情、情緒狀態",
+            "example": "El ejercicio mejora el estado de ánimo.",
+            "example_zh": "運動能改善情緒狀態。"
+          },
+          {
+            "word": "descanso",
+            "pos": "m. n.",
+            "zh": "休息",
+            "example": "El descanso es esencial para la salud.",
+            "example_zh": "休息對健康至關重要。"
+          },
+          {
+            "word": "fundamental",
+            "pos": "adj.",
+            "zh": "根本的、至關重要的",
+            "example": "Es fundamental beber suficiente agua cada día.",
+            "example_zh": "每天喝足夠的水是至關重要的。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Por qué decidió el autor cambiar sus hábitos hace dos años?",
+            "options": [
+              "Porque quería perder peso rápidamente.",
+              "Porque se sentía cansado y el médico le aconsejó mejorar su alimentación.",
+              "Porque su familia le pidió que hiciera más ejercicio.",
+              "Porque empezó a trabajar en un gimnasio."
+            ],
+            "answer": 1,
+            "explain": "文中提到作者因為一直感到疲憊，加上醫生建議他改善飲食，才決定改變習慣。"
+          },
+          {
+            "q": "¿Qué cambios hizo el autor en su dieta?",
+            "options": [
+              "Dejó de comer completamente por las noches.",
+              "Empezó a comer solo proteínas y vitaminas.",
+              "Comió más frutas y verduras y redujo los alimentos procesados.",
+              "Comenzó a tomar suplementos vitamínicos todos los días."
+            ],
+            "answer": 2,
+            "explain": "文章明確說明作者開始多吃蔬菜水果，並減少加工食品的攝取。"
+          },
+          {
+            "q": "¿Qué expresa la oración «Si hubiera sabido antes los beneficios de una dieta equilibrada, habría cambiado mis costumbres mucho antes»?",
+            "options": [
+              "Una condición posible en el futuro.",
+              "Un deseo para el presente.",
+              "Una situación hipotética en el pasado que no ocurrió.",
+              "Una obligación del pasado."
+            ],
+            "answer": 2,
+            "explain": "這句話使用了過去完成假設句（si + hubiera + 過去分詞，+ habría + 過去分詞），表示過去沒有發生的假設情況。"
+          },
+          {
+            "q": "Según el texto, ¿qué recomiendan los médicos a los pacientes?",
+            "options": [
+              "Que hagan ejercicio intenso todos los días.",
+              "Que eviten el estrés y que descansen lo suficiente.",
+              "Que tomen medicamentos para dormir mejor.",
+              "Que coman únicamente alimentos naturales."
+            ],
+            "answer": 1,
+            "explain": "文章中提到醫生建議病患避免壓力並充分休息，這兩點被強調為與飲食同等重要。"
+          },
+          {
+            "q": "¿Cuál es el mensaje principal del texto?",
+            "options": [
+              "Es necesario visitar al médico una vez por semana.",
+              "El ejercicio físico es más importante que la alimentación.",
+              "Es importante adoptar hábitos saludables desde joven y no esperar a tener problemas.",
+              "Solo las personas mayores deben preocuparse por su salud."
+            ],
+            "answer": 2,
+            "explain": "文章的結論強調，應該從年輕時就養成健康習慣，不要等到健康出問題才行動，這是全文的核心訊息。"
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-08-17-C1-fallback",
+        "source": "ai",
+        "level_label": "約 C1（AI 生成）",
+        "title": "Una vida saludable",
+        "text": "Hoy en día, muchas personas se preocupan por llevar una vida más saludable. Cuando era joven, yo no prestaba atención a mi alimentación y comía cualquier cosa sin pensar en las consecuencias. Sin embargo, después de que el médico me dijera que tenía el colesterol alto, decidí cambiar mis hábitos.\n\nEmpecé a hacer ejercicio tres veces por semana y modifiqué mi dieta por completo. Dejé de consumir alimentos procesados y comencé a comer más frutas, verduras y proteínas magras. Además, aprendí que dormir bien era fundamental para mantener una buena salud.\n\nSi pudiera dar un consejo a alguien que quiere mejorar su bienestar, le diría que los cambios pequeños son los más efectivos a largo plazo. No es necesario transformar toda tu vida de un día para otro. Basta con que añadas una fruta a tu desayuno o que camines veinte minutos al día.\n\nDesde que adopté estos hábitos, me siento mucho mejor. Tengo más energía, duermo más profundamente y mi estado de ánimo ha mejorado considerablemente. Una vida saludable no es un sacrificio; es un regalo que nos hacemos a nosotros mismos.",
+        "translation": "如今，許多人都關心如何過更健康的生活。我年輕的時候，從不注意飲食，什麼都吃，從不考慮後果。然而，在醫生告訴我膽固醇過高之後，我決定改變自己的習慣。\n\n我開始每週運動三次，並徹底調整了飲食。我戒掉了加工食品，開始多吃水果、蔬菜和瘦肉蛋白質。此外，我也了解到良好的睡眠對維持健康至關重要。\n\n如果我能給想要改善健康的人一個建議，我會說小小的改變才是長期最有效的。不必在一夜之間改變整個生活。只需在早餐加一顆水果，或每天步行二十分鐘就夠了。\n\n自從養成這些習慣以來，我感覺好多了。我精力更充沛，睡眠更深沉，心情也大幅改善。健康的生活不是一種犧牲，而是我們送給自己的禮物。",
+        "words": [
+          {
+            "word": "saludable",
+            "pos": "adj.",
+            "zh": "健康的",
+            "example": "Es importante tener una dieta saludable.",
+            "example_zh": "擁有健康的飲食很重要。"
+          },
+          {
+            "word": "alimentación",
+            "pos": "n. f.",
+            "zh": "飲食、營養攝取",
+            "example": "Una buena alimentación ayuda a prevenir enfermedades.",
+            "example_zh": "良好的飲食有助於預防疾病。"
+          },
+          {
+            "word": "hábito",
+            "pos": "n. m.",
+            "zh": "習慣",
+            "example": "Él tiene el hábito de leer antes de dormir.",
+            "example_zh": "他有睡前閱讀的習慣。"
+          },
+          {
+            "word": "procesado",
+            "pos": "adj.",
+            "zh": "加工的",
+            "example": "Los alimentos procesados contienen mucho sodio.",
+            "example_zh": "加工食品含有大量鈉。"
+          },
+          {
+            "word": "proteína magra",
+            "pos": "n. f.",
+            "zh": "瘦肉蛋白質",
+            "example": "El pollo es una buena fuente de proteína magra.",
+            "example_zh": "雞肉是瘦肉蛋白質的良好來源。"
+          },
+          {
+            "word": "bienestar",
+            "pos": "n. m.",
+            "zh": "健康幸福、身心舒適",
+            "example": "El ejercicio contribuye al bienestar general.",
+            "example_zh": "運動有助於整體身心健康。"
+          },
+          {
+            "word": "a largo plazo",
+            "pos": "loc. adv.",
+            "zh": "長期地",
+            "example": "Ahorrar dinero es beneficioso a largo plazo.",
+            "example_zh": "存錢從長遠來看是有益的。"
+          },
+          {
+            "word": "añadir",
+            "pos": "v.",
+            "zh": "添加、加入",
+            "example": "Puedes añadir verduras a la sopa.",
+            "example_zh": "你可以在湯裡加蔬菜。"
+          },
+          {
+            "word": "estado de ánimo",
+            "pos": "n. m.",
+            "zh": "心情、情緒狀態",
+            "example": "El sol mejora mi estado de ánimo.",
+            "example_zh": "陽光讓我心情變好。"
+          },
+          {
+            "word": "considerablemente",
+            "pos": "adv.",
+            "zh": "大幅地、相當地",
+            "example": "Su rendimiento mejoró considerablemente este año.",
+            "example_zh": "他今年的表現大幅提升。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Por qué decidió el narrador cambiar sus hábitos?",
+            "options": [
+              "Porque quería perder peso rápidamente.",
+              "Porque el médico le dijo que tenía el colesterol alto.",
+              "Porque su familia le recomendó hacer dieta.",
+              "Porque empezó a sentirse muy cansado."
+            ],
+            "answer": 1,
+            "explain": "短文中明確提到，是在醫生告知他膽固醇過高之後，他才決定改變習慣。"
+          },
+          {
+            "q": "¿Con qué frecuencia empezó a hacer ejercicio el narrador?",
+            "options": [
+              "Todos los días.",
+              "Una vez por semana.",
+              "Tres veces por semana.",
+              "Dos veces al mes."
+            ],
+            "answer": 2,
+            "explain": "短文中說「Empecé a hacer ejercicio tres veces por semana」，即每週三次。"
+          },
+          {
+            "q": "Según el narrador, ¿qué tipo de cambios son más efectivos a largo plazo?",
+            "options": [
+              "Los cambios radicales y rápidos.",
+              "Los cambios pequeños y graduales.",
+              "Los cambios recomendados por el médico.",
+              "Los cambios en el trabajo y en el descanso."
+            ],
+            "answer": 1,
+            "explain": "短文中使用條件式表達建議：「los cambios pequeños son los más efectivos a largo plazo」。"
+          },
+          {
+            "q": "¿Cuál de los siguientes beneficios menciona el narrador tras adoptar sus nuevos hábitos?",
+            "options": [
+              "Bajó mucho de peso.",
+              "Dejó de visitar al médico.",
+              "Tiene más energía y duerme mejor.",
+              "Aprendió a cocinar platos nuevos."
+            ],
+            "answer": 2,
+            "explain": "短文最後段提到「Tengo más energía, duermo más profundamente y mi estado de ánimo ha mejorado」。"
+          },
+          {
+            "q": "¿Qué ejemplo de cambio pequeño menciona el texto?",
+            "options": [
+              "Ir al gimnasio todos los días.",
+              "Eliminar completamente el azúcar.",
+              "Añadir una fruta al desayuno o caminar veinte minutos al día.",
+              "Dormir diez horas cada noche."
+            ],
+            "answer": 2,
+            "explain": "短文中用「Basta con que añadas una fruta a tu desayuno o que camines veinte minutos al día」作為小改變的例子。"
+          }
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "2026-08-17-C2-fallback",
+        "source": "ai",
+        "level_label": "約 C2（AI 生成）",
+        "title": "Un estilo de vida saludable",
+        "text": "Hoy en día, mucha gente reconoce que llevar una vida saludable es fundamental para sentirse bien tanto física como mentalmente. Sin embargo, no siempre es fácil mantener buenos hábitos cuando tenemos una agenda muy ocupada.\n\nCuando era joven, no prestaba mucha atención a mi alimentación. Comía demasiada comida rápida y dormía pocas horas. Un día, mi médico me dijo que si continuaba así, tendría problemas de salud graves en el futuro. Esas palabras me hicieron reflexionar profundamente.\n\nDesde entonces, he cambiado bastante mi rutina diaria. Ahora me levanto temprano para hacer ejercicio, aunque a veces me cuesta mucho salir de la cama. También he aprendido que una dieta equilibrada, que incluya frutas, verduras y proteínas, es esencial para tener energía durante todo el día.\n\nAdemás, descubrí que el estrés afecta directamente a nuestra salud. Por eso, intento dedicar tiempo a actividades que me relajen, como leer o caminar por el parque. Si todos adoptáramos estos hábitos desde pequeños, probablemente viviríamos de manera más sana y feliz. La salud es el tesoro más valioso que tenemos.",
+        "translation": "如今，許多人認識到保持健康的生活方式對於在身體和心理上都感覺良好是至關重要的。然而，當我們的日程非常繁忙時，維持良好的習慣並不總是容易的事。\n\n當我年輕的時候，我不太注意自己的飲食。我吃太多速食，睡眠時間也很少。有一天，我的醫生告訴我，如果我繼續這樣下去，將來會有嚴重的健康問題。那些話讓我深深地反思。\n\n從那時起，我改變了很多日常作息。現在我早起運動，雖然有時候很難從床上爬起來。我也學到了均衡的飲食——包含水果、蔬菜和蛋白質——對整天保持活力是不可或缺的。\n\n此外，我發現壓力直接影響我們的健康。因此，我試著把時間留給能讓我放鬆的活動，例如閱讀或在公園裡散步。如果我們大家從小就養成這些習慣，我們或許會以更健康、更快樂的方式生活。健康是我們擁有的最寶貴的財富。",
+        "words": [
+          {
+            "word": "saludable",
+            "pos": "adj.",
+            "zh": "健康的",
+            "example": "Es importante llevar una dieta saludable todos los días.",
+            "example_zh": "每天保持健康的飲食是很重要的。"
+          },
+          {
+            "word": "hábito",
+            "pos": "m.",
+            "zh": "習慣",
+            "example": "Dormir ocho horas es un buen hábito para el cuerpo.",
+            "example_zh": "睡八個小時對身體是個好習慣。"
+          },
+          {
+            "word": "alimentación",
+            "pos": "f.",
+            "zh": "飲食、營養攝取",
+            "example": "Una buena alimentación ayuda a prevenir muchas enfermedades.",
+            "example_zh": "良好的飲食有助於預防許多疾病。"
+          },
+          {
+            "word": "reflexionar",
+            "pos": "v.",
+            "zh": "反思、深思",
+            "example": "Necesito reflexionar sobre mis decisiones antes de actuar.",
+            "example_zh": "我需要在行動之前反思我的決定。"
+          },
+          {
+            "word": "equilibrado/a",
+            "pos": "adj.",
+            "zh": "均衡的",
+            "example": "Una dieta equilibrada incluye diferentes grupos de alimentos.",
+            "example_zh": "均衡的飲食包含不同的食物類別。"
+          },
+          {
+            "word": "estrés",
+            "pos": "m.",
+            "zh": "壓力、緊張",
+            "example": "El estrés del trabajo puede causar problemas de salud.",
+            "example_zh": "工作壓力可能導致健康問題。"
+          },
+          {
+            "word": "relajar",
+            "pos": "v.",
+            "zh": "放鬆",
+            "example": "Escuchar música me ayuda a relajar después de un día largo.",
+            "example_zh": "聽音樂幫助我在漫長的一天後放鬆。"
+          },
+          {
+            "word": "adoptar",
+            "pos": "v.",
+            "zh": "採用、養成",
+            "example": "Es mejor adoptar hábitos saludables desde joven.",
+            "example_zh": "從年輕時就養成健康習慣比較好。"
+          },
+          {
+            "word": "tesoro",
+            "pos": "m.",
+            "zh": "財富、珍寶",
+            "example": "Para muchas personas, la familia es su mayor tesoro.",
+            "example_zh": "對許多人來說，家人是他們最大的財富。"
+          },
+          {
+            "word": "grave",
+            "pos": "adj.",
+            "zh": "嚴重的",
+            "example": "El accidente causó heridas graves en varias personas.",
+            "example_zh": "這場事故造成幾個人嚴重受傷。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Según el texto, ¿qué hacía el autor cuando era joven?",
+            "options": [
+              "Hacía ejercicio todos los días.",
+              "Comía mucha comida rápida y dormía poco.",
+              "Prestaba mucha atención a su alimentación.",
+              "Visitaba al médico con frecuencia."
+            ],
+            "answer": 1,
+            "explain": "文中提到作者年輕時「吃太多速食且睡眠很少（comía demasiada comida rápida y dormía pocas horas）」，故選第2項（索引1）。"
+          },
+          {
+            "q": "¿Qué le dijo el médico al autor?",
+            "options": [
+              "Que debía comer más fruta cada día.",
+              "Que tenía que ir al hospital inmediatamente.",
+              "Que si continuaba así, tendría problemas de salud graves.",
+              "Que su salud era perfecta y no se preocupara."
+            ],
+            "answer": 2,
+            "explain": "文中明確引述醫生的話：「如果繼續這樣下去，將來會有嚴重的健康問題」，故選第3項（索引2）。"
+          },
+          {
+            "q": "¿Qué hace ahora el autor por las mañanas?",
+            "options": [
+              "Lee libros en el parque.",
+              "Se levanta temprano para hacer ejercicio.",
+              "Prepara una gran comida para todo el día.",
+              "Duerme más horas que antes."
+            ],
+            "answer": 1,
+            "explain": "文中說「現在我早起運動（me levanto temprano para hacer ejercicio）」，故選第2項（索引1）。"
+          },
+          {
+            "q": "Según el texto, ¿qué debe incluir una dieta equilibrada?",
+            "options": [
+              "Solo proteínas y carbohidratos.",
+              "Comida rápida y bebidas energéticas.",
+              "Frutas, verduras y proteínas.",
+              "Principalmente dulces y lácteos."
+            ],
+            "answer": 2,
+            "explain": "文中提到均衡飲食「包含水果、蔬菜和蛋白質（frutas, verduras y proteínas）」，故選第3項（索引2）。"
+          },
+          {
+            "q": "¿Qué hace el autor para combatir el estrés?",
+            "options": [
+              "Trabaja más horas para olvidarlo.",
+              "Toma medicamentos recetados por su médico.",
+              "Come más para sentirse mejor.",
+              "Dedica tiempo a leer o caminar por el parque."
+            ],
+            "answer": 3,
+            "explain": "文中說作者「把時間留給能讓他放鬆的活動，例如閱讀或在公園裡散步」，故選第4項（索引3）。"
+          }
+        ]
+      }
+    ]
+  }
+}

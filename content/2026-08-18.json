@@ -1,0 +1,565 @@
+{
+  "date": "2026-08-18",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-08-18-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Los números y las horas",
+        "text": "Son las ocho de la mañana. Tengo clase a las nueve. El recreo es a las once. Almuerzo a las doce y media. Por la tarde, estudio de dos a cuatro. Hay cinco asignaturas hoy. La primera es matemáticas. La última es inglés. Termino a las cinco. Son muchas horas, pero está bien.",
+        "translation": "現在是早上八點。我九點有課。十一點是下課休息時間。我十二點半吃午飯。下午，我從兩點讀書讀到四點。今天有五門科目。第一門是數學。最後一門是英文。我五點結束。雖然時間很長，但還不錯。",
+        "words": [
+          {
+            "word": "hora",
+            "pos": "n.f.",
+            "zh": "小時；時刻",
+            "example": "¿Qué hora es ahora?",
+            "example_zh": "現在幾點？"
+          },
+          {
+            "word": "clase",
+            "pos": "n.f.",
+            "zh": "課；課堂",
+            "example": "Tengo clase a las diez.",
+            "example_zh": "我十點有課。"
+          },
+          {
+            "word": "recreo",
+            "pos": "n.m.",
+            "zh": "課間休息；下課時間",
+            "example": "El recreo es a las once.",
+            "example_zh": "十一點是下課休息時間。"
+          },
+          {
+            "word": "media",
+            "pos": "adj.",
+            "zh": "半（用於時間表達）",
+            "example": "Son las tres y media.",
+            "example_zh": "現在是三點半。"
+          },
+          {
+            "word": "tarde",
+            "pos": "n.f.",
+            "zh": "下午；傍晚",
+            "example": "Por la tarde voy al parque.",
+            "example_zh": "下午我去公園。"
+          },
+          {
+            "word": "asignatura",
+            "pos": "n.f.",
+            "zh": "科目；學科",
+            "example": "Hay cuatro asignaturas hoy.",
+            "example_zh": "今天有四門科目。"
+          },
+          {
+            "word": "primero/a",
+            "pos": "adj.",
+            "zh": "第一的；首先的",
+            "example": "La primera clase es a las ocho.",
+            "example_zh": "第一堂課在八點。"
+          },
+          {
+            "word": "último/a",
+            "pos": "adj.",
+            "zh": "最後的",
+            "example": "El último tren es a las doce.",
+            "example_zh": "最後一班火車在十二點。"
+          },
+          {
+            "word": "terminar",
+            "pos": "v.",
+            "zh": "結束；完成",
+            "example": "Termino la tarea a las seis.",
+            "example_zh": "我六點完成作業。"
+          },
+          {
+            "word": "mañana",
+            "pos": "n.f.",
+            "zh": "早晨；上午",
+            "example": "Estudio por la mañana.",
+            "example_zh": "我在早上讀書。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿A qué hora tiene clase la persona?",
+            "options": [
+              "A las ocho.",
+              "A las nueve.",
+              "A las once.",
+              "A las doce."
+            ],
+            "answer": 1,
+            "explain": "短文提到「Tengo clase a las nueve」，所以上課時間是九點。"
+          },
+          {
+            "q": "¿Cuándo es el recreo?",
+            "options": [
+              "A las ocho.",
+              "A las nueve.",
+              "A las diez.",
+              "A las once."
+            ],
+            "answer": 3,
+            "explain": "短文說「El recreo es a las once」，課間休息是十一點。"
+          },
+          {
+            "q": "¿A qué hora almuerza la persona?",
+            "options": [
+              "A las once.",
+              "A las doce y media.",
+              "A la una.",
+              "A las dos."
+            ],
+            "answer": 1,
+            "explain": "短文提到「Almuerzo a las doce y media」，吃午飯的時間是十二點半。"
+          },
+          {
+            "q": "¿Cuántas asignaturas hay hoy?",
+            "options": [
+              "Tres.",
+              "Cuatro.",
+              "Cinco.",
+              "Seis."
+            ],
+            "answer": 2,
+            "explain": "短文說「Hay cinco asignaturas hoy」，今天共有五門科目。"
+          },
+          {
+            "q": "¿Cuál es la última asignatura?",
+            "options": [
+              "Matemáticas.",
+              "Inglés.",
+              "Historia.",
+              "Ciencias."
+            ],
+            "answer": 1,
+            "explain": "短文說「La última es inglés」，最後一門科目是英文。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-08-18-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Mi película favorita",
+        "text": "El fin de semana pasado, vi una película fantástica con mi hermana. Se llama 'El viaje de Chihiro' y es una animación japonesa muy famosa. La historia trata de una niña valiente que entra en un mundo mágico y tiene que trabajar para rescatar a sus padres. Las imágenes son preciosas y la música es muy especial. Al principio, la protagonista tiene miedo, pero después se vuelve más fuerte. Me encantó tanto que lloré al final. Esta tarde voy a buscar más información sobre el director, porque quiero conocer sus otras obras. El próximo mes voy a ver otra película suya con mis amigos.",
+        "translation": "上個週末，我和姊姊一起看了一部很棒的電影。它叫做《神隱少女》，是一部非常著名的日本動畫。故事講述一個勇敢的小女孩進入一個魔幻世界，必須努力工作才能救出她的父母。畫面非常美麗，音樂也非常特別。一開始，主角很害怕，但後來她變得更堅強了。我太喜歡這部電影了，最後還哭了。今天下午我要去搜尋更多關於導演的資料，因為我想了解他的其他作品。下個月我要和朋友一起去看他的另一部電影。",
+        "words": [
+          {
+            "word": "fantástico/a",
+            "pos": "adj.",
+            "zh": "很棒的、極好的",
+            "example": "Este libro es fantástico, te lo recomiendo.",
+            "example_zh": "這本書非常棒，我推薦給你。"
+          },
+          {
+            "word": "la animación",
+            "pos": "n. f.",
+            "zh": "動畫",
+            "example": "Los niños adoran ver animaciones los sábados.",
+            "example_zh": "孩子們喜歡在週六看動畫。"
+          },
+          {
+            "word": "valiente",
+            "pos": "adj.",
+            "zh": "勇敢的",
+            "example": "El bombero es muy valiente.",
+            "example_zh": "那位消防員非常勇敢。"
+          },
+          {
+            "word": "mágico/a",
+            "pos": "adj.",
+            "zh": "魔幻的、神奇的",
+            "example": "Entramos en un bosque mágico lleno de luz.",
+            "example_zh": "我們進入了一座充滿光芒的魔幻森林。"
+          },
+          {
+            "word": "rescatar",
+            "pos": "v.",
+            "zh": "拯救、營救",
+            "example": "El héroe consiguió rescatar a todos los prisioneros.",
+            "example_zh": "英雄成功地救出了所有囚犯。"
+          },
+          {
+            "word": "la protagonista",
+            "pos": "n. f.",
+            "zh": "（女）主角",
+            "example": "La protagonista de esta serie es muy inteligente.",
+            "example_zh": "這部影集的女主角非常聰明。"
+          },
+          {
+            "word": "tener miedo",
+            "pos": "expr.",
+            "zh": "感到害怕",
+            "example": "Tengo miedo cuando hay tormenta por la noche.",
+            "example_zh": "夜晚打雷下雨時我會感到害怕。"
+          },
+          {
+            "word": "llorar",
+            "pos": "v.",
+            "zh": "哭泣",
+            "example": "Lloré mucho cuando terminó la película.",
+            "example_zh": "電影結束時我哭了很多。"
+          },
+          {
+            "word": "el director",
+            "pos": "n. m.",
+            "zh": "（電影）導演",
+            "example": "El director de esta película ganó varios premios.",
+            "example_zh": "這部電影的導演獲得了好幾個獎項。"
+          },
+          {
+            "word": "la obra",
+            "pos": "n. f.",
+            "zh": "作品",
+            "example": "Esta es la obra más conocida del artista.",
+            "example_zh": "這是這位藝術家最有名的作品。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Con quién vio la película el narrador?",
+            "options": [
+              "Con sus amigos",
+              "Con su hermana",
+              "Con sus padres",
+              "Solo/a"
+            ],
+            "answer": 1,
+            "explain": "短文第一句提到「con mi hermana」（和我姊姊一起），所以正確答案是 B。"
+          },
+          {
+            "q": "¿De qué trata la historia de 'El viaje de Chihiro'?",
+            "options": [
+              "Un niño que aprende a cocinar en un restaurante mágico",
+              "Una niña valiente que entra en un mundo mágico para rescatar a sus padres",
+              "Una familia que viaja por diferentes países del mundo",
+              "Un grupo de amigos que busca un tesoro escondido"
+            ],
+            "answer": 1,
+            "explain": "短文說故事是關於一個勇敢的女孩進入魔幻世界拯救父母，對應選項 B。"
+          },
+          {
+            "q": "¿Cómo reaccionó el narrador al final de la película?",
+            "options": [
+              "Se durmió",
+              "Se fue del cine",
+              "Lloró",
+              "Se enfadó"
+            ],
+            "answer": 2,
+            "explain": "短文中說「lloré al final」（最後哭了），所以正確答案是 C。"
+          },
+          {
+            "q": "¿Qué va a hacer el narrador esta tarde?",
+            "options": [
+              "Va a ver otra película con sus amigos",
+              "Va a buscar información sobre el director",
+              "Va a comprar entradas para el cine",
+              "Va a llamar a su hermana"
+            ],
+            "answer": 1,
+            "explain": "短文說「Esta tarde voy a buscar más información sobre el director」（今天下午要去搜尋導演的資料），對應選項 B。"
+          },
+          {
+            "q": "¿Cuándo va a ver otra película el narrador?",
+            "options": [
+              "Esta noche",
+              "El fin de semana que viene",
+              "El próximo mes",
+              "Mañana por la mañana"
+            ],
+            "answer": 2,
+            "explain": "短文最後說「El próximo mes voy a ver otra película」（下個月要去看另一部電影），對應選項 C。"
+          }
+        ]
+      }
+    ],
+    "B1": [],
+    "B2": [
+      {
+        "id": "2026-08-18-real-1",
+        "source": "real",
+        "level_label": "約 B2–C1",
+        "origin_url": "https://www.bbc.com/mundo/articles/c9802y9lk76o?at_medium=RSS&at_campaign=rss",
+        "origin_name": "BBC Mundo",
+        "title": "La promesa incumplida: ¿trabajan menos los empleados de IA?",
+        "text": "Desde hace años, los ejecutivos de las empresas que invierten cientos de miles de millones de dólares en inteligencia artificial han insistido en que esta tecnología permitirá que la gente dedique menos tiempo al trabajo. OpenAI instó formalmente a las empresas a comenzar a probar una semana laboral de cuatro días, alegando que la IA podrá acelerar tanto el trabajo humano que el mundo empresarial tiene que prepararse. Sin embargo, un antiguo empleado técnico de OpenAI que dejó la empresa el año pasado le dijo a la BBC que, mientras trabajó allí, la compañía nunca llegó a probar dicha semana laboral. En cambio, describió lo que a menudo era una cultura laboral agotadora, marcada por frecuentes reuniones de crisis, trabajo los fines de semana y evaluaciones de desempeño superdespiadadas que podían resultar en el despido repentino de compañeros. Mark Zuckerberg afirma que la IA permite que un número mucho menor de empleados haga mucho más de lo que jamás hubieran podido. Si bien Meta ha despedido a uno de cada diez empleados, el director ejecutivo de Anthropic ha advertido que, a medida que las herramientas de IA se vuelvan más productivas, esto podría significar una pérdida de empleos aún mayor. Los trabajadores del sector tecnológico en Estados Unidos suelen estar bien remunerados, pero una jornada de catorce horas no siempre fue la norma en dicho sector.",
+        "translation": "多年來，在人工智慧領域每年投入數千億美元的企業高管們一再堅稱，這項技術將使人們能夠減少工作時間。OpenAI 正式敦促各企業開始試行每週四天工作制，聲稱 AI 即將能夠大幅加速人類工作，商界必須做好準備。然而，一名去年離職的 OpenAI 前技術員工告訴 BBC，在他任職期間，公司從未真正試行過它所建議別人採用的四天工作週。恰恰相反，他描述的往往是一種令人精疲力竭的工作文化，充斥著頻繁的危機會議、週末加班，以及可能導致同事突遭解雇的「超無情」績效考核。Meta 的馬克·祖克柏表示，AI 使得少得多的員工能夠完成遠超以往可能的工作量。儘管 Meta 已裁員十分之一，Anthropic 的執行長卻警告，隨著 AI 工具日益提升生產力，這可能意味著更大規模的失業。在美國，科技業員工的薪酬通常相當優渥，但每天工作十四小時並不一直是這個行業的常態。",
+        "words": [
+          {
+            "word": "instar",
+            "pos": "verbo transitivo",
+            "zh": "敦促、催促",
+            "example": "El gobierno instó a las empresas a reducir sus emisiones de carbono.",
+            "example_zh": "政府敦促各企業減少碳排放。"
+          },
+          {
+            "word": "alegar",
+            "pos": "verbo transitivo",
+            "zh": "聲稱、援引（理由）",
+            "example": "El acusado alegó no haber estado presente en el lugar de los hechos.",
+            "example_zh": "被告聲稱案發時自己並不在現場。"
+          },
+          {
+            "word": "agotador/a",
+            "pos": "adjetivo",
+            "zh": "令人精疲力竭的",
+            "example": "Trabajar doce horas al día resulta verdaderamente agotador.",
+            "example_zh": "每天工作十二小時真的令人筋疲力盡。"
+          },
+          {
+            "word": "despido",
+            "pos": "sustantivo masculino",
+            "zh": "解雇、裁員",
+            "example": "El despido repentino de varios empleados generó incertidumbre en la empresa.",
+            "example_zh": "數名員工遭到突然解雇，令公司內部人心惶惶。"
+          },
+          {
+            "word": "evaluación de desempeño",
+            "pos": "locución nominal",
+            "zh": "績效考核",
+            "example": "Las evaluaciones de desempeño anuales determinan si los empleados reciben un aumento.",
+            "example_zh": "年度績效考核決定員工是否能獲得加薪。"
+          },
+          {
+            "word": "remunerado/a",
+            "pos": "adjetivo",
+            "zh": "有報酬的、薪資優渥的",
+            "example": "Los médicos especializados suelen ser los profesionales mejor remunerados del sistema sanitario.",
+            "example_zh": "專科醫師通常是醫療體系中薪酬最高的專業人員。"
+          },
+          {
+            "word": "en última instancia",
+            "pos": "locución adverbial",
+            "zh": "歸根究柢、最終",
+            "example": "En última instancia, la decisión depende del consejo directivo.",
+            "example_zh": "歸根究柢，這項決定取決於董事會。"
+          },
+          {
+            "word": "marcar",
+            "pos": "verbo transitivo",
+            "zh": "標誌、使具有某特徵",
+            "example": "Su mandato estuvo marcado por profundas reformas económicas.",
+            "example_zh": "他的任期以深刻的經濟改革為標誌。"
+          },
+          {
+            "word": "por así decirlo",
+            "pos": "locución adverbial",
+            "zh": "可以這麼說、姑且如此說",
+            "example": "Es, por así decirlo, el cerebro detrás de toda la operación.",
+            "example_zh": "他可以說是整個行動背後的智囊。"
+          },
+          {
+            "word": "a medida que",
+            "pos": "locución conjuntiva",
+            "zh": "隨著……、與……同步",
+            "example": "A medida que avanza la tecnología, surgen nuevos dilemas éticos.",
+            "example_zh": "隨著技術的進步，新的倫理困境也隨之浮現。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Según el artículo, ¿qué prometió OpenAI respecto a la semana laboral?",
+            "options": [
+              "Que eliminaría todas las horas extra de sus empleados de inmediato.",
+              "Que instó a otras empresas a probar una semana de cuatro días sin cambios salariales.",
+              "Que reduciría la jornada laboral a seis horas diarias para todos sus trabajadores.",
+              "Que compartiría sus herramientas de IA gratuitamente con otras compañías."
+            ],
+            "answer": 1,
+            "explain": "文章明確指出，OpenAI「正式敦促各企業開始試行每週四天工作制（薪資不變）」，這是 OpenAI 對外的公開呼籲，而非針對自身員工的內部政策。"
+          },
+          {
+            "q": "¿Qué reveló el exemployado de OpenAI sobre la cultura laboral de la empresa?",
+            "options": [
+              "Que la empresa ya había implementado con éxito la semana de cuatro días.",
+              "Que los empleados disfrutaban de flexibilidad total para gestionar su tiempo.",
+              "Que existía una cultura agotadora con trabajo en fines de semana y evaluaciones severas.",
+              "Que la inteligencia artificial había reducido significativamente su carga de trabajo."
+            ],
+            "answer": 2,
+            "explain": "這名前員工描述的是一種令人精疲力竭的文化，包括危機會議、週末加班以及「超無情」的績效考核，與 OpenAI 對外倡導的理念形成鮮明對比。"
+          },
+          {
+            "q": "¿Qué contradicción principal señala el artículo sobre OpenAI?",
+            "options": [
+              "Que desarrolla IA pero no permite que sus empleados la usen.",
+              "Que recomienda a otras empresas una práctica que ella misma nunca aplicó.",
+              "Que afirma reducir empleos mientras contrata a más trabajadores.",
+              "Que promete salarios más altos pero en realidad los ha recortado."
+            ],
+            "answer": 1,
+            "explain": "文章核心矛盾在於：OpenAI 公開呼籲其他企業採行四天工作週，自己卻從未實施，員工反而長時間超時工作——這正是「說一套、做一套」的典型案例。"
+          },
+          {
+            "q": "Según el artículo, ¿qué ha advertido el director ejecutivo de Anthropic?",
+            "options": [
+              "Que la IA creará millones de nuevos empleos en el corto plazo.",
+              "Que las empresas deben implementar la semana de cuatro días de inmediato.",
+              "Que el avance de la IA podría provocar una pérdida de empleos aún mayor.",
+              "Que Anthropic planea duplicar su plantilla de trabajadores humanos."
+            ],
+            "answer": 2,
+            "explain": "文章指出，Anthropic 的執行長 Dario Amodei 警告，隨著 AI 工具變得更具生產力，這可能意味著更大規模的失業，與科技業樂觀的公開論述形成對比。"
+          },
+          {
+            "q": "¿Cuál es la actitud general del artículo hacia las promesas de las empresas de IA sobre el trabajo?",
+            "options": [
+              "Entusiasta, ya que confirma que la IA mejora las condiciones laborales.",
+              "Neutral, ya que solo presenta datos estadísticos sin opinión alguna.",
+              "Crítica, ya que contrasta las promesas públicas con la realidad interna de esas empresas.",
+              "Optimista, ya que concluye que la semana de cuatro días es inevitable."
+            ],
+            "answer": 2,
+            "explain": "文章採取批判性立場，透過前員工的親身陳述，揭露科技公司的公開承諾與實際工作環境之間的落差，質疑這些企業的說法是否言行一致。"
+          }
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "2026-08-18-C1-fallback",
+        "source": "ai",
+        "level_label": "約 C1（AI 生成）",
+        "title": "¿Ciudad o campo? Una elección de vida",
+        "text": "Mucha gente se pregunta si preferiría vivir en una gran ciudad o en el campo. Aunque ambas opciones tienen ventajas, la decisión depende de lo que cada persona valore en su vida diaria.\n\nQuienes eligieron mudarse al campo afirman que el ritmo de vida es más tranquilo y que el aire es mucho más puro. Además, señalan que el paisaje natural les proporcionaba una calma que nunca habían encontrado en la ciudad. Si pudiera elegir libremente, muchas personas confesarían que añoran ese silencio y esa conexión con la naturaleza.\n\nSin embargo, vivir en una zona urbana ofrece ventajas que no deberían subestimarse. Las ciudades cuentan con una infraestructura más desarrollada, lo que significa que los servicios médicos, educativos y culturales están al alcance de todos. También es cierto que quienes trabajan en sectores especializados necesitarían trasladarse a una ciudad si quisieran encontrar mejores oportunidades laborales.\n\nLo que más sorprende es que, aunque la vida urbana puede resultar agobiante, muchos habitantes rurales admitieron que extrañaban la variedad de opciones que ofrecía la ciudad. Al final, si tuvieras que escoger, ¿qué priorizarías: la tranquilidad del entorno o la comodidad de los servicios?",
+        "translation": "許多人會問自己，是否寧願住在大城市還是鄉村。雖然兩種選擇都有優點，但決定取決於每個人在日常生活中所重視的事情。\n\n那些選擇搬到鄉村的人表示，生活節奏更加平靜，空氣也清新許多。此外，他們指出，自然景色曾帶給他們一種在城市裡從未感受過的寧靜。如果能夠自由選擇，許多人會坦承他們渴望那份寂靜，以及與大自然的連結。\n\n然而，住在城市地區也提供了不應被低估的優點。城市擁有更完善的基礎設施，這意味著醫療、教育和文化服務都唾手可得。同樣可以確定的是，在專業領域工作的人，如果想找到更好的工作機會，就需要移居城市。\n\n最令人驚訝的是，雖然都市生活可能令人感到窒息，但許多鄉村居民坦承他們懷念城市所提供的多樣選擇。最後，如果你必須做出選擇，你會優先考慮什麼：周遭環境的寧靜，還是各項服務的便利？",
+        "words": [
+          {
+            "word": "mudarse",
+            "pos": "v.",
+            "zh": "搬家；遷居",
+            "example": "Decidieron mudarse al campo después de años en la ciudad.",
+            "example_zh": "他們在城市住了多年後，決定搬到鄉村。"
+          },
+          {
+            "word": "paisaje",
+            "pos": "m.",
+            "zh": "風景；景色",
+            "example": "El paisaje de las montañas era increíblemente hermoso.",
+            "example_zh": "山區的景色美得令人難以置信。"
+          },
+          {
+            "word": "añorar",
+            "pos": "v.",
+            "zh": "渴望；思念；嚮往",
+            "example": "Desde que se fue, añora el olor del mar.",
+            "example_zh": "自從他離開後，他一直思念著海洋的氣味。"
+          },
+          {
+            "word": "subestimar",
+            "pos": "v.",
+            "zh": "低估；輕視",
+            "example": "No debes subestimar las dificultades del proyecto.",
+            "example_zh": "你不應該低估這個計畫的困難。"
+          },
+          {
+            "word": "infraestructura",
+            "pos": "f.",
+            "zh": "基礎設施；基礎建設",
+            "example": "La infraestructura de transporte en esta ciudad es muy eficaz.",
+            "example_zh": "這座城市的交通基礎設施非常完善。"
+          },
+          {
+            "word": "trasladarse",
+            "pos": "v.",
+            "zh": "移居；遷移；前往",
+            "example": "Tuvo que trasladarse a Madrid para conseguir trabajo.",
+            "example_zh": "他不得不移居馬德里以找到工作。"
+          },
+          {
+            "word": "agobiante",
+            "pos": "adj.",
+            "zh": "令人窒息的；使人喘不過氣的",
+            "example": "El calor en agosto era tan agobiante que nadie salía a la calle.",
+            "example_zh": "八月的炎熱令人窒息，沒有人出門。"
+          },
+          {
+            "word": "entorno",
+            "pos": "m.",
+            "zh": "周圍環境；周遭",
+            "example": "Crecer en un entorno natural favorece el desarrollo de los niños.",
+            "example_zh": "在自然環境中成長有助於孩子的發展。"
+          },
+          {
+            "word": "priorizar",
+            "pos": "v.",
+            "zh": "優先考慮；排在首位",
+            "example": "Es importante priorizar la salud sobre el trabajo.",
+            "example_zh": "把健康放在工作之前是很重要的。"
+          },
+          {
+            "word": "comodidad",
+            "pos": "f.",
+            "zh": "舒適；便利",
+            "example": "Muchos eligen la ciudad por la comodidad de sus servicios.",
+            "example_zh": "許多人因為城市服務的便利性而選擇住在城市。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Según el texto, ¿qué ventaja mencionan quienes se mudaron al campo?",
+            "options": [
+              "Tienen mejores oportunidades laborales.",
+              "Disfrutan de un ritmo de vida más tranquilo y aire más puro.",
+              "Cuentan con más servicios médicos y culturales.",
+              "Pueden encontrar mayor variedad de opciones de ocio."
+            ],
+            "answer": 1,
+            "explain": "文章提到搬到鄉村的人表示生活節奏更平靜、空氣更清新，這是鄉村生活的優點。"
+          },
+          {
+            "q": "¿Qué ofrece la vida urbana según el texto?",
+            "options": [
+              "Un paisaje natural que da calma.",
+              "Silencio y conexión con la naturaleza.",
+              "Servicios médicos, educativos y culturales al alcance de todos.",
+              "Un ritmo de vida pausado y sin estrés."
+            ],
+            "answer": 2,
+            "explain": "文章指出城市擁有更完善的基礎設施，醫療、教育與文化服務對所有人都唾手可得。"
+          },
+          {
+            "q": "¿Por qué necesitarían trasladarse a una ciudad quienes trabajan en sectores especializados?",
+            "options": [
+              "Porque el campo no tiene buenas escuelas.",
+              "Porque en la ciudad el aire es más puro.",
+              "Porque quieren vivir rodeados de naturaleza.",
+              "Porque buscan mejores oportunidades laborales."
+            ],
+            "answer": 3,
+            "explain": "文章說明在專業領域工作的人需要移居城市，是為了找到更好的工作機會。"
+          },
+          {
+            "q": "¿Qué admitieron muchos habitantes rurales según el texto?",
+            "options": [
+              "Que preferirían quedarse en el campo para siempre.",
+              "Que extrañaban la variedad de opciones que ofrecía la ciudad.",
+              "Que la vida rural era demasiado agobiante.",
+              "Que los servicios médicos en el campo eran suficientes."
+            ],
+            "answer": 1,
+            "explain": "文章最後提到許多鄉村居民坦承懷念城市所提供的多樣選擇。"
+          },
+          {
+            "q": "¿Con qué tiempo verbal está conjugada la frase «si tuvieras que escoger»?",
+            "options": [
+              "Pretérito indefinido",
+              "Pretérito imperfecto de indicativo",
+              "Pretérito imperfecto de subjuntivo",
+              "Futuro simple"
+            ],
+            "answer": 2,
+            "explain": "「tuvieras」是動詞 tener 的虛擬式過去未完成時（pretérito imperfecto de subjuntivo），用於條件句中表達假設情況。"
+          }
+        ]
+      }
+    ],
+    "C2": []
+  }
+}

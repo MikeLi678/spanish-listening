@@ -1,14 +1,21 @@
 from claude import call_claude, parse_json
 
 
-def process_real_article(candidate: dict, date: str, index: int, caller=call_claude) -> dict:
+def _avoid_clause(avoid) -> str:
+    if not avoid:
+        return ""
+    words = "、".join(avoid)
+    return (f"\n- 重點單字請避開以下已教過的字（改挑段落中其他值得學的字詞）：{words}")
+
+
+def process_real_article(candidate: dict, date: str, index: int, caller=call_claude, avoid=None) -> dict:
     prompt = f"""以下是一篇西班牙語真實新聞文章。請為進階學習者（CEFR B2–C2）處理它。
 
 原文：
 \"\"\"{candidate['text'][:3000]}\"\"\"
 
 請完成：
-- 節錄或整理出 250-350 字、語言保持地道的西語段落（text）
+- 節錄或整理出 250-350 字、語言保持地道的西語段落（text）{_avoid_clause(avoid)}
 - translation（該段的繁體中文全文翻譯，通順自然）
 - 判定這段的難度，以範圍標注（level_label），例如「約 B2–C1」
 - 一個西語標題（title）

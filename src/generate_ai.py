@@ -31,7 +31,15 @@ def _pick_topic(level: str, date: str) -> str:
     return pool[idx % len(pool)]
 
 
-def generate_ai_article(level: str, date: str, caller=call_claude) -> dict:
+def _avoid_clause(avoid) -> str:
+    if not avoid:
+        return ""
+    words = "、".join(avoid)
+    return (f"\n- 重點單字請避開以下已教過的字（改用其他同主題詞彙，"
+            f"這些字仍可自然出現在短文裡，但不要列為重點單字）：{words}")
+
+
+def generate_ai_article(level: str, date: str, caller=call_claude, avoid=None) -> dict:
     spec = LEVEL_SPECS[level]
     topic = _pick_topic(level, date)
     prompt = f"""你是西班牙語教材編寫者。請為 CEFR {level} 程度的學習者寫一篇西班牙語短文。
@@ -40,7 +48,7 @@ def generate_ai_article(level: str, date: str, caller=call_claude) -> dict:
 - 長度 {spec['words']} 字
 - 文法：{spec['grammar']}
 - 主題：{topic}
-- 全文使用西班牙語（含標點與重音符號）
+- 全文使用西班牙語（含標點與重音符號）{_avoid_clause(avoid)}
 
 同時提供：
 - translation（整篇短文的繁體中文全文翻譯，通順自然）

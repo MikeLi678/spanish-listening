@@ -1,0 +1,701 @@
+{
+  "date": "2026-08-19",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-08-19-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Mi cuerpo",
+        "text": "Tengo dos ojos. Mis ojos son marrones. Tengo una nariz pequeña y una boca grande. Mis orejas son largas. Tengo dos brazos y dos piernas. Mis manos tienen cinco dedos. Mi cuello es corto. Toco la cabeza con mis manos. El cuerpo humano es muy interesante. ¡Me gusta mi cuerpo!",
+        "translation": "我有兩隻眼睛。我的眼睛是棕色的。我有一個小鼻子和一張大嘴巴。我的耳朵很長。我有兩條手臂和兩條腿。我的手有五根手指。我的脖子很短。我用手摸我的頭。人體非常有趣。我喜歡我的身體！",
+        "words": [
+          {
+            "word": "ojo",
+            "pos": "m. n.",
+            "zh": "眼睛",
+            "example": "Tengo dos ojos azules.",
+            "example_zh": "我有兩隻藍色的眼睛。"
+          },
+          {
+            "word": "nariz",
+            "pos": "f. n.",
+            "zh": "鼻子",
+            "example": "Mi nariz es grande.",
+            "example_zh": "我的鼻子很大。"
+          },
+          {
+            "word": "boca",
+            "pos": "f. n.",
+            "zh": "嘴巴",
+            "example": "La boca tiene dientes.",
+            "example_zh": "嘴巴裡有牙齒。"
+          },
+          {
+            "word": "oreja",
+            "pos": "f. n.",
+            "zh": "耳朵",
+            "example": "Mis orejas son pequeñas.",
+            "example_zh": "我的耳朵很小。"
+          },
+          {
+            "word": "brazo",
+            "pos": "m. n.",
+            "zh": "手臂",
+            "example": "Tengo dos brazos fuertes.",
+            "example_zh": "我有兩條強壯的手臂。"
+          },
+          {
+            "word": "pierna",
+            "pos": "f. n.",
+            "zh": "腿",
+            "example": "Las piernas son largas.",
+            "example_zh": "這雙腿很長。"
+          },
+          {
+            "word": "dedo",
+            "pos": "m. n.",
+            "zh": "手指",
+            "example": "Cada mano tiene cinco dedos.",
+            "example_zh": "每隻手有五根手指。"
+          },
+          {
+            "word": "cuello",
+            "pos": "m. n.",
+            "zh": "脖子",
+            "example": "El cuello es corto.",
+            "example_zh": "脖子很短。"
+          },
+          {
+            "word": "cabeza",
+            "pos": "f. n.",
+            "zh": "頭",
+            "example": "Toco mi cabeza con la mano.",
+            "example_zh": "我用手摸我的頭。"
+          },
+          {
+            "word": "cuerpo",
+            "pos": "m. n.",
+            "zh": "身體",
+            "example": "El cuerpo humano es fascinante.",
+            "example_zh": "人體非常迷人。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿De qué color son los ojos del texto?",
+            "options": [
+              "Azules",
+              "Verdes",
+              "Marrones",
+              "Negros"
+            ],
+            "answer": 2,
+            "explain": "文中提到「Mis ojos son marrones」，所以眼睛是棕色的。"
+          },
+          {
+            "q": "¿Cuántos dedos tienen las manos según el texto?",
+            "options": [
+              "Cuatro",
+              "Seis",
+              "Tres",
+              "Cinco"
+            ],
+            "answer": 3,
+            "explain": "文中寫道「Mis manos tienen cinco dedos」，每隻手有五根手指。"
+          },
+          {
+            "q": "¿Cómo es el cuello en el texto?",
+            "options": [
+              "Largo",
+              "Grande",
+              "Corto",
+              "Pequeño"
+            ],
+            "answer": 2,
+            "explain": "文中提到「Mi cuello es corto」，脖子是短的。"
+          },
+          {
+            "q": "¿Qué hace el autor con sus manos?",
+            "options": [
+              "Toca la nariz",
+              "Toca las orejas",
+              "Toca los ojos",
+              "Toca la cabeza"
+            ],
+            "answer": 3,
+            "explain": "文中寫道「Toco la cabeza con mis manos」，用手摸頭。"
+          },
+          {
+            "q": "¿Cómo es la boca en el texto?",
+            "options": [
+              "Pequeña",
+              "Larga",
+              "Grande",
+              "Corta"
+            ],
+            "answer": 2,
+            "explain": "文中提到「una boca grande」，嘴巴是大的。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-08-19-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Mi nueva afición: el deporte",
+        "text": "El mes pasado, mi amigo Pablo y yo decidimos hacer más ejercicio. Primero, corrimos en el parque tres veces por semana. También nadamos en la piscina municipal los sábados. Al principio fue difícil, pero poco a poco nos sentimos mejor. Ayer por la mañana, levantamos pesas en el gimnasio durante una hora y media. ¡Nos cansamos mucho, pero estuvimos muy contentos! La próxima semana vamos a participar en una carrera de cinco kilómetros. Además, vamos a entrenar todos los días para estar en forma. El deporte es muy importante para la salud y también es divertido cuando practicas con un amigo.",
+        "translation": "上個月，我的朋友帕布羅和我決定多做運動。首先，我們每週在公園跑步三次。我們也在市立游泳池游泳，每個星期六都去。一開始很困難，但漸漸地我們感覺好多了。昨天早上，我們在健身房舉重一個半小時。我們雖然累壞了，但非常開心！下週我們要參加一場五公里的跑步比賽。此外，我們每天都要訓練，以保持體態。運動對健康非常重要，而且和朋友一起練習也很有趣。",
+        "words": [
+          {
+            "word": "el ejercicio",
+            "pos": "n.",
+            "zh": "運動；練習",
+            "example": "Hacer ejercicio todos los días es bueno para la salud.",
+            "example_zh": "每天運動對健康有益。"
+          },
+          {
+            "word": "correr",
+            "pos": "v.",
+            "zh": "跑步",
+            "example": "Nosotros corrimos en el parque ayer por la tarde.",
+            "example_zh": "我們昨天下午在公園跑步。"
+          },
+          {
+            "word": "nadar",
+            "pos": "v.",
+            "zh": "游泳",
+            "example": "A ella le encanta nadar en el mar en verano.",
+            "example_zh": "她很喜歡在夏天到海裡游泳。"
+          },
+          {
+            "word": "la piscina",
+            "pos": "n.",
+            "zh": "游泳池",
+            "example": "La piscina municipal abre a las ocho de la mañana.",
+            "example_zh": "市立游泳池早上八點開放。"
+          },
+          {
+            "word": "el gimnasio",
+            "pos": "n.",
+            "zh": "健身房",
+            "example": "Juan va al gimnasio tres veces por semana.",
+            "example_zh": "璜每週去健身房三次。"
+          },
+          {
+            "word": "levantar pesas",
+            "pos": "expr.",
+            "zh": "舉重；舉啞鈴",
+            "example": "Levantar pesas ayuda a fortalecer los músculos.",
+            "example_zh": "舉重有助於強化肌肉。"
+          },
+          {
+            "word": "cansarse",
+            "pos": "v. pron.",
+            "zh": "感到疲累",
+            "example": "Me cansé mucho después del partido de fútbol.",
+            "example_zh": "足球比賽結束後我累壞了。"
+          },
+          {
+            "word": "la carrera",
+            "pos": "n.",
+            "zh": "賽跑；比賽",
+            "example": "El domingo hay una carrera popular en el centro de la ciudad.",
+            "example_zh": "星期天市中心有一場大眾路跑比賽。"
+          },
+          {
+            "word": "entrenar",
+            "pos": "v.",
+            "zh": "訓練；練習",
+            "example": "El equipo entrena todas las mañanas en el campo.",
+            "example_zh": "球隊每天早上在場地上訓練。"
+          },
+          {
+            "word": "estar en forma",
+            "pos": "expr.",
+            "zh": "保持體態；維持良好狀態",
+            "example": "Como bien y hago deporte para estar en forma.",
+            "example_zh": "我吃得好又做運動，以保持體態。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cuántas veces por semana corrieron Pablo y el narrador en el parque?",
+            "options": [
+              "Una vez",
+              "Dos veces",
+              "Tres veces",
+              "Cuatro veces"
+            ],
+            "answer": 2,
+            "explain": "短文中提到他們每週在公園跑步三次（tres veces por semana）。"
+          },
+          {
+            "q": "¿Dónde nadaron los sábados?",
+            "options": [
+              "En el mar",
+              "En el río",
+              "En la piscina del gimnasio",
+              "En la piscina municipal"
+            ],
+            "answer": 3,
+            "explain": "短文明確寫到他們在市立游泳池（la piscina municipal）游泳。"
+          },
+          {
+            "q": "¿Qué hicieron en el gimnasio ayer por la mañana?",
+            "options": [
+              "Nadaron durante una hora",
+              "Corrieron cinco kilómetros",
+              "Levantaron pesas durante una hora y media",
+              "Jugaron al baloncesto"
+            ],
+            "answer": 2,
+            "explain": "昨天早上他們在健身房舉重一個半小時（levantamos pesas… durante una hora y media）。"
+          },
+          {
+            "q": "¿Qué van a hacer la próxima semana?",
+            "options": [
+              "Van a nadar en el mar",
+              "Van a participar en una carrera de cinco kilómetros",
+              "Van a jugar al tenis",
+              "Van a descansar en casa"
+            ],
+            "answer": 1,
+            "explain": "短文中用「vamos a + infinitivo」表達近未來，說他們下週要參加一場五公里的跑步比賽。"
+          },
+          {
+            "q": "Según el texto, ¿por qué es importante el deporte?",
+            "options": [
+              "Porque es muy caro",
+              "Porque es aburrido",
+              "Porque es importante para la salud y es divertido",
+              "Porque es fácil y rápido"
+            ],
+            "answer": 2,
+            "explain": "短文最後一句說運動對健康非常重要，而且和朋友一起練習也很有趣（importante para la salud y también es divertido）。"
+          }
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "2026-08-19-B1-1",
+        "source": "ai",
+        "level_label": "B1",
+        "title": "El trabajo a distancia: una nueva forma de vivir",
+        "text": "En los últimos años, el trabajo a distancia se ha convertido en una tendencia que ha cambiado profundamente la manera en que muchas personas organizan su vida laboral. Antes de que esta modalidad se extendiera, la mayoría de los empleados tenía que trasladarse a una oficina todos los días, lo cual consumía tiempo y energía.\n\nActualmente, muchas empresas permiten que sus trabajadores realicen sus tareas desde casa o desde cualquier lugar con conexión a internet. Si tuviéramos que señalar el mayor beneficio, diríamos que es la flexibilidad horaria, ya que los empleados pueden distribuir mejor sus obligaciones personales y profesionales.\n\nSin embargo, trabajar desde casa también presenta inconvenientes. Algunos empleados confesaron que se sentían aislados porque echaban de menos el contacto diario con sus colegas. Además, resultaba difícil establecer límites claros entre el tiempo de trabajo y el tiempo libre.\n\nA pesar de estos obstáculos, la mayoría coincide en que el trabajo remoto ha abierto oportunidades para personas que vivían lejos de los grandes centros urbanos. Aunque no todas las profesiones admiten esta modalidad, es probable que su popularidad continúe creciendo en los próximos años, siempre que las empresas inviertan en una buena gestión del equipo.",
+        "translation": "近年來，遠距工作已成為一種趨勢，深刻改變了許多人安排職業生活的方式。在這種工作模式普及之前，大多數員工每天都必須前往辦公室，這消耗了大量時間與精力。\n\n如今，許多公司允許員工在家或在任何有網路連線的地方完成工作。如果要指出最大的優點，我們會說是彈性工時，因為員工可以更好地分配個人和職業上的責任。\n\n然而，在家工作也有其缺點。一些員工坦言感到孤立，因為他們懷念與同事每天面對面的接觸。此外，在工作時間和自由時間之間建立清楚的界限也相當困難。\n\n儘管存在這些障礙，大多數人都認同遠距工作為那些居住在大城市以外的人開啟了機會。雖然並非所有職業都適合這種模式，但只要公司在良好的團隊管理上有所投入，其普及程度很可能在未來幾年持續增長。",
+        "words": [
+          {
+            "word": "a distancia",
+            "pos": "loc. adv.",
+            "zh": "遠距地、在遠處",
+            "example": "Ella trabaja a distancia desde hace dos años.",
+            "example_zh": "她從事遠距工作已有兩年了。"
+          },
+          {
+            "word": "modalidad",
+            "pos": "n. f.",
+            "zh": "模式、形式",
+            "example": "Esta modalidad de trabajo ofrece mucha libertad.",
+            "example_zh": "這種工作模式提供了很大的自由度。"
+          },
+          {
+            "word": "trasladarse",
+            "pos": "v. prnl.",
+            "zh": "移動、前往（某地）",
+            "example": "Antes tenía que trasladarme en autobús hasta la oficina.",
+            "example_zh": "以前我必須搭公車前往辦公室。"
+          },
+          {
+            "word": "flexibilidad horaria",
+            "pos": "loc. n. f.",
+            "zh": "彈性工時",
+            "example": "La flexibilidad horaria me permite recoger a mis hijos del colegio.",
+            "example_zh": "彈性工時讓我得以去學校接孩子。"
+          },
+          {
+            "word": "obligaciones",
+            "pos": "n. f. pl.",
+            "zh": "責任、義務",
+            "example": "Tienes que cumplir con tus obligaciones antes de salir.",
+            "example_zh": "你必須在離開前履行你的責任。"
+          },
+          {
+            "word": "aislado/a",
+            "pos": "adj.",
+            "zh": "孤立的、與外界隔絕的",
+            "example": "Trabajar solo en casa puede hacerte sentir aislado.",
+            "example_zh": "獨自在家工作可能會讓你感到孤立。"
+          },
+          {
+            "word": "límites",
+            "pos": "n. m. pl.",
+            "zh": "界限、限度",
+            "example": "Es importante establecer límites entre el trabajo y la vida personal.",
+            "example_zh": "在工作與個人生活之間建立界限是很重要的。"
+          },
+          {
+            "word": "obstáculo",
+            "pos": "n. m.",
+            "zh": "障礙、阻礙",
+            "example": "Superaron varios obstáculos para terminar el proyecto.",
+            "example_zh": "他們克服了幾個障礙才完成這個專案。"
+          },
+          {
+            "word": "remoto/a",
+            "pos": "adj.",
+            "zh": "遠端的、遙遠的",
+            "example": "El trabajo remoto requiere disciplina y organización.",
+            "example_zh": "遠端工作需要自律與組織能力。"
+          },
+          {
+            "word": "gestión",
+            "pos": "n. f.",
+            "zh": "管理、經營",
+            "example": "Una buena gestión del tiempo es clave para el éxito.",
+            "example_zh": "良好的時間管理是成功的關鍵。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué tenían que hacer la mayoría de los empleados antes de que el trabajo a distancia se extendiera?",
+            "options": [
+              "Trabajar desde casa todos los días.",
+              "Trasladarse a una oficina todos los días.",
+              "Buscar trabajo en otras ciudades.",
+              "Usar internet para conectarse con sus jefes."
+            ],
+            "answer": 1,
+            "explain": "短文第一段提到，在遠距工作普及之前，大多數員工每天必須前往辦公室（trasladarse a una oficina todos los días）。"
+          },
+          {
+            "q": "Según el texto, ¿cuál es el mayor beneficio del trabajo a distancia?",
+            "options": [
+              "La posibilidad de ganar más dinero.",
+              "El contacto diario con los colegas.",
+              "La flexibilidad horaria.",
+              "Vivir cerca de la oficina."
+            ],
+            "answer": 2,
+            "explain": "短文第二段明確指出，遠距工作最大的優點是彈性工時（la flexibilidad horaria）。"
+          },
+          {
+            "q": "¿Por qué algunos empleados se sentían aislados al trabajar desde casa?",
+            "options": [
+              "Porque no tenían conexión a internet.",
+              "Porque echaban de menos el contacto diario con sus colegas.",
+              "Porque sus jefes no los visitaban.",
+              "Porque no podían cumplir con sus obligaciones."
+            ],
+            "answer": 1,
+            "explain": "短文第三段說明，部分員工感到孤立，是因為他們懷念與同事每天面對面的接觸（echaban de menos el contacto diario con sus colegas）。"
+          },
+          {
+            "q": "¿Qué dificultad menciona el texto sobre trabajar en casa?",
+            "options": [
+              "Es difícil encontrar una buena silla.",
+              "Es difícil establecer límites entre el trabajo y el tiempo libre.",
+              "Es difícil usar las aplicaciones de internet.",
+              "Es difícil hablar con los clientes."
+            ],
+            "answer": 1,
+            "explain": "短文第三段提到，在家工作的困難之一是很難在工作時間與自由時間之間建立清楚的界限（establecer límites claros entre el tiempo de trabajo y el tiempo libre）。"
+          },
+          {
+            "q": "¿Bajo qué condición es probable que el trabajo remoto siga creciendo, según el texto?",
+            "options": [
+              "Siempre que todos los empleados vivan en grandes ciudades.",
+              "Siempre que las empresas inviertan en una buena gestión del equipo.",
+              "Siempre que los empleados trabajen más horas.",
+              "Siempre que se eliminen todas las oficinas."
+            ],
+            "answer": 1,
+            "explain": "短文最後一段以「siempre que」引導條件子句，說明只要公司在良好的團隊管理上有所投入（inviertan en una buena gestión del equipo），遠距工作的普及程度便可能持續增長。"
+          }
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "2026-08-19-B2-fallback",
+        "source": "ai",
+        "level_label": "約 B2（AI 生成）",
+        "title": "El trabajo remoto: una nueva forma de trabajar",
+        "text": "En los últimos años, el trabajo remoto se ha convertido en una tendencia global que ha transformado profundamente el mundo laboral. Antes de que la pandemia llegara, pocas empresas permitían que sus empleados trabajaran desde casa. Sin embargo, cuando el virus se extendió por todo el planeta, las organizaciones se vieron obligadas a adaptarse rápidamente a este nuevo modelo.\n\nMuchos trabajadores afirman que, si pudieran elegir libremente, preferirían seguir trabajando de forma remota porque les permite gestionar mejor su tiempo y evitar los largos desplazamientos diarios. Además, varios estudios señalan que la productividad aumentó considerablemente durante este período, aunque también surgieron dificultades para separar la vida personal de la profesional.\n\nNo obstante, no todo es positivo. Algunos empleados reconocen que se sentían más aislados y que echaban de menos la interacción cara a cara con sus colegas. Las empresas, por su parte, tuvieron que invertir en nuevas herramientas digitales para mantener la comunicación fluida entre los equipos.\n\nHoy en día, muchas organizaciones han adoptado un modelo híbrido que combina días en la oficina con días en casa. Todo indica que este esquema seguirá evolucionando y que el futuro del trabajo será más flexible de lo que imaginábamos hace apenas unos años.",
+        "translation": "近年來，遠距工作已成為一股全球性趨勢，深刻地改變了職場世界。在疫情到來之前，很少有企業允許員工在家工作。然而，當病毒蔓延至全球時，各機構被迫迅速適應這種新模式。\n\n許多工作者表示，如果能自由選擇，他們寧願繼續遠距工作，因為這讓他們能更好地管理時間，並避免每日漫長的通勤。此外，多項研究指出，在這段期間生產力顯著提升，儘管在區分個人生活與職業生活方面也出現了困難。\n\n然而，並非一切都是正面的。部分員工承認他們感到更加孤立，並且懷念與同事面對面的互動。企業方面則必須投資新的數位工具，以維持團隊之間順暢的溝通。\n\n時至今日，許多組織已採用混合模式，將在辦公室的日子與在家工作的日子結合起來。種種跡象顯示，這種模式將持續演進，而工作的未來將比我們幾年前所想像的更加彈性。",
+        "words": [
+          {
+            "word": "tendencia",
+            "pos": "n.f.",
+            "zh": "趨勢、傾向",
+            "example": "El trabajo flexible es una tendencia que crece cada año.",
+            "example_zh": "彈性工作是一種每年持續成長的趨勢。"
+          },
+          {
+            "word": "adaptarse",
+            "pos": "v. pron.",
+            "zh": "適應",
+            "example": "Los empleados tuvieron que adaptarse rápidamente al nuevo sistema.",
+            "example_zh": "員工們必須迅速適應新系統。"
+          },
+          {
+            "word": "gestionar",
+            "pos": "v. tr.",
+            "zh": "管理、處理",
+            "example": "Es importante saber gestionar bien el tiempo cuando trabajas desde casa.",
+            "example_zh": "在家工作時，懂得妥善管理時間非常重要。"
+          },
+          {
+            "word": "desplazamiento",
+            "pos": "n.m.",
+            "zh": "移動、通勤",
+            "example": "Eliminar los desplazamientos diarios ahorra mucho tiempo.",
+            "example_zh": "省去每日通勤能節省許多時間。"
+          },
+          {
+            "word": "productividad",
+            "pos": "n.f.",
+            "zh": "生產力",
+            "example": "La empresa midió la productividad de sus trabajadores remotos.",
+            "example_zh": "公司測量了遠距工作者的生產力。"
+          },
+          {
+            "word": "aislado/a",
+            "pos": "adj.",
+            "zh": "孤立的、與外界隔絕的",
+            "example": "Trabajar solo en casa puede hacer que uno se sienta aislado.",
+            "example_zh": "獨自在家工作可能讓人感到孤立。"
+          },
+          {
+            "word": "fluido/a",
+            "pos": "adj.",
+            "zh": "流暢的、順暢的",
+            "example": "Necesitamos una comunicación fluida para que el proyecto funcione.",
+            "example_zh": "我們需要順暢的溝通，計畫才能順利進行。"
+          },
+          {
+            "word": "híbrido/a",
+            "pos": "adj.",
+            "zh": "混合的",
+            "example": "El modelo híbrido combina el trabajo presencial y el remoto.",
+            "example_zh": "混合模式結合了實體與遠距工作。"
+          },
+          {
+            "word": "esquema",
+            "pos": "n.m.",
+            "zh": "方案、架構、模式",
+            "example": "Este esquema de trabajo ha demostrado ser muy eficiente.",
+            "example_zh": "這種工作方案已被證明非常有效率。"
+          },
+          {
+            "word": "flexible",
+            "pos": "adj.",
+            "zh": "彈性的、靈活的",
+            "example": "Un horario flexible permite organizar mejor las tareas del día.",
+            "example_zh": "彈性的時間表能讓人更好地安排一天的工作。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Según el texto, ¿qué ocurrió antes de la pandemia?",
+            "options": [
+              "La mayoría de las empresas ya usaban el trabajo remoto.",
+              "Pocas empresas permitían trabajar desde casa.",
+              "Los empleados rechazaban trabajar en la oficina.",
+              "Las organizaciones cerraron sus oficinas permanentemente."
+            ],
+            "answer": 1,
+            "explain": "文章第一段明確指出，在疫情到來之前，很少有企業允許員工在家工作（pocas empresas permitían que sus empleados trabajaran desde casa）。"
+          },
+          {
+            "q": "¿Por qué muchos trabajadores preferirían seguir con el trabajo remoto?",
+            "options": [
+              "Porque reciben un salario más alto trabajando desde casa.",
+              "Porque pueden gestionar mejor su tiempo y evitar desplazamientos.",
+              "Porque las oficinas son demasiado pequeñas para todos.",
+              "Porque los jefes no los controlan cuando trabajan en casa."
+            ],
+            "answer": 1,
+            "explain": "文章第二段說明，工作者偏好遠距工作是因為能更好地管理時間並避免每日漫長的通勤（gestionar mejor su tiempo y evitar los largos desplazamientos diarios）。"
+          },
+          {
+            "q": "¿Cuál fue una dificultad mencionada en el texto sobre el trabajo remoto?",
+            "options": [
+              "La falta de computadoras en los hogares.",
+              "El aumento excesivo de reuniones presenciales.",
+              "La dificultad de separar la vida personal de la profesional.",
+              "La reducción del número de empleados en las empresas."
+            ],
+            "answer": 2,
+            "explain": "文章提到，儘管生產力提升，但區分個人生活與職業生活也出現了困難（surgieron dificultades para separar la vida personal de la profesional）。"
+          },
+          {
+            "q": "¿Qué tuvieron que hacer las empresas para mantener la comunicación entre equipos?",
+            "options": [
+              "Contratar más empleados para la oficina.",
+              "Organizar viajes de trabajo al extranjero.",
+              "Invertir en nuevas herramientas digitales.",
+              "Cambiar el horario laboral de todos sus trabajadores."
+            ],
+            "answer": 2,
+            "explain": "文章第三段指出，企業必須投資新的數位工具（invertir en nuevas herramientas digitales）以維持團隊之間的溝通。"
+          },
+          {
+            "q": "¿Cómo describe el texto el futuro del trabajo?",
+            "options": [
+              "Completamente presencial en grandes oficinas.",
+              "Más flexible gracias al modelo híbrido.",
+              "Dominado por robots y sin necesidad de personas.",
+              "Igual que antes de la pandemia."
+            ],
+            "answer": 1,
+            "explain": "文章最後一段指出，未來的工作將比想像中更加彈性（el futuro del trabajo será más flexible），並且許多組織已採用混合模式。"
+          }
+        ]
+      }
+    ],
+    "C1": [],
+    "C2": [
+      {
+        "id": "2026-08-19-C2-fallback",
+        "source": "ai",
+        "level_label": "約 C2（AI 生成）",
+        "title": "El teletrabajo: una nueva forma de trabajar",
+        "text": "En los últimos años, el teletrabajo se ha convertido en una tendencia que ha transformado profundamente el mundo laboral. Antes de que la pandemia llegara, pocas empresas permitían que sus empleados trabajaran desde casa. Sin embargo, cuando la situación cambió, muchas organizaciones se vieron obligadas a adaptarse rápidamente a este nuevo modelo.\n\nMuchos trabajadores afirman que, si pudieran elegir libremente, preferirían seguir trabajando a distancia, ya que esto les permite gestionar mejor su tiempo y evitar los desplazamientos diarios. Aunque algunos empleadores temían que la productividad bajara, varios estudios han demostrado que, en muchos casos, ocurrió todo lo contrario.\n\nNo obstante, el teletrabajo también presenta ciertos desafíos. Hay quienes señalan que la falta de interacción presencial puede provocar un sentimiento de aislamiento. Además, no todos los hogares cuentan con el espacio ni la conexión adecuados para trabajar con eficacia.\n\nSería conveniente que las empresas establecieran políticas claras que regularan tanto los derechos como las obligaciones de los trabajadores remotos. Si existiera una legislación más sólida en este ámbito, se podría lograr un entorno laboral más justo y flexible para todos.",
+        "translation": "近年來，遠距工作已成為一種深刻改變職場世界的趨勢。在疫情到來之前，很少有企業允許員工在家工作。然而，當情況發生改變時，許多組織被迫迅速適應這種新模式。\n\n許多工作者表示，如果能夠自由選擇，他們寧願繼續遠距工作，因為這讓他們能夠更好地管理時間，並避免每日通勤。儘管一些雇主擔心生產力會下降，但多項研究表明，在許多情況下，結果恰恰相反。\n\n然而，遠距工作也帶來了某些挑戰。有人指出，缺乏面對面的互動可能會引發孤立感。此外，並非所有家庭都擁有適合有效工作的空間和網路連線。\n\n企業應當制定明確的政策，規範遠距工作者的權利與義務。如果在這一領域存在更完善的法規，就能為所有人創造一個更公平、更靈活的工作環境。",
+        "words": [
+          {
+            "word": "teletrabajo",
+            "pos": "n.m.",
+            "zh": "遠距工作",
+            "example": "El teletrabajo se ha vuelto muy común en muchas industrias.",
+            "example_zh": "遠距工作在許多行業中已變得非常普遍。"
+          },
+          {
+            "word": "desplazamiento",
+            "pos": "n.m.",
+            "zh": "通勤；移動；位移",
+            "example": "Los desplazamientos diarios al trabajo pueden ser muy cansadores.",
+            "example_zh": "每天通勤上班可能非常疲累。"
+          },
+          {
+            "word": "productividad",
+            "pos": "n.f.",
+            "zh": "生產力",
+            "example": "La empresa midió la productividad de sus empleados remotos.",
+            "example_zh": "公司衡量了遠距員工的生產力。"
+          },
+          {
+            "word": "aislamiento",
+            "pos": "n.m.",
+            "zh": "孤立；隔離",
+            "example": "El aislamiento es uno de los riesgos del trabajo desde casa.",
+            "example_zh": "孤立是居家工作的風險之一。"
+          },
+          {
+            "word": "presencial",
+            "pos": "adj.",
+            "zh": "面對面的；實體的",
+            "example": "Prefiero las reuniones presenciales para comunicarme mejor.",
+            "example_zh": "我比較喜歡面對面的會議，這樣可以更好地溝通。"
+          },
+          {
+            "word": "gestionar",
+            "pos": "v.",
+            "zh": "管理；處理",
+            "example": "Es importante saber gestionar bien el tiempo cuando trabajas en casa.",
+            "example_zh": "在家工作時，懂得好好管理時間非常重要。"
+          },
+          {
+            "word": "legislación",
+            "pos": "n.f.",
+            "zh": "法規；立法",
+            "example": "La legislación laboral debe actualizarse para incluir el teletrabajo.",
+            "example_zh": "勞動法規應該更新以涵蓋遠距工作。"
+          },
+          {
+            "word": "remoto/a",
+            "pos": "adj.",
+            "zh": "遠端的；遙遠的",
+            "example": "Cada vez más empresas contratan a trabajadores remotos de otros países.",
+            "example_zh": "越來越多的企業雇用來自其他國家的遠端工作者。"
+          },
+          {
+            "word": "eficacia",
+            "pos": "n.f.",
+            "zh": "效率；成效",
+            "example": "La eficacia en el trabajo depende también del entorno en que trabajas.",
+            "example_zh": "工作效率也取決於你所處的工作環境。"
+          },
+          {
+            "word": "entorno",
+            "pos": "n.m.",
+            "zh": "環境；周遭情況",
+            "example": "Un buen entorno laboral mejora el bienestar de los empleados.",
+            "example_zh": "良好的工作環境能提升員工的身心健康。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué ocurrió con muchas empresas durante la pandemia?",
+            "options": [
+              "Cerraron definitivamente sus oficinas.",
+              "Se vieron obligadas a adaptarse al teletrabajo.",
+              "Contrataron a más empleados presenciales.",
+              "Redujeron el número de trabajadores remotos."
+            ],
+            "answer": 1,
+            "explain": "短文提到，疫情改變了情況，許多組織被迫迅速適應這種新的遠距工作模式。"
+          },
+          {
+            "q": "Según el texto, ¿qué ventaja menciona el teletrabajo para los empleados?",
+            "options": [
+              "Ganar un salario más alto.",
+              "Tener más compañeros de trabajo.",
+              "Gestionar mejor su tiempo y evitar desplazamientos.",
+              "Trabajar más horas cada día."
+            ],
+            "answer": 2,
+            "explain": "短文指出，工作者認為遠距工作讓他們能更好地管理時間並避免每日通勤。"
+          },
+          {
+            "q": "¿Qué temían algunos empleadores respecto al teletrabajo?",
+            "options": [
+              "Que los empleados llegaran tarde a la oficina.",
+              "Que la productividad de sus empleados bajara.",
+              "Que los trabajadores cambiaran de empresa.",
+              "Que aumentaran los gastos de oficina."
+            ],
+            "answer": 1,
+            "explain": "短文提到，一些雇主擔心員工的生產力會因遠距工作而下降。"
+          },
+          {
+            "q": "¿Cuál es uno de los desafíos del teletrabajo mencionados en el texto?",
+            "options": [
+              "La dificultad para usar el transporte público.",
+              "El sentimiento de aislamiento por falta de interacción presencial.",
+              "La obligación de trabajar más horas que en la oficina.",
+              "El alto costo de los materiales de trabajo."
+            ],
+            "answer": 1,
+            "explain": "短文指出，缺乏面對面互動可能使人產生孤立感，這是遠距工作的挑戰之一。"
+          },
+          {
+            "q": "¿Qué propone el texto al final para mejorar el teletrabajo?",
+            "options": [
+              "Que todos los empleados vuelvan a la oficina.",
+              "Que las empresas ofrezcan más días de vacaciones.",
+              "Que se establezcan políticas claras y una legislación más sólida.",
+              "Que se prohíba el trabajo desde el extranjero."
+            ],
+            "answer": 2,
+            "explain": "短文最後建議，企業應制定明確政策，並呼籲建立更完善的法規，以創造更公平靈活的工作環境。"
+          }
+        ]
+      }
+    ]
+  }
+}

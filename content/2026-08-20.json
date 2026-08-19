@@ -1,0 +1,427 @@
+{
+  "date": "2026-08-20",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-08-20-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "En el aula",
+        "text": "En mi aula hay muchas cosas. Tengo un lápiz y una goma. También tengo un cuaderno azul y un libro rojo. En la pizarra hay letras. El sacapuntas es pequeño y amarillo. Mi estuche está en el pupitre. La regla es larga. Necesito un bolígrafo para escribir. Me gustan mis útiles escolares. Son muy útiles.",
+        "translation": "在我的教室裡有很多東西。我有一支鉛筆和一塊橡皮擦。我也有一本藍色筆記本和一本紅色書。黑板上有字母。削鉛筆機又小又黃。我的筆袋在課桌上。尺很長。我需要一支原子筆來寫字。我喜歡我的文具。它們非常實用。",
+        "words": [
+          {
+            "word": "lápiz",
+            "pos": "n.m.",
+            "zh": "鉛筆",
+            "example": "El lápiz es amarillo.",
+            "example_zh": "鉛筆是黃色的。"
+          },
+          {
+            "word": "goma",
+            "pos": "n.f.",
+            "zh": "橡皮擦",
+            "example": "Necesito una goma para borrar.",
+            "example_zh": "我需要一塊橡皮擦來擦掉。"
+          },
+          {
+            "word": "cuaderno",
+            "pos": "n.m.",
+            "zh": "筆記本",
+            "example": "Mi cuaderno es azul.",
+            "example_zh": "我的筆記本是藍色的。"
+          },
+          {
+            "word": "pizarra",
+            "pos": "n.f.",
+            "zh": "黑板",
+            "example": "En la pizarra hay letras.",
+            "example_zh": "黑板上有字母。"
+          },
+          {
+            "word": "sacapuntas",
+            "pos": "n.m.",
+            "zh": "削鉛筆機",
+            "example": "El sacapuntas es pequeño.",
+            "example_zh": "削鉛筆機很小。"
+          },
+          {
+            "word": "estuche",
+            "pos": "n.m.",
+            "zh": "筆袋",
+            "example": "Mi estuche está en el pupitre.",
+            "example_zh": "我的筆袋在課桌上。"
+          },
+          {
+            "word": "pupitre",
+            "pos": "n.m.",
+            "zh": "課桌",
+            "example": "El pupitre es grande.",
+            "example_zh": "課桌很大。"
+          },
+          {
+            "word": "regla",
+            "pos": "n.f.",
+            "zh": "尺",
+            "example": "La regla es larga y blanca.",
+            "example_zh": "尺又長又白。"
+          },
+          {
+            "word": "bolígrafo",
+            "pos": "n.m.",
+            "zh": "原子筆",
+            "example": "Necesito un bolígrafo para escribir.",
+            "example_zh": "我需要一支原子筆來寫字。"
+          },
+          {
+            "word": "útiles escolares",
+            "pos": "n.m.pl.",
+            "zh": "文具；學習用品",
+            "example": "Me gustan mis útiles escolares.",
+            "example_zh": "我喜歡我的文具。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿De qué color es el cuaderno?",
+            "options": [
+              "Rojo",
+              "Azul",
+              "Amarillo",
+              "Verde"
+            ],
+            "answer": 1,
+            "explain": "短文中提到「un cuaderno azul」，筆記本是藍色的。"
+          },
+          {
+            "q": "¿Dónde está el estuche?",
+            "options": [
+              "En la pizarra",
+              "En el libro",
+              "En el pupitre",
+              "En la goma"
+            ],
+            "answer": 2,
+            "explain": "短文中說「Mi estuche está en el pupitre」，筆袋在課桌上。"
+          },
+          {
+            "q": "¿Cómo es el sacapuntas?",
+            "options": [
+              "Grande y rojo",
+              "Largo y azul",
+              "Pequeño y amarillo",
+              "Pequeño y verde"
+            ],
+            "answer": 2,
+            "explain": "短文描述「El sacapuntas es pequeño y amarillo」，削鉛筆機又小又黃。"
+          },
+          {
+            "q": "¿Para qué necesita un bolígrafo?",
+            "options": [
+              "Para borrar",
+              "Para escribir",
+              "Para dibujar",
+              "Para leer"
+            ],
+            "answer": 1,
+            "explain": "短文中說「Necesito un bolígrafo para escribir」，需要原子筆來寫字。"
+          },
+          {
+            "q": "¿Qué hay en la pizarra?",
+            "options": [
+              "Libros",
+              "Lápices",
+              "Letras",
+              "Reglas"
+            ],
+            "answer": 2,
+            "explain": "短文中提到「En la pizarra hay letras」，黑板上有字母。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-08-20-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "La Navidad en familia",
+        "text": "El mes pasado, mi familia y yo festejamos la Navidad juntos. Mi madre preparó una cena especial con pavo asado y muchos dulces tradicionales. Mis hermanos decoraron la casa con luces de colores y un árbol precioso. Por la noche, abrimos los regalos y todos estuvimos muy contentos. Mi abuela cantó villancicos antiguos y nosotros bailamos en el salón. Fue una noche muy alegre y especial. El año que viene, vamos a reunirnos de nuevo en casa de mis abuelos. También vamos a preparar más platos típicos y a invitar a más amigos. Las fiestas son momentos perfectos para estar con las personas que queremos.",
+        "translation": "上個月，我和家人一起慶祝了聖誕節。我媽媽準備了一頓特別的晚餐，有烤火雞和許多傳統甜點。我的兄弟姊妹用彩色燈飾和一棵美麗的樹裝飾了房子。晚上，我們拆開禮物，大家都非常開心。我的奶奶唱了古老的聖誕頌歌，我們在客廳裡跳舞。那是一個非常歡樂又特別的夜晚。明年，我們打算再次在爺爺奶奶家團聚。我們也打算準備更多傳統菜餚，並邀請更多朋友。節慶是與我們所愛的人相處的完美時光。",
+        "words": [
+          {
+            "word": "festejar",
+            "pos": "v.",
+            "zh": "慶祝、歡慶",
+            "example": "Nosotros festejamos el Año Nuevo con fuegos artificiales.",
+            "example_zh": "我們用煙火慶祝新年。"
+          },
+          {
+            "word": "el pavo asado",
+            "pos": "n. m.",
+            "zh": "烤火雞",
+            "example": "En Navidad, muchas familias comen pavo asado.",
+            "example_zh": "在聖誕節，許多家庭會吃烤火雞。"
+          },
+          {
+            "word": "los dulces",
+            "pos": "n. m. pl.",
+            "zh": "甜點、糖果",
+            "example": "En las fiestas hay muchos dulces tradicionales.",
+            "example_zh": "節慶時有許多傳統甜點。"
+          },
+          {
+            "word": "decorar",
+            "pos": "v.",
+            "zh": "裝飾",
+            "example": "Los niños decoraron la mesa con flores.",
+            "example_zh": "孩子們用花裝飾了桌子。"
+          },
+          {
+            "word": "el regalo",
+            "pos": "n. m.",
+            "zh": "禮物",
+            "example": "Abrí mis regalos el día de Navidad.",
+            "example_zh": "我在聖誕節當天拆開了我的禮物。"
+          },
+          {
+            "word": "el villancico",
+            "pos": "n. m.",
+            "zh": "聖誕頌歌",
+            "example": "Los niños cantaron villancicos en la iglesia.",
+            "example_zh": "孩子們在教堂裡唱聖誕頌歌。"
+          },
+          {
+            "word": "alegre",
+            "pos": "adj.",
+            "zh": "歡樂的、高興的",
+            "example": "La fiesta fue muy alegre y divertida.",
+            "example_zh": "那場派對非常歡樂有趣。"
+          },
+          {
+            "word": "reunirse",
+            "pos": "v. pron.",
+            "zh": "團聚、聚集",
+            "example": "Vamos a reunirnos todos en casa de los abuelos.",
+            "example_zh": "我們打算全部在爺爺奶奶家團聚。"
+          },
+          {
+            "word": "invitar",
+            "pos": "v.",
+            "zh": "邀請",
+            "example": "Quiero invitar a mis amigos a la fiesta.",
+            "example_zh": "我想邀請我的朋友來派對。"
+          },
+          {
+            "word": "las fiestas",
+            "pos": "n. f. pl.",
+            "zh": "節慶、假期",
+            "example": "Las fiestas de fin de año son muy especiales.",
+            "example_zh": "年末的節慶非常特別。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué preparó la madre para la cena de Navidad?",
+            "options": [
+              "Paella y mariscos",
+              "Pavo asado y dulces tradicionales",
+              "Ensalada y postre de chocolate",
+              "Platos de verduras y frutas"
+            ],
+            "answer": 1,
+            "explain": "文中提到媽媽準備了「pavo asado y muchos dulces tradicionales」（烤火雞和許多傳統甜點）。"
+          },
+          {
+            "q": "¿Qué hicieron los hermanos para preparar la fiesta?",
+            "options": [
+              "Cocinaron la cena especial",
+              "Cantaron villancicos en el salón",
+              "Decoraron la casa con luces y un árbol",
+              "Compraron regalos para todos"
+            ],
+            "answer": 2,
+            "explain": "文中說兄弟姊妹「decoraron la casa con luces de colores y un árbol」（用彩色燈飾和一棵樹裝飾了房子）。"
+          },
+          {
+            "q": "¿Qué hizo la abuela durante la noche de Navidad?",
+            "options": [
+              "Preparó los dulces tradicionales",
+              "Abrió los regalos primero",
+              "Bailó en el jardín",
+              "Cantó villancicos antiguos"
+            ],
+            "answer": 3,
+            "explain": "文中提到「Mi abuela cantó villancicos antiguos」（我的奶奶唱了古老的聖誕頌歌）。"
+          },
+          {
+            "q": "¿Qué van a hacer el año que viene?",
+            "options": [
+              "Van a viajar a otro país",
+              "Van a reunirse en casa de los abuelos",
+              "Van a festejar la Navidad solos",
+              "Van a ir a un restaurante famoso"
+            ],
+            "answer": 1,
+            "explain": "文中用「ir a + infinitivo」表示未來計畫：「vamos a reunirnos de nuevo en casa de mis abuelos」（打算再次在爺爺奶奶家團聚）。"
+          },
+          {
+            "q": "Según el texto, ¿por qué son importantes las fiestas?",
+            "options": [
+              "Porque hay muchos regalos caros",
+              "Porque podemos comer platos especiales",
+              "Porque son momentos para estar con las personas que queremos",
+              "Porque no hay que trabajar ni estudiar"
+            ],
+            "answer": 2,
+            "explain": "文章最後一句說明節慶的意義：「Las fiestas son momentos perfectos para estar con las personas que queremos」（節慶是與我們所愛的人相處的完美時光）。"
+          }
+        ]
+      }
+    ],
+    "B1": [],
+    "B2": [],
+    "C1": [],
+    "C2": [
+      {
+        "id": "2026-08-20-real-3",
+        "source": "real",
+        "level_label": "約 B2–C1",
+        "origin_url": "https://www.bbc.com/mundo/articles/c4g41m1ezypo?at_medium=RSS&at_campaign=rss",
+        "origin_name": "BBC Mundo",
+        "title": "Israel confirma que abrió fuego contra el vehículo de Hind Rajab e inicia una investigación penal",
+        "text": "El ejército de Israel ha confirmado por primera vez que abrió fuego contra un vehículo en el que viajaban Hind Rajab, una niña palestina de 5 años, y seis miembros de su familia en la Ciudad de Gaza. Hind sobrevivió inicialmente al ataque de enero de 2024, en el que murieron varios familiares, pero su cuerpo fue recuperado días después junto con el de sus parientes.\n\nTras el ataque, Hind logró responder a una llamada telefónica de la Sociedad de la Media Luna Roja Palestina que se prolongó durante horas. Una ambulancia enviada para rescatarla —en una operación coordinada con el ejército israelí— fue atacada con fuego de artillería, causando la muerte de dos paramédicos.\n\nLas Fuerzas de Defensa de Israel (FDI) informaron que, tras una revisión, abrirán una investigación penal por presuntos fallos en la coordinación del desplazamiento de la ambulancia. Inicialmente, las FDI afirmaron que ninguna de sus tropas se encontraba en la zona en el momento del incidente, afirmación que fue pronto cuestionada.\n\nLa muerte de Hind fue condenada internacionalmente tras difundirse una grabación desesperada en la que la niña suplicaba que alguien la rescatara. Su historia inspiró incluso una película nominada al Oscar. La ONU citó su caso en una comisión de investigación en la que acusó a Israel de crímenes de guerra, acusación que el país rechaza.\n\nLas FDI están bajo presión para demostrar que llevan a cabo sus propias investigaciones, con el fin de intentar evitar acciones legales internacionales, especialmente por parte de la Corte Penal Internacional.",
+        "translation": "以色列軍隊首次確認，曾向一輛搭載5歲巴勒斯坦女童欣德·拉賈布及其六名家人的車輛開槍，事發地點位於加薩市。欣德在2024年1月的這場襲擊中最初倖存下來，數名家人在攻擊中身亡，但她的遺體數日後與親屬遺體一同被尋獲。\n\n遭到襲擊後，欣德成功接聽了巴勒斯坦紅新月會的來電，通話持續了數小時。一輛奉命前往救援的救護車——此行動與以色列軍方協調進行——遭到砲火攻擊，造成兩名急救人員死亡。\n\n以色列國防軍（FDI）表示，經過審查後，將就救護車行動協調疑似失誤一事展開刑事調查。軍方最初聲稱，事發當時其部隊不在該地區，但此說法隨即遭到質疑。\n\n欣德之死在一段絕望的錄音廣為流傳後引發國際譴責，錄音中她懇求有人前來救援。她的故事甚至啟發了一部獲奧斯卡提名的電影。聯合國在一項調查委員會中引用了她的案例，並指控以色列犯有戰爭罪，以色列對此予以否認。\n\n以色列國防軍正面臨壓力，需證明其自行展開調查，以期避免遭到國際法律追究，尤其是來自國際刑事法院的行動。",
+        "words": [
+          {
+            "word": "abrir fuego",
+            "pos": "loc. verbal",
+            "zh": "開槍、開火",
+            "example": "Los soldados abrieron fuego contra el convoy sin previo aviso.",
+            "example_zh": "士兵們未事先警告便向車隊開槍。"
+          },
+          {
+            "word": "prolongarse",
+            "pos": "v. prnl.",
+            "zh": "（時間）延長、持續",
+            "example": "La reunión se prolongó durante más de cuatro horas.",
+            "example_zh": "會議持續了超過四個小時。"
+          },
+          {
+            "word": "fuego de artillería",
+            "pos": "loc. nominal",
+            "zh": "砲火、炮擊",
+            "example": "El edificio quedó destruido tras el fuego de artillería.",
+            "example_zh": "建築物在砲火攻擊後被摧毀。"
+          },
+          {
+            "word": "paramédico/a",
+            "pos": "s.",
+            "zh": "急救人員、醫護助理",
+            "example": "Los paramédicos llegaron al lugar del accidente en cuestión de minutos.",
+            "example_zh": "急救人員在幾分鐘內趕到了事故現場。"
+          },
+          {
+            "word": "investigación penal",
+            "pos": "loc. nominal",
+            "zh": "刑事調查",
+            "example": "El fiscal ordenó abrir una investigación penal sobre los hechos.",
+            "example_zh": "檢察官下令就相關事件展開刑事調查。"
+          },
+          {
+            "word": "presunto/a",
+            "pos": "adj.",
+            "zh": "涉嫌的、據稱的",
+            "example": "El presunto autor del crimen fue detenido esta madrugada.",
+            "example_zh": "涉嫌犯案的人今天凌晨被逮捕。"
+          },
+          {
+            "word": "condenar",
+            "pos": "v. tr.",
+            "zh": "譴責；（法律上）定罪",
+            "example": "Varios países condenaron el ataque contra la población civil.",
+            "example_zh": "多個國家譴責了這次針對平民的攻擊。"
+          },
+          {
+            "word": "suplicar",
+            "pos": "v. tr.",
+            "zh": "懇求、哀求",
+            "example": "La víctima suplicó ayuda durante minutos antes de que llegaran los socorristas.",
+            "example_zh": "受害者在救援人員到達前懇求了數分鐘的幫助。"
+          },
+          {
+            "word": "crimen de guerra",
+            "pos": "loc. nominal",
+            "zh": "戰爭罪",
+            "example": "El tribunal internacional investigará los presuntos crímenes de guerra cometidos en la región.",
+            "example_zh": "國際法庭將調查在該地區據稱犯下的戰爭罪。"
+          },
+          {
+            "word": "acción legal",
+            "pos": "loc. nominal",
+            "zh": "法律行動、法律訴訟",
+            "example": "La empresa amenazó con emprender acciones legales contra los responsables.",
+            "example_zh": "該公司威脅要對相關責任人採取法律行動。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Qué edad tenía Hind Rajab en el momento del ataque?",
+            "options": [
+              "3 años",
+              "5 años",
+              "7 años",
+              "10 años"
+            ],
+            "answer": 1,
+            "explain": "文章開頭明確指出欣德·拉賈布當時5歲（「una niña palestina de 5 años」）。"
+          },
+          {
+            "q": "¿Qué le ocurrió a la ambulancia enviada a rescatar a Hind?",
+            "options": [
+              "Llegó a tiempo y rescató a Hind.",
+              "Se averió antes de llegar al lugar.",
+              "Fue atacada con fuego de artillería y murieron dos paramédicos.",
+              "Fue detenida en un control militar israelí."
+            ],
+            "answer": 2,
+            "explain": "文章說明救護車遭到砲火攻擊（「fue atacada con fuego de artillería」），造成兩名急救人員死亡。"
+          },
+          {
+            "q": "¿Cuál fue la postura inicial de las FDI sobre el incidente?",
+            "options": [
+              "Admitieron su responsabilidad desde el principio.",
+              "Afirmaron que ninguna de sus tropas estaba en la zona en ese momento.",
+              "Declararon que la ambulancia fue atacada por error.",
+              "Se negaron a hacer ningún comentario público."
+            ],
+            "answer": 1,
+            "explain": "文章指出，以色列國防軍最初聲稱事發時其部隊不在該地區（「ninguna de sus tropas se encontraba en la zona en el momento del incidente」）。"
+          },
+          {
+            "q": "¿Por qué están bajo presión las FDI para llevar a cabo investigaciones propias?",
+            "options": [
+              "Para recibir apoyo financiero internacional.",
+              "Para mejorar la imagen del ejército ante la población israelí.",
+              "Para intentar evitar acciones legales internacionales, especialmente de la Corte Penal Internacional.",
+              "Para cumplir con una resolución del Consejo de Seguridad de la ONU."
+            ],
+            "answer": 2,
+            "explain": "文章明確說明，以色列國防軍面臨壓力是為了「intentar evitar acciones legales internacionales, especialmente por parte de la Corte Penal Internacional」（試圖避免國際法律追究，尤其是來自國際刑事法院的行動）。"
+          },
+          {
+            "q": "¿Qué relación tiene la historia de Hind con el mundo del cine?",
+            "options": [
+              "Se grabó un documental sobre su familia que ganó el Oscar.",
+              "Su historia inspiró una película nominada al Oscar.",
+              "Una directora palestina rodó un cortometraje sobre su vida.",
+              "Su historia fue adaptada en una serie de televisión internacional."
+            ],
+            "answer": 1,
+            "explain": "文章提到欣德的故事「inspiró una película nominada al Oscar」（啟發了一部獲奧斯卡提名的電影），並非獲獎。"
+          }
+        ]
+      }
+    ]
+  }
+}

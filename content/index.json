@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-20",
     "2026-08-19",
     "2026-08-18",
     "2026-08-17",
@@ -34,6 +35,35 @@
     "2026-07-18"
   ],
   "days": [
+    {
+      "date": "2026-08-20",
+      "articles": [
+        {
+          "id": "2026-08-20-A1-1",
+          "level": "A1",
+          "title": "En el aula",
+          "source": "ai",
+          "level_label": "A1",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-08-20-A2-1",
+          "level": "A2",
+          "title": "La Navidad en familia",
+          "source": "ai",
+          "level_label": "A2",
+          "origin_name": ""
+        },
+        {
+          "id": "2026-08-20-real-3",
+          "level": "C2",
+          "title": "Israel confirma que abrió fuego contra el vehículo de Hind Rajab e inicia una investigación penal",
+          "source": "real",
+          "level_label": "約 B2–C1",
+          "origin_name": "BBC Mundo"
+        }
+      ]
+    },
     {
       "date": "2026-08-19",
       "articles": [

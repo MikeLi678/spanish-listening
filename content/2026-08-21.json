@@ -1,0 +1,287 @@
+{
+  "date": "2026-08-21",
+  "levels": {
+    "A1": [
+      {
+        "id": "2026-08-21-A1-1",
+        "source": "ai",
+        "level_label": "A1",
+        "title": "Los días de la semana",
+        "text": "La semana tiene siete días. El lunes voy al colegio. El martes tengo educación física. El miércoles estudio mucho. El jueves hablo con mis amigos. El viernes es mi día favorito. El sábado descanso en casa. El domingo salgo con mi familia. Me gustan todos los días. ¡La semana es muy divertida!",
+        "translation": "一週有七天。週一我去學校。週二我有體育課。週三我努力唸書。週四我和朋友聊天。週五是我最喜歡的一天。週六我在家休息。週日我和家人外出。我喜歡每一天。這一週非常有趣！",
+        "words": [
+          {
+            "word": "semana",
+            "pos": "n.f.",
+            "zh": "週、星期",
+            "example": "La semana tiene siete días.",
+            "example_zh": "一週有七天。"
+          },
+          {
+            "word": "lunes",
+            "pos": "n.m.",
+            "zh": "週一",
+            "example": "El lunes voy al colegio.",
+            "example_zh": "週一我去學校。"
+          },
+          {
+            "word": "martes",
+            "pos": "n.m.",
+            "zh": "週二",
+            "example": "El martes tengo educación física.",
+            "example_zh": "週二我有體育課。"
+          },
+          {
+            "word": "miércoles",
+            "pos": "n.m.",
+            "zh": "週三",
+            "example": "El miércoles estudio mucho.",
+            "example_zh": "週三我努力唸書。"
+          },
+          {
+            "word": "jueves",
+            "pos": "n.m.",
+            "zh": "週四",
+            "example": "El jueves hablo con mis amigos.",
+            "example_zh": "週四我和朋友聊天。"
+          },
+          {
+            "word": "viernes",
+            "pos": "n.m.",
+            "zh": "週五",
+            "example": "El viernes es mi día favorito.",
+            "example_zh": "週五是我最喜歡的一天。"
+          },
+          {
+            "word": "sábado",
+            "pos": "n.m.",
+            "zh": "週六",
+            "example": "El sábado descanso en casa.",
+            "example_zh": "週六我在家休息。"
+          },
+          {
+            "word": "domingo",
+            "pos": "n.m.",
+            "zh": "週日",
+            "example": "El domingo salgo con mi familia.",
+            "example_zh": "週日我和家人外出。"
+          },
+          {
+            "word": "favorito/a",
+            "pos": "adj.",
+            "zh": "最喜歡的",
+            "example": "El viernes es mi día favorito.",
+            "example_zh": "週五是我最喜歡的一天。"
+          },
+          {
+            "word": "divertido/a",
+            "pos": "adj.",
+            "zh": "有趣的、好玩的",
+            "example": "¡La semana es muy divertida!",
+            "example_zh": "這一週非常有趣！"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Cuántos días tiene la semana?",
+            "options": [
+              "Cinco días.",
+              "Seis días.",
+              "Siete días.",
+              "Ocho días."
+            ],
+            "answer": 2,
+            "explain": "短文第一句明確說明「La semana tiene siete días」，一週有七天。"
+          },
+          {
+            "q": "¿Qué hace el miércoles?",
+            "options": [
+              "Descansa en casa.",
+              "Habla con sus amigos.",
+              "Va al colegio.",
+              "Estudia mucho."
+            ],
+            "answer": 3,
+            "explain": "短文提到「El miércoles estudio mucho」，週三努力唸書。"
+          },
+          {
+            "q": "¿Cuál es su día favorito?",
+            "options": [
+              "El lunes.",
+              "El jueves.",
+              "El viernes.",
+              "El sábado."
+            ],
+            "answer": 2,
+            "explain": "短文說「El viernes es mi día favorito」，週五是最喜歡的一天。"
+          },
+          {
+            "q": "¿Qué hace el domingo?",
+            "options": [
+              "Estudia mucho.",
+              "Tiene educación física.",
+              "Sale con su familia.",
+              "Descansa en casa."
+            ],
+            "answer": 2,
+            "explain": "短文提到「El domingo salgo con mi familia」，週日和家人外出。"
+          },
+          {
+            "q": "¿Cómo es la semana para el autor?",
+            "options": [
+              "Muy aburrida.",
+              "Muy divertida.",
+              "Muy difícil.",
+              "Muy corta."
+            ],
+            "answer": 1,
+            "explain": "短文最後說「¡La semana es muy divertida!」，這一週非常有趣。"
+          }
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "2026-08-21-A2-1",
+        "source": "ai",
+        "level_label": "A2",
+        "title": "Una tarde de compras",
+        "text": "El sábado pasado, fui a una boutique cerca de mi casa porque necesitaba ropa nueva para una boda. Primero, busqué una blusa elegante y también miré varios pantalones. La dependienta fue muy atenta y me ayudó a elegir una talla adecuada. Al final, probé tres prendas distintas y escogí una falda azul marino con un cinturón bonito. El precio era razonable, así que pagué sin dudar. Esta semana, voy a combinar la falda con mis zapatos blancos y voy a estrenar el conjunto en la ceremonia. ¡Estoy muy contenta con mi compra!",
+        "translation": "上個星期六，我去了一家離我家很近的精品店，因為我需要一件參加婚禮的新衣服。首先，我找了一件優雅的上衣，也看了幾條褲子。店員非常親切，幫我挑選了合適的尺碼。最後，我試了三件不同的衣物，選了一條海軍藍的裙子搭配一條漂亮的腰帶。價格很合理，所以我毫不猶豫地付款了。這個星期，我打算把這條裙子搭配我的白色鞋子，並在典禮上初次穿上這套搭配。我對這次購物非常滿意！",
+        "words": [
+          {
+            "word": "la boutique",
+            "pos": "n.",
+            "zh": "精品店；時裝店",
+            "example": "Hay una boutique nueva en el centro de la ciudad.",
+            "example_zh": "市中心有一家新的精品店。"
+          },
+          {
+            "word": "la blusa",
+            "pos": "n.",
+            "zh": "女式上衣；女衫",
+            "example": "Compré una blusa de color rosa en la tienda.",
+            "example_zh": "我在店裡買了一件粉紅色的女式上衣。"
+          },
+          {
+            "word": "la dependienta",
+            "pos": "n.",
+            "zh": "（女）店員；售貨員",
+            "example": "La dependienta me recomendó una chaqueta muy bonita.",
+            "example_zh": "女店員向我推薦了一件很漂亮的夾克。"
+          },
+          {
+            "word": "la talla",
+            "pos": "n.",
+            "zh": "（衣服的）尺碼；尺寸",
+            "example": "¿Qué talla usas, la pequeña o la mediana?",
+            "example_zh": "你穿什麼尺碼，小號還是中號？"
+          },
+          {
+            "word": "la prenda",
+            "pos": "n.",
+            "zh": "衣物；服裝單品",
+            "example": "Esta prenda es perfecta para el invierno.",
+            "example_zh": "這件衣物非常適合冬天穿。"
+          },
+          {
+            "word": "la falda",
+            "pos": "n.",
+            "zh": "裙子",
+            "example": "Ella lleva una falda larga de color rojo.",
+            "example_zh": "她穿著一條紅色長裙。"
+          },
+          {
+            "word": "el cinturón",
+            "pos": "n.",
+            "zh": "腰帶；皮帶",
+            "example": "Necesito un cinturón para estos pantalones.",
+            "example_zh": "我需要一條腰帶來搭配這條褲子。"
+          },
+          {
+            "word": "razonable",
+            "pos": "adj.",
+            "zh": "合理的；公道的",
+            "example": "El precio de esta camisa es muy razonable.",
+            "example_zh": "這件襯衫的價格非常合理。"
+          },
+          {
+            "word": "combinar",
+            "pos": "v.",
+            "zh": "搭配；組合",
+            "example": "Me gusta combinar colores diferentes en mi ropa.",
+            "example_zh": "我喜歡把不同顏色的衣服搭配在一起。"
+          },
+          {
+            "word": "estrenar",
+            "pos": "v.",
+            "zh": "初次使用；第一次穿（戴）",
+            "example": "Voy a estrenar mis zapatos nuevos mañana.",
+            "example_zh": "我明天打算第一次穿我的新鞋。"
+          }
+        ],
+        "quiz": [
+          {
+            "q": "¿Adónde fue la persona narradora el sábado pasado?",
+            "options": [
+              "A un supermercado grande",
+              "A una boutique cerca de su casa",
+              "A un mercado al aire libre",
+              "A una zapatería del centro"
+            ],
+            "answer": 1,
+            "explain": "文章開頭明確說明「fui a una boutique cerca de mi casa」，所以答案是靠近她家的精品店。"
+          },
+          {
+            "q": "¿Por qué necesitaba ropa nueva la narradora?",
+            "options": [
+              "Porque iba a un concierto",
+              "Porque tenía una entrevista de trabajo",
+              "Porque necesitaba ropa para una boda",
+              "Porque quería hacer deporte"
+            ],
+            "answer": 2,
+            "explain": "文中寫道「necesitaba ropa nueva para una boda」，她需要婚禮穿的衣服。"
+          },
+          {
+            "q": "¿Qué compró al final la narradora?",
+            "options": [
+              "Una blusa elegante y unos pantalones",
+              "Una falda azul marino con un cinturón",
+              "Un vestido largo de color blanco",
+              "Una chaqueta y unos zapatos"
+            ],
+            "answer": 1,
+            "explain": "文中說她最後「escogí una falda azul marino con un cinturón bonito」，選了一條海軍藍裙子搭配腰帶。"
+          },
+          {
+            "q": "¿Cómo era el precio de la falda?",
+            "options": [
+              "Era muy caro",
+              "Era gratuito",
+              "Era razonable",
+              "Era demasiado barato"
+            ],
+            "answer": 2,
+            "explain": "文章中寫「El precio era razonable」，價格是合理的。"
+          },
+          {
+            "q": "¿Qué va a hacer la narradora esta semana?",
+            "options": [
+              "Va a devolver la falda a la tienda",
+              "Va a comprar más ropa en otra boutique",
+              "Va a combinar la falda con sus zapatos blancos y estrenarla",
+              "Va a regalar la falda a una amiga"
+            ],
+            "answer": 2,
+            "explain": "文末使用 Futuro próximo（ir a + infinitivo）說明「voy a combinar la falda con mis zapatos blancos y voy a estrenar el conjunto」，她打算搭配白鞋初次穿上這套衣服。"
+          }
+        ]
+      }
+    ],
+    "B1": [],
+    "B2": [],
+    "C1": [],
+    "C2": []
+  }
+}
